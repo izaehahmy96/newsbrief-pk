@@ -101,7 +101,9 @@
       src.appendChild(el("b", null, label));
     }
     foot.appendChild(src);
-    foot.appendChild(el("span", "when", timeAgo(s.published) + " · " + readSeconds(s.summary) + " sec read"));
+    var rs = readSeconds(s.summary);
+    var readTxt = rs >= 90 ? Math.round(rs / 60) + " min read" : rs + " sec read";
+    foot.appendChild(el("span", "when", timeAgo(s.published) + " · " + readTxt));
     inner.appendChild(foot);
 
     card.appendChild(inner);
@@ -126,9 +128,6 @@
     list.forEach(function (s) { frag.appendChild(buildCard(s)); });
     feedEl.appendChild(frag);
     feedEl.scrollTop = 0;
-    // one small swipe hint on the first card; it scrolls away with the card
-    var firstPic = feedEl.querySelector(".pic");
-    if (firstPic && list.length > 1) firstPic.appendChild(el("span", "hint", "Swipe up ↑"));
   }
 
   function renderTabs() {
