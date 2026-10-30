@@ -1,15 +1,17 @@
 #!/usr/bin/env python3
 """
-Newsbrief PK - news collector (version 2).
+Newsbrief PK - news collector (version 3, works with a FREE Gemini key).
 
 1. Reads RSS feeds from Pakistani news outlets.
-2. Asks Claude to write a NEW headline and a ~60 word summary in its own words.
+2. Asks an AI model to write a NEW headline and a ~60 word summary in its own
+   words (several stories per request, to stay inside free limits).
 3. Saves everything to news.json for the reader page.
 Cards show only "Source: <outlet>". No link and no copied text.
 
-Needs the secret ANTHROPIC_API_KEY (set in GitHub: Settings > Secrets > Actions).
-Without a key the script still runs but can only shorten the outlet's own text,
-so add the key before you share the app with anyone.
+Keys (set in GitHub: Settings > Secrets and variables > Actions):
+  GEMINI_API_KEY     free key from aistudio.google.com   (used first)
+  ANTHROPIC_API_KEY  optional paid alternative
+With no key the script changes nothing.
 """
 
 import hashlib
@@ -18,6 +20,7 @@ import json
 import os
 import re
 import sys
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timezone
@@ -55,18 +58,26 @@ FEEDS = [
 
 MAX_WORDS = 60            # target summary length
 MAX_PER_FEED = 12         # newest stories read from each feed
-MAX_NEW_PER_RUN = 60      # stories rewritten per run (keeps cost small)
+BATCH_SIZE = 8            # stories rewritten per AI request
+MAX_NEW_PER_RUN = 24      # stories rewritten per run (the rest wait for next run)
 KEEP_TOTAL = 300          # stories kept in news.json
 OUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news.json")
-USER_AGENT = "NewsbriefPK/0.2 (news aggregator)"
+USER_AGENT = "NewsbriefPK/0.3 (news aggregator)"
+
+GEMINI_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "").strip() or "gemini-3.5-flash-lite"
+CLAUDE_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
 CLAUDE_MODEL = "claude-haiku-5-5"
-API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
 
 NS = {
     "media": "http://search.yahoo.com/mrss/",
     "content": "http://purl.org/rss/1.0/modules/content/",
     "dc": "http://purl.org/dc/elements/1.1/",
 }
+
+
+class RateLimited(Exception):
+    """The AI service said we used up the free allowance for now."""
 
 
 # ---------------------------------------------------------------------------
@@ -81,88 +92,93 @@ def clean_text(raw):
     return re.sub(r"\s+", " ", text).strip()
 
 
-def split_sentences(text):
-    parts = re.split(r"(?<=[.!?؟۔])\s+", text)
-    return [p.strip() for p in parts if p.strip()]
-
-
-def shorten(text, max_words=MAX_WORDS):
-    """Fallback only (used when there is no API key)."""
-    words_total = text.split()
-    if len(words_total) <= max_words:
-        return text
-    out, count = [], 0
-    for sentence in split_sentences(text):
-        n = len(sentence.split())
-        if count + n > max_words:
-            if not out:
-                return " ".join(sentence.split()[:max_words]).rstrip(",;:") + "…"
-            break
-        out.append(sentence)
-        count += n
-    return " ".join(out) if out else " ".join(words_total[:max_words]) + "…"
-
-
 # ---------------------------------------------------------------------------
-# Claude rewrite
+# AI rewrite
 # ---------------------------------------------------------------------------
-def parse_rewrite(text):
-    """Pull {"headline", "summary"} out of the model reply. None if unusable."""
-    if not text:
-        return None
-    m = re.search(r"\{.*\}", text, flags=re.S)
-    if not m:
-        return None
+def post_json(url, payload, headers):
+    req = urllib.request.Request(url, data=json.dumps(payload).encode(), headers=headers)
     try:
-        data = json.loads(m.group(0))
+        with urllib.request.urlopen(req, timeout=90) as r:
+            return json.load(r)
+    except urllib.error.HTTPError as e:
+        if e.code == 429:
+            raise RateLimited(str(e))
+        detail = ""
+        try:
+            detail = e.read().decode()[:300]
+        except Exception:  # noqa: BLE001
+            pass
+        raise RuntimeError(f"HTTP {e.code} {detail}")
+
+
+def call_model(prompt):
+    """Send one prompt to the available AI service and return its text reply."""
+    if GEMINI_KEY:
+        data = post_json(
+            f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent",
+            {"contents": [{"parts": [{"text": prompt}]}]},
+            {"x-goog-api-key": GEMINI_KEY, "Content-Type": "application/json"},
+        )
+        return data["candidates"][0]["content"]["parts"][0]["text"]
+    data = post_json(
+        "https://api.anthropic.com/v1/messages",
+        {"model": CLAUDE_MODEL, "max_tokens": 4000,
+         "messages": [{"role": "user", "content": prompt}]},
+        {"x-api-key": CLAUDE_KEY, "anthropic-version": "2023-06-01",
+         "content-type": "application/json"},
+    )
+    return data["content"][0]["text"]
+
+
+def parse_batch(text, count):
+    """Turn the model reply into {number: (headline, summary)}. Bad items are left out."""
+    if not text:
+        return {}
+    m = re.search(r"\[.*\]", text, flags=re.S)
+    if not m:
+        return {}
+    try:
+        rows = json.loads(m.group(0))
     except ValueError:
-        return None
-    headline = str(data.get("headline", "")).strip()
-    summary = str(data.get("summary", "")).strip()
-    if not headline or not summary:
-        return None
-    if len(summary.split()) > MAX_WORDS + 20:   # far too long: reject
-        return None
-    return headline, summary
+        return {}
+    out = {}
+    for row in rows if isinstance(rows, list) else []:
+        try:
+            n = int(row.get("n"))
+            headline = str(row.get("headline", "")).strip()
+            summary = str(row.get("summary", "")).strip()
+        except (AttributeError, TypeError, ValueError):
+            continue
+        if not (1 <= n <= count) or not headline or not summary:
+            continue
+        if len(summary.split()) > MAX_WORDS + 20:
+            continue
+        out[n] = (headline, summary)
+    return out
 
 
-def claude_rewrite(title, body, lang):
-    """Ask Claude for a new headline + summary. Returns (headline, summary) or None."""
+def rewrite_batch(stories, lang):
+    """Rewrite a list of same-language stories. Returns {index_in_list: (headline, summary)}."""
     language = "Urdu" if lang == "ur" else "English"
+    items = "\n\n".join(
+        f"[{i}] HEADLINE: {s['title']}\nTEXT: {(s['body'] or s['title'])[:1200]}"
+        for i, s in enumerate(stories, 1)
+    )
     prompt = (
-        f"You are a news editor. Write an original news brief in {language} from the "
-        "source material below.\n"
-        "Rules:\n"
+        f"You are a news editor. For each numbered source story below, write an original "
+        f"news brief in {language}.\n"
+        "Rules for every story:\n"
         "- Write a NEW headline of at most 12 words, in your own words.\n"
         f"- Write a summary of at most {MAX_WORDS} words, in your own words. "
         "Do not copy phrases or sentences from the source.\n"
         "- Use only facts stated in the source. Do not add facts, guesses or opinions. "
         "If the source is thin, write a shorter summary.\n"
         "- Neutral tone.\n"
-        'Reply with JSON only, exactly like: {"headline": "...", "summary": "..."}\n\n'
-        f"SOURCE HEADLINE: {title}\n\nSOURCE TEXT: {body[:3000]}"
+        'Reply with a JSON array only, one object per story, exactly like: '
+        '[{"n": 1, "headline": "...", "summary": "..."}, {"n": 2, ...}]\n\n'
+        f"{items}"
     )
-    payload = json.dumps({
-        "model": CLAUDE_MODEL,
-        "max_tokens": 500,
-        "messages": [{"role": "user", "content": prompt}],
-    }).encode()
-    req = urllib.request.Request(
-        "https://api.anthropic.com/v1/messages",
-        data=payload,
-        headers={
-            "x-api-key": API_KEY,
-            "anthropic-version": "2023-06-01",
-            "content-type": "application/json",
-        },
-    )
-    try:
-        with urllib.request.urlopen(req, timeout=60) as r:
-            data = json.load(r)
-        return parse_rewrite(data["content"][0]["text"])
-    except Exception as e:  # noqa: BLE001
-        print(f"  ! rewrite failed: {e}", file=sys.stderr)
-        return None
+    return parse_batch(call_model(prompt), len(stories))
 
 
 # ---------------------------------------------------------------------------
@@ -247,13 +263,13 @@ def load_existing():
             stories = json.load(f).get("stories", [])
     except (OSError, ValueError):
         return {}
-    # keep only stories Claude rewrote; older copied/placeholder ones are dropped
+    # keep only stories the AI rewrote; older copied/placeholder ones are dropped
     return {s["id"]: s for s in stories if s.get("rewritten")}
 
 
 def main():
-    if not API_KEY:
-        print("No ANTHROPIC_API_KEY set, so nothing was changed. Add the key under "
+    if not (GEMINI_KEY or CLAUDE_KEY):
+        print("No API key set, so nothing was changed. Add GEMINI_API_KEY under "
               "Settings > Secrets and variables > Actions, then run again.")
         return 0
 
@@ -271,35 +287,45 @@ def main():
             fresh.setdefault(s["id"], s)
 
     merged = dict(existing)
-    new_ids = [sid for sid in fresh if sid not in merged]
-    new_ids.sort(key=lambda sid: fresh[sid]["published"], reverse=True)   # newest first
+    todo = [fresh[sid] for sid in fresh if sid not in merged]
+    todo.sort(key=lambda s: s["published"], reverse=True)          # newest first
+    todo = todo[:MAX_NEW_PER_RUN]
+
     done = 0
-    for sid in new_ids:
-        s = fresh[sid]
-        if done >= MAX_NEW_PER_RUN:
-            break                # the rest are picked up on the next run
-        result = claude_rewrite(s["title"], s["body"] or s["title"], s["lang"])
-        if not result:
-            continue             # try again next run; never publish copied text
-        headline, summary = result
-        merged[sid] = {
-            "rewritten": True,
-            "id": sid,
-            "title": headline,
-            "summary": summary,
-            "url": "",
-            "image": s["image"],
-            "published": s["published"],
-            "source": source_label(s["source"], s["lang"]),
-            "lang": s["lang"],
-            "category": s["category"],
-        }
-        done += 1
+    try:
+        for lang in ("en", "ur"):
+            group = [s for s in todo if s["lang"] == lang]
+            for i in range(0, len(group), BATCH_SIZE):
+                batch = group[i:i + BATCH_SIZE]
+                try:
+                    results = rewrite_batch(batch, lang)
+                except RateLimited:
+                    raise
+                except Exception as e:  # noqa: BLE001
+                    print(f"  ! batch failed, will retry next run: {e}", file=sys.stderr)
+                    continue
+                for n, (headline, summary) in results.items():
+                    s = batch[n - 1]
+                    merged[s["id"]] = {
+                        "id": s["id"],
+                        "rewritten": True,
+                        "title": headline,
+                        "summary": summary,
+                        "url": "",
+                        "image": s["image"],
+                        "published": s["published"],
+                        "source": source_label(s["source"], s["lang"]),
+                        "lang": s["lang"],
+                        "category": s["category"],
+                    }
+                    done += 1
+    except RateLimited:
+        print("Free allowance used up for now. The rest will be done on the next run.")
 
     stories = sorted(merged.values(), key=lambda s: s["published"], reverse=True)[:KEEP_TOTAL]
     if not stories:
-        print("No stories collected and none saved; leaving news.json untouched.", file=sys.stderr)
-        return 1
+        print("No stories written yet; leaving news.json untouched.")
+        return 0
     with open(OUT_FILE, "w", encoding="utf-8") as f:
         json.dump({"updated": datetime.now(timezone.utc).isoformat(), "stories": stories},
                   f, ensure_ascii=False, indent=1)
