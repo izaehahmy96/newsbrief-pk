@@ -1,0 +1,23 @@
+name: Unpack zip
+on:
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  unpack:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Unpack newsbrief-pk.zip
+        run: |
+          unzip -q newsbrief-pk.zip -d _tmp
+          rsync -a --exclude='.github' _tmp/newsbrief-pk/ ./
+          rm -rf _tmp newsbrief-pk.zip
+          ls -la
+      - name: Save files
+        run: |
+          git config user.name "newsbrief-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git commit -m "Unpack app files"
+          git push
