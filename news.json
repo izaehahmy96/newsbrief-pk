@@ -1,0 +1,49 @@
+{
+ "updated": "2026-10-30T09:51:48.424738+00:00",
+ "stories": [
+  {
+   "id": "sample0",
+   "title": "Placeholder story: this is where a Pakistan headline appears",
+   "summary": "This is a placeholder card so you can see the layout. Once the collector runs, real stories from Dawn, The Express Tribune, Geo and others replace these, each shortened to about sixty words with a link back to the original.",
+   "url": "https://example.com",
+   "image": null,
+   "published": "2026-10-30T09:51:48.424738+00:00",
+   "source": "Sample",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "sample1",
+   "title": "Placeholder story: business headline goes here",
+   "summary": "Business stories appear under the Business tab. Each card shows the source name and time, plus a button that opens the full story on the outlet's own website.",
+   "url": "https://example.com",
+   "image": null,
+   "published": "2026-10-30T09:41:48.424738+00:00",
+   "source": "Sample",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "sample2",
+   "title": "Placeholder story: sports headline goes here",
+   "summary": "Swipe up to move to the next story. Use the category bar to switch topics and the language switch to show only English or only Urdu.",
+   "url": "https://example.com",
+   "image": null,
+   "published": "2026-10-30T09:31:48.424738+00:00",
+   "source": "Sample",
+   "lang": "en",
+   "category": "sports"
+  },
+  {
+   "id": "sample3",
+   "title": "نمونہ خبر: یہاں اردو سرخی ظاہر ہوگی",
+   "summary": "یہ صرف ترتیب دکھانے کے لیے ایک نمونہ کارڈ ہے۔ جب خبریں جمع کرنے والا اسکرپٹ چلے گا تو یہاں بی بی سی اردو اور دیگر اداروں کی اصل خبریں مختصر شکل میں نظر آئیں گی۔",
+   "url": "https://example.com",
+   "image": null,
+   "published": "2026-10-30T09:21:48.424738+00:00",
+   "source": "Sample",
+   "lang": "ur",
+   "category": "pakistan"
+  }
+ ]
+}
