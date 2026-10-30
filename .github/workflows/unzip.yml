@@ -1,6 +1,9 @@
-name: Unpack zip
+name: Unpack app files
 on:
-  workflow_dispatch: {}
+  workflow_dispatch:
+  push:
+    paths:
+      - '*.zip'
 permissions:
   contents: write
 jobs:
@@ -8,16 +11,22 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - name: Unpack newsbrief-pk.zip
+      - name: Unpack any zip in the main folder
         run: |
-          unzip -q newsbrief-pk.zip -d _tmp
-          rsync -a --exclude='.github' _tmp/newsbrief-pk/ ./
-          rm -rf _tmp newsbrief-pk.zip
-          ls -la
-      - name: Save files
+          set -e
+          for z in *.zip; do
+            [ -f "$z" ] || continue
+            rm -rf _tmp && mkdir _tmp
+            unzip -q "$z" -d _tmp
+            top=$(ls _tmp | head -n1)
+            rsync -a --exclude='.github' "_tmp/$top/" ./
+            rm -f "$z"
+          done
+          rm -rf _tmp
+      - name: Save
         run: |
-          git config user.name "newsbrief-bot"
-          git config user.email "bot@users.noreply.github.com"
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
           git add -A
-          git commit -m "Unpack app files"
+          git diff --cached --quiet || git commit -m "Unpack app files"
           git push
