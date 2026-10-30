@@ -1,12 +1,12 @@
 {
-  "name": "Newsbrief PK",
-  "short_name": "Newsbrief",
-  "description": "Pakistan's news in 60 words. English and Urdu.",
+  "name": "News in a Minute",
+  "short_name": "Minute",
+  "description": "The world. In 60 seconds. Concise news from Pakistan and around the world, in English and Urdu.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#0b1211",
-  "theme_color": "#0f766e",
+  "background_color": "#F5F4F0",
+  "theme_color": "#171717",
   "icons": [
     { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
     { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },

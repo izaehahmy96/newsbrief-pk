@@ -3,33 +3,39 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Newsbrief PK</title>
-  <meta name="description" content="Pakistan's news in 60 words. English and Urdu.">
-  <meta name="theme-color" content="#0f766e">
+  <title>News in a Minute. The world. In 60 seconds.</title>
+  <meta name="description" content="Concise news from Pakistan and the world, in English and Urdu. The world. In 60 seconds.">
+  <meta name="theme-color" content="#171717">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="News in a Minute">
   <link rel="manifest" href="manifest.json">
   <link rel="icon" href="icon.svg" type="image/svg+xml">
   <link rel="apple-touch-icon" href="icon-192.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Noto+Nastaliq+Urdu:wght@400;600&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Manrope:wght@500;700;800&family=Noto+Nastaliq+Urdu:wght@400;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header class="top">
-    <div class="brand">Newsbrief <span>PK</span></div>
-    <div class="langs" id="langs" role="group" aria-label="Language">
-      <button data-lang="all" class="on">All</button>
-      <button data-lang="en">English</button>
-      <button data-lang="ur" class="ur">اردو</button>
+    <div class="inner bar">
+      <div class="logo" aria-label="News in a Minute">
+        <span class="l1">NEWS IN A</span>
+        <span class="l2">MINUTE<i>.</i></span>
+      </div>
+      <div class="langs" id="langs" role="group" aria-label="Language">
+        <button type="button" data-lang="all" class="on">All</button>
+        <button type="button" data-lang="en">English</button>
+        <button type="button" data-lang="ur" class="ur">اردو</button>
+      </div>
     </div>
+    <nav class="inner tabs" id="tabs" aria-label="Sections"></nav>
   </header>
-  <nav class="tabs" id="tabs" aria-label="Categories"></nav>
 
   <main id="feed" class="feed" tabindex="0" aria-live="polite">
-    <div class="state">Loading news…</div>
+    <div class="state">Loading the latest…</div>
   </main>
 
-  <div class="hint" id="hint">Swipe up for next ↑</div>
   <script src="app.js"></script>
 </body>
 </html>
