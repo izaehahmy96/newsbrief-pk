@@ -1,16 +1,15 @@
 #!/usr/bin/env python3
 """
-Newsbrief PK - news collector.
+Newsbrief PK - news collector (version 2).
 
-Reads RSS feeds from Pakistani news outlets, shortens each story to about
-60 words, and writes everything to news.json for the reader page.
+1. Reads RSS feeds from Pakistani news outlets.
+2. Asks Claude to write a NEW headline and a ~60 word summary in its own words.
+3. Saves everything to news.json for the reader page.
+Cards show only "Source: <outlet>". No link and no copied text.
 
-No installs needed (standard library only).
-
-Run:            python3 pipeline.py
-Better summaries: set ANTHROPIC_API_KEY and the script will use Claude to
-                  write the 60-word summaries (English and Urdu). Without a
-                  key it falls back to a simple "first sentences" cutter.
+Needs the secret ANTHROPIC_API_KEY (set in GitHub: Settings > Secrets > Actions).
+Without a key the script still runs but can only shorten the outlet's own text,
+so add the key before you share the app with anyone.
 """
 
 import hashlib
@@ -25,10 +24,9 @@ from datetime import datetime, timezone
 from email.utils import parsedate_to_datetime
 
 # ---------------------------------------------------------------------------
-# FEEDS - edit this list freely. Check each URL opens in a browser; outlets
-# sometimes change their feed addresses. A broken feed is skipped, not fatal.
-# lang: "en" or "ur"      category: pakistan, world, business, sports,
-#                                    entertainment, fashion
+# FEEDS - add or remove lines freely. A feed that fails is skipped (you will
+# see SKIP in the run log). lang: "en" or "ur".
+# category: pakistan, world, business, sports, entertainment, fashion
 # ---------------------------------------------------------------------------
 FEEDS = [
     # English
@@ -36,37 +34,45 @@ FEEDS = [
     {"source": "Dawn", "url": "https://www.dawn.com/feeds/business", "lang": "en", "category": "business"},
     {"source": "Dawn", "url": "https://www.dawn.com/feeds/sport", "lang": "en", "category": "sports"},
     {"source": "Dawn", "url": "https://www.dawn.com/feeds/world", "lang": "en", "category": "world"},
+    {"source": "Dawn", "url": "https://www.dawn.com/feeds/culture", "lang": "en", "category": "entertainment"},
     {"source": "The Express Tribune", "url": "https://tribune.com.pk/feed/home", "lang": "en", "category": "pakistan"},
     {"source": "The Express Tribune", "url": "https://tribune.com.pk/feed/business", "lang": "en", "category": "business"},
     {"source": "The Express Tribune", "url": "https://tribune.com.pk/feed/sports", "lang": "en", "category": "sports"},
     {"source": "The Express Tribune", "url": "https://tribune.com.pk/feed/entertainment", "lang": "en", "category": "entertainment"},
+    {"source": "The Express Tribune", "url": "https://tribune.com.pk/feed/world", "lang": "en", "category": "world"},
+    {"source": "The Express Tribune", "url": "https://tribune.com.pk/feed/life-style", "lang": "en", "category": "fashion"},
     {"source": "Geo News", "url": "https://www.geo.tv/rss/1/1", "lang": "en", "category": "pakistan"},
+    {"source": "The News", "url": "https://www.thenews.com.pk/rss/1/1", "lang": "en", "category": "pakistan"},
+    {"source": "ARY News", "url": "https://arynews.tv/feed/", "lang": "en", "category": "pakistan"},
+    {"source": "Pakistan Today", "url": "https://www.pakistantoday.com.pk/feed/", "lang": "en", "category": "pakistan"},
     {"source": "Business Recorder", "url": "https://www.brecorder.com/feeds/latest-news", "lang": "en", "category": "business"},
     # Urdu
     {"source": "BBC Urdu", "url": "https://feeds.bbci.co.uk/urdu/rss.xml", "lang": "ur", "category": "pakistan"},
+    {"source": "BBC Urdu", "url": "https://feeds.bbci.co.uk/urdu/world/rss.xml", "lang": "ur", "category": "world"},
     {"source": "Express News", "url": "https://www.express.pk/feed/", "lang": "ur", "category": "pakistan"},
+    {"source": "Jang", "url": "https://jang.com.pk/rss/1/1", "lang": "ur", "category": "pakistan"},
 ]
 
 MAX_WORDS = 60            # target summary length
-MAX_PER_FEED = 12         # newest stories taken from each feed
+MAX_PER_FEED = 12         # newest stories read from each feed
+MAX_NEW_PER_RUN = 60      # stories rewritten per run (keeps cost small)
 KEEP_TOTAL = 300          # stories kept in news.json
 OUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news.json")
-USER_AGENT = "NewsbriefPK/0.1 (+news aggregator; links back to sources)"
+USER_AGENT = "NewsbriefPK/0.2 (news aggregator)"
 CLAUDE_MODEL = "claude-haiku-5-5"
+API_KEY = os.environ.get("ANTHROPIC_API_KEY", "").strip()
 
 NS = {
     "media": "http://search.yahoo.com/mrss/",
     "content": "http://purl.org/rss/1.0/modules/content/",
     "dc": "http://purl.org/dc/elements/1.1/",
-    "atom": "http://www.w3.org/2005/Atom",
 }
 
 
 # ---------------------------------------------------------------------------
-# helpers
+# text helpers
 # ---------------------------------------------------------------------------
 def clean_text(raw):
-    """Strip HTML tags/entities and tidy whitespace."""
     if not raw:
         return ""
     text = re.sub(r"<(script|style).*?</\1>", " ", raw, flags=re.S | re.I)
@@ -76,13 +82,12 @@ def clean_text(raw):
 
 
 def split_sentences(text):
-    # handles English full stops and the Urdu full stop (۔)
     parts = re.split(r"(?<=[.!?؟۔])\s+", text)
     return [p.strip() for p in parts if p.strip()]
 
 
 def shorten(text, max_words=MAX_WORDS):
-    """Fallback summary: take whole sentences up to max_words."""
+    """Fallback only (used when there is no API key)."""
     words_total = text.split()
     if len(words_total) <= max_words:
         return text
@@ -90,7 +95,7 @@ def shorten(text, max_words=MAX_WORDS):
     for sentence in split_sentences(text):
         n = len(sentence.split())
         if count + n > max_words:
-            if not out:  # first sentence alone is too long: hard cut
+            if not out:
                 return " ".join(sentence.split()[:max_words]).rstrip(",;:") + "…"
             break
         out.append(sentence)
@@ -98,64 +103,75 @@ def shorten(text, max_words=MAX_WORDS):
     return " ".join(out) if out else " ".join(words_total[:max_words]) + "…"
 
 
-def claude_summary(title, body, lang):
-    """Ask Claude for a ~60 word summary. Returns None on any failure."""
-    key = os.environ.get("ANTHROPIC_API_KEY")
-    if not key or not body:
+# ---------------------------------------------------------------------------
+# Claude rewrite
+# ---------------------------------------------------------------------------
+def parse_rewrite(text):
+    """Pull {"headline", "summary"} out of the model reply. None if unusable."""
+    if not text:
         return None
+    m = re.search(r"\{.*\}", text, flags=re.S)
+    if not m:
+        return None
+    try:
+        data = json.loads(m.group(0))
+    except ValueError:
+        return None
+    headline = str(data.get("headline", "")).strip()
+    summary = str(data.get("summary", "")).strip()
+    if not headline or not summary:
+        return None
+    if len(summary.split()) > MAX_WORDS + 20:   # far too long: reject
+        return None
+    return headline, summary
+
+
+def claude_rewrite(title, body, lang):
+    """Ask Claude for a new headline + summary. Returns (headline, summary) or None."""
     language = "Urdu" if lang == "ur" else "English"
     prompt = (
-        f"Summarize this news story in {language} in at most {MAX_WORDS} words, "
-        "in your own words, as a neutral news brief. Use only facts stated in "
-        "the text. Reply with the summary only.\n\n"
-        f"Headline: {title}\n\nText: {body[:3000]}"
+        f"You are a news editor. Write an original news brief in {language} from the "
+        "source material below.\n"
+        "Rules:\n"
+        "- Write a NEW headline of at most 12 words, in your own words.\n"
+        f"- Write a summary of at most {MAX_WORDS} words, in your own words. "
+        "Do not copy phrases or sentences from the source.\n"
+        "- Use only facts stated in the source. Do not add facts, guesses or opinions. "
+        "If the source is thin, write a shorter summary.\n"
+        "- Neutral tone.\n"
+        'Reply with JSON only, exactly like: {"headline": "...", "summary": "..."}\n\n'
+        f"SOURCE HEADLINE: {title}\n\nSOURCE TEXT: {body[:3000]}"
     )
     payload = json.dumps({
         "model": CLAUDE_MODEL,
-        "max_tokens": 300,
+        "max_tokens": 500,
         "messages": [{"role": "user", "content": prompt}],
     }).encode()
     req = urllib.request.Request(
         "https://api.anthropic.com/v1/messages",
         data=payload,
         headers={
-            "x-api-key": key,
+            "x-api-key": API_KEY,
             "anthropic-version": "2023-06-01",
             "content-type": "application/json",
         },
     )
     try:
-        with urllib.request.urlopen(req, timeout=40) as r:
+        with urllib.request.urlopen(req, timeout=60) as r:
             data = json.load(r)
-        text = data["content"][0]["text"].strip()
-        return text or None
+        return parse_rewrite(data["content"][0]["text"])
     except Exception as e:  # noqa: BLE001
-        print(f"  ! summary API failed: {e}", file=sys.stderr)
+        print(f"  ! rewrite failed: {e}", file=sys.stderr)
         return None
 
 
+# ---------------------------------------------------------------------------
+# feeds
+# ---------------------------------------------------------------------------
 def fetch(url):
     req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT})
     with urllib.request.urlopen(req, timeout=25) as r:
         return r.read()
-
-
-def find_image(item):
-    for tag in ("media:content", "media:thumbnail"):
-        el = item.find(tag, NS)
-        if el is not None and el.get("url"):
-            return el.get("url")
-    enc = item.find("enclosure")
-    if enc is not None and (enc.get("type", "").startswith("image") or enc.get("url", "").lower().endswith((".jpg", ".jpeg", ".png", ".webp"))):
-        return enc.get("url")
-    # first <img> inside the description / content
-    for tag in ("content:encoded", "description"):
-        el = item.find(tag, NS if ":" in tag else None)
-        if el is not None and el.text:
-            m = re.search(r'<img[^>]+src=["\']([^"\']+)', el.text)
-            if m:
-                return m.group(1)
-    return None
 
 
 def parse_date(item):
@@ -175,26 +191,40 @@ def parse_date(item):
     return datetime.now(timezone.utc)
 
 
+def find_image(item):
+    for tag in ("media:content", "media:thumbnail"):
+        el = item.find(tag, NS)
+        if el is not None and el.get("url"):
+            return el.get("url")
+    enc = item.find("enclosure")
+    if enc is not None and (enc.get("type", "").startswith("image")
+                            or enc.get("url", "").lower().endswith((".jpg", ".jpeg", ".png", ".webp"))):
+        return enc.get("url")
+    for tag in ("content:encoded", "description"):
+        el = item.find(tag, NS if ":" in tag else None)
+        if el is not None and el.text:
+            m = re.search(r'<img[^>]+src=["\']([^"\']+)', el.text)
+            if m:
+                return m.group(1)
+    return None
+
+
 def parse_feed(xml_bytes, feed):
     root = ET.fromstring(xml_bytes)
-    items = root.findall(".//item")
     stories = []
-    for item in items[:MAX_PER_FEED]:
+    for item in root.findall(".//item")[:MAX_PER_FEED]:
         link_el = item.find("link")
         title_el = item.find("title")
         if link_el is None or title_el is None or not (link_el.text or "").strip():
             continue
         link = link_el.text.strip()
-        title = clean_text(title_el.text)
         desc_el = item.find("content:encoded", NS)
         if desc_el is None or not desc_el.text:
             desc_el = item.find("description")
-        body = clean_text(desc_el.text if desc_el is not None else "")
         stories.append({
             "id": hashlib.sha1(link.encode()).hexdigest()[:12],
-            "title": title,
-            "body": body,
-            "url": link,
+            "title": clean_text(title_el.text),
+            "body": clean_text(desc_el.text if desc_el is not None else ""),
             "image": find_image(item),
             "published": parse_date(item).isoformat(),
             "source": feed["source"],
@@ -204,18 +234,29 @@ def parse_feed(xml_bytes, feed):
     return stories
 
 
+def source_label(name, lang):
+    return f"ذریعہ: {name}" if lang == "ur" else f"Source: {name}"
+
+
 # ---------------------------------------------------------------------------
 # main
 # ---------------------------------------------------------------------------
 def load_existing():
     try:
         with open(OUT_FILE, encoding="utf-8") as f:
-            return {s["id"]: s for s in json.load(f).get("stories", [])}
-    except (OSError, ValueError, KeyError):
+            stories = json.load(f).get("stories", [])
+    except (OSError, ValueError):
         return {}
+    # keep only stories Claude rewrote; older copied/placeholder ones are dropped
+    return {s["id"]: s for s in stories if s.get("rewritten")}
 
 
 def main():
+    if not API_KEY:
+        print("No ANTHROPIC_API_KEY set, so nothing was changed. Add the key under "
+              "Settings > Secrets and variables > Actions, then run again.")
+        return 0
+
     existing = load_existing()
     fresh = {}
     for feed in FEEDS:
@@ -230,25 +271,30 @@ def main():
             fresh.setdefault(s["id"], s)
 
     merged = dict(existing)
-    new_count = 0
-    for sid, s in fresh.items():
-        if sid in merged:
-            continue
-        # summarise only stories we have not seen before (saves API cost)
-        text = s["body"] or s["title"]
-        summary = claude_summary(s["title"], text, s["lang"]) or shorten(text)
+    new_ids = [sid for sid in fresh if sid not in merged]
+    new_ids.sort(key=lambda sid: fresh[sid]["published"], reverse=True)   # newest first
+    done = 0
+    for sid in new_ids:
+        s = fresh[sid]
+        if done >= MAX_NEW_PER_RUN:
+            break                # the rest are picked up on the next run
+        result = claude_rewrite(s["title"], s["body"] or s["title"], s["lang"])
+        if not result:
+            continue             # try again next run; never publish copied text
+        headline, summary = result
         merged[sid] = {
+            "rewritten": True,
             "id": sid,
-            "title": s["title"],
+            "title": headline,
             "summary": summary,
-            "url": s["url"],
+            "url": "",
             "image": s["image"],
             "published": s["published"],
-            "source": s["source"],
+            "source": source_label(s["source"], s["lang"]),
             "lang": s["lang"],
             "category": s["category"],
         }
-        new_count += 1
+        done += 1
 
     stories = sorted(merged.values(), key=lambda s: s["published"], reverse=True)[:KEEP_TOTAL]
     if not stories:
@@ -257,7 +303,7 @@ def main():
     with open(OUT_FILE, "w", encoding="utf-8") as f:
         json.dump({"updated": datetime.now(timezone.utc).isoformat(), "stories": stories},
                   f, ensure_ascii=False, indent=1)
-    print(f"Saved {len(stories)} stories ({new_count} new) to {OUT_FILE}")
+    print(f"Saved {len(stories)} stories ({done} new) to {OUT_FILE}")
     return 0
 
 
