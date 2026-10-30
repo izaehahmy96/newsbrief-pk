@@ -56,10 +56,10 @@ FEEDS = [
     {"source": "Jang", "url": "https://jang.com.pk/rss/1/1", "lang": "ur", "category": "pakistan"},
 ]
 
-MIN_WORDS = 110           # shortest summary we ask for
-MAX_WORDS = 150           # longest summary (about 45 seconds to read)
+MIN_WORDS = 250           # shortest article we ask for
+MAX_WORDS = 350           # longest article (about 1.5 minutes to read)
 MAX_PER_FEED = 12         # newest stories read from each feed
-BATCH_SIZE = 6            # stories rewritten per AI request
+BATCH_SIZE = 4            # stories rewritten per AI request
 MAX_NEW_PER_RUN = 24      # stories rewritten per run (the rest wait for next run)
 KEEP_TOTAL = 300          # stories kept in news.json
 OUT_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), "news.json")
@@ -152,7 +152,7 @@ def parse_batch(text, count):
             continue
         if not (1 <= n <= count) or not headline or not summary:
             continue
-        if len(summary.split()) > MAX_WORDS + 40:
+        if len(summary.split()) > MAX_WORDS + 80:
             continue
         out[n] = (headline, summary)
     return out
@@ -162,7 +162,7 @@ def rewrite_batch(stories, lang):
     """Rewrite a list of same-language stories. Returns {index_in_list: (headline, summary)}."""
     language = "Urdu" if lang == "ur" else "English"
     items = "\n\n".join(
-        f"[{i}] HEADLINE: {s['title']}\nTEXT: {(s['body'] or s['title'])[:3500]}"
+        f"[{i}] HEADLINE: {s['title']}\nTEXT: {(s['body'] or s['title'])[:7000]}"
         for i, s in enumerate(stories, 1)
     )
     prompt = (
@@ -170,10 +170,10 @@ def rewrite_batch(stories, lang):
         f"news brief in {language}.\n"
         "Rules for every story:\n"
         "- Write a NEW headline of at most 12 words, in your own words.\n"
-        f"- Write a summary of {MIN_WORDS} to {MAX_WORDS} words (two short paragraphs separated by a blank line), in your own words. "
+        f"- Write a summary of {MIN_WORDS} to {MAX_WORDS} words (a full news article of four or five short paragraphs, each separated by a blank line), in your own words. "
         "Do not copy phrases or sentences from the source.\n"
         "- Use only facts stated in the source. Do not add facts, guesses or opinions. "
-        "Cover who, what, where and why it matters. Only if the source truly has too little, write fewer words but never invent.\n"
+        "Cover who, what, where and why it matters. Include background, key details, names and figures that appear in the source. Only if the source truly has too little, write fewer words but never invent.\n"
         "- Neutral tone.\n"
         'Reply with a JSON array only, one object per story, exactly like: '
         '[{"n": 1, "headline": "...", "summary": "..."}, {"n": 2, ...}]\n\n'
@@ -201,7 +201,7 @@ def read_article(link, fallback):
     paras = [clean_text(x) for x in re.findall(r"(?is)<p[^>]*>(.*?)</p>", html)]
     paras = [x for x in paras if len(x.split()) >= 8]
     text = " ".join(paras)
-    return text[:3500] if len(text.split()) > len((fallback or "").split()) else fallback
+    return text[:7000] if len(text.split()) > len((fallback or "").split()) else fallback
 
 
 def parse_date(item):
@@ -304,7 +304,7 @@ def main():
     merged = dict(existing)
     # redo older stories that came out too short, if they are still in the feeds
     for sid, old in list(merged.items()):
-        if sid in fresh and len(old.get("summary", "").split()) < 90 and not old.get("v3"):
+        if sid in fresh and len(old.get("summary", "").split()) < 200 and not old.get("v4"):
             del merged[sid]
     todo = [fresh[sid] for sid in fresh if sid not in merged]
     todo.sort(key=lambda s: s["published"], reverse=True)          # newest first
@@ -330,7 +330,7 @@ def main():
                     merged[s["id"]] = {
                         "id": s["id"],
                         "rewritten": True,
-                        "v3": True,
+                        "v4": True,
                         "title": headline,
                         "summary": summary,
                         "url": "",
