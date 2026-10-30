@@ -1,90 +1,46 @@
-/* News in a Minute. Black and warm white foundation, Signal Red for emphasis only. */
-:root {
-  --black: #171717;      /* Midnight Black */
-  --white: #F5F4F0;      /* Warm White */
-  --red: #EF493D;        /* Signal Red */
-  --grey: #E7E7E3;       /* Soft Grey */
-  --char: #333333;       /* Charcoal */
-  --display: "Manrope", "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  --body: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
-  --urdu: "Noto Nastaliq Urdu", "Noto Naskh Arabic", serif;
-}
-* { box-sizing: border-box; margin: 0; }
-html, body { height: 100%; }
-body {
-  display: flex; flex-direction: column; overflow: hidden;
-  background: var(--white); color: var(--black);
-  font-family: var(--body); font-weight: 400;
-}
-button { font: inherit; cursor: pointer; }
-:focus-visible { outline: 3px solid var(--red); outline-offset: 2px; }
+#!/usr/bin/env python3
+"""
+Newsbrief PK - news collector (version 3, works with a FREE Gemini key).
 
-/* ---------- header ---------- */
-.top { flex: none; background: var(--black); color: var(--white); padding-top: env(safe-area-inset-top, 0px); }
-.inner { width: 100%; max-width: 520px; margin: 0 auto;
-  padding-left: max(16px, env(safe-area-inset-left, 0px));
-  padding-right: max(16px, env(safe-area-inset-right, 0px)); }
-.bar { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding-top: 12px; padding-bottom: 8px; }
+1. Reads RSS feeds from Pakistani news outlets.
+2. Asks an AI model to write a NEW headline and a ~60 word summary in its own
+   words (several stories per request, to stay inside free limits).
+3. Saves everything to news.json for the reader page.
+Cards show only "Source: <outlet>". No link and no copied text.
 
-.logo { display: flex; flex-direction: column; font-family: var(--display); font-weight: 800;
-  text-transform: uppercase; line-height: .92; letter-spacing: -0.02em; }
-.logo .l1 { font-size: 13px; color: var(--white); }
-.logo .l2 { font-size: 22px; color: var(--red); }
-.logo .l2 i { font-style: normal; }
+Keys (set in GitHub: Settings > Secrets and variables > Actions):
+  GEMINI_API_KEY     free key from aistudio.google.com   (used first)
+  ANTHROPIC_API_KEY  optional paid alternative
+With no key the script changes nothing.
+"""
 
-.langs { display: flex; gap: 2px; border: 1px solid var(--char); border-radius: 999px; padding: 3px; }
-.langs button { border: 0; background: transparent; color: var(--grey); font-size: 13px; font-weight: 500;
-  padding: 6px 12px; border-radius: 999px; }
-.langs button.ur { font-family: var(--urdu); font-size: 14px; line-height: 1.7; padding-top: 2px; padding-bottom: 2px; }
-.langs button.on { background: var(--red); color: var(--black); font-weight: 600; }
+import hashlib
+import html
+import json
+import os
+import re
+import sys
+import urllib.error
+import urllib.request
+import xml.etree.ElementTree as ET
+from datetime import datetime, timezone
+from email.utils import parsedate_to_datetime
 
-.tabs { display: flex; gap: 22px; overflow-x: auto; scrollbar-width: none; }
-.tabs::-webkit-scrollbar { display: none; }
-.tabs button { flex: none; background: transparent; border: 0; border-bottom: 3px solid transparent;
-  color: var(--grey); opacity: .72; font-family: var(--display); font-weight: 700; font-size: 14px;
-  padding: 8px 0 9px; white-space: nowrap; }
-.tabs button.on { color: var(--white); opacity: 1; border-bottom-color: var(--red); }
-
-/* ---------- feed ---------- */
-.feed { flex: 1; min-height: 0; overflow-y: auto; scroll-snap-type: y mandatory;
-  overscroll-behavior: contain; outline: none; scrollbar-width: none; }
-.feed::-webkit-scrollbar { display: none; }
-
-.card { height: 100%; scroll-snap-align: start; scroll-snap-stop: always;
-  width: 100%; max-width: 520px; margin: 0 auto;
-  padding: 12px max(16px, env(safe-area-inset-left, 0px)) 14px; }
-.card-inner { height: 100%; display: flex; flex-direction: column; background: var(--white);
-  border: 1px solid var(--grey); border-radius: 16px; overflow: hidden; }
-
-.pic { flex: none; height: 28%; background: var(--black); position: relative; overflow: hidden; }
-.pic img { width: 100%; height: 100%; object-fit: cover; display: block; }
-.pic .mark { position: absolute; inset: 0; display: grid; place-items: center;
-  font-family: var(--display); font-weight: 800; font-size: 96px; line-height: 1; letter-spacing: -0.04em; color: var(--char); }
-.pic .mark i { font-style: normal; color: var(--red); }
-.card[dir="rtl"] .pic .mark { direction: ltr; }
-
-.body { flex: 1; min-height: 0; padding: 16px 18px 8px; overflow-y: auto; scrollbar-width: none; display: flex; flex-direction: column; gap: 12px; }
-.meta-top { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
-.cat { display: inline-flex; align-items: center; gap: 7px; font-family: var(--display); font-weight: 800;
-  font-size: 12px; letter-spacing: .09em; text-transform: uppercase; color: var(--black); }
-.cat::before { content: ""; width: 8px; height: 8px; background: var(--red); display: block; }
-.flag { background: var(--red); color: var(--black); font-family: var(--display); font-weight: 800;
-  font-size: 11px; letter-spacing: .08em; text-transform: uppercase; padding: 3px 8px; border-radius: 4px; }
-
-.title { font-family: var(--display); font-weight: 800; font-size: 25px; line-height: 1.16; letter-spacing: -0.025em; color: var(--black); text-wrap: balance; }
-.summary { font-size: 15.5px; line-height: 1.6; font-weight: 400; color: var(--char); white-space: pre-line; }
-
-.foot { direction: ltr; flex: none; display: flex; align-items: center; justify-content: space-between; gap: 12px;
-  padding: 11px 18px 14px; border-top: 1px solid var(--grey); font-size: 12.5px; color: var(--char); }
-.foot .src b { font-weight: 500; color: var(--black); }
-.foot .when { font-weight: 500; white-space: nowrap; }
-
-.card[dir="rtl"] .title { font-family: var(--urdu); font-weight: 600; font-size: 21px; line-height: 2; letter-spacing: 0; }
-.card[dir="rtl"] .summary { font-family: var(--urdu); font-size: 16px; line-height: 2.2; }
-.card[dir="rtl"] .cat, .card[dir="rtl"] .flag { letter-spacing: .04em; }
-
-.state { height: 100%; display: grid; place-items: center; text-align: center; color: var(--char); padding: 24px; line-height: 1.6; }
-
-.hint { position: absolute; right: 12px; bottom: 12px; background: var(--white); color: var(--black);
-  font-size: 12px; font-weight: 500; padding: 6px 12px; border-radius: 999px; pointer-events: none; }
-.card[dir="rtl"] .hint { right: auto; left: 12px; }
+# ---------------------------------------------------------------------------
+# FEEDS - add or remove lines freely. A feed that fails is skipped (you will
+# see SKIP in the run log). lang: "en" or "ur".
+# category: pakistan, world, business, sports, entertainment, fashion
+# ---------------------------------------------------------------------------
+FEEDS = [
+    # English
+    {"source": "Dawn", "url": "https://www.dawn.com/feeds/home", "lang": "en", "category": "pakistan"},
+    {"source": "Dawn", "url": "https://www.dawn.com/feeds/business", "lang": "en", "category": "business"},
+    {"source": "Dawn", "url": "https://www.dawn.com/feeds/sport", "lang": "en", "category": "sports"},
+    {"source": "Dawn", "url": "https://www.dawn.com/feeds/world", "lang": "en", "category": "world"},
+    {"source": "Dawn", "url": "https://www.dawn.com/feeds/culture", "lang": "en", "category": "entertainment"},
+    {"source": "The Express Tribune", "url": "https://tribune.com.pk/feed/home", "lang": "en", "category": "pakistan"},
+    {"source": "The Express Tribune", "url": "https://tribune.com.pk/feed/business", "lang": "en", "category": "business"},
+    {"source": "The Express Tribune", "url": "https://tribune.com.pk/feed/sports", "lang": "en", "category": "sports"},
+    {"source": "The Express Tribune", "url": "https://tribune.com.pk/feed/entertainment", "lang": "en", "category": "entertainment"},
+    {"source": "The Express Tribune", "url": "https://tribune.com.pk/feed/world", "lang": "en", "category": "world"},
+    {"source": "The Express Tribune", "url":
