@@ -40,4 +40,51 @@ button { font: inherit; cursor: pointer; }
 
 .tabs { display: flex; gap: 22px; overflow-x: auto; scrollbar-width: none; }
 .tabs::-webkit-scrollbar { display: none; }
-.tabs button { flex: none;
+.tabs button { flex: none; background: transparent; border: 0; border-bottom: 3px solid transparent;
+  color: var(--grey); opacity: .72; font-family: var(--display); font-weight: 700; font-size: 14px;
+  padding: 8px 0 9px; white-space: nowrap; }
+.tabs button.on { color: var(--white); opacity: 1; border-bottom-color: var(--red); }
+
+/* ---------- feed ---------- */
+.feed { flex: 1; min-height: 0; overflow-y: auto; scroll-snap-type: y mandatory;
+  overscroll-behavior: contain; outline: none; scrollbar-width: none; }
+.feed::-webkit-scrollbar { display: none; }
+
+.card { height: 100%; scroll-snap-align: start; scroll-snap-stop: always;
+  width: 100%; max-width: 520px; margin: 0 auto;
+  padding: 12px max(16px, env(safe-area-inset-left, 0px)) 14px; }
+.card-inner { height: 100%; display: flex; flex-direction: column; background: var(--white);
+  border: 1px solid var(--grey); border-radius: 16px; overflow: hidden; }
+
+.pic { flex: none; height: 28%; background: var(--black); position: relative; overflow: hidden; }
+.pic img { width: 100%; height: 100%; object-fit: cover; display: block; }
+.pic .mark { position: absolute; inset: 0; display: grid; place-items: center;
+  font-family: var(--display); font-weight: 800; font-size: 96px; line-height: 1; letter-spacing: -0.04em; color: var(--char); }
+.pic .mark i { font-style: normal; color: var(--red); }
+.card[dir="rtl"] .pic .mark { direction: ltr; }
+
+.body { flex: 1; min-height: 0; padding: 16px 18px 8px; overflow-y: auto; scrollbar-width: none; display: flex; flex-direction: column; gap: 12px; }
+.meta-top { display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+.cat { display: inline-flex; align-items: center; gap: 7px; font-family: var(--display); font-weight: 800;
+  font-size: 12px; letter-spacing: .09em; text-transform: uppercase; color: var(--black); }
+.cat::before { content: ""; width: 8px; height: 8px; background: var(--red); display: block; }
+.flag { background: var(--red); color: var(--black); font-family: var(--display); font-weight: 800;
+  font-size: 11px; letter-spacing: .08em; text-transform: uppercase; padding: 3px 8px; border-radius: 4px; }
+
+.title { font-family: var(--display); font-weight: 800; font-size: 25px; line-height: 1.16; letter-spacing: -0.025em; color: var(--black); text-wrap: balance; }
+.summary { font-size: 15.5px; line-height: 1.6; font-weight: 400; color: var(--char); white-space: pre-line; }
+
+.foot { direction: ltr; flex: none; display: flex; align-items: center; justify-content: space-between; gap: 12px;
+  padding: 11px 18px 14px; border-top: 1px solid var(--grey); font-size: 12.5px; color: var(--char); }
+.foot .src b { font-weight: 500; color: var(--black); }
+.foot .when { font-weight: 500; white-space: nowrap; }
+
+.card[dir="rtl"] .title { font-family: var(--urdu); font-weight: 600; font-size: 21px; line-height: 2; letter-spacing: 0; }
+.card[dir="rtl"] .summary { font-family: var(--urdu); font-size: 16px; line-height: 2.2; }
+.card[dir="rtl"] .cat, .card[dir="rtl"] .flag { letter-spacing: .04em; }
+
+.state { height: 100%; display: grid; place-items: center; text-align: center; color: var(--char); padding: 24px; line-height: 1.6; }
+
+.hint { position: absolute; right: 12px; bottom: 12px; background: var(--white); color: var(--black);
+  font-size: 12px; font-weight: 500; padding: 6px 12px; border-radius: 999px; pointer-events: none; }
+.card[dir="rtl"] .hint { right: auto; left: 12px; }
