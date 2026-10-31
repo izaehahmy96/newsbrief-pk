@@ -1,6 +1,19 @@
 {
- "updated": "2026-10-31T23:00:14.715732+00:00",
+ "updated": "2026-10-31T23:34:44.310245+00:00",
  "stories": [
+  {
+   "id": "d13e832aab14",
+   "rewritten": true,
+   "v4": true,
+   "title": "US acknowledges Pakistan's cross-border terrorism worries involving Afghanistan",
+   "summary": "United States Secretary of State Marco Rubio acknowledged Pakistan's concerns regarding terrorist attacks originating from Afghanistan, stating that Washington does not want Pakistan to be a target of terrorism. Speaking in Atlanta at the conclusion of the G20 foreign ministers' meeting, Rubio noted that Pakistan believes the Afghan Taliban has failed to take sufficient action to prevent these cross-border attacks, prompting Islamabad to take matters into its own hands.\n\nRubio's remarks followed renewed criticism from Islamabad directed at the Afghan Taliban regime. Pakistan's Ministry of Information and Broadcasting rejected recent statements by Taliban spokesperson Zabihullah Mujahid, accusing the leadership in Kabul of deflecting blame and ignoring the core issue affecting bilateral relations. The ministry asserted that Pakistan would not tolerate terrorist sanctuaries operating across the border and maintained its right to implement all necessary measures under international law to protect national security.\n\nIslamabad has consistently urged Kabul to take verifiable actions against militant groups, specifically highlighting the banned Tehreek-e-Taliban Pakistan, which Pakistani officials maintain operates from safe havens inside Afghanistan. Conversely, the Taliban authorities have denied accusations that they permit militants to utilize Afghan territory as a base for conducting attacks against neighboring Pakistan.\n\nThe diplomatic friction highlights ongoing regional security challenges and the strained relationship between Islamabad and the Afghan authorities. By publicly addressing these security apprehensions, the United States has formally noted the gravity of the cross-border militant threat facing Pakistan as regional tensions continue to persist.",
+   "url": "",
+   "image": "https://www.geo.tv/assets/uploads/2026-11-01/689204_034833_updates.jpg",
+   "published": "2026-11-01T03:10:44+00:00",
+   "source": "Source: Geo News",
+   "lang": "en",
+   "category": "pakistan"
+  },
   {
    "id": "a66cba9ba79c",
    "rewritten": true,
@@ -13,6 +26,32 @@
    "source": "Source: Geo News",
    "lang": "en",
    "category": "pakistan"
+  },
+  {
+   "id": "935814d7cfaf",
+   "rewritten": true,
+   "v4": true,
+   "title": "AC Milan defeats Inter in derby while Roma crushes Udinese",
+   "summary": "AC Milan secured a 3-1 victory over local rivals Inter Milan at the San Siro, claiming both bragging rights and three valuable points in Serie A. Diego Moreira starred for Milan by contributing one goal and two assists, helping his team achieve their fourth consecutive win against Inter. Christian Pulisic opened the scoring with a header after four minutes, followed quickly by an Adrien Rabiot goal in the tenth minute. Although Alessandro Bastoni pulled one back for Inter in the 22nd minute, Moreira extended Milan's lead just before halftime with a superb free-kick. The victory elevates AC Milan into fourth place with 21 points, sitting four points behind league leaders Lazio and Inter.\n\nIn another fixture, AS Roma dominated Udinese with a resounding 5-2 victory away at the Bluenergy Stadium. Roma overwhelmed the hosts by building a 4-0 lead within the first 37 minutes, featuring goals from Bryan Cristante, Rodrigo Mora, Donyell Malen, and Evan Ndicka. Despite a second-half resurgence from Udinese that saw goals from Nicolo Zaniolo and Matteo Palma, Roma sealed the win when Daniele Ghilardi scored his first Serie A goal. The triumph keeps Roma in third place with 24 points, remaining active in the early-season title race.\n\nMeanwhile, Bologna secured a 2-1 victory over Monza to climb into ninth place with their third successive league win. Tommaso Pobega and Federico Bernardeschi scored for Bologna after Gustavo Varela had opened the scoring for Monza with an early penalty. Monza missed a late opportunity to equalize when Patrick Cutrone failed to convert a penalty in the final ten minutes. The weekend results heavily shake up the upper tier of the Italian league standings as teams approach the middle stages of the campaign.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/01041517edd0f35.webp",
+   "published": "2026-10-31T23:22:07+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "sports"
+  },
+  {
+   "id": "28cf99eff7f2",
+   "rewritten": true,
+   "v4": true,
+   "title": "Barcelona thralls Alaves to reclaim La Liga lead",
+   "summary": "Barcelona bounced back from recent defeats by thrashing Deportivo Alaves 6-1 at Camp Nou to reclaim the top spot in La Liga. Raphinha and Lamine Yamal each scored twice, while Fermin Lopez and substitute Anthony Gordon added further goals to secure the victory. The win moves Hansi Flick's side two points clear of second-placed Atletico Madrid, who had earlier recorded a 2-0 victory against Levante. The match began with a minute of silence dedicated to the 69 victims of a recent train crash in the Toledo province.\n\nDespite dealing with defensive injuries that forced midfielder Frenkie de Jong to play at centre-back and youngster Brian Farinas to make his first start at right-back, Barcelona controlled the game. Raphinha opened the scoring in the eighth minute, and Lopez doubled the advantage in the 23rd minute. Raphinha netted his 15th league goal before halftime, and Yamal added another just before the interval. In the second half, Yamal scored his second and Gordon chipped in a sixth, while Mariano Diaz scored a late consolation goal for Alaves. The victory provides a strong response following a Champions League defeat to Paris Saint-Germain and a La Liga Clasico loss to Real Madrid.\n\nEarlier in Valencia, Atletico Madrid extended their winning run to seven matches with goals from Alejandro Grimaldo and Giuliano Simeone against Levante. The win earned manager Diego Simeone his 344th La Liga victory with Atletico, matching the club record previously set by Luis Aragones. Barcelona will next host Aston Villa in the Champions League before facing Atletico Madrid in a top-of-the-table La Liga clash.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/010357340546d90.webp",
+   "published": "2026-10-31T23:03:55+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "sports"
   },
   {
    "id": "0e3cb38893a9",
@@ -3860,45 +3899,6 @@
    "published": "2026-10-31T03:56:43+00:00",
    "source": "Source: Dawn",
    "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "520995e66b93",
-   "rewritten": true,
-   "v4": true,
-   "title": "حلال معیشت کے فروغ کے لیے سائنس اور ٹیکنالوجی ناگزیر ہے، خالد مگسی",
-   "summary": "وفاقی وزیر برائے سائنس و ٹیکنالوجی خالد حسین مگسی نے کہا ہے کہ پاکستان عالمی حلال مارکیٹ میں ایک اہم مقام حاصل کرنے کی بھرپور صلاحیت رکھتا ہے۔ انہوں نے یہ بات کراچی میں منعقدہ پاکستان کے پہلے حلال فورم سے خطاب کرتے ہوئے کہی، جہاں انہوں نے حلال معیشت کے فروغ کے لیے سائنس، ٹیکنالوجی اور جدت کو ناگزیر قرار دیا۔\n\nوفاقی وزیر کا کہنا تھا کہ حلال انڈسٹری اب عالمی معیشت کا ایک کلیدی شعبہ بن چکی ہے اور ملک میں حلال مصنوعات کی برآمدات بڑھانے کے وسیع مواقع موجود ہیں۔ انہوں نے اس عزم کا اظہار کیا کہ پاکستان حلال اتھارٹی کے معیار اور سرٹیفکیشن کے نظام کو مزید مؤثر بنایا جائے گا تاکہ عالمی معیار کی باہمی منظوری کے ذریعے برآمدات میں اضافہ کیا جا سکے۔\n\nخالد مگسی نے مزید کہا کہ اس شعبے میں نوجوانوں اور چھوٹے کاروباروں کے لیے بھی وسیع مواقع دستیاب ہیں، اور عالمی منڈیوں تک رسائی کے لیے بین الاقوامی اداروں کے ساتھ شراکت داری کو فروغ دیا جائے گا۔ انہوں نے حلال اتھارٹی کو مزید مضبوط بنانے کے لیے اقدامات کرنے کا بھی اعلان کیا۔\n\nاس موقع پر حلال فورم آرگنائزنگ کمیٹی کے چیئرمین اسد سجاد نے بتایا کہ دنیا کی دوسری بڑی مسلم آبادی کے باوجود عالمی حلال معیشت میں پاکستان کا حصہ صرف ایک فیصد ہے۔ ان کا کہنا تھا کہ مقصد خام مال کی برآمد سے نکل کر ویلیو ایڈڈ سرٹیفائیڈ حلال برآمدات کی طرف جانا ہے، جس کی مالیت چالیس سے پچاس ارب ڈالر تک ہو سکتی ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T03:52:46+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "a0345463bc23",
-   "rewritten": true,
-   "v4": true,
-   "title": "Defence Minister Khawaja Asif Says Marka-e-Haq Enhanced Pakistan's Prestige",
-   "summary": "Pakistan's Defence Minister Khawaja Asif stated on Saturday that the country's victory in Marka-e-Haq significantly enhanced its international prestige and standing. Speaking at the annual convocation of the University of Central Punjab in Sialkot, the minister noted that international media outlets have acknowledged Pakistan's success. He stated that the Pakistan Armed Forces defeated an adversary five times larger and successfully shot down multiple enemy aircraft during the conflict, while continuing their decades-long efforts to combat terrorism and protect national borders.\n\nThe term Marka-e-Haq refers to the 2025 conflict with India, which erupted after India blamed Pakistan for the April 22 Pahalgam attack that killed 26 people in Indian Illegally Occupied Jammu and Kashmir. Pakistan strongly rejected the allegations. In response to the attack, India closed the Wagah border, revoked Pakistani visas, and suspended the Indus Waters Treaty on April 23, prompting reciprocal measures from Islamabad. Tensions escalated severely on the night of May 6-7 when India launched military strikes, triggering intense cross-border hostilities.\n\nDuring the ensuing military engagement, Pakistan's air defense systems intercepted numerous threats, including 78 Israeli-origin Heron and Harop drones, BrahMos supersonic missiles, and an Indian missile projectile near Dinga, Punjab. Pakistan's retaliatory operations successfully downed at least five Indian fighter jets—comprising three Rafales, one SU-30, and one MiG-29—while targeting 26 Indian military installations and destroying brigade and battalion headquarters along the Line of Control. The deployment of indigenous Fateh-1 and Fateh-2 missiles showcased the country's operational defence capabilities before a ceasefire concluded the conflict on May 10 following Operation Bunyanun Marsoos.\n\nThe minister emphasized the vital role of the nation's youth in national development and prosperity. The historic confrontation marks a critical chapter in bilateral relations between the two nuclear-armed neighbors, reshaping regional security dynamics.",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T03:50:02+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "6a6bffae3836",
-   "rewritten": true,
-   "v4": true,
-   "title": "اوگرا نے ایل پی جی کی قیمتوں میں اضافے کا نوٹیفیکیشن جاری کردیا",
-   "summary": "آئل اینڈ گیس ریگولیٹری اتھارٹی (اوگرا) نے لیکویفائیڈ پیٹرولیم گیس (ایل پی جی) کی قیمتوں میں نمایاں اضافہ کر دیا ہے۔ قیمتوں میں اضافے کے بعد ایل پی جی کی فی کلو قیمت میں 14 روپے 73 پیسے کا اضافہ ریکارڈ کیا گیا ہے، جس کے نتیجے میں نئی قیمت 294 روپے 73 پیسے فی کلو مقرر ہو گئی ہے۔\n\nاس اضافے کے اثرات گھریلو صارفین پر بھی پڑے ہیں، جہاں 11.8 کلوگرام کے گھریلو سلنڈر کی قیمت میں 173 روپے 86 پیسے کا اضافہ ہوا ہے۔ اس اضافے کے بعد گھریلو سلنڈر کی قیمت 3296 روپے سے بڑھ کر 3470 روپے تک پہنچ گئی ہے۔\n\nاوگرا کی جانب سے جاری کردہ نوٹیفیکیشن کے مطابق، قیمتوں میں اس اضافے کا اطلاق یکم نومبر 2026 سے کر دیا گیا ہے۔ حکام کا بتانا ہے کہ ایل پی جی کی قیمتوں میں اضافے کی بنیادی وجہ بین الاقوامی مارکیٹ میں سعودی آرامکو معاہدے کی قیمت میں 6.47 فیصد کا اضافہ ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T03:45:04+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
    "category": "pakistan"
   }
  ]
