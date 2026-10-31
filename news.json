@@ -1,6 +1,45 @@
 {
- "updated": "2026-10-31T01:30:33.564729+00:00",
+ "updated": "2026-10-31T02:39:58.384047+00:00",
  "stories": [
+  {
+   "id": "4cabffd0a7d4",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan Prime Minister forms ministerial committee to review proposed LPG policy",
+   "summary": "Prime Minister Shehbaz Sharif established an eight-member ministerial committee in Islamabad to evaluate a new liquefied petroleum gas policy proposed by the Petroleum Division. The reforms seek to transfer import responsibilities and price-setting authority from the Oil and Gas Regulatory Authority to state-owned enterprises like PSO, Sui companies, PARCO, and Pakistan LNG. This policy shift aims to introduce import-parity pricing based on Saudi Aramco rates and actual import expenses.\n\nThe committee was formed following protests by LPG marketing companies and dealers who expressed concern over a lack of consultation and questioned the import experience of state-owned enterprises. Market rates for an 11.57kg cylinder currently range between Rs6,000 and Rs7,200, significantly higher than Ogra's notified price of Rs3,296, driven by halted operations at the Iran border and declining sea imports. The newly formed committee, headed by the petroleum minister and including other federal officials, has one month to submit a comprehensive report.\n\nUnder the proposed changes, Ogra would stop issuing price notifications, and state-owned firms would import LPG in bulk using Saudi Aramco FOB rates alongside previous month premiums, freight, and taxes. The summary also suggests creating a Producer-Price Differential Fund, audited by the Auditor General of Pakistan, to gather price differences and fund targeted subsidies for vulnerable consumers via the Benazir Income Support Programme. Additionally, margins for LPG marketing and importing companies would increase as an inflation adjustment from Rs35,000 to a minimum of Rs50,000 per tonne.\n\nThis overhaul matters as it addresses severe supply disruptions and soaring energy costs that have heavily impacted consumers and industry stakeholders across the country. The proposed policy directly alters how fuel pricing and subsidies are managed nationally, making the committee's upcoming review critical for balancing state control, private sector participation, and public welfare.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2024/11/161650004033933.png",
+   "published": "2026-10-31T02:38:47+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "0d1146ee2608",
+   "rewritten": true,
+   "v4": true,
+   "title": "Qatari delegation arrives in Tehran for high-level diplomatic talks",
+   "summary": "A Qatari delegation led by a senior adviser to the prime minister arrived in Tehran on Friday to meet with senior Iranian officials. According to the state news agency IRNA, the discussions focused on bilateral relations and regional developments, reflecting ongoing diplomatic efforts by Qatar and Pakistan to revive peace talks with the United States following an April ceasefire.\n\nThe region remains on edge during the eighth month of a war that began on February 28, when US-Israeli strikes killed former supreme leader Ayatollah Ali Khamenei. Iran responded with attacks on Israel and US assets and has restricted maritime traffic through the vital Strait of Hormuz, which carries roughly a fifth of global oil consumption. Maritime tensions intensified on Friday as Oman rescued 25 sailors from a targeted Panama-flagged merchant ship, while Iran reported halting three oil tankers for unauthorized crossings, including a supertanker that exploded after striking a naval mine.\n\nMeanwhile, the geopolitical fallout reached the G20 foreign ministers' meeting in Atlanta, hosted by US Secretary of State Marco Rubio. Amid deep divisions over ongoing wars in Ukraine and Iran, a traditional group photograph was canceled after European officials objected to appearing alongside Russian Foreign Minister Sergei Lavrov, with German foreign minister Johann Wadephul stating there is no normality with Russia.\n\nThese diplomatic maneuvers and security incidents highlight the severe global risks tied to the Middle East conflict, including soaring energy prices since the war began. The ongoing crisis and diplomatic interventions set a tense backdrop for both the upcoming US midterm elections and the forthcoming G20 leaders' summit in December at Donald Trump's Doral resort in Miami.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/10/31025611e3de791.webp",
+   "published": "2026-10-31T02:26:54+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "52c303a93e15",
+   "rewritten": true,
+   "v4": true,
+   "title": "Khyber Pakhtunkhwa police integrate anti-drone systems into Safe City center",
+   "summary": "The Khyber Pakhtunkhwa police have integrated anti-drone systems and provincial surveillance drones into the Safe City Peshawar Command and Control Centre. Announced by KP Safe Cities Project Director DIG Ijaz Ahmad during a news conference, this technological upgrade allows the center to monitor live video feeds from police operations and Counter Terrorism Department offensives across the province in real time.\n\nUnder the new framework, hostile quadcopters and drones can be promptly detected and neutralized. Modern anti-drone systems have been deployed in districts including Peshawar, Dera Ismail Khan, Lakki Marwat, Tank, and Bannu, while anti-drone guns have been issued to personnel in remote and sensitive areas. To address connectivity challenges in certain locations, authorities are collaborating with the Space and Upper Atmosphere Research Commission.\n\nComplementing this hardware, the KP police have established the country's first specialized human resource division trained in unmanned aerial vehicle combat. Personnel in this unit are instructed in modern drone operation, aerial surveillance, intelligence gathering, electronic warfare against hostile UAVs, and high-risk counterterrorism operations to combat evolving militant tactics like swarm attacks.\n\nThis initiative significantly strengthens law enforcement capabilities against security threats in the region. By centralizing drone monitoring and deploying advanced tactical units, the police aim to modernize their operational response and maintain direct oversight during field operations.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2024/04/181124207bc5347.jpg",
+   "published": "2026-10-31T02:09:47+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
   {
    "id": "34c13fc4579b",
    "rewritten": true,
@@ -167,6 +206,19 @@
    "image": "https://www.geo.tv/assets/uploads/2026-10-31/689070_123336_updates.jpg",
    "published": "2026-10-31T00:19:31+00:00",
    "source": "Source: Geo News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "816cf89dd02e",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan and UN expert condemn Taliban human rights abuses and terror links",
+   "summary": "During the UN Human Rights Council's interactive dialogue on Afghanistan in Washington, Pakistan's representative Muhammad Jawad Ajmal warned that the Taliban continue to harbor terrorist groups. Ajmal stated that over 4,700 Pakistanis have been killed in terrorist attacks originating from Afghan territory over the past three years, accusing the Taliban of maintaining close ties with these militant organizations and failing to publicly denounce them.\n\nAt the same time, UN Special Rapporteur Richard Bennett reported to the General Assembly that five years after seizing power, the Taliban have shown no willingness to reverse systematic human rights violations. Bennett detailed ongoing restrictions on women and girls, arbitrary detentions, torture, sexual violence, enforced disappearances, extrajudicial killings, and child marriages. He urged international member states to refrain from normalizing relations with the Kabul regime until verifiable human rights improvements are made.\n\nPakistan's representative emphasized that the deteriorating situation reflects the Taliban's disregard for international obligations and Islamic values. Ajmal highlighted the July Ministerial Conference on Women hosted in Islamabad, where the Organisation of Islamic Cooperation adopted a declaration condemning Taliban restrictions on women and girls as inconsistent with Muslim tenets.\n\nThis high-level diplomatic confrontation highlights the ongoing security and humanitarian crises in Afghanistan. The warnings from Pakistan and the UN underscore the international community's persistent concerns regarding cross-border terrorism and the severe oppression of marginalized groups under the current regime.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2025/04/2911483708b5d1b.jpg",
+   "published": "2026-10-30T23:19:43+00:00",
+   "source": "Source: Dawn",
    "lang": "en",
    "category": "pakistan"
   },
