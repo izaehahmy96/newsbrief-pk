@@ -1,6 +1,32 @@
 {
- "updated": "2026-10-31T19:32:26.812675+00:00",
+ "updated": "2026-10-31T20:26:47.386739+00:00",
  "stories": [
+  {
+   "id": "a66cba9ba79c",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan Warns Afghan Taliban Over Terrorist Safe Havens and Border Security",
+   "summary": "Pakistan has issued a stern warning to the Afghan Taliban regime, stating that Kabul's ongoing failure to prevent militant activity originating from Afghan soil is the primary barrier to improving bilateral relations. Islamabad declared that it is prepared to utilize all necessary measures under international law to safeguard its national security against cross-border threats.\n\nIn an official statement released on Saturday, the Ministry of Information and Broadcasting criticized the Taliban leadership for deflecting blame and avoiding the core problem of terrorist sanctuaries inside Afghanistan. Stressing that citizen security is non-negotiable, the ministry asserted that Pakistan's desire to protect its people should not be mistaken for weakness, and warned that national security will not be held hostage to inaction or evasions by Kabul.\n\nTensions between the two countries have persisted due to Islamabad's evidence-based claims that outlawed groups, notably the Tehreek-e-Taliban Pakistan (TTP), operate from Afghan territory to execute attacks within Pakistan. On October 24, the information ministry referenced assessments from the United States and the United Nations regarding militant factions in Afghanistan, urging verifiable actions against the TTP and the Balochistan Liberation Army.\n\nThe security environment has worsened significantly, with the Pakistan Institute for Conflict and Security Studies recording 225 militant attacks in September 2026, marking the highest monthly total in twelve years. Despite ongoing diplomatic contacts and mediation attempts, disagreements persist as Taliban spokesperson Zabihullah Mujahid expresses a desire for continued dialogue while Pakistan maintains that concrete steps against militants are essential for diplomatic progress.",
+   "url": "",
+   "image": "https://www.geo.tv/assets/uploads/2026-11-01/689194_124032_updates.jpg",
+   "published": "2026-11-01T00:14:50+00:00",
+   "source": "Source: Geo News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "6e040bbb8d90",
+   "rewritten": true,
+   "v4": true,
+   "title": "Cybersecurity Experts Link TraderTraitor Hacking Group to Major Cryptocurrency Thefts",
+   "summary": "Blockchain intelligence firms and cybersecurity researchers have identified a state-sponsored hacking team known as TraderTraitor as the driving force behind massive cryptocurrency heists, including a recent incident where $6.3 billion vanished from Binance wallets in under 20 minutes. Analysts from TRM Labs, Chainalysis, and Pangolin intelligence linked the attack to TraderTraitor with high confidence, pointing to distinct on- and off-chain operational patterns.\n\nTraderTraitor is widely understood to operate as part of the Lazarus Group, Pyongyang's cyberwarfare organization tied to historic cyberattacks such as the 2014 Sony Pictures hack and the 2016 Bangladesh Bank heist. The moniker originates from a malware family that disguised itself as trustworthy bitcoin trading applications to target industry professionals. Experts noted that the Binance incident shared three specific operational hallmarks with previous attacks, including the $1.5 billion Bybit theft in February 2025 and the KelpDAO breach in April 2026: meticulous advance preparation, simultaneous signature execution, and small withdrawals routed through Tornado Cash.\n\nAccording to security analysts, this elite hacking unit generates critical revenue for a North Korean government burdened by international sanctions. Oxford University's Dr. Edward Howell noted that approximately 40 to 50 percent of the nation's weapons of mass destruction programs are financed through cyber and cryptocurrency warfare operations.\n\nDespite these extensive findings and prior warnings from the FBI linking TraderTraitor to major cryptocurrency thefts, North Korea has consistently denied involvement in these cybercrimes. The country's mission in Geneva has not addressed the accusations made by international analysts and investigators.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FotoJet-2026-11-01T004133.908.jpg",
+   "published": "2026-10-31T20:01:15+00:00",
+   "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
   {
    "id": "357051aa49e4",
    "rewritten": true,
@@ -11,6 +37,32 @@
    "image": "https://www.geo.tv/assets/uploads/2026-10-31/689163_065409_updates.jpg",
    "published": "2026-10-31T19:54:00+00:00",
    "source": "Source: Geo News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "9a41809c9da7",
+   "rewritten": true,
+   "v4": true,
+   "title": "German Police Deploy Water Cannons as Youth-Led Protests Turn Tense",
+   "summary": "German law enforcement deployed a water cannon and pepper spray on Saturday to disperse crowds as demonstrations organized by the youth movement 'GenZ regelt!' turned hostile in multiple cities. Thousands of police officers were mobilized nationwide for the events, which saw mostly peaceful marches until tensions escalated during the evening hours.\n\nIn Cologne, where one of the largest turnouts occurred, police used a water cannon after demonstrators hurled fireworks at emergency workers. Similar clashes occurred in Frankfurt, where a march was temporarily halted due to fireworks, while protesters in Berlin threw bottles and eggs, and demonstrators in Hamburg set barricades ablaze. Protestors marched with signs bearing slogans like 'Time for resistance' and 'Merz must go,' directing their frustration at conservative Chancellor Friedrich Merz.\n\nInspired by similar youth movements in France and Italy, the German demonstrators voiced grievances regarding the high cost of living, poorly maintained schools, government spending cuts, and broader dissatisfaction with political decisions affecting younger generations. Organizers also highlighted opposition to increased military spending and a new voluntary service model, which participants fear could pave the way for reinstated military conscription. Police estimated turnouts at roughly 5,000 in Berlin, 8,000 in Frankfurt, and several thousand in Cologne, falling short of the 170,000 nationwide participants hoped for by organizers.\n\nAuthorities had expressed concern that the demonstrations, coinciding with Halloween, might mirror severe rioting seen in France over preceding weekends. Although Berlin maintained contact with French and Italian officials regarding potential foreign radicals, authorities stated beforehand they had no concrete evidence of planned violence. The 'GenZ regelt!' movement explicitly condemns violence, maintaining that extremist groups, hate speech, and racism are strictly unwelcome.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/10/31235832c6301e0.webp",
+   "published": "2026-10-31T19:48:09+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "bbd938acba52",
+   "rewritten": true,
+   "v4": true,
+   "title": "Anthropic Updates Claude Subscription Tiers and Removes Hourly Limits for Ultra",
+   "summary": "Anthropic has implemented updates to its top-tier Claude subscriptions, renaming Max 5x to Max and Max 20x to Ultra while keeping subscription fees at $100 and $200 per month, respectively. Existing subscribers will see their plans update automatically without needing to take any manual action.\n\nThe most significant modification impacts usage restrictions for the platform. Previously, Claude plans operated on a rolling five-hour window that required users to wait for a reset once their time was exhausted. Under the updated policy, verified Ultra accounts no longer face this hourly restriction, allowing subscribers to utilize Claude throughout the day without interruption. Anthropic confirmed that the update is active for most current subscribers, though the total weekly usage allowance remains unchanged at ten times the Pro plan.\n\nAccount verification for Ultra is handled automatically by Anthropic using account and payment history to prevent fraud, meaning users do not need to fill out forms. New accounts operate under temporary limits until verified, and the company notes that verifying a phone number at checkout is a separate step that does not lift the limit. Users can confirm their verification status by navigating to Settings and checking for the absence of a Current session bar in the Usage tab.\n\nFor most users, the $20-per-month Pro plan remains sufficient, including Opus 5.5 at no extra cost. Meanwhile, Fable—Anthropic's top model—is subject to a separate weekly limit and is accessible on Pro only via usage credits, whereas Max and Ultra include Fable for up to half their weekly limits alongside monthly API credits of $100 and $200.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Anthropic-7.jpg",
+   "published": "2026-10-31T19:36:18+00:00",
+   "source": "Source: ARY News",
    "lang": "en",
    "category": "pakistan"
   },
@@ -114,6 +166,19 @@
    "url": "",
    "image": "https://jang.com.pk/assets/uploads/updates/2026-10-31/b_1629443_112754_updates.jpg",
    "published": "2026-10-31T18:10:52+00:00",
+   "source": "ذریعہ: Jang",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
+   "id": "eebd7fd5dfd3",
+   "rewritten": true,
+   "v4": true,
+   "title": "قطر سے گیس کی وافر فراہمی جاری رہے گی، علی پرویز ملک",
+   "summary": "وفاقی وزیر پیٹرولیم علی پرویز ملک نے لاہور میں ایک نجی یونیورسٹی کے کانووکیشن سے خطاب کرتے ہوئے اعلان کیا ہے کہ قطر سے گیس کی ترسیل جاری ہے اور دسمبر اور جنوری کے مہینوں میں اس کی وافر سپلائی فراہم کی جائے گی۔ انہوں نے واضح کیا کہ آبنائے ہرمز کی غیر یقینی صورتحال نے تیل اور گیس کی قیمتوں کو متاثر کیا ہے، تاہم پاکستان گزشتہ چھ ماہ سے اس چیلنج کا کامیابی کے ساتھ مقابلہ کر رہا ہے اور حکومت شفاف طریقوں سے تیل کے نرخ مقرر کر رہی ہے۔ انہوں نے مزید بتایا کہ مستحق اور غریب طبقے کے لیے سبسڈی والا پیٹرول فراہم کیا جا رہا ہے۔\n\nاس کے علاوہ ملک کے مختلف حصوں اور سیاسی شخصیات سے متعلق دیگر خبریں بھی سامنے آئی ہیں۔ وزیراعظم کے مشیر برائے سیاسی امور سینیٹر رانا ثنا اللہ نے ملک میں بڑھتی ہوئی مہنگائی کا ذمہ دار امریکی صدر ڈونلڈ ٹرمپ کو ٹھہراتے ہوئے کہا ہے کہ اس صورتحال میں حکومت کا کوئی قصور نہیں۔ وزیر اعظم کی زیر صدارت زوم پر ایک آن لائن اجلاس منعقد ہوا جس میں ملک بھر میں دانش اسکولوں کی تعمیر میں ہونے والی پیش رفت کا جائزہ لیا گیا۔\n\nقانون اور عدلیہ سے متعلق امور میں وفاقی آئینی عدالت نے قرار دیا ہے کہ کسی بھی حتمی فیصلے کو دوبارہ نہیں کھولا جا سکتا، بشرطیکہ اس میں فراڈ، غلطی یا اختیار کی کمی ثابت نہ ہو۔ دریں اثنا، اسکردو میں میاں بیوی اور دو بچوں کے قتل کے الزام میں دس مشکوک افراد کو حراست میں لے لیا گیا ہے اور عدالت نے ملزمان کو پانچ پانچ لاکھ روپے جرمانے کا حکم بھی صادر کیا ہے۔\n\nدیگر اہم واقعات میں، حیدرآباد کے بعد سکھر میں سڑک کے درمیان لگے بجلی کے پولز کے باعث شہریوں کو شدید مشکلات کا سامنا تھا، تاہم جیو نیوز پر خبر نشر ہونے کے بعد تمام پولز ہٹا دیے گئے۔ جناح اسپتال کے گائنی وارڈ میں گزشتہ چھتیس گھنٹوں سے بجلی کا فالٹ برقرار ہے جسے درست کرنے کی کوششیں جاری ہیں۔ مزید برآں، پولیس کے مطابق پشاور جاتے ہوئے اسسٹنٹ کمشنر عادل وسیم کو نشانہ بنایا گیا جس کی تحقیقات جاری ہیں۔",
+   "url": "",
+   "image": "https://jang.com.pk/assets/uploads/updates/2026-10-31/b_1629446_114702_updates.jpg",
+   "published": "2026-10-31T18:10:18+00:00",
    "source": "ذریعہ: Jang",
    "lang": "ur",
    "category": "pakistan"
@@ -470,6 +535,19 @@
    "category": "pakistan"
   },
   {
+   "id": "f7441b3e2244",
+   "rewritten": true,
+   "v4": true,
+   "title": "پنجاب اور سندھ میں آوارہ کتوں کے کاٹنے کے واقعات میں اضافہ",
+   "summary": "پاکستان میں مہنگائی کے باعث ادویات کی قیمتوں میں اضافے اور سرکاری اسپتالوں میں بستروں و ادویات کی کمی کے ساتھ ساتھ عوام کو سنگین صحت کے مسائل کا سامنا ہے۔ دیہی علاقوں میں صورتحال مزید ابتر ہے جہاں صحت کی سہولیات کا شدید فقدان ہے۔ ان سب کے درمیان آوارہ کتوں کے کاٹنے کے بڑھتے ہوئے واقعات نے ایک نیا بحران پیدا کر دیا ہے، جن کے تھوک میں پایا جانے والا خطرناک ریبیز وائرس انسانوں کے لیے جان لیوا ثابت ہوتا ہے۔\n\nاعداد و شمار کے مطابق سال 2026 کے دوران پنجاب میں روزانہ کی اوسط سے ستر ہزار سے زائد سگ گزیدگی کے کیسز رپورٹ ہو چکے ہیں، جبکہ اکیلے لاہور میں یہ تعداد تیس ہزار سے تجاوز کر گئی ہے۔ سندھ کے حالات اس سے بھی زیادہ تشویشناک ہیں جہاں گزشتہ سال 2025 میں دو لاکھ سے زائد کیس درج ہوئے، اور موجودہ سال کے صرف ابتدائی مہینوں میں ہی یہ تعداد پچاس ہزار تک پہنچ گئی ہے۔ پاکستان میڈیکل ایسوسی ایشن کی رپورٹ کے مطابق سال کی پہلی سہ ماہی میں صوبے میں تیزی سے بڑھتے ہوئے کیسز کا تخمینہ ہزاروں میں لگایا گیا ہے۔\n\nصوبہ سندھ میں صرف رواں سال 2026 کے دوران ریبیز کے مرض سے چھیالیس اموات اسپتالوں میں ریکارڈ کی جا چکی ہیں، جبکہ طبی ماہرین کے مطابق گھروں میں ہونے والی اموات کی وجہ سے یہ تعداد دگنی بھی ہو سکتی ہے۔ حیدرآباد میں اس طرح کے واقعات میں تریسٹھ فیصد اضافہ دیکھا گیا ہے جس کی بڑی وجہ آوارہ کتوں کی بے قابو تعداد ہے۔\n\nسندھ حکومت نے اس جان لیوا مرض سے بچاؤ کے لیے عوامی آگاہی مہم چلائی ہے جس میں ہدایت کی گئی ہے کہ کتے کے کاٹنے کی صورت میں فوری طور پر زخم کو بیس منٹ تک صابن اور صاف پانی سے دھو کر اسپتال یا اینٹی ریبیز یونٹ سے رجوع کیا جائے۔ تاہم، بعض سرکاری اسپتالوں میں بھی اینٹی ریبیز ویکسین کی نایابی ایک بڑا مسئلہ بنی ہوئی ہے۔ ترقی یافتہ ممالک کی طرز پر کتوں کی افزائش نسل کو روکنے کے موثر اقدامات نہ ہونے کے برابر ہیں، جس کی وجہ سے معصوم بچوں اور بوڑھوں پر آوارہ کتوں کے حملے جاری ہیں۔",
+   "url": "",
+   "image": null,
+   "published": "2026-10-31T15:09:00+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "124c889622c4",
    "rewritten": true,
    "v4": true,
@@ -496,6 +574,19 @@
    "category": "pakistan"
   },
   {
+   "id": "f508fe5d8277",
+   "rewritten": true,
+   "v4": true,
+   "title": "پاکستان کے ابتدائی دہائیوں کا سماجی ڈھانچہ اور اقدار",
+   "summary": "پچاس اور ساٹھ کی دہائی کے دوران پاکستان کا سماجی ماحول، تعلیمی نظام اور روایات آج کے دور سے بالکل مختلف اور نظم و ضبط کے پابند تھے۔ اس دور میں پاکستان کے قیام کے بعد کی ادھیڑ عمر نسل اگرچہ محدود تعلیم یا ہنر رکھتی تھی، لیکن وہ اپنے محدود ذرائع کے باوجود بچوں کی بہتر پرورش اور تعلیم کے حصول کو یقینی بنانے کی بھرپور کوشش کرتی تھی۔\n\nتعلیمی شعبے کا حال یہ تھا کہ اسکولوں کے اساتذہ اپنے پیشے کو ایک مقدس مشن سمجھتے تھے اور اپنے منصب کا وقار بلند رکھنے کے لیے غیر ضروری سماجی سرگرمیوں سے اجتناب برتتے تھے۔ اساتذہ طلباء کی نصابی سرگرمیوں کے ساتھ ساتھ کھیلوں، آرٹ اور ثقافتی تقریبات پر بھی خصوصی توجہ دیتے تھے۔ اس دور میں استاد اور شاگرد کے درمیان احترام کا ایک مضبوط رشتہ قائم تھا، اور اساتذہ تعلیمی اوقات کے بعد سماجی تقریبوں سے دور رہتے تاکہ ان کا تقدس متاثر نہ ہو۔\n\nاس معاشرے میں محلے کے بڑے افراد کو مکمل اخلاقی اختیار حاصل تھا کہ وہ کسی بھی گھر کے بچے کو غلط کام یا برائی میں ملوث دیکھنے پر سرزنش کر سکیں، اور بچے والدین سے شکایت کے ڈر سے جھوٹ بولنے سے گریز کرتے تھے۔ اس زمانے میں سماجی رتبے کا تعلق ذات پات سے نہیں بلکہ کردار سے ہوتا تھا، اور محنت مزدوری کرنے والے افراد جیسے پانی پلانے والے یا صفائی کرنے والے بھی بچوں کے غلط عمل کی شکایت کرنے میں آزاد تھے۔\n\nقانون اور انصاف کے نظام میں بھی مساوات پائی جاتی تھی جہاں کمشنر کا بچہ اور عام مزدور کا بچہ ایک ہی اسکول میں یکساں قوانین کے تحت تعلیم حاصل کرتے تھے۔ جج اور وکلاء انصاف کی فراہمی میں جانبداری سے بچنے کے لیے سماجی تقریبات میں کم از کم شرکت کرتے تھے۔ زندگی قدرتی اصولوں کے مطابق گزاری جاتی تھی جہاں لوگ رات کو جلدی سو کر صبح سویرے اپنی روزمرہ کی ذمہ داریاں احسن طریقے سے نبھاتے تھے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-10-31T14:59:32+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "beedb38a65ed",
    "rewritten": true,
    "v4": true,
@@ -509,6 +600,19 @@
    "category": "pakistan"
   },
   {
+   "id": "3988ddd73c47",
+   "rewritten": true,
+   "v4": true,
+   "title": "کراچی کے علاقے محمود آباد میں بریانی ہاؤس پر فائرنگ",
+   "summary": "شہر قائد کے علاقے محمود آباد میں موٹر سائیکل پر سوار نقاب پوش ملزمان نے ایک معروف بریانی ہاؤس پر خودکار ہتھیار سے اندھا دھند فائرنگ کر دی، جس سے علاقے میں شدید خوف و ہراس پھیل گیا۔ واقعے کے وقت ریسٹورنٹ کے اندر موجود افراد میں بھگدڑ مچ گئی اور لوگوں نے اپنی جان بچانے کے لیے فرش پر لیٹ کر پناہ لی، تاہم خوش قسمتی سے اس حملے میں کوئی جانی نقصان نہیں ہوا۔\n\nشدید فائرنگ کے نتیجے میں ریسٹورنٹ کے دروازوں، کھڑکیوں کے شیشے اور پہلی منزل پر قائم فیملی ہال کے شیشے ٹوٹ گئے، جبکہ عمارت پر گولیوں کے کئی نشانات پائے گئے۔ واقعے کی اطلاع ملتے ہی پولیس کی بھاری نفری فوری طور پر موقع پر پہنچ گئی اور ریسٹورنٹ کے مالک سمیت دیگر عملے سے ابتدائی معلومات اکٹھی کیں۔ پولیس کو جائے وقوعہ سے کلاشنکوف کے گولیوں کے خول بھی ملے ہیں جنہیں قبضے میں لے لیا گیا ہے۔\n\nریسٹورنٹ کے مالک خالد نے بتایا کہ ہیلمٹ پہنے ہوئے موٹر سائیکل سوار ملزمان نے عمارت کی پہلی منزل پر بنے فیملی ہال پر کلاشنکوف کا برسٹ مارا۔ انہوں نے مزید انکشاف کیا کہ ایک سے ڈیڑھ سال قبل انہیں ملائیشیا کے نمبر سے بھتے کی کال موصول ہوئی تھی، تاہم اس حالیہ حملے کی اصل وجہ تاحال واضح نہیں ہے لیکن انہیں شبہ ہے کہ یہ کارروائی انہیں ڈرانے اور دھمکانے کے لیے کی گئی ہے۔\n\nپولیس نے اس واقعے کی سی سی ٹی وی فوٹیج بھی حاصل کر لی ہے جس میں دو ملزمان کو موٹر سائیکل پر سوار ہو کر ریسٹورنٹ کے سامنے آتے اور فائرنگ کرتے ہوئے فرار ہوتے صاف دیکھا جا سکتا ہے۔ پولیس اور دیگر تحقیقاتی ادارے اس سنگین واقعے کی ہر پہلو سے تفتیش کر رہے ہیں تاکہ ملزمان کا سراغ لگا کر انہیں قانون کے کٹہرے میں لایا جا سکے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-10-31T14:56:11+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "c9996ad9473f",
    "rewritten": true,
    "v4": true,
@@ -519,6 +623,19 @@
    "published": "2026-10-31T14:53:51+00:00",
    "source": "Source: ARY News",
    "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "5bed0e3d5b84",
+   "rewritten": true,
+   "v4": true,
+   "title": "پاکستان میں فضائی ٹیکسیوں کا نفاذ: امکانات اور چیلنجز",
+   "summary": "دنیا بھر میں ٹریفک کے دباؤ اور فضائی آلودگی پر قابو پانے کے لیے عمودی طور پر پرواز اور اترنے والے برقی طیاروں یعنی اڑنے والی ٹیکسیوں کے تصور پر کام جاری ہے۔ امریکا سمیت کئی ممالک میں ان ای وی ٹی او ایل طیاروں کی تیاری، پائلٹوں کی تربیت اور قانونی منظوری کے لیے ضابطے بنائے جا رہے ہیں، لیکن تجارتی سروس کے آغاز کے لیے تکنیکی جانچ اور جامع حفاظتی انتظامات ضروری ہیں۔\n\nپاکستان کے بڑے شہروں جیسے کراچی، لاہور اور اسلام آباد میں ٹریفک کے مسائل کے پیش نظر اس جدید فضائی نقل و حرکت پر غور کرنے کی ضرورت ہے۔ کراچی میں ملازمت پیشہ افراد اور ہنگامی خدمات کے لیے یہ فضائی ٹیکسیاں وقت کی بچت کا ذریعہ بن سکتی ہیں۔ تاہم، اس کے لیے ورٹی پورٹس نامی مخصوص لینڈنگ مقامات، بجلی کی فراہمی اور فضائی حدود کے انتظام جیسے بنیادی ڈھانچے کی تیاری ناگزیر ہے۔\n\nاس ٹیکنالوجی سے جامعات اور انجینئرنگ اداروں کو بیٹریوں اور خودکار نظاموں پر تحقیق کرنے کا موقع ملے گا، جس سے روزگار کے نئے مواقع پیدا ہوں گے۔ تاہم، بجلی کی پیداوار اور بیٹریوں کے ماحولیاتی اثرات کا سائنسی جائزہ لینا بھی ضروری ہے۔ علاوہ ازیں، اس سروس کی لاگت زیادہ ہونے کی صورت میں یہ عام شہریوں کے بجائے محدود طبقے تک محدود رہ سکتی ہے۔\n\nحکومت اور متعلقہ اداروں کو اس شعبے کے لیے واضح قوانین بنانے ہوں گے، جن میں لائسنس، عملے کی اہلیت، انشورنس اور فضائی ٹریفک کی نگرانی شامل ہیں۔ اڑنے والی ٹیکسیوں کی کامیابی کا انحصار اس بات پر ہے کہ وہ سفر کو محفوظ، قابلِ اعتماد اور عوام کی دسترس میں لائیں۔ پاکستان کو اس جدت سے بے خبر رہنے کے بجائے تحقیق اور بنیادی ڈھانچے کے ذریعے تیاری کرنی چاہیے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-10-31T14:48:26+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
    "category": "pakistan"
   },
   {
@@ -548,6 +665,19 @@
    "category": "pakistan"
   },
   {
+   "id": "f1bc895b6db0",
+   "rewritten": true,
+   "v4": true,
+   "title": "ڈاکٹر معین الدین عقیل کی کتاب خزینہ حیات کا تعارف",
+   "summary": "معروف محقق ڈاکٹر معین الدین عقیل کی تین کتابیں سامنے آئی ہیں، جن میں سے تازہ ترین کتاب 'خزینہ حیات' 25 جون 2026 کو شائع ہوئی۔ ان کی دیگر کتابوں میں 'پاکستانی جامعات تعلیم اور تحقیق' (2023) اور 'مشرق تاباں' (2010) شامل ہیں۔ کتاب 'پاکستانی جامعات' کا پیش لفظ سید عامر اشرف نے لکھا ہے جبکہ اس کا تعارف ڈاکٹر طاہر مسعود نے تحریر کیا ہے۔\n\nکتاب میں ڈاکٹر معین الدین عقیل کی زندگی کے اہم احوال درج ہیں، جن میں ان کی پیدائش 25 جون 1946 کو ریاست حیدرآباد میں ہونا اور ان کی شریک حیات کا جاپانی زبان کی استاد ہونا شامل ہے۔ ڈاکٹر صاحب بیرون ملک کی پانچ نامور یونیورسٹیوں سے اعزازات حاصل کر چکے ہیں۔ ایک انٹرویو میں انھوں نے پاکستان میں تحقیق کے معیار اور موضوعات پر گہری مایوسی کا اظہار کیا ہے۔\n\nڈاکٹر عقیل نے جاپان میں تدریس اور تحقیق کا تجربہ بیان کرتے ہوئے بتایا کہ جاپانی قوم دنیا بھر سے اچھائیاں قبول کرتی ہے اور ٹوکیو اور کیوتو سمیت کئی جامعات میں اسلامک اسٹڈیز اور ایشیا افریقہ اسٹڈیز پر وسیع پیمانے پر کام ہو رہا ہے۔ پی ایچ ڈی مقالوں میں سرقے کے انکشاف پر انھوں نے کہا کہ اس کی بنیادی وجہ نااہلی اور شہرت کا شوق ہے، اور ایچ ای سی کو مقالات کی جانچ اور احتساب کی روایت قائم کرنی چاہیے تھی۔\n\n'خزینہ حیات' 434 صفحات پر مشتمل ہے جو ڈاکٹر صاحب کے علمی کارناموں اور اعزازات کا احاطہ کرتی ہے۔ اس کتاب میں طلبہ کی نگرانی اور جاپان میں اردو زبان کے فروغ کے حوالے سے ان کی خدمات کا ذکر ہے۔ ڈاکٹر صاحب کو اگست 2022 میں صدر پاکستان کی جانب سے ستارہ امتیاز اور اپریل 2013 میں شہنشاہ جاپان کی طرف سے اعلیٰ ترین سول اعزاز سے نوازا گیا۔",
+   "url": "",
+   "image": null,
+   "published": "2026-10-31T14:40:47+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "cc5293018db6",
    "rewritten": true,
    "v4": true,
@@ -561,6 +691,32 @@
    "category": "pakistan"
   },
   {
+   "id": "e215c784ad66",
+   "rewritten": true,
+   "v4": true,
+   "title": "پاکستان میں مہنگائی اور عوام کی معاشی مشکلات کا جائزہ",
+   "summary": "لفظ سیاپا رونے پیٹنے اور غم کے اظہار کے لیے بولا جاتا ہے، اور قیامِ پاکستان سے اب تک عام آدمی کی زندگی معاشی مشکلات اور محرومیوں میں گھری ہوئی ہے۔ مہنگائی نے عوام کی قوت خرید چھین لی ہے اور بے روزگاری نے گھروں کا سکون برباد کر دیا ہے۔ حکمران اشرافیہ اور مراعات یافتہ طبقے کے مفادات کے سامنے عام شہری کے مسائل مسلسل نظرانداز کیے جا رہے ہیں۔\n\nپاکستان قدرتی وسائل اور زرعی صلاحیت رکھنے کے باوجود معاشی بحران کا شکار ہے کیونکہ اقتدار میں ذاتی مفادات کو ترجیح دی جاتی ہے۔ متوسط طبقہ بھی بچوں کی تعلیم اور علاج کے اخراجات پورے کرنے سے قاصر ہے۔ عوامی مسائل پر خاموشی اختیار کرنے کے بجائے عوام کو اپنے حقوق کے لیے منظم اور پُرامن جدوجہد کرنی چاہیے تاکہ ایک ایسا نظام قائم ہو سکے جہاں عام شہری بے بس نہ ہو۔\n\nپُرامن احتجاج جیسے ریلیاں، مظاهرے اور ہڑتالیں جمہوری حق ہیں، لیکن سرکاری املاک کو نقصان پہنچانا درست نہیں کیونکہ یہ عوام کے ٹیکسوں سے بنتی ہیں اور ان کا بوجھ بھی شہریوں پر پڑتا ہے۔ معاشی آزادی باوقار زندگی کی بنیادی شرط ہے، اور جب کسی کی آمدنی ناکافی ہو تو وہ اپنے حقوق سے بھرپور استفادہ نہیں کر سکتا۔ پاکستان کے دفاعی استحکام کے ساتھ معاشی قوت اور زراعت و صنعت کا فروغ بھی ناگزیر ہے۔\n\nریاست اور عوام کے درمیان بڑھتے ہوئے فاصلوں کا تدارک صرف ایسی معاشی پالیسیوں سے ممکن ہے جو عام آدمی کی زندگی میں بہتری لائیں۔ حکمرانوں کو چاہیے کہ وہ مہنگائی پر قابو پانے، روزگار کی فراہمی اور بنیادی سہولتوں تک رسائی کو ترجیح دیں، جبکہ عوام آئینی اور پرامن راستے سے اپنے حقوق کا مطالبہ کریں۔",
+   "url": "",
+   "image": null,
+   "published": "2026-10-31T14:34:50+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
+   "id": "9d6eb93ebf6a",
+   "rewritten": true,
+   "v4": true,
+   "title": "عالم اسلام کی بدلتی ہوئی معاشی اور دفاعی صورتحال",
+   "summary": "عالمی سیاست میں اب روایتی عسکری برتری کے ساتھ جغرافیائی محل وقوع، قدرتی وسائل اور صنعتی استعداد کو ریاست کے اثر و رسوخ کا پیمانہ مانا جاتا ہے۔ امت مسلمہ کے پاس تیل، گیس اور نوجوان آبادی کی طاقت موجود ہے، لیکن سیاسی عدم استحکام اور خارجی معاشی انحصار اجتماعی ترقی کی راہ میں رکاوٹ ہیں۔ مسلم دنیا کا اصل بحران وسائل کی کمی نہیں بلکہ ان کو بروئے کار لانے والے نظام کی کمزوری ہے۔\n\nعالمی بینک کی اکتوبر 2026 کی رپورٹ کے مطابق، فروری 2026 کے تنازع اور آبنائے ہرمز کے تعطل نے مشرق وسطیٰ، شمالی افریقہ، افغانستان اور پاکستان کی معیشتوں کو دباؤ میں ڈالا ہے۔ رپورٹ میں اس خطے کی معاشی پیداوار 2026 کے دوران 2.1 فیصد سکڑنے کا تخمینہ پیش کیا گیا۔ خلیجی تیل برآمد کرنے والی معیشتیں اس بحران سے زیادہ متاثر ہوئیں، جس سے ثابت ہوتا ہے کہ قدرتی وسائل کے ساتھ صنعتی خودکفالت بھی ضروری ہے۔\n\nاسلامی تعاون تنظیم (او آئی سی) کے اعداد و شمار کے مطابق، رکن ممالک کی باہمی تجارت کا حصہ 2023 کے 19.16 فیصد سے بڑھ کر 2024 میں 20.36 فیصد ہو گیا، اور 30 ارکان 25 فیصد ہدف تک پہنچ چکے ہیں۔ تاہم، اس شعبے میں مزید کام کرنے کی ضرورت ہے تاکہ باہمی تجارت کو اجتماعی طاقت میں بدلا جا سکے۔\n\nدفاعی صنعت کے فروغ کے لیے 21 اکتوبر 2026 کو دوحہ میں پاکستان، ترکیہ، قطر اور انڈونیشیا کے درمیان 'بدر' کے عنوان سے دفاعی صنعتی تعاون کی مفاہمتی یادداشت پر دستخط کیے گئے۔ اس میں پاکستانی وزیر دفاع خواجہ محمد آصف، ترک وزیر دفاع یاشار گولر، قطری نائب وزیراعظم شیخ سعود بن عبدالرحمان اور انڈونیشیا کے نائب وزیر دفاع یوسف جوہاری شامل تھے۔ اس اقدام کا مقصد دفاعی پیداوار اور ٹیکنالوجی کا تبادلہ ہے، جبکہ ترکیہ کی پارلیمان میں پاکستان، سعودی عرب اور ترکیہ کے مابین دفاعی معاہدے کی توثیق کا عمل بھی جاری ہے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-10-31T14:27:03+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "0533836839a9",
    "rewritten": true,
    "v4": true,
@@ -570,6 +726,19 @@
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/LPG.jpg.jpeg",
    "published": "2026-10-31T14:21:39+00:00",
    "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "c8c3853ffa2e",
+   "rewritten": true,
+   "v4": true,
+   "title": "Peshawar High Court seeks responses on Khyber-Pakhtunkhwa governor's rule",
+   "summary": "The Khyber-Pakhtunkhwa Advocate General’s Office has issued notices to the provincial governor, the provincial assembly speaker, and other relevant authorities. These officials must submit detailed replies and comments regarding separate writ petitions that challenge the implementation of governor’s rule and a state of emergency within certain districts of the province. Pakistan Tehreek-e-Insaf (PTI) Chairman Barrister Gohar Ali Khan and others filed the petitions in the Peshawar High Court, arguing that the federal government exceeded its constitutional authority and that local conditions did not justify extraordinary measures.\n\nThe legal challenge asserts that emergency and governor's rule can only be invoked under extreme circumstances where provincial authorities lose control, and that the local government itself should recommend such steps. Petitioners also questioned the invocation of Article 245 to deploy armed forces and noted that several constitutional requirements were disregarded. The Peshawar High Court directed the governor, chief secretary, provincial assembly speaker, and the secretary of the Home and Tribal Affairs Department to submit reports through Grade 17 or higher officers by November 7, ahead of a scheduled court hearing on November 10. Questions persist regarding how the provincial assembly speaker will respond, as the provincial government states he is currently in protective custody.\n\nIn a separate proceeding, the Peshawar High Court granted interim relief to 23 additional PTI workers who had been arrested under Section 3 of the Maintenance of Public Order Ordinance. A bench consisting of Justice Sahibzada Asadullah and Justice Inamullah ordered their release on bail against two surety bonds worth Rs100,000 each. The court noted that the deputy commissioner of Mardan failed to submit a required report explaining the legal grounds for the detentions, leaving the bench with no choice but to review available records and grant relief comparable to past cases.\n\nThis judicial intervention matters because it directly addresses the legality of federal emergency powers, civil-military deployment jurisdictions, and the protection of detained political workers in Khyber-Pakhtunkhwa. The unfolding legal battle underscores ongoing tensions between the federal government and regional political actors affiliated with the PTI. The upcoming hearings will determine how the provincial leadership and courts navigate these complex constitutional questions under intense political scrutiny.",
+   "url": "",
+   "image": null,
+   "published": "2026-10-31T14:18:57+00:00",
+   "source": "Source: The Express Tribune",
    "lang": "en",
    "category": "pakistan"
   },
@@ -713,6 +882,19 @@
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/FotoJet-2026-10-31T183355.792.jpg",
    "published": "2026-10-31T13:47:01+00:00",
    "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "d642760a39d7",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan strongly rebukes Afghan Taliban over terrorism and bilateral tensions",
+   "summary": "Pakistan’s Ministry of Information and Broadcasting strongly rejected recent remarks by Afghan Taliban spokesperson Zabihullah Mujahid regarding bilateral relations, labeling them as a deeply misguided approach. The reaction followed Mujahid’s accusations that Islamabad lacked readiness to resolve ongoing tensions through dialogue and that mediation efforts had failed. Islamabad countered that the core obstacle to normal ties is the Taliban regime's consistent failure to stop terrorism emanating from Afghan soil, declaring that national security and border safety are absolute red lines.\n\nThe diplomatic friction intensified after Pakistan urged the Taliban administration to take decisive action against militant groups using Afghan territory. During a UN General Assembly committee session, Counsellor Muhammad Jawad Ajmal of Pakistan’s Permanent Mission highlighted the presence of groups like the Tehreek-e-Insaf, the Balochistan Liberation Army, the Majeed Brigade, Islamic State-Khorasan, and the East Turkestan Islamic Movement inside Afghanistan. Pakistani security estimates indicate that up to 70 percent of infiltrating fighters are of Afghan origin, and that leftover NATO weaponry has reached militant hands. Authorities reported that terrorism linked to Afghan soil caused 1,327 fatalities and 2,484 injuries in Pakistan during 2026 alone.\n\nPakistan maintained that it reserves the right under international law to eliminate security threats wherever they originate. The information ministry stressed that shifting blame and questioning Pakistani policies will not absolve Kabul of its responsibilities. Officials noted that rather than dismantling militant sanctuaries, the Taliban regime frequently attempts to defend them, making it clear that Islamabad's security will not remain hostage to inaction and evasions from across the border.\n\nThis ongoing dispute matters profoundly for regional stability, cross-border security, and diplomatic channels between neighbors. The persistent failure to curb militant operations continues to escalate violence and constrain economic and political cooperation. Pakistan’s firm stance signals that future diplomatic engagement depends entirely on verifiable actions by Kabul to dismantle terrorist training infrastructure and prevent cross-border attacks.",
+   "url": "",
+   "image": null,
+   "published": "2026-10-31T13:46:43+00:00",
+   "source": "Source: The Express Tribune",
    "lang": "en",
    "category": "pakistan"
   },
@@ -3718,188 +3900,6 @@
    "source": "Source: The Express Tribune",
    "lang": "en",
    "category": "sports"
-  },
-  {
-   "id": "52c303a93e15",
-   "rewritten": true,
-   "v4": true,
-   "title": "Khyber Pakhtunkhwa police integrate anti-drone systems into Safe City center",
-   "summary": "The Khyber Pakhtunkhwa police have integrated anti-drone systems and provincial surveillance drones into the Safe City Peshawar Command and Control Centre. Announced by KP Safe Cities Project Director DIG Ijaz Ahmad during a news conference, this technological upgrade allows the center to monitor live video feeds from police operations and Counter Terrorism Department offensives across the province in real time.\n\nUnder the new framework, hostile quadcopters and drones can be promptly detected and neutralized. Modern anti-drone systems have been deployed in districts including Peshawar, Dera Ismail Khan, Lakki Marwat, Tank, and Bannu, while anti-drone guns have been issued to personnel in remote and sensitive areas. To address connectivity challenges in certain locations, authorities are collaborating with the Space and Upper Atmosphere Research Commission.\n\nComplementing this hardware, the KP police have established the country's first specialized human resource division trained in unmanned aerial vehicle combat. Personnel in this unit are instructed in modern drone operation, aerial surveillance, intelligence gathering, electronic warfare against hostile UAVs, and high-risk counterterrorism operations to combat evolving militant tactics like swarm attacks.\n\nThis initiative significantly strengthens law enforcement capabilities against security threats in the region. By centralizing drone monitoring and deploying advanced tactical units, the police aim to modernize their operational response and maintain direct oversight during field operations.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2024/04/181124207bc5347.jpg",
-   "published": "2026-10-31T02:09:47+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "7866f0909610",
-   "rewritten": true,
-   "v4": true,
-   "title": "سٹی کورٹ نے عوامی راج پارٹی کے سربراہ اقرار الحسن کی ضمانت منظور کرلی",
-   "summary": "سٹی کورٹ نے سوشل میڈیا پر ریاست مخالف مواد پوسٹ کرنے کے مقدمے میں عوامی راج پارٹی کے سربراہ اقرار الحسن کی درخواست ضمانت منظور کر لی ہے۔ جوڈیشل مجسٹریٹ شرقی گلریز میمن کی عدالت میں اس مقدمے کی سماعت ہوئی جہاں عدالت نے ملزم کو دو لاکھ روپے کے مچلکوں کے عوض رہا کرنے کا حکم جاری کیا۔\n\nسماعت کے دوران ملزم کے وکیل کی جانب سے عدالت کو آگاہ کیا گیا کہ ملزم اقرار الحسن کے خلاف کیس کا چالان پہلے ہی جمع کرایا جا چکا ہے۔ اس کے علاوہ تفتیشی حکام ملزم کی موبائل ڈیوائسز بھی اپنی تحویل میں لے چکے ہیں تاکہ اس معاملے سے متعلق تمام شواہد اکھٹے کیے جا سکیں۔\n\nاین سی سی آئی اے حکام نے عدالت میں مؤقف اختیار کیا کہ اب ملزم اقرار الحسن سے مزید کسی قسم کی تفتیش کی ضرورت باقی نہیں رہی ہے۔ تاہم حکام کا یہ بھی بتانا تھا کہ ملزم کی موبائل ڈیوائسز سے متعلق فرانزک رپورٹ آنا ابھی باقی ہے۔\n\nاس مقدمے میں عدالت کی جانب سے ضمانت کی منظوری کو ایک اہم قانونی پیشرفت قرار دیا جا رہا ہے۔ عدالت کے اس فیصلے کے بعد ملزم اقرار الحسن کو دو لاکھ روپے کے ضمانتی مچلکے جمع کرانے کی ہدایت کی گئی ہے تاکہ ان کی رہائی کا عمل مکمل ہو سکے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T02:09:07+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "bd8ab8d3374c",
-   "rewritten": true,
-   "v4": true,
-   "title": "کیپٹن صفدر کے متنازع بیان پر تنقید، مریم نواز کا ردعمل سامنے آگیا",
-   "summary": "پنجاب کے ضلع چنیوٹ میں ختم نبوت کانفرنس سے خطاب کے دوران کیپٹن (ر) صفدر کی جانب سے خواتین کے بارے میں دیے گئے متنازع ریمارکس پر سوشل میڈیا پر شدید تنقید کی جا رہی ہے۔ ان کے اس بیان پر وزیر اعلیٰ پنجاب مریم نواز کا ردعمل بھی سامنے آیا ہے جنہوں نے اس صورتحال کو دلخراش قرار دیا ہے۔\n\nسماجی رابطے کی ویب سائٹ پر اپنے پیغام میں مریم نواز کا کہنا تھا کہ یہ وہ خاموش لڑائیاں ہیں جو ایک عورت اور بیوی بند دروازوں کے پیچھے لڑتی ہے اور اسے ہر حال میں ہمت سے کام لینا پڑتا ہے۔ انہوں نے مزید لکھا کہ کچھ جنگیں اتنی خاموشی سے لڑی جاتی ہیں کہ ان کے زخم سرے سے دکھائی نہیں دیتے ہیں۔\n\nاپنے خطاب میں کیپٹن (ر) صفدر نے ایک واقعے کا ذکر کرتے ہوئے خواتین کے حوالے سے بعض ایسے کلمات کہے تھے جن پر عوامی سطح پر بحث چھڑ گئی۔ ان کے اس بیان اور الفاظ کو سوشل میڈیا پر ناپسند کیا گیا اور اس پر مختلف حلقوں کی طرف سے تنقید کا سلسلہ جاری ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T02:09:05+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "796adde81706",
-   "rewritten": true,
-   "v4": true,
-   "title": "اسلام آباد ہائیکورٹ کا فیصلہ: بریت کے بعد ایف آئی آر کریکٹر سرٹیفکیٹ میں شامل نہیں ہوگی",
-   "summary": "اسلام آباد ہائیکورٹ نے ایک اہم مفاد عامہ کا فیصلہ جاری کرتے ہوئے ہدایت کی ہے کہ کسی مقدمے سے بری ہونے والے شہریوں کے اس کیس کا حوالہ ان کے کریکٹر سرٹیفکیٹ میں شامل نہ کیا جائے۔ عدالت نے اس حوالے سے آئی جی اسلام آباد کو باقاعدہ طریقہ کار وضع کرنے کی بھی ہدایت جاری کی ہے۔\n\nجسٹس ایاز شوکت کی جانب سے جاری کردہ اس فیصلے میں پولیس کی جانب سے جاری کردہ پہلے والے کریکٹر سرٹیفکیٹس کو غیر قانونی قرار دیا گیا ہے۔ عدالت کا کہنا ہے کہ قانون شہریوں کو جو حقوق فراہم کرتا ہے اس کے حصول کے لیے انہیں عدالت کے چکر کاٹنے پر مجبور نہیں کیا جانا چاہیے۔\n\nتھانہ شالیمار کی ایک ایف آئی آر کے حوالے سے دائر کی گئی درخواست منظور کرتے ہوئے عدالت نے واضح کیا کہ پولیس اپنے پاس اندرونی ریکارڈ ضرور محفوظ رکھ سکتی ہے، تاہم بیرون ملک جانے والے یا سرٹیفکیٹ حاصل کرنے والے شہری کے دستاویز میں اس ختم شدہ ایف آئی آر کو ظاہر کرنے کی کوئی قانونی گنجائش موجود نہیں ہے۔\n\nعدالت نے قرار دیا کہ حتمی بریت کے بعد کسی شہری کو مجرم کی طرح پیش نہیں کیا جا سکتا۔ فیصلے کے مطابق بریت کے بعد ایف آئی آر کا اندراج آئین کے آرٹیکل 4، 9، 14 اور 15 کی خلاف ورزی ہے۔ پولیس سرٹیفکیٹ میں ملزم کو تفتیش سے ڈسچارج ظاہر کرنا اور عدالت کے اتفاق کو غلط قرار دیتے ہوئے عدالت نے کہا کہ اس طرح پٹیشنر کی قانونی حیثیت کو کم کیا گیا ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T02:09:04+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "b76ed91eaa74",
-   "rewritten": true,
-   "v4": true,
-   "title": "اسرائیلی وزیراعظم نیتن یاہو کا ٹرمپ پر ایران کے خلاف مشترکہ حملے کے لیے دباؤ",
-   "summary": "اسرائیلی وزیراعظم بن یامین نیتن یاہو امریکی صدر ڈونلڈ ٹرمپ پر دباؤ ڈال رہے ہیں کہ امریکا اور اسرائیل ایران کے خلاف مشترکہ فوجی کارروائی کریں۔ اسرائیلی رہنما چاہتے ہیں کہ اس حملے کا آغاز امریکا کے وسط مدتی انتخابات کے فوراً بعد کیا جائے۔\n\nدوسری جانب، امریکی نیوز ویب سائٹ ایکسیوس کے مطابق امریکی انتظامیہ کے اندر ایران سے نمٹنے کے طریقہ کار پر اختلافات پائے جاتے ہیں۔ انتظامیہ کے کچھ عہدیدار تہران کے ساتھ دوبارہ مذاکرات شروع کرنے کے حق میں ہیں، جبکہ دیگر حکام ایران پر مزید فوجی حملے کرنے کی پرزور حمایت کر رہے ہیں۔\n\nاسرائیلی ٹی وی چینل 15 کی ایک رپورٹ کے مطابق اسرائیلی فوج نے ایران پر حملے کے لیے اپنی تمام تر تیاریاں مکمل کر رکھی ہیں۔ اسرائیلی عسکری حکام کا خیال ہے کہ ایران کے ساتھ براہِ راست جنگ چھڑنے کی صورت میں لبنان کی تنظیم حزب اللہ بھی اسرائیل کے خلاف محاذ کھول سکتی ہے۔\n\nان ممکنہ خطرات کے پیش نظر اسرائیلی فوج شمالی محاذ پر بیک وقت ڈرون اور میزائل حملوں کا سامنا کرنے کی تیاریوں کا جائزہ لے رہی ہے۔ تاہم اب تک امریکا یا اسرائیل کی حکومتوں کی جانب سے ایران پر کسی بھی ممکنہ مشترکہ حملے کے حوالے سے کوئی باضابطہ اعلان سامنے نہیں آیا ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T02:05:23+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "2ae35ca7831f",
-   "rewritten": true,
-   "v4": true,
-   "title": "کراچی: ماڈل سول کورٹ ملیر کا اسکیم 33 کی کروڑوں کی زمین کا قبضہ خالی کرانے کا حکم",
-   "summary": "کراچی میں ماڈل سول کورٹ ملیر نے اسکیم 33 کی کروڑوں روپے مالیت کی قیمتی زمین پر قبضے سے متعلق کیس کی سماعت کرتے ہوئے ناظر کورٹ کو پولیس کی مدد سے قبضہ فوری طور پر خالی کرانے کا حکم دے دیا ہے۔ یہ حکم دو بھائیوں حارث اور حمزہ کی درخواست پر جاری کیا گیا۔\n\nدرخواست گزار بھائیوں نے مؤقف اختیار کیا تھا کہ اسکیم 33 میں ان کی 8 ایکڑ قیمتی زمین پر قبضہ مافیا نے غاصبانہ قبضہ کر رکھا ہے اور اس کام میں قبضہ کرنے والوں کو پولیس کی مدد بھی حاصل ہے۔ عدالت نے معاملے کا نوٹس لیتے ہوئے ناظر کورٹ کو سات روز کے اندر زمین واگزار کرانے کی ہدایت کی ہے۔\n\nعدالت نے ایس ایس پی ایسٹ کو حکم دیا ہے کہ وہ ناظر کورٹ کو مطلوبہ پولیس فورس فراہم کریں۔ اس کے ساتھ ہی ایس ایس پی کو تنبیہ کی گئی ہے کہ اگر عدالتی احکامات پر عملدرآمد نہ کیا گیا تو ان کے خلاف توہین عدالت کی کارروائی عمل میں لائی جائے گی اور اس حوالے سے 6 نومبر کو رپورٹ بھی طلب کی گئی ہے۔\n\nواضح رہے کہ اس سے قبل بھی عدالتی احکامات پر عملدرآمد کے لیے جانے والے عدالتی ناظر پر ملزمان کی جانب سے فائرنگ کی جا چکی ہے۔ عدالت نے پچھلا آرڈر معطل کرنے کی درخواست عدم پیروی کی بنیاد پر مسترد کر دی جبکہ دیگر افراد کی فریق بننے کی درخواستوں کو آئندہ سماعت پر سننے کا فیصلہ کیا ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T01:52:47+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "7dfe89ed7c0d",
-   "rewritten": true,
-   "v4": true,
-   "title": "ہانگ کانگ سکسز: پاکستان نے بھارت کو چار وکٹوں سے شکست دے دی",
-   "summary": "ہانگ کانگ سکسز ٹورنامنٹ میں پاکستان اور بھارت کے درمیان گروپ سی کے میچ سے قبل ایک بار پھر روایتی مصافحہ دیکھنے میں نہیں آیا۔ مونگ کوک کے مشن روڈ گراؤنڈ میں ٹاس کے موقع پر پاکستانی کپتان عباس آفریدی اور بھارتی کپتان کرونال پانڈیا نے ایک دوسرے سے ہاتھ نہیں ملایا، جو کہ سال 2025 کے ایشیا کپ کے واقعے کی یاد تازہ کر گیا۔\n\nمیچ کے دوران پاکستانی کپتان عباس آفریدی نے ٹاس جیت کر پہلے فیلڈنگ کرنے کا فیصلہ کیا۔ بھارت نے پہلے بیٹنگ کرتے ہوئے مقررہ چھ اوورز میں پانچ وکٹوں کے نقصان پر 88 رنز اسکور کیے۔ بھارتی بیٹر ششانک سنگھ نے شاندار بیٹنگ کرتے ہوئے صرف 11 گیندوں پر 40 رنز بنائے۔\n\nپاکستان نے ہدف کا تعاقب کرتے ہوئے یکطرفہ مقابلے کے بعد بھارت کو چار وکٹوں سے شکست دے دی۔ پاکستانی کپتان عباس آفریدی نے کرونال پانڈیا کے پہلے ہی اوور میں لگاتار پانچ چھکے لگاتے ہوئے 31 رنز سمیٹے۔ عباس آفریدی نے آٹھ گیندوں پر 35 رنز کی اننگز کھیلی۔\n\nاس کے علاوہ خواجہ نافع نے بھی شاندار کھیل کا مظاہرہ کیا اور وہ 12 گیندوں پر 41 رنز بنا کر ناٹ آؤٹ رہے۔ پاکستان نے مطلوبہ ہدف صرف 3.5 اوورز میں ہی باآسانی حاصل کر لیا اور میچ اپنے نام کر لیا۔",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T01:46:26+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "4e776090ea25",
-   "rewritten": true,
-   "v4": true,
-   "title": "AI Chatbots Face Intense Scrutiny Over Handling Criminal Confessions",
-   "summary": "Artificial intelligence chatbots are facing heightened legal and ethical scrutiny regarding whether technology companies should be legally mandated to report criminal confessions to law enforcement. Recent incidents include a University of Missouri student who confessed to ChatGPT about damaging campus cars, and a Florida case where a roommate queried ChatGPT about disposing of a body prior to a killing. Additionally, Canada's British Columbia sued OpenAI following a school shooting, alleging the firm failed to report the shooter's prior chat logs to police.\n\nLegal experts and scholars remain divided on how to govern these interactions. Matthew Trail, a legal researcher, noted that chatbot developers use different rules and filters to deflect inappropriate prompts, though users often bypass these restrictions by framing requests as fiction writing. While law enforcement can subpoena chat logs for active suspects, experts debate whether AI firms should proactively predict crimes, warning that algorithms frequently misinterpret intent and that mandatory reporting of all suspicious prompts could overwhelm human moderators with false alarms. Conversely, law professor Robert Diab argued that chatbot models are capable of detecting criminal intent and suggested developers could prevent crimes by alerting authorities.\n\nThe issue carries significant weight as millions of users increasingly rely on chatbots for personal support, health matters, and life advice, raising complex questions about user privacy and data confidentiality. Unlike attorney-client or doctor-patient relationships, communication privacy standards do not currently protect interactions between humans and AI tools, leaving tech companies and lawmakers struggling to establish clear regulatory frameworks.",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T01:39:52+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "a5864100d300",
-   "rewritten": true,
-   "v4": true,
-   "title": "آبنائے ہرمز میں آئل ٹینکر بارودی سرنگ سے ٹکرا گیا، آگ بھڑک اٹھی",
-   "summary": "ایرانی پاسدارانِ انقلاب کی بحریہ کے مطابق آبنائے ہرمز کے جنوبی راستے سے گزرنے کی کوشش کے دوران ایک سپر ٹینکر بارودی سرنگ سے ٹکرا گیا ہے۔ اس حادثے کے بعد جہاز میں شدید آگ بھڑک اٹھی ہے۔ ایرانی حکام کا کہنا ہے کہ یہ اس نوعیت کا چوتھا واقعہ ہے جو اس خطے میں پیش آیا ہے۔\n\nایرانی خبر رساں ادارے ارنا کے جاری کردہ بیان کے مطابق متاثرہ آئل ٹینکر میں بیس لاکھ بیرل سے زائد خام تیل لدا ہوا تھا۔ یہ ٹینکر آبنائے ہرمز کے اس جنوبی راستے سے گزرنے کی کوشش کر رہا تھا جسے ایرانی حکام نے پہلے ہی غیر مجاز قرار دے رکھا تھا۔\n\nایرانی بحریہ کے تعلقات عامہ کے شعبے کا کہنا ہے کہ اس جہاز کو ریڈیو کے ذریعے کئی بار انتباہ جاری کیا گیا تھا کہ وہ اس ممنوعه راستے کو استعمال نہ کرے۔ تاہم، عملے نے ان تمام وارننگز کو نظرانداز کیا جس کی وجہ سے یہ حادثہ پیش آیا اور ٹینکر بارودی سرنگ سے جا ٹکرایا۔\n\nٹکر کے بعد ہونے والے زوردار دھماکے کے نتیجے میں جہاز میں آگ لگ گئی۔ تاہم اس واقعے کی کوئی آزادانہ تصدیق نہیں ہو سکی ہے، اور ٹینکر کی شناخت، عملے کی سلامتی یا جانی و مالی نقصان کے بارے میں فوری طور پر کوئی تفصیلات فراہم نہیں کی گئیں۔\n\nیہ واقعہ اس لحاظ سے انتہائی اہمیت کا حامل ہے کہ آبنائے ہرمز دنیا بھر میں تیل کی ترسیل کا ایک انتہائی اہم بحری راستہ ہے۔ اس اہم گزرگاہ میں کسی بھی قسم کے حملے یا آمدورفت میں رکاوٹ کے نتیجے میں عالمی توانائی کی منڈی اور تیل کی قیمتوں پر براہِ راست منفی اثرات مرتب ہو سکتے ہیں۔",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T01:39:32+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "dbe2155f1785",
-   "rewritten": true,
-   "v4": true,
-   "title": "Pakistan Urges Afghan Taliban to Combat Cross-Border Terrorism",
-   "summary": "Pakistan has called upon the Afghan Taliban authorities to take decisive action against terrorist groups operating from within Afghanistan. Speaking during an Interactive Dialogue at the UN General Assembly's Third Committee, Pakistan's UN counsellor Muhammad Jawad Ajmal highlighted the active presence of organizations such as the Tehreek-e-Taliban Pakistan, the Balochistan Liberation Army, ISIL-K, and ETIM on Afghan soil.\n\nAjmal pointed to a concerning nexus between the Afghan Taliban regime and these proxy elements, questioning the Taliban's complicity due to their failure to publicly denounce the groups. Pakistan stressed that over 4,700 innocent citizens have lost their lives in terrorist attacks emanating from Afghanistan over the past three years alone. Highlighting actions taken on March 16, Islamabad reiterated its right to self-defence under international law to target terrorist support infrastructure and protect national security.\n\nIn addition to security concerns, Pakistan criticized the ongoing denial of fundamental freedoms to Afghan women and girls, noting that restrictions implemented by the Taliban contravene international commitments, Islamic values, and basic human dignity. Ajmal recalled the adoption of the Islamabad Declaration at the OIC Ministerial Conference on Women, which voiced strong concern over these repressive policies.\n\nFurthermore, the Pakistani diplomat addressed the ongoing refugee crisis, emphasizing that Pakistan has hosted millions of Afghan refugees for decades, often without adequate international backing. He urged the broader international community to share the responsibility of supporting vulnerable Afghans and addressing the region's broader humanitarian and stability challenges.",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T01:39:31+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "ef9d02a6d417",
-   "rewritten": true,
-   "v4": true,
-   "title": "Auqib Nabi Replaces Injured Prasidh Krishna in India Squad for New Zealand ODIs",
-   "summary": "Pacer Auqib Nabi has been promoted to India's main squad for the opening three one-day internationals against New Zealand, the nation's cricket board announced on Saturday. The 29-year-old fast bowler made his international debut for India against the West Indies in September. He was originally slated to join the team only for the fourth and fifth matches of the series.\n\nThe roster adjustment was prompted by an injury to Prasidh Krishna, who was ruled out of the upcoming fixtures a day earlier due to a hamstring strain. The five-match ODI series is scheduled to run from November 4 to November 15, immediately preceding a two-test series between the two countries starting on November 19.\n\nIndia's updated squad for the first three ODIs features Shubman Gill as captain, alongside Rohit Sharma, Virat Kohli, Shreyas Iyer, KL Rahul, Axar Patel, Naman Dhir, Anshul Kamboj, Gurnoor Brar, Ruturaj Gaikwad, Arshdeep Singh, Ishan Kishan, Mohammed Siraj, Kuldeep Yadav, Nitish Kumar Reddy—who is restricted to the first ODI only—and the newly added Auqib Nabi.\n\nFor the fourth and fifth matches, the squad shifts slightly to include Shreyas Iyer as captain, Rohit Sharma, Virat Kohli, Tilak Varma, Ishan Kishan, Axar Patel, Naman Dhir, Auqib Nabi, Gurnoor Brar, Ruturaj Gaikwad, Arshdeep Singh, Kumar Kushagra, Mohammed Siraj, Yash Thakur, and Kuldeep Yadav.",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T01:37:11+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "sports"
-  },
-  {
-   "id": "405a287b7a93",
-   "rewritten": true,
-   "v4": true,
-   "title": "بالی ووڈ کے معروف ہدایت کار و پروڈیوسر سنجے گپتا 57 برس کی عمر میں انتقال کر گئے",
-   "summary": "بالی ووڈ کے نامور ڈائریکٹر، پروڈیوسر اور اسکرین رائٹر سنجے گپتا 57 برس کی عمر میں اس دنیا سے رخصت ہو گئے۔ بھارتی میڈیا رپورٹس کے مطابق ان کی وفات کی خبر فلم فیئر اور بالی ووڈ ہنگامہ نے دی، تاہم ان کی موت کی اصل وجہ اب تک سامنے نہیں آ سکی ہے۔ ان کے اہل خانہ کی جانب سے بھی تاحال اس حوالے سے کوئی تفصیلات جاری نہیں کی گئیں۔\n\nسنجے گپتا کا فلمی سفر تین دہائیوں سے زائد عرصے پر محیط تھا، جن کا شمار ان فلمسازوں میں ہوتا تھا جنہوں نے ایکشن، کرائم اور تھرلر فلموں کے ذریعے انڈسٹری میں اپنی ایک منفرد پہچان بنائی تھی۔ انہوں نے اپنے کیریئر کا آغاز سنہ 1994 میں فلم ’آتش‘ سے کیا تھا جس میں سنجے دت اور آدتیہ پنچولی مرکزی کرداروں میں نظر آئے تھے۔\n\nان کے کیریئر کی مشہور فلموں میں ’کانٹے‘، ’مسافر‘، ’زندہ‘، ’شو ٹ آؤٹ ایٹ لوکھنڈوالا‘ اور ’شو ٹ آؤٹ ایٹ واڈالا‘ شامل ہیں۔ سنہ 2002 میں ریلیز ہونے والی فلم ’کانٹے‘ کو ان کے کیریئر کی بڑی کامیابیوں میں شمار کیا جاتا ہے۔\n\nعلاوہ ازیں، انہوں نے سنہ 2015 میں ایشوریا رائے اور عرفان خان کی فلم ’جذبہ‘ جبکہ سنہ 2017 میں ہریتھک روشن کی فلم ’قابل‘ کی بھی ہدایت کاری کی۔ ان کے اچانک انتقال پر فلمی حلقوں اور مداحوں میں صدمے کی لہر دوڑ گئی ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T01:22:39+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "d2f9893301f0",
-   "rewritten": true,
-   "v4": true,
-   "title": "Saudi-Led Coalition Intercepts and Destroys Multiple Drones Across Kingdom",
-   "summary": "The Saudi-led coalition announced on Saturday that it successfully intercepted and destroyed multiple hostile drones targeting various regions within Saudi Arabia. Coalition spokesperson Turki al-Maliki stated via the social media platform X that a drone was intercepted over the Riyadh region. Al-Maliki did not provide specific details regarding the launch site, intended targets, or potential damage, noting only that debris fell without causing injuries and that competent authorities were managing the site.\n\nEarlier on Saturday, the coalition reported two separate incidents involving the destruction of Houthi drones launched toward the kingdom's southern region. Additionally, around midnight on Saturday, another drone was intercepted and destroyed in the Madina region by air defense operations. These coordinated drone threats highlight ongoing regional tensions involving the Houthi movement.\n\nThe military coalition, officially titled the Coalition to Support Legitimacy in Yemen, has been engaged in a prolonged conflict against the Houthi group. This escalation comes amidst frequent attacks directed at Saudi energy facilities and airports. Saudi Arabia has led the military coalition in support of Yemen's internationally recognized government since 2015, following the Houthi takeover of the capital, Sanaa, and other parts of Yemen in 2014.",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T01:02:01+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "a676cf28a056",
-   "rewritten": true,
-   "v4": true,
-   "title": "گوجرانوالہ میں ولیمے کے روز دلہن کو قتل کرنے والا مرکزی ملزم مبینہ پولیس مقابلے میں ہلاک",
-   "summary": "پنجاب کے ضلع گوجرانوالہ میں ولیمے کے روز اپنی دلہن کو قتل کرنے والا مرکزی ملزم سرفراز ایک مبینہ پولیس مقابلے کے دوران ہلاک ہو گیا۔ ذرائع کے مطابق، ملزم اپنے ساتھیوں کے ہمراہ کسی دوسرے صوبے میں رو پوش تھا اور پولیس کی سی سی ڈی ٹیمیں انہیں گرفتار کر کے واپس لاتیراستے میں حملہ آور ہوئیں۔\n\nابتدائی اطلاعات کے مطابق، مرکزی ملزم سرفراز مبینہ طور پر اپنے ہی ساتھیوں کی فائرنگ کی زد میں آ کر مارا گیا۔ یہ ملزم مسلسل اپنی پوزیشن تبدیل کر رہا تھا جسے پولیس نے گزشتہ شب حراست میں لیا تھا۔ واقعے کی دیگر ملزمہ عروبہ اور دیگر ساتھی تاحال گرفت میں ہیں۔\n\nکچھ روز قبل، ملزم سرفراز نے ولیمے کے دن گھر واپس جانے والی دلہن صبا کو کار میں بیٹھے ہوئے فائرنگ کا نشانہ بنایا تھا۔ سی سی ڈی گوجرانوالہ کے مطابق یہ قتل شادی سے انکار کی پاداش میں کیا گیا تھا، جس کا مقدمہ مقتولہ کے والد کی مدعیت میں تھانہ سی سی ڈی میں درج کیا گیا تھا۔\n\nاس سنگین واردات کو انجام دینے کے بعد ملزم نے کسی غیر علاقے میں پناہ لے رکھی تھی۔ سی سی ڈی کی حراست میں واپسی کے دوران پیش آنے والے اس واقعے کی مزید قانونی کارروائی جاری ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-10-31T00:57:30+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
   }
  ]
 }
