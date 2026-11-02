@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T20:16:23.471504+00:00",
+ "updated": "2026-11-02T21:13:59.329159+00:00",
  "stories": [
   {
    "id": "19934bf51499",
@@ -24,6 +24,58 @@
    "image": "https://www.geo.tv/assets/uploads/2026-11-02/689407_095551_updates.jpg",
    "published": "2026-11-02T22:00:00+00:00",
    "source": "Source: Geo News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "84708c693ff9",
+   "rewritten": true,
+   "v4": true,
+   "title": "Trump Focuses on Reflecting Pool Repairs Ahead of Midterm Elections",
+   "summary": "United States President Donald Trump dedicated his final public remarks prior to Tuesday's midterm elections to highlighting renovations at the Lincoln Memorial Reflecting Pool in Washington, DC, on November 2, 2026. Speaking at the newly reopened landmark, the president spent over twenty minutes discussing plumbing, granite resurfacing, and leaks, while opinion polls indicated Democrats were poised to capture the House of Representatives and potentially the Senate.\n\nTrump addressed reporters and aides at the site following months of repairs to the capital's historic pool, where Martin Luther King delivered his 1963 “I Have a Dream” speech. While a White House official stated the speech was meant to emphasize administration accomplishments and contrast the Republican agenda with that of Democrats, the president briefly touched on the upcoming vote by warning that a party opposing America should not rule.\n\nWith control of Congress at stake, Democrats campaigned across various battleground states while facing internal divisions, such as in Michigan's closely contested Senate race. Forecasters including Decision Desk HQ projected Democratic gains, though roughly 54 million ballots had already been cast ahead of election day amid significant campaign spending and high-profile donor involvement.\n\nIf Republicans lose control of Congress, Trump faces potential legislative paralysis, the threat of impeachment, and increased oversight from Democratic-led committees. In a recent podcast interview, Trump acknowledged these prospects, stating he would rely on his veto power if necessary while navigating a potential lame-duck status complicated by domestic inflation and ongoing foreign conflicts.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/03015345d29f951.webp",
+   "published": "2026-11-02T21:02:15+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "19d9e6829af3",
+   "rewritten": true,
+   "v4": true,
+   "title": "Kuwait Introduces Drive-Thru Residency Service for Vulnerable Residents",
+   "summary": "The Ministry of Interior in Kuwait has inaugurated an innovative customer service lane at the Ahmadi Governorate Residency Affairs Department designed to streamline residency transactions. Implemented by the General Directorate of Residency Affairs, the new drive-thru system specifically targets the elderly, long-term expatriates, and persons with special needs.\n\nThe service allows eligible beneficiaries to initiate and complete permissible residency procedures directly from their vehicles, eliminating the need to park and visit physical offices. Officials noted that the initiative aims to replace traditional procedures, significantly reduce visitor waiting times, and alleviate physical strain for vulnerable populations.\n\nIn addition to enhancing convenience for citizens and residents, the newly engineered lane system incorporates vehicle entry and exit controls to ensure a smooth traffic flow around the government offices. The project forms part of a broader nationwide effort to modernize work practices and improve accessibility to public services across Kuwait.\n\nThe launch ceremony was led by high-ranking officials, including Colonel Mohammed Saleh Al-Namash, Director of the Ahmadi Governorate Residency Affairs Department, and Assistant Director Colonel Mohammed Sabah Al-Mukaimi. These leaders emphasized the department's commitment to improving administrative efficiency and public service delivery through modern technological and logistical solutions.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Kuwait-Launches-Drive-Through.jpg",
+   "published": "2026-11-02T20:26:43+00:00",
+   "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "ba877b19def9",
+   "rewritten": true,
+   "v4": true,
+   "title": "Residential Cruise Ship Villa Vie Odyssey Abruptly Shut Down in Cambodia",
+   "summary": "A residential cruise ship designed for permanent living at sea, the Villa Vie Odyssey, was abruptly shut down and evacuated at the port of Sihanoukville, Cambodia. Passengers who had invested their life savings and hundreds of thousands of dollars into lifetime contracts found themselves suddenly stranded and facing financial and housing uncertainty.\n\nCruise operators attributed the sudden closure to spiraling fuel costs driven by regional conflicts, which reportedly escalated monthly per-cabin expenses from $1,800 to $8,000. However, residents disputed that the shutdown came without warning, pointing to months of prior alarms, including food shortages, unpaid port fees and crew wages, and repeated financial contributions required to keep the vessel operational.\n\nPassengers had previously pooled personal funds during earlier port visits, with one individual spending $400,000 to purchase fuel and prevent the ship from being seized. Following the final evacuation order, travelers were given just seven hours to pack overnight bags and disembark, leaving many in legal limbo far from their former homes.\n\nIndustry analysts noted that the sudden termination of the voyage highlights the severe financial risks and systemic vulnerabilities associated with permanent, long-term maritime living when exposed to unexpected economic pressures, shifting commercial costs, and regional geopolitical conflicts.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Villa-Vie-Odyssey.jpg",
+   "published": "2026-11-02T20:24:38+00:00",
+   "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "2f7c13a2381e",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pennsylvania Amish Communities Embrace Vaccines Amid Severe Measles Outbreak",
+   "summary": "Pennsylvania is confronting its worst public health threat in thirty years as a major measles outbreak spreads rapidly across the state. A significant portion of the infections is concentrated within the conservative Amish and Mennonite population in Lancaster County, where state health officials have confirmed nearly 1,400 cases, over 260 hospitalizations, and five deaths within a single week.\n\nWhile low vaccination rates in these rural communities have historically been linked to preferences for natural immunity and limited healthcare access, the rapid transmission of the virus and the danger posed to infants have prompted a reassessment. Medical teams on the ground have established mobile clinics tailored to local cultural protocols to build trust with community elders.\n\nThese grassroots efforts have yielded positive results, with hundreds of families independently seeking the MMR vaccine. Public health officials view this growing community receptivity as a crucial turning point in containing the outbreak and safeguarding the region as winter approaches.\n\nThe response illustrates a successful intersection between modern preventative healthcare and respect for cultural traditions, offering valuable insights into managing public health crises within close-knit, traditional populations.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Historic-measles-Vaccines.jpg",
+   "published": "2026-11-02T20:23:26+00:00",
+   "source": "Source: ARY News",
    "lang": "en",
    "category": "pakistan"
   },
@@ -600,6 +652,19 @@
    "category": "pakistan"
   },
   {
+   "id": "e77f59a2ca22",
+   "rewritten": true,
+   "v4": true,
+   "title": "بائنانس پر بڑا سائبر حملہ، ساڑے چھ ارب ڈالر غائب",
+   "summary": "اکتوبر 2026 کے آخری ایام میں دنیا کے سب سے بڑے ڈیجیٹل صرافی ادارے بائنانس کے مرکزی نظام کو ہیک کر لیا گیا، جس کے نتیجے میں تقریباً 6.3 ارب ڈالر کے اثاثے چند لمحوں میں چوری ہو گئے۔ ابتدائی تحقیقات سے پتہ چلتا ہے کہ حملہ آوروں نے بائنانس کے داخلی انتظامی نظام (ڈیواپس) اور انٹرنیٹ سے جڑے خودکار ڈیجیٹل بٹووے (ہاٹ والٹس) تک غیر مجاز رسائی حاصل کی تھی۔ حملے کا ایک اہم اور پیچیدہ پہلو ایتھریم بلاک چین کا نیا ضابطہ تھا، جسے 'ای آئی پی 7702' کہا جاتا ہے۔ اس ضابطے کے تحت خودکار بٹوا عارضی طور پر ایک ایسے بیرونی کوڈ کے تابع ہو گیا جس نے حملہ آور کو تمام اثاثے دوسرے کھاتے میں منتقل کرنے کا قانونی راستہ فراہم کر دیا۔\n\nاس عظیم الشان چوری کو روکنے کی کوشش کے دوران تقریباً تین ارب ڈالر کے اثاثوں کو بلاک چین پر حرکت کرنے سے روک کر منجمد کر دیا گیا۔ یہ کارروائی کسی خودکار الگورتھم نے نہیں بلکہ نجی امریکی اداروں 'ٹیٹر' اور 'سرکل' نے اپنے انتظامی اختیارات کا استعمال کرتے ہوئے کی۔ ٹیٹر نے ڈیڑھ ارب ڈالر سے زائد کے 'یو ایس ڈی ٹی' اور سرکل نے اسی کروڑ ڈالر سے زائد کے 'یو ایس ڈی سی' کو ایک لمحے میں فریز کر دیا۔ یہ واقعہ کرپٹو کرنسی کے اس دعوے کے برعکس ہے کہ یہ نظام کسی بھی مرکزی ادارے یا ریاست کے کنٹرول سے آزاد ہوتا ہے۔\n\nاس واقعے نے کرپٹو دنیا کے اس نظریے کو شدید دھماکا پہنچایا ہے کہ 'کوڈ پر بھروسا کرو، ادارے پر نہیں۔' یہ حادثہ اس بات کی یاد دہانی ہے کہ اگرچہ بٹ کوائن کو کوئی کمپنی جاری نہیں کرتی، لیکن ڈیجیٹل سکوں (اسٹیبل کوئنز) اور ان کے سمارٹ کانٹریکٹس کے اندر جاری کرنے والے اداروں کے پاس مرکزی چابیاں موجود ہوتی ہیں، جن کے ذریعے وہ کسی بھی بٹوے کو بلیک لسٹ کر سکتے ہیں۔ طاقت ختم نہیں ہوئی بلکہ وہ پروٹوکول ڈیزائن کرنے والے ماہرین اور نجی کارپوریشنز کے ہاتھوں میں منتقل ہو چکی ہے۔\n\nیہ چوری اس اکیسویں صدی کے فریب پر ایک بڑا سوالیہ نشان ہے کہ ٹیکنالوجی انسان کو معاشی جبر سے نجات دلا سکتی ہے۔ انسان نے بینکوں اور درمیانی آدمی سے آزادی مانگی تھی، مگر وہ ایک ایسی تکنیکی پیچیدگی میں الجھ گیا جہاں اس کی بے بسی پہلے سے زیادہ بڑھ گئی۔ اب درمیانی آدمی ایکسچینج کے سرورز، ڈیجیٹل ڈالر کے انتظامی احکامات اور کوڈ کی گہرائیوں میں چھپا بیٹھا ہے، جو ثابت کرتا ہے کہ خطرہ کہیں نہیں گیا بلکہ اس نے الگورتھم کا نیا نقاب اوڑھ لیا ہے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-02T16:06:51+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "5d879631a322",
    "rewritten": true,
    "v4": true,
@@ -623,6 +688,19 @@
    "published": "2026-11-02T15:59:31+00:00",
    "source": "Source: Dawn",
    "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "f5fbf670cfe5",
+   "rewritten": true,
+   "v4": true,
+   "title": "عالمی بینک کی رپورٹ: پاکستان میں بے روزگاری اور غربت بڑھ گئی",
+   "summary": "عالمی بینک کی ایک تشویشناک رپورٹ کے مطابق 2018 سے پاکستان میں ہر چھٹا شخص بے روزگار ہے جبکہ غربت کی شرح میں سات فیصد اضافے کے بعد ملکی معیشت کو چار بڑے خطرات لاحق ہو چکے ہیں۔ ملک میں غربت کی شرح 2019 کے 22 فیصد سے بڑھ کر 2025 میں 29 فیصد تک جا پہنچی ہے۔ اس وقت ملک میں ہر تیسرا گریجویٹ بے روزگار ہے اور بے روزگار افراد کی مجموعی تعداد 80 لاکھ ہو چکی ہے، جن میں 24 سال کے نوجوانوں کی بڑی تعداد شامل ہے۔ معاشی استحکام کے سرکاری دعوؤں کے برعکس بین الاقوامی ادارے پاکستان میں مہنگائی 8.2 فیصد رہنے اور جاری کھاتے کا خسارہ جی ڈی پی کے ایک فیصد تک پہنچنے کا خدشہ ظاہر کر رہے ہیں۔\n\nعالمی مالیاتی اداروں نے معیشت کو سنبھالا دینے کے لیے مانیٹری پالیسی مزید سخت کرنے، شعبہ توانائی میں سبسڈیز ختم کرنے اور ٹیکس بیس بڑھانے کی ہدایات دی ہیں۔ دوسری طرف حکومت کی جانب سے صنعتوں کو سہولیات نہ ملنے کے باعث بڑی تعداد میں فیکٹریاں بند ہو چکی ہیں اور صنعتکار ملک سے باہر منتقل ہو رہے ہیں۔ حکومت کا اصرار ہے کہ نجی شعبہ ملازمتیں پیدا کرے، لیکن صنعتکار خود سخت مالی دباؤ کا شکار ہیں اور شرح سود میں اضافے کو مسترد کر چکے ہیں۔ حکومتی فیصلوں کے نتیجے میں نہ صرف بے روزگاری بڑھی ہے بلکہ مہنگائی کے مارے عوام کے لیے دو وقت کی روٹی بھی مشکل ہوتی جا رہی ہے۔\n\nحکومتی سطح پر ملازمتیں دینے سے صاف انکار کیا جا رہا ہے جبکہ پٹرولیم مصنوعات، بجلی اور گیس کو سرکاری آمدنی بڑھانے کا ذریعہ بنایا جا چکا ہے۔ بجلی کے نرخوں میں مسلسل اضافے کے علاوہ مزید ڈھائی روپے فی یونٹ اضافے کا ارادہ بھی ظاہر کیا گیا ہے۔ اس کے علاوہ حکومت کی جانب سے پٹرولیم مصنوعات پر بھاری لیوی وصول کی جارہی ہے، جس کے خلاف عوامی احتجاج کے باوجود حکومتی وزراء نے لیوی کم کرنے سے صاف انکار کر دیا ہے۔ حکومتی پالیسیوں کی وجہ سے عوام میں شدید مایوسی پائی جاتی ہے۔\n\nملک میں روزگار کے ذرائع نہ ہونے کی وجہ سے تعلیم یافتہ اور ہنرمند نوجوان بڑی تعداد میں بیرون ملک منتقل ہو رہے ہیں۔ رپورٹ کے مطابق تقریباً 19 لاکھ ہنرمند پاکستانی ملک چھوڑ چکے ہیں کیونکہ انہیں یہاں اپنا مستقبل تاریک نظر آتا ہے۔ اگرچہ عام آدمی مہنگائی اور بے روزگاری کے بوجھ تلے دبا ہوا ہے، لیکن حکومت اس بحران کو اپنی ذمہ داری سمجھنے کے بجائے صرف زرمبادلہ کمانے کے لیے تارکین وطن کی ترسیلات زر پر انحصار کر رہی ہے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-02T15:53:54+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
    "category": "pakistan"
   },
   {
@@ -676,6 +754,19 @@
    "source": "Source: Geo News",
    "lang": "en",
    "category": "pakistan"
+  },
+  {
+   "id": "9e4a50136c30",
+   "rewritten": true,
+   "v4": true,
+   "title": "Australian All-Rounder Glenn Maxwell Retires From International Cricket",
+   "summary": "Australian all-rounder Glenn Maxwell has announced his retirement from international cricket, bringing a close to an international career that spanned over 15 years. The 38-year-old also stepped away from first-class and List A cricket for Victoria, though he confirmed his continued commitment to the Melbourne Stars in the Big Bash League under a contract extending to the 2027-28 season. Maxwell previously retired from one-day internationals in June 2025 and made his final international appearance during the 2026 T20 World Cup group stage match against Oman in February.\n\nSpeaking on the Final Word Podcast, Maxwell described the choice as slightly sad yet inevitable, noting that it was time to prioritize physical recovery for the remaining tournaments in his career. He mentioned that the decision was made without pressure from Australian team management, even though he had briefly considered a farewell appearance at the Melbourne Cricket Ground prior to Australia's focus on the 2028 Olympics.\n\nOver his career, Maxwell established himself as a central figure in Australian limited-overs squads, helping secure the 2021 T20 World Cup title with the winning runs in the final. In 130 T20 internationals, he amassed 2,897 runs at a 154.42 strike rate, featuring five centuries—tying India's Rohit Sharma for the men's T20 international record—alongside 51 wickets. In Test matches, he earned seven caps and scored 339 runs, which included a century against India in Ranchi in 2017.\n\nThe announcement follows recent stints including leading the Belfast Wolves to the European T20 Premier League final and playing two One-Day Cup matches for Victoria. Although he contemplated making himself available for the upcoming white-ball series against England, Maxwell ultimately chose to address a knee problem and focus fully on his upcoming Big Bash League commitments with the Melbourne Stars.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-02T15:38:30+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "sports"
   },
   {
    "id": "d0600ed07951",
@@ -3551,6 +3642,19 @@
    "category": "pakistan"
   },
   {
+   "id": "7af9432b28d6",
+   "rewritten": true,
+   "v4": true,
+   "title": "Nine People Killed in Residential Plane Crash in Palm Beach County",
+   "summary": "A private Learjet 60 crashed on Sunday afternoon into a residential area in Palm Beach County, Florida, resulting in the deaths of all nine individuals on board. According to the Federal Aviation Administration, the aircraft had departed from Austin-Bergstrom International Airport in Texas and was traveling to North Eleuthera Airport in the Bahamas. Video recordings shared on social media captured the jet plummeting near a road and erupting into a massive explosion.\n\nFlorida Governor Ron DeSantis described the incident as a major tragedy, while Transportation Secretary Sean Duffy called it horrific. The National Transportation Safety Board has opened an investigation into the crash. Palm Beach County Commissioner Joel Flores noted that the impact formed a massive crater near a mobile home park entrance, prompting the evacuation and relocation of approximately 600 area residents to two local county shelters. Forecaster AccuWeather reported that heavy rainfall and thunderstorms were present in the area at the time of the accident.\n\nCommunications broadcast from a Miami air traffic control center on LiveATC detailed the flight's final moments. Initially, the cockpit reported managing ice and moderate turbulence while seeking smoother conditions. Within a minute, the crew declared an emergency with a mayday call as the descent rate spiked to 10,000 feet per minute, then 20,000 feet per minute, and eventually reached 22,000 feet per minute while the plane banked. The final transmission from the cockpit less than 20 seconds later was a rapid statement that they were out of time, while flight tracking data indicated vertical descent rates exceeding 32,000 feet per minute.\n\nThe Bombardier-made Learjet 60 is owned by a Delaware corporation, according to Federal Aviation Administration records. Canada-based Bombardier stated that it will offer full cooperation and support to the ongoing investigation led by transportation safety authorities.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/02081140a621ff6.webp",
+   "published": "2026-11-02T05:46:51+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "world"
+  },
+  {
    "id": "f4007aa2b466",
    "rewritten": true,
    "v4": true,
@@ -3796,110 +3900,6 @@
    "source": "Source: Business Recorder",
    "lang": "en",
    "category": "business"
-  },
-  {
-   "id": "57d4704768a1",
-   "rewritten": true,
-   "v4": true,
-   "title": "یوکرین کے صدر زیلنسکی کی روسی تیل تنصیبات پر حملے روکنے کی مشروط پیشکش",
-   "summary": "یوکرین کے صدر ولادیمیر زیلنسکی نے اعلان کیا ہے کہ کیف حکومت روسی آئل ریفائنریوں پر اپنے حملے روکنے کے لیے تیار ہے۔ فاکس نیوز کو دیے گئے انٹرویو میں انہوں نے واضح کیا کہ اس اقدام کی شرط امریکہ کی طرف سے کیف کو فضائی دفاعی نظام اور پیٹریاٹ میزائلوں کی تیز رفتار فراہمی سے مشروط ہے۔ زیلنسکی کے مطابق، انہوں نے امریکی صدر اور ان کے معاونین کے ساتھ اس معاملے پر وسیع پیمانے پر بات چیت کی ہے۔\n\nیوکرینی صدر نے مزید کہا کہ روس کی جانب سے مسلسل حملوں کے بعد ان کا ملک دفاع کرنے کا حق رکھتا ہے۔ ان کا کہنا تھا کہ اگر امریکہ اور دیگر اتحادی نہیں چاہتے کہ یوکرین روسی آئل ریفائنریوں کو نشانہ بنائے، تو روس کو بھی یوکرین کے توانائی کے نظام پر حملے بند کرنا ہوں گے۔ انہوں نے اس بات کا بھی انکشاف کیا کہ یہ معاملہ صرف مفت امداد تک محدود نہیں ہے بلکہ یوکرین ان دفاعی سسٹمز کو خریدنے اور اس کے لیے ضروری فنڈنگ کا بندوبست کرنے کی بھی صلاحیت رکھتا ہے۔\n\nمتبادل تجویز کے طور پر زیلنسکی نے کہا کہ اگر امریکہ ایک ماہ کے لیے میزائل سسٹم فراہم کرتا ہے، تو یوکرین بالکل اسی مدت کے لیے روسی ریفائنریوں پر حملے روک دے گا۔ جب ان سے یہ سوال کیا گیا کہ آیا انہیں اس بات کا خدشہ ہے کہ امریکی صدر ڈونلڈ ٹرمپ اس پیشکش کو دباؤ کے طور پر دیکھ سکتے ہیں، تو انہوں نے جواب دیا کہ بڑے شراکت داروں کے سامنے حقائق پیش کرنے میں انہیں کوئی جھجھک نہیں ہے۔\n\nیہ پیشکش ایسے وقت میں سامنے آئی ہے جب روس اور یوکرین کے درمیان توانائی کے بنیادی ڈھانچے کو نشانہ بنانے کا سلسلہ جاری ہے۔ اس نوعیت کے مذاکرات اور شرائط کا مقصد خطے میں جاری تنازع کے درمیان یوکرین کے لیے دفاعی صلاحیتوں کو مضبوط بنانا اور توانائی کے بحران پر قابو پانا ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-02T04:55:45+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "c02a71e788df",
-   "rewritten": true,
-   "v4": true,
-   "title": "PIA Engineer Fatally Shot in Karachi Targeted Attack",
-   "summary": "An engineer employed by Pakistan International Airlines was shot and killed in Karachi's Gulistan-i-Jauhar area on Sunday afternoon. The 54-year-old victim, identified as Imtiaz Ahmed, had stepped out of his residence in Block-13 to buy bread when unidentified gunmen on a motorcycle opened fire on him before fleeing.\n\nSharea Faisal Station House Officer Anser Ahmed Butt stated that one bullet struck the victim, proving fatal, while three other rounds hit a nearby parked car. Emergency responders transported him to a nearby private hospital, where medical staff declared him dead upon arrival. His remains were subsequently transferred to the Jinnah Postgraduate Medical Centre to undergo a post-mortem examination.\n\nPolice have dismissed robbery as a motive, noting that the exact reason behind the assault will be determined through a formal investigation. Originally from Lahore, the victim had a brother who was traveling to Karachi to assist with proceedings. At the time of the incident, the victim's wife was in Germany visiting their daughter.\n\nThis violent incident highlights ongoing security concerns in urban centers, prompting swift police involvement to trace the perpetrators. Authorities are awaiting the arrival of the victim's brother to initiate formal steps aimed at identifying the attackers and establishing a clear motive for the targeted shooting.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2021/11/6189f5190473c.jpg",
-   "published": "2026-11-02T04:53:38+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "bf26fa83cef1",
-   "rewritten": true,
-   "v4": true,
-   "title": "Five Killed in Fresh Ethnic Violence in India's Manipur State",
-   "summary": "Recent ethnic violence in India's northeastern state of Manipur resulted in five deaths across two separate incidents, according to local police statements released on Sunday. In the state's Noney district, an exchange of gunfire between unidentified armed individuals left three Kuki tribal men dead on Saturday. Additionally, security forces recovered the bodies of two missing men from the same community on Sunday morning in the Kangpokpi district following a search operation.\n\nA prominent Kuki tribal organization blamed Naga separatist groups for the killings, characterizing the incident as an unprovoked assault in their territory. These casualties occurred simultaneously with large demonstrations in Imphal and other areas, where massive crowds gathered to demand the cancellation of a ceasefire agreement between the Indian state and Kuki armed groups. The region has a longstanding history of conflict between the predominantly Christian Kuki and Naga communities over competing territorial claims.\n\nTensions escalated further in February following an alleged physical assault on a Naga man by Kuki individuals. Subsequent violence in May, which included the reported killing of three Kuki pastors by Naga armed factions, prompted retaliatory abductions and homicides by both sides. These renewed Kuki-Naga clashes compound existing instability in Manipur, where the Kuki population is also engaged in a severe ethnic conflict with the primarily Hindu Meitei community that began in May 2023 over economic benefits and job quotas.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/02091339ee39476.webp",
-   "published": "2026-11-02T04:50:26+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "world"
-  },
-  {
-   "id": "69e03b9ad4e5",
-   "rewritten": true,
-   "v4": true,
-   "title": "اسلام آباد میں موو اینڈ پک گالف کلب چیمپئن شپ کا شاندار انعقاد",
-   "summary": "اسلام آباد کے مارگلہ گرین گالف کلب میں موو اینڈ پک گالف کلب چیمپئن شپ کا انعقاد کیا گیا۔ اس اہم اسپورٹس ایونٹ میں ملک کے ٹاپ رینکنگ گالفرز کے علاوہ بڑی تعداد میں غیر ملکی سفراء نے بھی شرکت کی، جس سے تقریب کی اہمیت میں مزید اضافہ ہوا۔\n\nٹورنامنٹ کے موقع پر پاکستان ٹینس فیڈریشن کے صدر اور نامور ٹینس اسٹار اعصام الحق قریشی سمیت ونگ کمانڈر کھوکھر، جی ایم نکولس اور ویردم جیسے اہم شرکاء بھی موجود تھے۔ اس موقع پر وزیراعظم کے مشیر برائے سیاحت سردار یاسر خان نے خصوصی طور پر شرکت کی اور تقریب کے شرکاء سے خطاب کیا۔\n\nسردار یاسر خان نے اپنے خطاب میں اس بات پر زور دیا کہ پاکستان میں کھیلوں اور سیاحت کے فروغ کے لیے وزیر اعظم پاکستان شہباز شریف کے وژن کے مطابق تمام ممکنہ اقدامات اٹھائے جا رہے ہیں۔ انہوں نے گالف کو دنیا کا مقبول ترین کھیل قرار دیتے ہوئے اعلان کیا کہ اس کھیل کی ترویج جاری رکھی جائے گی اور آئندہ سے یہ چیمپئن شپ ہر سال منعقد کی جائے گی، جبکہ نمایاں کارکردگی دکھانے والے کھلاڑیوں کی حوصلہ افزائی بھی کی جائے گی۔\n\nٹورنامنٹ کے مختلف زمروں میں کھلاڑیوں نے شاندار کارکردگی کا مظاہرہ کیا۔ ڈپلومیٹک گراس کیٹیگری میں ٹرانگ تھینگ نے پہلی پوزیشن حاصل کی جبکہ کرنل نورے پن اوتھمن دوسرے اور ایرک نمائاں رنر اپ رہے۔ ڈپلومیٹک نیٹ کیٹیگری میں شوشی پہلے، ٹرین دوسرے اور ڈو اینڈ ٹائے رنر اپ رہے۔ گراس ونر کمانڈر رضوان راشد رہے، رنر اپ کیپٹن عالم اور دوسرے رنر اپ ضیاع خان قرار پائے۔ نیٹ کیٹیگری میں ندیم عباسی پہلے نمبر پر رہے جبکہ ڈاکٹر عامر خواجہ اور تیمور حسن بالترتیب رنر اپ اور دوسرے نمبر پر آئے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-02T04:48:20+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "f567959b0bd4",
-   "rewritten": true,
-   "v4": true,
-   "title": "Nine Dead After Private Jet Crashes in Florida Residential Area",
-   "summary": "A private Learjet crashed on Sunday afternoon in a residential area of Palm Beach County, Florida, resulting in the deaths of all nine people on board, transportation authorities reported. The Bombardier-made Learjet 60, owned by a Delaware corporation, had departed from Austin-Bergstrom International Airport in Texas and was en route to North Eleuthera Airport in the Bahamas, according to the Federal Aviation Administration.\n\nFootage shared on social media captured the aircraft plunging into the ground next to a roadway and erupting in a massive explosion. Florida Governor Ron DeSantis described the incident as a major tragedy, noting the appearance of a missile striking the ground. Officials stated that the crash created a large crater near the entrance of a mobile home park in Lake Worth Beach, prompting the evacuation of approximately 600 people to two local shelters. Weather conditions in the vicinity at the time involved heavy rainfall and thunderstorms, according to AccuWeather data.\n\nAudio communications from a Miami air traffic control center documented the aircraft's final moments, revealing that the pilot initially reported managing ice and moderate turbulence. Less than a minute later, the cockpit issued a Mayday call as the descent rate rapidly accelerated past 10,000 feet per minute, eventually reaching speeds exceeding 30,000 feet per minute according to Flightradar24 data. The final transmission from the cockpit indicated the plane was running out of time before the crash.\n\nThe National Transportation Safety Board has initiated an investigation into the disaster, which Transportation Secretary Sean Duffy called a horrific event. Canada-based aircraft manufacturer Bombardier stated that it will fully cooperate with the ongoing federal investigation to determine the exact cause of the fatal crash.",
-   "url": "",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Jet-crash-Florida.jpg",
-   "published": "2026-11-02T04:47:33+00:00",
-   "source": "Source: ARY News",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "23cfdcb0d43b",
-   "rewritten": true,
-   "v4": true,
-   "title": "Pakistan's 5G Journey Focuses on Digital Capabilities and Economic Growth",
-   "summary": "In March, Pakistan's three mobile network operators paid approximately $510 million for a long-awaited 5G auction that nearly tripled the country's mobile airwaves. Industry experts emphasize that infrastructure must be evaluated based on its practical applications rather than mere connectivity speed. With broadband penetration climbing to nearly 66 percent since 2019 and information and communication technology exports reaching a record $4.6 billion in 2025-26, the nation's digital economy is expanding rapidly.\n\nWhile faster smartphones represent the most visible upgrade by relieving congested 4G networks, the broader economic advantages involve industrial automation, artificial intelligence, and cloud computing. Potential applications span multiple sectors, allowing factories to preemptively detect equipment faults, rural midwives to consult specialists via video, and agricultural workers to receive localized irrigation guidance. However, digital inclusion remains a significant challenge. Although network coverage exceeds 92 percent of the population, the GSMA reported that only 58 percent of adults utilized mobile internet in 2025 due to obstacles such as affordability, social norms, and digital literacy.\n\nGender disparities also persist, with phone ownership standing at 68 percent for women compared to 93 percent for men, despite a reduction in the usage gender gap. Addressing these gaps requires affordable devices, dependable electricity supplies, localized device assembly, and optimized taxation policies. Proponents argue that Pakistan must develop local language artificial intelligence models and basic service accessibility to ensure that users with standard mobile phones are not left behind in the country's technological transition.\n\nAchieving these goals requires coordinated efforts across multiple sectors, including telecom investment, predictable government policy, efficient spectrum management by regulators, and specialized training from universities. Ultimately, the success of 5G in Pakistan will not be judged by speed test results, but by its ability to improve healthcare delivery, agricultural productivity, and international competitiveness for local businesses and independent professionals.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/01/10080404cb5d2ce.webp",
-   "published": "2026-11-02T04:44:27+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "19aad96f84ba",
-   "rewritten": true,
-   "v4": true,
-   "title": "Maximizing Pakistan's New 5G Infrastructure Beyond Speed Tests",
-   "summary": "Pakistan's three mobile network operators invested around $510 million in March to secure expanded mobile airwaves through a delayed 5G spectrum auction. Analysts emphasize that acquiring licenses and increasing network speeds are merely foundational steps; the true value of 5G infrastructure depends on the practical services and capabilities built upon it. Amid growing digital milestones, including broadband penetration nearing 66 percent according to the Pakistan Telecom Authority and record ICT exports of $4.6 billion in 2025-26, the focus has shifted toward building a comprehensive digital ecosystem.\n\nBeyond enhancing mobile browsing speeds, new spectrum allocations relieve congestion on existing 4G networks while enabling advanced industrial and commercial applications. Factories can deploy sensors to monitor production lines, and enterprises can leverage artificial intelligence and cloud computing without maintaining dedicated local servers. Practical use cases range from telemedicine consultations in rural Sindh to agricultural advisories in Punjab and remote service delivery by entrepreneurs. Nevertheless, bridging the digital divide remains critical because only 58 percent of adults used mobile internet in 2025 despite network availability covering over 92 percent of the country.\n\nSignificant demographic disparities also remain, particularly a wide phone-ownership gap where 68 percent of women own devices compared to 93 percent of men, even though the usage gender gap narrowed notably. Overcoming these barriers necessitates affordable hardware, dependable power infrastructure, rationalized taxes, and targeted resources from the Universal Service Fund for underserved populations. Furthermore, the development of localized artificial intelligence models and accessible tools for basic mobile devices are viewed as essential steps to include the next wave of users.\n\nRealizing this digital potential requires collaborative participation from telecom operators, policymakers, regulators, device manufacturers, and educational institutions. Success will be determined by whether the technology can tangibly improve everyday services, empower local freelancers to secure global contracts, and enable Pakistani enterprises to compete on the international stage without requiring relocation.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/01/10080404cb5d2ce.webp",
-   "published": "2026-11-02T04:43:38+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "84c49a65896d",
-   "rewritten": true,
-   "v4": true,
-   "title": "Binance Resumes Operations and Stabilises Withdrawals Following Major Heist",
-   "summary": "Binance, the world's largest cryptocurrency exchange with 335 million registered users and $171 billion in total assets as of October 28, has resumed its services following a security breach last week where $6.3 billion was stolen. The platform experienced customer outflows of $3.64 billion, or 2.1% of its assets, as it brought services back online. The FBI attributed the attack to TraderTraitor, a North Korean state-sponsored unit, though North Korea denied involvement and U.S. President Donald Trump stated that responsibility remained unclear.\n\nTo reassure crypto investors, Binance stated it had covered $6 billion of the stolen funds by using its own money to purchase replacement tokens, leaving the remaining 5% consisting of less liquid assets to be sourced later. The exchange rolled out withdrawals in stages, prioritizing high-demand tokens including bitcoin, ether, dogecoin, and certain USDC and USDT stablecoins. DefiLlama data initially placed net outflows higher at $5.81 billion, though Binance disputed the accuracy of these figures.\n\nThe massive security breach impacted the broader market, as bitcoin and ether dropped to six-week and two-month lows respectively on Friday before recovering slightly over the weekend, with bitcoin trading above $78,000 and ether reaching $2,287 on Monday. Additionally, the combined capitalisation of the top two stablecoins, USDT and USDC, fell by about $1.2 billion since Friday, spot bitcoin ETFs shed $643 million, and more than $1.3 billion in leveraged positions were liquidated.\n\nIndustry experts noted that the incident highlighted unique risks associated with digital assets compared to traditional finance. While some institutional figures like Jay Koh of the Asia Web3 AI Association advised users to review exposure and diversify custody arrangements rather than withdrawing entirely, analysts from TRM Labs pointed out that cryptocurrency hacks function like high-speed bank robberies, creating an unstable risk profile for institutional capital.",
-   "url": "",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Binance.jpg",
-   "published": "2026-11-02T04:36:04+00:00",
-   "source": "Source: ARY News",
-   "lang": "en",
-   "category": "pakistan"
   }
  ]
 }
