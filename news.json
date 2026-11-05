@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T18:47:42.581685+00:00",
+ "updated": "2026-11-05T19:47:30.960754+00:00",
  "stories": [
   {
    "id": "f79f79c918f2",
@@ -50,6 +50,58 @@
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Caitlin-Clark-major-announcement.jpg",
    "published": "2026-11-05T18:05:02+00:00",
    "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "8b41836b10c9",
+   "rewritten": true,
+   "v4": true,
+   "title": "Wall Street Tech Stocks Tumble Amid US Midterm Anxiety",
+   "summary": "Technology shares on Wall Street tumbled sharply on Thursday following the US midterm elections, as investors grew concerned about a potential backlash against artificial intelligence data centre projects. The sell-off erased gains from a post-election rally on Wednesday and was further compounded by a recovery in oil prices. The tech-heavy Nasdaq Composite dropped over five per cent during late morning trading before paring some of its losses.\n\nChipmakers bore the brunt of the downturn, with industry heavyweight Nvidia dropping over six per cent, Advanced Micro Devices plunging 12 per cent, and Micron losing 11 per cent. These companies supply crucial components for AI data facilities, a sector that has driven substantial revenue growth in recent years. Voters across the political spectrum have expressed opposition to these data centres, and numerous midterm victors have pledged to halt new constructions through moratoriums.\n\nMarket analysts noted that tech stocks entered freefall as investors weighed potential regulatory changes by incoming members of Congress. The Philadelphia Semiconductor Index fell more than eight per cent. Meanwhile, oil prices rebounded following a previous drop driven by hopes for diplomatic solutions in the US-Iran conflict, and European and Asian stock markets also experienced significant downward pressure.\n\nThe broader market reaction highlighted deep uncertainty surrounding the tech sector and geopolitical shifts. While major indices finished lower in Frankfurt and London, and Seoul shed over five per cent, certain individual equities saw contrasting movements. Air France-KLM shares rose nearly 13 per cent due to strong third-quarter operating profits, whereas German defence giant Rheinmetall plunged over 15 per cent after a major warship contract was cancelled by Berlin.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/052223418b952f7.webp",
+   "published": "2026-11-05T17:29:38+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "97ef6d2cc6ad",
+   "rewritten": true,
+   "v4": true,
+   "title": "UN Security Council Adopts Pakistan-Led Statement on Wartime Diplomacy",
+   "summary": "The United Nations Security Council adopted a Presidential Statement initiated by Pakistan concerning diplomacy during active hostilities. Announced by the Ministry of Foreign Affairs in Islamabad, the adoption marked a significant contribution by Pakistan to the international body's thematic focus on global peace and security.\n\nThe newly adopted document emphasizes the necessity of maintaining diplomatic efforts even after conflict has erupted. It advocates for mediation, the use of good offices, and keeping communication channels open to successfully facilitate ceasefires and establish long-lasting political settlements.\n\nThis presidential statement expands upon Security Council resolution 2788, which was unanimously adopted in July 2025 during Pakistan's presidency of the Council. While resolutions carry legal weight, presidential statements are non-binding formal expressions representing the collective consensus of all 15 Council members.\n\nThe Foreign Office noted that the statement creates a unified framework by consolidating past conflict experiences and principles. Serving a 2025–26 term as a non-permanent Council member, Pakistan's initiative underscores its ongoing dedication to multilateral cooperation, dialogue, and international stability.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/0522161417bb509.webp",
+   "published": "2026-11-05T17:18:58+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "89e2f4a2289d",
+   "rewritten": true,
+   "v4": true,
+   "title": "Paraguayan President Santiago Pena Resigns Amid Banking Scandal",
+   "summary": "Paraguayan President Santiago Pena announced his resignation on Thursday following the state takeover of Ueno Bank, a financial institution linked to him. The central bank assumed control of the bank due to severe capital shortfalls, leaving approximately three million depositors and pensioners unable to access their funds and sparking widespread civil unrest in the capital.\n\nIn a video shared on X, the right-wing president apologized to the public, stating that his primary concern was ensuring the peace of mind of citizens who trusted their savings to the financial system. Long queues of anxious citizens formed outside Ueno branches, and anti-government protests filled the streets of Asuncion for two consecutive evenings, leading to clashes with police who deployed tear gas and water cannons.\n\nOpposition lawmakers swiftly moved to impeach Pena, accusing him of regulatory favoritism toward the bank. Although Pena previously sold his shares in the controlling group last year and attempted to defuse tensions by prompting Central Bank President Carlos Carvallo to step down alongside enacting a fast-return law for deposits, the measures failed to appease the public or lawmakers.\n\nPena’s own Colorado Party ultimately supported his removal during congressional debates, with ruling party members acknowledging the public betrayal felt by millions of harmed citizens. Following his departure, Vice President Pedro Alliana will step in to assume the presidency and lead the South American nation.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Paraguays-President-Santiago-Pena.jpg",
+   "published": "2026-11-05T17:17:35+00:00",
+   "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "d0021c9ccf4f",
+   "rewritten": true,
+   "v4": true,
+   "title": "Gadi Eisenkot Positioned to Form Israeli Government with Arab Support",
+   "summary": "Israel's largest Arab political factions announced on Thursday that they would endorse Gadi Eisenkot to establish the country's next government. The backing strengthens Eisenkot's prospects over incumbent Prime Minister Benjamin Netanyahu, whose right-wing coalition lost crucial support from an allied religious faction following the October 27 legislative election.\n\nDuring ongoing consultations held by President Isaac Herzog, neither Netanyahu nor Eisenkot secured a clear majority in the 120-member parliament. However, Arab-majority lists achieved a historic total of 19 seats, positioning them as potential kingmakers. Both the Joint List, securing 11 seats, and Raam, winning eight seats, formally informed President Herzog of their decision to recommend Eisenkot for the premiership.\n\nConcurrently, the ultra-Orthodox United Torah Judaism party declined to recommend Netanyahu during its meeting with Herzog, withholding support without endorsing Eisenkot. The party's tactical move aims to pressure Netanyahu over stalled legislation regarding military service exemptions for religious seminary students, a deeply divisive issue as military reservists endure multiple active war tours.\n\nIf President Herzog tasks Eisenkot with forming a government, the candidate will have a 28-day window to succeed, extendable by 14 days. While Netanyahu's bloc holds 53 parliamentary seats compared to Eisenkot's 48, relying on Arab-party support carries political risks for Eisenkot, including potential pushback from hawkish opposition allies like Avigdor Liberman.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/05220303715c7bd.webp",
+   "published": "2026-11-05T17:16:12+00:00",
+   "source": "Source: Dawn",
    "lang": "en",
    "category": "pakistan"
   },
@@ -3848,58 +3900,6 @@
    "source": "Source: The Express Tribune",
    "lang": "en",
    "category": "world"
-  },
-  {
-   "id": "daeb5fd4f5ee",
-   "rewritten": true,
-   "v4": true,
-   "title": "کراچی کے جناح اسپتال میں ریبیز سے بارہ سالہ بچہ جاں بحق",
-   "summary": "کراچی کے جناح اسپتال میں ریبیز کے مرض میں مبتلا بارہ سالہ بچہ دورانِ علاج دم توڑ گیا ہے۔ اس تازہ ترین واقعے کے بعد رواں سال کے دوران سندھ بھر میں ریبیز کے مرض سے جاں بحق ہونے والے افراد کی مجموعی تعداد اکتالیس ہو چکی ہے۔ اسپتال ذرائع کے مطابق اس بدقسمت بچے کا تعلق بلوچستان کے ضلع جھل مگسی سے تھا، جسے تقریباً ایک ماہ قبل ایک آوارہ کتے نے چہرے اور بائیں آنکھ کے قریب کاٹ لیا تھا۔ بچے کو کتے کے کاٹنے کے بعد ابتدائی طور پر ریبیز ویکسین کی دو خوراکیں تو لگائی گئی تھیں، تاہم اسے ریبیز امیونوگلوبیولن فراہم نہیں کیا گیا تھا۔ بچے کو جب اسپتال لایا گیا تو اس میں تیز بخار، پانی سے خوف اور شدید بے چینی کی علامات پائی گئیں، جہاں ڈاکٹروں نے طبی جانچ کے بعد اس میں ریبیز انسیفلائٹس کی تشخیص کی۔ علاج کے باوجود بچہ جانبر نہ ہو سکا اور انتقال کر گیا۔ طبی اعداد و شمار کے مطابق جناح اسپتال میں ہی رواں برس ریبیز کے باعث گیارہ اموات واقع ہو چکی ہیں۔ اس کے علاوہ انڈس اسپتال کراچی میں اس موذی مرض سے انتیس افراد جبکہ انڈس اسپتال بدین میں ایک شخص جان کی بازی ہار چکا ہے۔ اس صورتحال میں ماہرینِ صحت اور متعلقہ اداروں کی طرف سے کتے کے کاٹنے کے بعد بروقت اور مکمل طبی امداد، بشمول تمام ضروری ویکسین اور امیونوگلوبیولن کے بروقت استعمال کی اہمیت پر زور دیا جا رہا ہے تاکہ اس قسم کے قیمتی انسانی جانوں کے ضیاع کو روکا جا سکے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-04T10:00:23+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "9d19b3ac1562",
-   "rewritten": true,
-   "v4": true,
-   "title": "Sonam Kapoor Shares Throwback Photos Wearing Elizabeth Taylor’s Emerald Necklace",
-   "summary": "Bollywood actress Sonam Kapoor recently shared throwback photographs of herself wearing Elizabeth Taylor's legendary emerald-and-diamond Bulgari necklace. Kapoor's social media post followed reality star Kim Kardashian's recent visit to Bulgari's Rome boutique, where Kardashian was given the opportunity to try on the historic piece. Accompanied by a red ensemble, Kapoor humorously noted her past fashion revelation that red and green complement each other well.\n\nThe necklace carries a rich Hollywood legacy, originating around 1962 when Italian luxury house Bulgari created it while Taylor was in Rome filming 'Cleopatra'. During that period, Taylor began her romance with co-star Richard Burton, who famously gifted her extensive Bulgari emerald jewelry. The necklace was officially presented to Taylor as a wedding gift in 1964 and featured a detachable emerald-and-diamond pendant originally given to her during their 1962 engagement.\n\nFollowing Taylor's death in 2011, her extensive jewelry collection was auctioned by Christie's in New York on December 13, 2011. The Bulgari emerald necklace fetched $6,130,500, significantly surpassing its initial pre-sale estimate of $1 million to $1.5 million. The historic piece was later worn publicly by actress Julianne Moore in February 2013, continuing its decades-long association with high-profile celebrity glamour.",
-   "url": "",
-   "image": null,
-   "published": "2026-11-04T09:57:40+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "fashion"
-  },
-  {
-   "id": "5ab8d17875f8",
-   "rewritten": true,
-   "v4": true,
-   "title": "James Talarico Ends Democratic Losing Streak with Historic Texas Senate Victory",
-   "summary": "State Representative James Talarico won the United States Senate race in Texas on Tuesday according to media projections, defeating the Donald Trump-backed Republican candidate, Ken Paxton. This outcome terminates a 32-year statewide losing streak for Democrats in a traditionally Republican-dominated state where Trump previously won by 14 percentage points in 2024. Talarico's win provides a vital boost for his party in the broader national battle for control of the United States Senate.\n\nPaxton, who serves as the Texas attorney general, faced multiple controversies prior to the election, including a securities fraud case and a 2023 impeachment. Throughout the primary cycle, Paxton secured Trump's endorsement, which led to the primary defeat of incumbent Republican Senator John Cornyn, whom party leaders had previously considered a stronger general election contender. Paxton utilized his position as attorney general to file more than 100 lawsuits against the administration of former President Joe Biden. As attorney general, Paxton's legal maneuvers were a prominent feature of his political profile.\n\nTalarico emerged victorious in the most expensive Senate contest of the current cycle, overcoming heavy outside spending and a total Republican expenditure of more than $316 million aimed at retaining the seat. Initially considered an underdog against former US Representative Colin Allred—who withdrew to run again for the House—Talarico advanced to secure the Democratic nomination by defeating US Representative Jasmine Crockett. Entering Tuesday's vote, Republicans held a 47-53 majority in the Senate, with Democrats requiring a net gain of four seats to secure majority control.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/11/041439249f502b6.webp",
-   "published": "2026-11-04T09:41:26+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "0776cb304ebd",
-   "rewritten": true,
-   "v4": true,
-   "title": "Mughal Energy Plans 25MW Solar Plant to Power Generation Facility",
-   "summary": "Mughal Energy Limited has received board approval to install a 25-megawatt solar power plant designed to offset auxiliary power usage at its existing power generation facility. The decision was finalized by the company's board of directors during a meeting on Wednesday, according to an official filing submitted to the Pakistan Stock Exchange. Mughal Energy Limited operates as a subsidiary of Mughal Iron & Steel Industries Limited.\n\nThe capital for the proposed solar installation will be secured through a mix of debt and equity, which will include financial contributions from sponsors and directors. The enterprise noted that the exact financing structure, including the specific debt-to-equity ratio, will be established based on project requirements, commercial feasibility, and final financing arrangements. The organization did not make public any estimated project costs or projected completion timeframes in its disclosure.\n\nThis new initiative follows earlier developments in August, when Mughal Energy Limited successfully commissioned the main 31.50 MW turbine for its captive hybrid power plant project. Mughal Iron & Steel Industries Limited was originally incorporated in Pakistan on February 16, 2010. While the broader parent company participates in both ferrous and non-ferrous business sectors, its primary operational focus remains the manufacturing and sale of mild steel products within the ferrous category.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2024/02/2020170235e6f53.jpg",
-   "published": "2026-11-04T09:40:00+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
   }
  ]
 }
