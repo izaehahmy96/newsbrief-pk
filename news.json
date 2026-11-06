@@ -1,6 +1,58 @@
 {
- "updated": "2026-11-06T19:26:00.489518+00:00",
+ "updated": "2026-11-06T20:15:14.011010+00:00",
  "stories": [
+  {
+   "id": "13dcce6d854d",
+   "rewritten": true,
+   "v4": true,
+   "title": "Trump Appoints Stephen Miller White House Chief of Staff After Midterms",
+   "summary": "US President Donald Trump announced on Friday that he is replacing White House Chief of Staff Susie Wiles with political adviser Stephen Miller. The leadership change comes after Republicans lost control of Congress during this week's midterm elections. Wiles submitted her resignation on Thursday night and will transition to Trump's political operation, with the official handover taking effect on Monday.\n\nMiller, a longtime loyalist and veteran of Trump's first presidential term from 2017 to 2021, has served as deputy chief of staff since Trump returned to the White House in 2025. Widely recognized as the architect of hardline domestic initiatives, Miller drove an aggressive immigration crackdown that aimed for 3,000 arrests daily and targeted migrants residing in the United States for decades.\n\nTrump praised Wiles for completing an outstanding job while hailing Miller as one of his most trusted advisers on social media. White House officials indicated that Miller's promotion signals a more aggressive posture on domestic policy and politics as the administration braces for a Democratic-led House and Senate alongside expected congressional investigations.\n\nDispleased with falling public approval ratings and communication efforts prior to Tuesday's election, Trump previously remarked that the White House needed to become more assertive. Wiles's allies had shared concerns regarding a potential replacement earlier in the week, reflecting internal tensions as the presidency confronts a shifting political reality.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/07011026a8e9174.webp",
+   "published": "2026-11-06T20:11:19+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "4f7218c86ddb",
+   "rewritten": true,
+   "v4": true,
+   "title": "Trump Names Stephen Miller as Chief of Staff Following Midterm Losses",
+   "summary": "United States President Donald Trump stated on Friday that he will install long-serving adviser Stephen Miller as his new chief of staff. Miller will succeed Susie Wiles following significant Republican losses in the midterm elections, which resulted in the party losing control of Congress.\n\nThe administrative shake-up occurs in the wake of voter frustration regarding the economy and the war with Iran, which contributed to major setbacks for Republicans during Tuesday's polls. Trump took to social media to commend Wiles for executing an outstanding job and described Miller as one of his most trusted advisers.\n\nThe transition is scheduled to take effect on Monday. According to the announcement, Wiles will transition to work within Trump's political operation as the administration adjusts its approach to White House operations following the congressional defeats.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/070043324cec8ee.webp",
+   "published": "2026-11-06T19:55:05+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "b269dfcec3d7",
+   "rewritten": true,
+   "v4": true,
+   "title": "IBA Karachi Hosts Sixth Annual International Conference on Sustainable Economics",
+   "summary": "The Institute of Business Administration (IBA) in Karachi recently hosted its sixth annual international conference, titled 'Beyond Polycrisis: Pathways Towards a Sustainable Economic Future.' Organized by the IBA Center for Business & Economic Research in partnership with organizations including the World Bank Group and the Sindh Higher Education Commission, the two-day event drew scholars, policymakers, industry leaders, and students.\n\nDuring the opening remarks, IBA Executive Director Dr. S Akbar Zaidi characterized Pakistan's economic, political, climate, and population challenges as interconnected crises. He noted that population growth consistently outpaces economic expansion, with the current population of approximately 250 million projected to reach 270 million by 2030. Additional opening addresses featured Dr. Yaqoob Khan Bangash emphasizing national resilience, Professor Adil Najam discussing climate adaptation, and Professor Iwi Ugiagbe-Green redefining prosperity around human well-being and planetary limits.\n\nThe conference also featured leadership sessions, theatre performances, and keynote addresses from federal figures. Senator Musadik Malik discussed how growth stalls due to foreign exchange shortages and urged that climate disasters be evaluated through lost lives and livelihoods. Senator Sherry Rehman highlighted that renewable energy adoption helped Pakistan bypass roughly USD 12 billion in fossil fuel and LNG imports between 2018 and 2026, while positioning the country as a credible middle power.\n\nParallel technical sessions and panel discussions explored job creation, evidence-based policymaking, gender and water conflicts, trade reforms, and artificial intelligence in economic policy. The gathering concluded with audience reflections, reinforcing IBA's dedication to uniting research and policy to steer Pakistan toward a sustainable economic future.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/07004401c57b87c.webp",
+   "published": "2026-11-06T19:50:35+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "a15dbd1f54bc",
+   "rewritten": true,
+   "v4": true,
+   "title": "NCERT Warns Critical Infrastructure and Banks of AI-Driven Cyberthreats",
+   "summary": "Pakistan's National Cyber Emergency Response Team (NCERT) issued an advisory on November 5 warning organizations about the growing utilization of artificial intelligence and automated bots to execute credential-based and coordinated cyberattacks. The agency highlighted that financial services and critical infrastructure face heightened vulnerabilities due to threat actors leveraging agentic tools and botnets to accelerate attack velocity and scale.\n\nThe advisory cautioned financial institutions that core banking systems, digital platforms, payment gateways, and customer-facing apps could encounter service disruptions, automated credential theft, and unauthorized balance manipulations. For critical infrastructure, NCERT warned that third-party vendors, Internet of Things devices, and industrial control systems could expose oil and gas facilities, water utilities, power grids, and transportation networks to physical and commercial disruptions.\n\nNCERT referenced recent European cyber incidents targeting supermarket refrigeration systems as examples of physical consequences affecting connected operational setups. To identify potential breaches, the advisory outlined specific indicators, including repeated authentication failures, abnormal application programming interface requests, and unexpected alterations in grid or pressure parameters.\n\nRecommended preventive measures include strengthening core banking security, restricting direct internet access, deploying multi-factor authentication, enforcing network segmentation, and continuously monitoring operational logs. NCERT urged all entities to review incident response plans, enhance security monitoring, and maintain strict backup procedures for essential industrial processes.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/07002505635e294.webp",
+   "published": "2026-11-06T19:44:56+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
   {
    "id": "4cbb69a87877",
    "rewritten": true,
@@ -444,6 +496,32 @@
    "category": "business"
   },
   {
+   "id": "d46a36c63519",
+   "rewritten": true,
+   "v4": true,
+   "title": "کراچی میں بڑی ڈکیتی: طارق روڈ پر کروڑوں کا سونا اور چاندی لوٹ لیا گیا",
+   "summary": "کراچی کے علاقے فیروز آباد میں طارق روڈ کے قریب ایک بڑی ڈکیتی کی واردات پیش آئی ہے جہاں موٹر سائیکل پر سوار مسلح ڈاکوؤں نے جیولر کے ملازمین سے کروڑوں روپے مالیت کا قیمتی سامان چھین لیا اور موقع سے فرار ہونے میں کامیاب ہو گئے۔ واقعے کی اطلاع ملتے ہی پولیس کی نفری فوری طور پر جائے وقوعہ پر پہنچ گئی اور ابتدائی تفتیش کا آغاز کر دیا۔\n\nایس ایس پی ڈسٹرکٹ ایسٹ زبیر نواز شیخ کے مطابق پولیس کو دئے گئے ابتدائی بیان میں جیولر نے بتایا ہے کہ ان کے ملازمین یا رائیڈر صدر کے علاقے سے 82 تولہ سونا اور 4 کلو چاندی تھیلے میں لے کر طارق روڈ پر واقع اپنی دکان کی طرف آ رہے تھے۔ جب وہ طارق روڈ پر اللہ والا چورنگی اور شارع قائدین سروس روڈ کے قریب پہنچے تو تعاقب میں آنے والے مسلح موٹر سائیکل سوار ڈاکوؤں نے انہیں گھیر لیا اور سونا اور چاندی لوٹ کر فرار ہو گئے۔\n\nفیروز آباد کے ایس ایچ او انعام جونیجو نے اس بات کی تصدیق کی ہے کہ متاثرہ ملازمین 'موتی والا جیولرز' نامی سنار کے لیے کام کرتے ہیں اور یہ تمام قیمتی سامان صدر سے لے کر جا رہے تھے۔ پولیس اب اس سنگین واردات کو ٹریس کرنے کے لیے جائے وقوعہ اور آس پاس کے علاقوں سے سی سی ٹی وی فوٹیجز حاصل کر رہی ہے۔\n\nحاصل کی جانے والی فوٹیجز کی مدد سے ملزمان کی شناخت کی کوشش کی جا رہی ہے تاکہ ان کے فرار ہونے والے راستوں کا تعین کر کے ایک مکمل روٹ میپ تیار کیا جا سکے۔ اس حوالے سے پولیس کی جانب سے مزید تفتیش کا عمل تیزی سے جاری ہے تاکہ جلد از جلد ملزمان کا سراغ لگایا جا سکے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-06T14:28:56+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
+   "id": "67d2a049f4c4",
+   "rewritten": true,
+   "v4": true,
+   "title": "واشنگٹن سے سفارتکاری کے آغاز سے قبل عملی اقدامات ناگزیر ہیں، تہران",
+   "summary": "ایران کی سپریم نیشنل سیکیورٹی کونسل (ایس این ایس سی) کے نائب سیکریٹری علی باقری کنی کا کہنا ہے کہ امریکا کے ساتھ سفارتی تعلقات کا نیا باب شروع کرنے سے قبل محض تحریری یقین دہانیوں پر بھروسا نہیں کیا جا سکتا بلکہ واشنگٹن کی جانب سے عملی اقدامات کا اٹھایا جانا ناگزیر ہے۔ ایک انٹرویو میں انہوں نے اس مؤقف کا اظہار کیا کہ امریکا کی جانب سے وعدہ خلافیوں اور جارحانہ اقدامات کے باعث پہلے ہی سفارتی کوششوں کے چار ادوار ناکام ہو چکے ہیں۔\n\nعلی باقری کنی نے واضح کیا کہ ایران کا یہ بنیادی حق ہے کہ وہ کسی بھی نئے مذاکراتی مرحلے میں جانے سے پہلے محض کاغذی یا تحریری وعدوں پر اکتفا نہ کرے۔ انہوں نے مزید کہا کہ کسی بھی قسم کے مذاکرات کو آگے بڑھانے کے لیے دوسرے فریق کو پہلے ایران کی سات نکاتی عملی تجویز پر مکمل عمل درآمد کرنا ہوگا۔ ان کے مطابق گزشتہ ڈیڑھ برس کے دوران امریکا کی جانب سے لگاتار وعدوں کی خلاف ورزیاں کی گئی ہیں۔\n\nعالمی طاقتوں اور خطے کے ممالک کے ساتھ روابط پر بات کرتے ہوئے انہوں نے ایس این ایس سی کے سیکریٹری میجر جنرل محسن رضائی کے دورہ روس اور روسی صدر ویلادیمیر پیوٹن کے ساتھ ہونے والی طویل ملاقات کا ذکر کیا۔ انہوں نے کہا کہ یہ ملاقاتیں ایران کی سرگرم اور ہدفی سفارتی حکمت عملی کا حصہ ہیں جس کا مقصد آیت اللہ مجتبیٰ خامنہ ای کی قیادت میں دوطرفہ تعاون کے وژن کو واضح کرنا ہے۔\n\nاسٹریٹجک حکمت عملی پر زور دیتے ہوئے ایرانی عہدیدار کا کہنا تھا کہ علاقائی سلامتی کے انتظامات کو روس، چین اور دیگر علاقائی ممالک کی حمایت حاصل ہے۔ ایران اپنے قومی مفادات، خودمختاری اور سلامتی کے تحفظ کے لیے عالمی طاقتوں بالخصوص روس اور چین کے ساتھ مشاورت کا سلسلہ درست سمت میں جاری رکھنے کے لیے مکمل طور پر تیار ہے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-06T14:28:32+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "944390e5b16c",
    "rewritten": true,
    "v4": true,
@@ -522,6 +600,19 @@
    "category": "pakistan"
   },
   {
+   "id": "030f8f8bcdfc",
+   "rewritten": true,
+   "v4": true,
+   "title": "Godzilla Minus Zero Sets Preview Record for GKIDS With $6 Million",
+   "summary": "Toho Studios' monster sequel Godzilla Minus Zero has achieved a strong North American preview performance, generating approximately $6 million ahead of its November 6 wide theatrical release. Directed by Takashi Yamazaki, the film's earnings surpassed distributor GKIDS' previous preview record, which was set in 2023 by Hayao Miyazaki's The Boy and the Heron with $2.39 million. More than $4 million of the latest preview total came from specialized fan screenings celebrating Godzilla Day and subsequent showings leading up to Friday. The preview figures put the sequel on track for a domestic opening weekend exceeding $30 million. The movie's performance is notable because it carries an R rating, an uncommon classification for the franchise, though ticket sales have been aided by interest in premium large-format and IMAX presentations. Internationally, the sequel also recorded a strong opening in Japan, earning about 1.38 billion yen ($8.7 million) in its first three days, which included a live-action opening day record of 910 million yen ($5.7 million) on Godzilla Day. The new film arrives three years after Godzilla Minus One, an international success that grossed approximately $113 million worldwide and won the Academy Award for Best Visual Effects.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-06T13:47:34+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "entertainment"
+  },
+  {
    "id": "9f602f9756f7",
    "rewritten": true,
    "v4": true,
@@ -546,6 +637,19 @@
    "source": "Source: Dawn",
    "lang": "en",
    "category": "world"
+  },
+  {
+   "id": "77cd5515fe84",
+   "rewritten": true,
+   "v4": true,
+   "title": "Salma Hayek Expresses Optimism and Gratitude Following Her 60th Birthday",
+   "summary": "Actor Salma Hayek has shared her positive outlook after turning 60, stating that reaching the milestone proved much less intimidating than she anticipated during her earlier years. Speaking exclusively to PEOPLE at the 2026 Women in Film Honors at The Beverly Hilton in Beverly Hills on November 5, Hayek reflected on entering her new decade following her September 2 birthday. She expressed gratitude for her continued ability to pursue her passions alongside her family, friends, health, energy, and dreams. Professionally, the Frida star recently completed her feature directorial debut with Arena and stated she is focused on completing that project rather than rushing into future plans. Her milestone birthday coincides with a significant period for her family, as she recently became a grandmother following the birth of a baby boy named François to her stepson François Pinault Jr. and his wife. Hayek shares a daughter, Valentina, with her husband, François-Henri Pinault, and is stepmother to his three children from previous relationships.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-06T13:35:16+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "entertainment"
   },
   {
    "id": "5ab41cab06ee",
@@ -3794,110 +3898,6 @@
    "image": null,
    "published": "2026-11-06T01:08:34+00:00",
    "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "eb2973a9d684",
-   "rewritten": true,
-   "v4": true,
-   "title": "ATC Defers Indictment of Accused in Judicial Complex Attack Case",
-   "summary": "An Anti-Terrorism Court in Islamabad on Thursday postponed the framing of charges against accused individuals in two cases linked to an alleged attack on the Federal Judicial Complex. Presiding judge Tahir Abbas Sipra delayed the proceedings because of the absence of incarcerated Pakistan Tehreek-e-Insaf founding chairman and former Prime Minister Imran Khan.\n\nThe cases involve two separate first information reports registered by the city police at the Counter Terrorism Department and the Golra Police Station. Authorities accused PTI leaders and workers of attacking police officers and causing unrest outside the judicial complex during a hearing regarding the Toshakhana case against Imran Khan.\n\nThe charges against the former prime minister and other leaders include Section 7 of the Anti-Terrorism Act alongside several provisions of the Pakistan Penal Code. These encompass rioting with deadly weapons, obstructing and assaulting public servants on duty, theft, dacoity, mischief causing property damage by fire or explosive substances, and criminal intimidation.\n\nFollowing the delay, the court rescheduled the hearing for January 2 without taking further action. The matter remains pending due to the continued non-availability of the primary defendant.\n\nThis delay highlights ongoing judicial bottlenecks in high-profile political cases involving the opposition party leadership. The outcome of the upcoming January hearing will determine whether the court can formally proceed with the indictments.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2023/04/17134715a2f5d19.jpg",
-   "published": "2026-11-06T00:47:13+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "68d610981f62",
-   "rewritten": true,
-   "v4": true,
-   "title": "HESCO Chief Directs One-Month Resolution for Hyderabad Power Supply Issues",
-   "summary": "The Hyderabad Chamber of Small Traders & Small Industry recently raised serious concerns regarding power supply difficulties affecting local businesses. President Nadeem Ahmed Siddiqui met with HESCO Chief Faizullah Dahri to discuss the negative impacts of unscheduled load shedding, prolonged shutdowns, and delayed power restoration on industrial feeders.\n\nAccording to the business delegation, the situation on the SITE, Indus, Hosri, and Fazal Gulzar feeders is particularly alarming. Siddiqui noted that uninterrupted electricity is vital for industrial production and commercial activities, warning that current outages cause significant financial losses and disrupt important evening business hours.\n\nSeveral other trade representatives attended the meeting to voice their grievances. They stressed the urgent need to improve feeder performance, reduce outage durations, and prioritize electricity delivery to commercial and industrial zones throughout Hyderabad.\n\nIn response to the complaints, HESCO Chief Faizullah Dahri directed relevant officials to resolve all electricity supply problems on the affected feeders within a one-month timeframe. He assured the delegation that effective measures would be taken, emphasizing that industries are valued customers deserving of top-priority service.\n\nA follow-up meeting is scheduled for December 4 to review progress made during the month. If issues persist, authorities will take further decisions based on the situation, while the Chamber expressed hope for practical steps to alleviate community difficulties.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/02/16032616e6dc77f.webp",
-   "published": "2026-11-06T00:47:13+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "e7504012c571",
-   "rewritten": true,
-   "v4": true,
-   "title": "FBR Revises Property Valuation Framework for Islamabad Rural Areas and Abbottabad",
-   "summary": "The Federal Board of Revenue has issued revised valuation mechanisms for immovable properties in rural areas of the Islamabad Capital Territory and Abbottabad. The updated framework took effect on November 5, 2026, under Section 68(4) of the Income Tax Ordinance, 2001, superseding previous notifications from 2024 and earlier in 2026.\n\nThrough SRO 2060(I)/2026, the FBR established fresh fair market values for residential and commercial open plots across Abbottabad. Residential plots in locations like Main Bazar and Kutcheri Road are valued at 1.25 million rupees per marla, while Abbottabad Bazar is set at 970,000 rupees. Commercial open plots range from 5.8 million rupees per marla in Main Bazar to 2.5 million rupees in areas such as College Road Mandian and Murree Road.\n\nThe Abbottabad notification also introduces depreciation-based valuation rates for constructed buildings. Properties up to five years old are assessed at 2,000 rupees per square foot, buildings between five and ten years at 1,000 rupees, and those older than ten years at 500 rupees, to be added to underlying land valuations.\n\nSeparately, SRO 2061(I)/2026 amends earlier rules for Islamabad's rural areas. Property valuations there will now align directly with the latest rates issued periodically by the Additional Deputy Commissioner Revenue and District Collector of Islamabad.\n\nThese revisions aim to update tax collection baselines for immovable property transactions in both regions. Tax authorities expect the updated framework to provide clearer guidelines for fair market assessments.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2024/05/663d2db224fcd.jpg",
-   "published": "2026-11-06T00:47:13+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "53408040bd0e",
-   "rewritten": true,
-   "v4": true,
-   "title": "Federal Minister Ahsan Iqbal Proposes Autonomous Pakistan Tourism Authority",
-   "summary": "Federal Minister for Planning, Development and Special Initiatives Ahsan Iqbal has called for the creation of an autonomous Pakistan Tourism Authority. During a Thursday meeting with Information and Broadcasting Minister Attaullah Tarar, Iqbal stated that the proposed body should include representation from all four provinces to improve national coordination and internationally market Pakistan as a unified tourism destination.\n\nThe discussion took place as Prime Minister’s Adviser on Tourism, Sardar Ayaz, briefed officials on tourism promotion initiatives and achievements spanning 2025–26. Participants emphasized the necessity of strong institutional mechanisms and policy frameworks to harness the country's natural beauty and tourism potential effectively.\n\nDuring the briefing, Sardar Ayaz announced that the Pakistan Tourism, Sports and Family Festival 2026 is scheduled for November 6, 7, and 8 in Islamabad. Various recreational events will take place across the capital, including at Lake View Park, with financial support secured through private sector sponsorships.\n\nIqbal stressed that a cohesive national strategy is vital for positioning Pakistan prominently on the global tourism map. Enhanced cooperation between federal and provincial authorities forms the cornerstone of this proposed developmental approach.\n\nThe meeting concluded with a shared focus on advancing institutional cooperation to boost both tourism and sports sectors. Officials hope these coordinated efforts will drive economic growth and attract higher numbers of international visitors.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2022/08/2716135056c9658.jpg",
-   "published": "2026-11-06T00:47:13+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "905e5a940682",
-   "rewritten": true,
-   "v4": true,
-   "title": "Business Groups Form Alliance Ahead of FPCCI Elections",
-   "summary": "The Businessmen Group (BMG) and Businessmen Panel (BMP) have united to form the Pakistan Businessmen Alliance (PBA) to jointly contest the upcoming Federation of Pakistan Chambers of Commerce and Industry (FPCCI) elections. Announced at a Karachi press conference on Thursday by BMG Chairman Zubair Motiwala and BMP Chairman Mian Anjum Nisar, the newly formed alliance aims to challenge the presidential nomination of S.M. Tanveer, the candidate put forward by the United Businessman Group (UBG).\n\nThe PBA leaders called for the FPCCI elections to be conducted under the supervision of a retired judge and demanded representation on the election committee to guarantee fairness and transparency. They announced that Zubair Motiwala will run for the position of FPCCI president, with the alliance contesting all available posts. According to Motiwala and Nisar, the coalition was created after the FPCCI Secretary General rejected the nomination papers of the Karachi Chamber and other candidates, sparking worries about fair representation, particularly for the province of Sindh.\n\nBeyond the immediate 2027-28 electoral cycle, the BMG and BMP intend to maintain a long-term partnership to tackle national economic challenges, advocate for reforms, encourage industrialisation, boost exports, attract investments, and generate employment. Motiwala raised concerns regarding the rotational turn allocated to Sindh, questioning the eligibility and electoral records of the rival candidate from Punjab. He emphasized the economic weight of Karachi, which accounts for over 67 percent of national revenue and 54 percent of exports, stating that Sindh's rightful representation must be defended through verifiable documentation and legal channels if necessary.\n\nThis political realignment matters because it consolidates major business factions to challenge existing leadership structures within Pakistan's apex trade body. The conflict over provincial rotation and candidate eligibility highlights deep-seated tensions regarding regional representation and institutional fairness in national economic governance.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/03/28023005d7b62e9.webp",
-   "published": "2026-11-06T00:47:13+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "a7aab30d3a2e",
-   "rewritten": true,
-   "v4": true,
-   "title": "ADB Urges Structural Reforms to Overcome Economic Cycles",
-   "summary": "Pakistan must prioritize consistent structural reforms, export diversification, and private-sector-led investments to overcome its recurring boom-and-bust economic cycles. Speaking at the Sustainable Development Policy Institute’s 29th Sustainable Development Conference on Thursday, Asian Development Bank (ADB) Country Director Dr Emma Xiaoqin Fan warned that decades of economic crises have failed to improve per capita income and living standards without institutional stability and policy continuity.\n\nFan noted that while Pakistan possesses significant potential due to its young population and agricultural resources, macroeconomic stability must be paired with a business-friendly regulatory environment and civil service reforms. She stressed that the government should focus on acting as a facilitator rather than engaging directly in commercial activities, citing the privatisation of Pakistan International Airlines (PIA) as a positive step. Meanwhile, Sam Waldock, Development Director at the British High Commission, highlighted that Pakistan's growth ceiling hovers around 3.8 percent because imports outpace exports, creating balance-of-payments pressures. Waldock outlined key export priorities, including regulatory reforms, trade facilitation, and market-oriented skills development to address weaknesses in export competitiveness.\n\nPernille Ironside, Acting UN Resident Coordinator and UNICEF Country Representative, added that the success of economic reforms must be measured by their tangible impact on human development, such as improved education, healthcare, and employment opportunities for the youth. The discussions emphasized that predictable policymaking, reduced compliance costs for businesses, and targeted public spending are vital for long-term national progress.\n\nAddressing these structural bottlenecks is critical for Pakistan to escape chronic financial instability and unlock sustainable economic growth. The insights provided by international development partners underscore the urgent need for policy consistency and institutional reform to support a population of over 250 million people.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2023/01/63bf355b413ed.jpg",
-   "published": "2026-11-06T00:47:13+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "95e1d62d7f5a",
-   "rewritten": true,
-   "v4": true,
-   "title": "Prime Minister Calls for Action Plan After New Polio Case",
-   "summary": "Prime Minister Shehbaz Sharif directed federal health authorities on Thursday to draft a coordinated national action plan within a week following the confirmation of Pakistan's ninth polio case of the year. The latest infection was detected in the Khyber district, bringing the total number of cases for the week to nine during a high-level review meeting in Islamabad.\n\nOfficials reported that seven of the nine cases originated in Khyber Pakhtunkhwa, specifically across Khyber, Bannu, and North Waziristan districts, while the remaining two cases were found in Karachi East and Sujawal in Sindh. Health authorities informed the meeting that the three cases in Khyber were linked to poliovirus strains circulating in Afghanistan, underscoring cross-border movement as a primary vector for transmission. In response, Sharif instructed the federal health minister, health secretary, and eradication team members to immediately consult provincial chief ministers and chief secretaries to build an integrated response.\n\nThe prime minister emphasized the importance of enhancing routine immunisation coverage in high-risk areas while ensuring the safety of frontline vaccination workers operating in security-sensitive regions. Officials noted that while access for immunization teams has improved in several challenging locations, Punjab, Balochistan, Azad Jammu and Kashmir, and Gilgit-Baltistan have reported stable or polio-free statuses over recent periods.\n\nThis renewed push matters as authorities attempt to curb the resurgence of the poliovirus and address cross-border transmission channels. Effective federal-provincial coordination and worker safety remain central to achieving a polio-free Pakistan.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2023/01/63c71d0b1a3eb.jpg",
-   "published": "2026-11-06T00:47:13+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "0b88d46baf9d",
-   "rewritten": true,
-   "v4": true,
-   "title": "Groundbreaking Held for New State Lounge at Islamabad Airport",
-   "summary": "Pakistan has officially commenced the construction of a new State Lounge at Islamabad International Airport to host visiting heads of state and foreign dignitaries. Federal Minister for Defence Khawaja Muhammad Asif laid the foundation stone for the project during a groundbreaking ceremony held on Thursday.\n\nThe infrastructure upgrade is part of the government's ongoing preparations to host the upcoming Shanghai Cooperation Organisation (SCO) Council of Heads of State Summit, scheduled for August 2027. The new facility is designed to elevate state protocol, hospitality, and facilitation standards for international delegations, senior government officials, and foreign leaders. Attendees at the ceremony included Secretary Defence Lt Gen Muhammad Ali (retd), Pakistan Airports Authority (PAA) Director General AVM Muhammad Shahid Afzaal, and other senior defense and aviation officials.\n\nFollowing the groundbreaking, the defence minister unveiled a commemorative plaque and participated in a tree planting activity to highlight the government's focus on environmental sustainability. According to the PAA, the state lounge project is a key component of wider national infrastructure improvements aimed at supporting high-level diplomatic events.\n\nInitiating this project is crucial for ensuring that Pakistan's aviation and protocol facilities meet international standards ahead of the high-profile SCO summit in 2027. The development reflects broader efforts to strengthen national hospitality and logistical frameworks for major international engagements.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2022/04/62689bd704186.jpg",
-   "published": "2026-11-06T00:47:13+00:00",
-   "source": "Source: Business Recorder",
    "lang": "en",
    "category": "business"
   }
