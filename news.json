@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T16:47:51.409956+00:00",
+ "updated": "2026-11-11T17:50:55.187492+00:00",
  "stories": [
   {
    "id": "b8e08e154759",
@@ -26,6 +26,71 @@
    "source": "Source: Geo News",
    "lang": "en",
    "category": "pakistan"
+  },
+  {
+   "id": "6772363de8a8",
+   "rewritten": true,
+   "v4": true,
+   "title": "Nadra launches ID chatbot to guide families through succession certificates",
+   "summary": "The National Database and Registration Authority has introduced an automated chatbot named \"ID\" on its revamped succession website. Operating in both English and Urdu on any phone or computer, the tool asks users a series of questions regarding the deceased, legal heirs, and assets to generate step-by-step instructions and a customized checklist of required documents without any official intervention.\n\nNadra spokesman Syed Shabahat Ali noted that the online system functions without collecting personal details like CNIC numbers, while heirs residing abroad can complete biometric verification through the Pak ID facility. The chatbot directs users to the appropriate office and issues early warnings if a case must proceed to court, such as when minor heirs are involved or disputes exist among family members. Officials advise the public to treat the interface as a reference tool and confirm final requirements at a local registration centre.\n\nThe authority has issued succession certificates and letters of administration for uncontested cases since 2021. Navigating succession in Pakistan is frequently complicated because legal requirements vary by province and the faith and sect of the deceased. Under current rules, Nadra handles only uncontested matters where all legal heirs agree, no one is a minor or mentally disabled, and the issue is not pending before any court. Applicants must present a valid CNIC or POC alongside specific documents including a union council death certificate, family registration certificate, and an attested Schedule-I letter of authorization.\n\nFailing to meet these conditions requires families to approach the judicial system instead. Fees for obtaining a certificate or letter of administration are set at Rs10,000 for total assets under Rs100,000 and Rs20,000 for assets valued at Rs100,000 or more, with the exception of Sindh where the fee is Rs22,000. Duplicate certificates cost Rs5,000. This digital guidance tool aims to help applicants understand complex jurisdictional rules and documentation needs before they make formal visits to Nadra offices.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/1120250600b79bd.webp",
+   "published": "2026-11-11T15:31:33+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "4e2f56f728d3",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan government reviews Export Facilitation Scheme amendments to assist exporters",
+   "summary": "The Pakistan government is actively reviewing proposed amendments to the Export Facilitation Scheme aimed at simplifying procedures, lowering compliance costs, and expanding access for both new and existing exporters. The evaluation also seeks to reinforce safeguards against potential scheme misuse and ensure that all rules are applied uniformly across the board.\n\nThis initiative was discussed during the fifth meeting of the Prime Minister’s Committee to Review the Export Facilitation Scheme, held at the Ministry of Finance. Minister of State for Finance and Railways Bilal Azhar Kayani chaired the session. Senior officials from the Ministry of Commerce and the Federal Board of Revenue participated, alongside prominent exporters and representatives from major trade bodies such as the All Pakistan Textile Mills Association, the Pakistan Textile Exporters Association, and the Sialkot Chamber of Commerce and Industry.\n\nAccording to a Finance Division press release, the evaluated proposals focus on streamlining exporter categorisation, rationalizing authorization periods, and establishing a transparent framework for security requirements. The planned modifications are designed to reduce overhead expenses, encourage fresh investments, stimulate local value addition, and ensure that financial concessions remain directly tied to genuine export performance. Kayani emphasized that procedural simplification must not compromise revenue safeguards and insisted that eligibility criteria must be implemented uniformly without exemptions.\n\nThe government reiterated its dedication to maintaining an open dialogue with exporters and trade organizations to ensure the framework remains responsive to community needs. These ongoing consultations reflect broader efforts to bolster the country's export sector by removing administrative hurdles while maintaining robust regulatory oversight.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/07/15003743af3d295.webp",
+   "published": "2026-11-11T15:26:14+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "180a84cde528",
+   "rewritten": true,
+   "v4": true,
+   "title": "Millions of Spanish workers launch general strike amid severe housing crisis",
+   "summary": "Approximately four million workers across Spain participated in a general strike on Wednesday, braving stormy weather to establish picket lines in protest of the nation's housing affordability crisis. Organized less than three weeks before a snap general election, this walkout marks the country's first general strike since 2012, when citizens protested austerity measures during the euro zone debt crisis. The industrial action received backing from Spain's largest unions, UGT and CCOO, alongside various tenant associations demanding relief from soaring rents and frequent evictions.\n\nPrime Minister Pedro Sanchez faces public discontent over housing ahead of the November 29 election, hoping the issue might divert attention from recent corruption allegations and a deadly train crash. Although participation varied geographically, the strike saw robust support in coastal areas and major cities. In Madrid and Barcelona, protesters marched past shuttered commercial stores while rattling house keys. Grid operator Red Electrica reported that electricity demand fell by up to 15.5 percent during peak morning hours, and regional transport authorities noted steep drops in metro ridership. Economists estimate the strike could reduce annual gross domestic product by 0.1 to 0.2 percent.\n\nSpain currently faces a deficit of approximately 750,000 homes, a figure projected to exceed one million by 2028. Consequently, a shift toward the rental market has driven average monthly rents to €1,176, consuming nearly 98.7 percent of a young person's average monthly salary. Business lobbies argued the strike was counterproductive and asserted that the true solution lies in constructing more homes and reducing taxes on construction and property acquisition. Meanwhile, police reported 40 arrests by midday following various blockades and incidents, while unions announced plans to file criminal complaints over a police response involving tear gas and batons that left 20 protesters injured.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/11201955027ba0c.webp",
+   "published": "2026-11-11T15:20:34+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "world"
+  },
+  {
+   "id": "700089a02e4e",
+   "rewritten": true,
+   "v4": true,
+   "title": "Jamaat-i-Islami announces nationwide protests and Lahore rally over inflation and LG polls",
+   "summary": "Jamaat-i-Islami emir Hafiz Naeemur Rehman has announced a series of major public demonstrations across Pakistan to protest against surging inflation, agricultural hardships, and delays in local government elections. Speaking at a press conference at Mansoorah on Wednesday, Rehman detailed plans for public gatherings in Quetta on November 22 and a large rally at Minar-i-Pakistan in Lahore on November 29, followed by subsequent events in Peshawar and Karachi.\n\nThe JI has campaigned for months against high fuel prices and petroleum levies driven by Middle East conflicts. Rehman stated that the party is expanding its movement to target soaring prices of petroleum products and liquefied petroleum gas, ongoing difficulties faced by farmers, and local government poll delays. Despite recent reductions in petrol and diesel prices by the government, consumers continue to face high costs for essential goods because transport charges remain unchanged, while LPG prices have surged following supply disruptions from Iran. Rehman criticized high electricity and gas tariffs and asserted that oil refineries are reaping massive profits.\n\nThe JI leader also lambasted the Punjab government over agricultural distress, highlighting that DAP fertilizer and wheat flour prices have escalated significantly while farmers struggle to secure fair returns for their crops. He claimed that a small group of influential political families controls most of the nation's sugar mills and exploits market shortages. Regarding local government elections, Rehman rejected Punjab's current local government legislation as anti-democratic and confirmed that his party has approached the courts over the poll delays.\n\nOn the issue of petroleum levies, Rehman mentioned that a joint technical team has prepared a draft agreement with the government to review potential relief measures. While the party's protests have secured temporary relief for owners of motorcycles and small vehicles, JI is pressing the government to extend these concessions to vehicles up to 1,300cc, diesel-run agricultural machinery, and public transport. Rehman emphasized that the party has not dropped its demand to abolish the petroleum levy entirely and urged authorities to curb refinery profits and reduce bureaucratic privileges instead of overburdening the public.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/111706379b03d6c.webp",
+   "published": "2026-11-11T13:51:11+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "e39fa80069c7",
+   "rewritten": true,
+   "v4": true,
+   "title": "Gulf Stock Exchanges Climb Amid Ongoing Middle East Tensions and Shipping Fears",
+   "summary": "A majority of stock markets across the Gulf finished Wednesday's trading session in positive territory. Market participants carefully evaluated the prospects of a ceasefire in the ongoing United States-Israeli military campaign against Iran against persistent concerns regarding maritime safety within the Strait of Hormuz. Despite signals pointing toward potential diplomatic de-escalation, recent attacks targeting oil tankers in the vital strait alongside regional energy facilities highlighted the constant threat of further hostilities.\n\nProviding perspective on the day's trading, Ranim Turfa, who serves as the head of research and market analysis for the Middle East and North Africa at Tickmill, noted that regional exchanges inched upward as traders monitored security threats alongside diplomatic mediation. Turfa pointed out that despite apparent headway, fears of renewed conflict remained strong because ongoing threats to energy transportation routes maintained a cautious investor mindset while focus stayed fixed on tangible diplomatic breakthroughs.\n\nIn national market performances, Saudi Arabia's primary benchmark bounced back from initial declines to finish up 1.4 percent at 10,308 points, driven by a 1.6 percent increase for petroleum giant Saudi Aramco. Additional Saudi corporate movements included Abdullah Al Othaim Markets Co surging 7.1 percent following a reduction in its quarterly deficit compared to the preceding three-month period, whereas Advanced Building Industries Co experienced a 6.5 percent drop—the steepest fall on the local index—due to a sharp reduction in third-quarter earnings. Across other regional centers, Dubai's principal share measure moved up 0.8 percent to 6,221 points, aided by a 4.3 percent rise for major lender Emirates NBD, while Abu Dhabi's index crept up 0.3 percent to close at 9,585 points. Conversely, the Qatari market slipped 0.5 percent down to 10,124 points, pulled lower by a 1.4 percent retreat from petrochemical manufacturer Industries Qatar.\n\nOutside the immediate Gulf territory, Egypt's blue-chip index concluded the session unchanged at 52,500 points, though tobacco firm Eastern Company experienced a 4.2 percent jump on the back of significantly higher third-quarter profits. Additional regional figures showed Oman advancing 1.3 percent to 7,374 points and Kuwait rising 0.3 percent to 9,003 points, while Bahrain remained unchanged at 1,824 points. These financial movements arrived immediately after announcements from the Saudi-led coalition confirming the successful interception of two projectiles launched by the Houthis toward Riyadh—consisting of one ballistic and one cruise missile—alongside an additional ballistic missile directed at the southern territory of Saudi Arabia and an unmanned drone spotted over the eastern energy-producing zone. Civil defense warnings were triggered in the capital city as well as the southern municipalities of Abha and Khamis Mushait before government officials confirmed the threat had cleared.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/111846433f61890.jpg",
+   "published": "2026-11-11T13:50:51+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
   },
   {
    "id": "64b08ef2594e",
@@ -3833,71 +3898,6 @@
    "image": "https://i.dawn.com/large/2026/11/101924000697235.webp",
    "published": "2026-11-10T15:26:39+00:00",
    "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "5fb45bbe2557",
-   "rewritten": true,
-   "v4": true,
-   "title": "Government and Jamaat-i-Islami Agree on Basic Outlines of Petroleum Relief Proposal",
-   "summary": "The government and Jamaat-i-Islami (JI) have agreed on the basic outlines of a proposed agreement regarding petroleum levy relief after holding their tenth round of negotiations in Islamabad. JI Vice Emir Liaqat Baloch announced the development following talks at the Ministry of Foreign Affairs, noting that a final decision is expected after a meeting between Prime Minister Shehbaz Sharif and JI chief Hafiz Naeemur Rehman. The negotiations follow months of pressure from the JI, which included a postponed protest march towards Islamabad.\n\nDuring the discussions, the two sides focused on providing consumer relief and establishing mechanisms to achieve it, while acknowledging the economic difficulties caused by regional conflicts in the Middle East. The JI proposed extending the ongoing fuel relief scheme to vehicles with engines up to 1,000cc and to the agricultural sector, including tractors. Additionally, the party demanded immediate and visible reductions in petroleum prices alongside the abolition of the petroleum levy, arguing that public relief is essential and that the government should curb lavish expenditures rather than burden ordinary citizens.\n\nThe government explained its financial constraints but acknowledged that the demand to abolish the petroleum levy was justified. Baloch stated that the negotiation process has reached a stage of final decisions, with both sides working on drafting the proposed agreement. The JI's future course of action will depend on the official response from the administration, determining whether the party revives its long-term protest march.\n\nThe issue originated when skyrocketing fuel prices prompted the JI to demand the removal of petroleum levies over two months ago. Committees were subsequently formed to explore relief measures, leading to ongoing consultations between Prime Minister Shehbaz Sharif and JI leadership to formulate a way forward on energy pricing and public support.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/10200716b2aad9a.webp",
-   "published": "2026-11-10T15:26:02+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "973165e05de1",
-   "rewritten": true,
-   "v4": true,
-   "title": "Islamabad High Court Orders Access to Imran Khan and Bushra Bibi",
-   "summary": "The Islamabad High Court in Pakistan directed authorities to allow lawyers Latif Khosa and Salman Safdar to visit PTI founding chairman Imran Khan and his wife, Bushra Bibi, at Adiala jail. The directive was issued during a hearing concerning their appeals against convictions in the £190 million case, provided the defense agreed to begin arguments at the upcoming hearing.\n\nDuring the proceedings, Barrister Salman Safdar raised serious concerns regarding the health of both inmates. He stated that Imran Khan's blood pressure remains uncontrolled, creating a fear of a potential brain haemorrhage, although his eyesight has reportedly improved. Safdar also addressed the health condition of Bushra Bibi, noting that her eyesight is severely affected and that she is scheduled for another operation on November 15. While the Islamabad advocate general presented records showing she receives medical care, Safdar requested an independent medical board examination.\n\nThe £190 million case, also referred to as the Al-Qadir Trust case, stems from allegations that Imran Khan and others in 2019 approved a confidential settlement regarding £190 million—equivalent to Rs50 billion—sent by Britain's National Crime Agency to the Pakistani government. Following an accountability court ruling, Imran Khan was previously sentenced to 14 years in prison with a Rs1 million fine, while Bushra Bibi received a seven-year sentence and a Rs500,000 fine. The Islamabad High Court also addressed delays regarding defense preparation and paper books, granting time for the legal teams to prepare for the next session.",
-   "url": "",
-   "image": "https://www.geo.tv/assets/uploads/2026-11-10/690488_031043_updates.jpg",
-   "published": "2026-11-10T15:26:00+00:00",
-   "source": "Source: Geo News",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "e15c0527aa25",
-   "rewritten": true,
-   "v4": true,
-   "title": "Pakistan Controls First Test Against Sri Lanka After Reaching 434 and Taking Three Wickets",
-   "summary": "Pakistan strengthened their position on the opening Test against Sri Lanka on Tuesday by declaring their first innings at 434 for nine and reducing the visitors to 114 for three at the close of the second day at the Rawalpindi Cricket Stadium. Sri Lanka trail by 320 runs and will resume their innings with Kamindu Mendis unbeaten on 40 and Dhananjaya de Silva on 22, after bad light brought an early end to play following 27.1 overs.\n\nResuming their overnight score of 281 for five, Pakistan built a substantial total thanks to strong lower-order batting. Saud Shakeel added 96 runs for the sixth wicket with debutant Ghazi Ghori, eventually top-scoring with 93 runs off 199 balls before being caught behind off Asitha Fernando. Ghazi contributed 48 runs, while fellow debutant Arafat Minhas scored an impressive 52 off 72 deliveries. In total, five Pakistani batters reached half-centuries, including debutants Tayyab Arif with 57 and Mohammad Taha with 51, alongside captain Babar Azam. Fernando and Dilshan Madushanka each claimed three wickets for Sri Lanka.\n\nIn response, Pakistan's fast bowlers quickly put the touring side under pressure. Mohammad Abbas removed opener Pasindu Sooriyabandara for a duck, and debutant Saqib Khan dismissed Dinesh Chandimal for one run. Lahiru Udara offered resistance with 42 runs before becoming Saqib's second victim, leaving Sri Lanka struggling at three wickets down.\n\nMendis and de Silva subsequently stabilized the innings through an unbroken 49-run partnership, preventing further damage before fading light forced the umpires to call stumps. Sri Lanka faces a difficult challenge on the third day to reduce their massive deficit and stay competitive in the match.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/1017022998ba047.webp",
-   "published": "2026-11-10T15:23:03+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "9e44435cb767",
-   "rewritten": true,
-   "v4": true,
-   "title": "PTI Chairman Gohar Ali Khan Defends Interaction With Former Army Chief Bajwa",
-   "summary": "Pakistan Tehreek-e-Insaf Chairman Barrister Gohar Ali Khan defended his brief interaction with former army chief General Qamar Javed Bajwa after a photograph of the two shaking hands at a wedding ceremony circulated widely on social media. The image drew sharp criticism and calls for his resignation from various party officials and supporters, who hold General Bajwa responsible for the ouster of the PTI government in 2022. Speaking to reporters on Adiala Road in Rawalpindi, Gohar dismissed the encounter as a simple exchange of greetings with no further discussion.\n\nGohar condemned the backlash as propaganda and emphasized that political differences should not evolve into permanent animosity. He stated that relationships can shift over time, asserting that hatred must come to an end. Addressing other political matters, Gohar confirmed that PTI will participate in the upcoming local government elections and noted that candidates have been instructed to prepare nomination papers for the three constituencies in Islamabad.\n\nThe PTI chairman also addressed judicial matters and party relations, expressing hope that the Islamabad High Court's recent order regarding meetings with incarcerated founder Imran Khan will be implemented after two years of restrictions. He reported that information regarding Imran Khan's health brought by Barrister Salman Safdar was concerning and reiterated demands for the implementation of the Supreme Court's August 18 order. Gohar added that while PTI maintains contact with the government and the interior minister, no formal negotiations are currently underway.\n\nFurthermore, Gohar discussed regional politics and inter-party relations, noting that discussions with Jamiat Ulema-e-Islam-Fazl chief Maulana Fazlur Rehman focused on a proposed All Parties Conference. Regarding Khyber-Pakhtunkhwa, Gohar stated that governor's rule or an emergency is not an acceptable substitute for a democratic government and demanded an immediate end to such measures.",
-   "url": "",
-   "image": null,
-   "published": "2026-11-10T15:17:35+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "ee43ce64c6a0",
-   "rewritten": true,
-   "v4": true,
-   "title": "MEPCO Approves One-Time Pay Increment for Twenty-Four Employees Who Memorized the Quran",
-   "summary": "The Multan Electric Power Company (MEPCO) has approved a one-time additional advance increment for 24 employees who have memorized the Holy Quran. The official notification was issued to honor their religious achievement, carrying the approval of MEPCO Chief Executive Officer Engineer Gul Muhammad Zahid and Chief HR and Career Planning Officer Mian Muhammad Sohail Afzal. The financial incentive will be applied to the employees' existing basic pay scales starting from November 1, 2025.\n\nThe beneficiaries belong to various departments across MEPCO's jurisdiction, including Operations, Grid System Operations (GSO), Material Management, and corporate offices. Selected staff members represent multiple operational circles such as Sahiwal, Multan, Vehari, Muzaffargarh, Bahawalpur, and Rahim Yar Khan, alongside personnel from headquarters departments like Accounts and Services and the Chief Engineer O&M Distribution Office.\n\nTo qualify for this special benefit under company policy, employees must provide an authentic Quran memorization certificate issued by a government-recognized seminary or an institution registered with the relevant educational board. This initiative formally recognizes the dedication of staff members who successfully completed the Hifz of the Holy Quran while maintaining their professional duties across the utility provider's network.",
-   "url": "",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/07/MEPCO.jpg",
-   "published": "2026-11-10T15:12:10+00:00",
-   "source": "Source: ARY News",
    "lang": "en",
    "category": "pakistan"
   }
