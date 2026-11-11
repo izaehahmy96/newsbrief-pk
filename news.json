@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T10:28:21.797090+00:00",
+ "updated": "2026-11-11T11:26:19.874869+00:00",
  "stories": [
   {
    "id": "a434dc216332",
@@ -28,6 +28,19 @@
    "category": "pakistan"
   },
   {
+   "id": "a36311e9401b",
+   "rewritten": true,
+   "v4": true,
+   "title": "Iran Security Chief Warns Against Exporting Enriched Nuclear Material",
+   "summary": "Iranian security chief Mohsen Rezaei stated in recent televised remarks that Tehran will never permit a single particle of enriched nuclear material to leave the country. Speaking to Lebanon’s Al Mayadeen TV, Rezaei also warned that any future United States military strikes against the Islamic Republic would result in retaliatory targeting of distant American military bases. This comes as US officials downplay the necessity of further military intervention, following a more conciliatory tone from President Donald Trump after the November 3 midterm elections. Rezaei emphasized that no bilateral negotiations are currently underway between Washington and Tehran.\n\nThe Supreme Leader of Iran previously issued a directive forbidding the export of near-weapons-grade uranium, according to two senior Iranian sources who spoke in May. Prior to joint US and Israeli strikes on Iranian nuclear sites in June 2025, the International Atomic Energy Agency estimated that Iran possessed 440.9 kilograms of uranium enriched to 60 percent, a concentration significantly exceeding civilian requirements. The exact quantity of material surviving those attacks remains uncertain.\n\nWestern nations, along with the United States and Israel, have persistently accused Iran of pursuing nuclear weapons development, an allegation that Tehran continually denies. Washington maintains that nuclear policies must form a core component of initial talks aimed at resolving the ongoing conflict between the two nations. Meanwhile, a senior Iranian official disclosed that Tehran recently transmitted a nuclear proposal to the United States via Qatar, stipulating that discussions can only proceed after Washington fulfills seven distinct demands presented by the Iranian government.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/111550430627dce.webp",
+   "published": "2026-11-11T10:51:07+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
    "id": "0dc5d69a071f",
    "rewritten": true,
    "v4": true,
@@ -37,6 +50,58 @@
    "image": "https://www.geo.tv/assets/uploads/2026-11-11/690599_095056_updates.jpg",
    "published": "2026-11-11T10:43:00+00:00",
    "source": "Source: Geo News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "5fa0d4a3bc54",
+   "rewritten": true,
+   "v4": true,
+   "title": "Malaysian Palm Oil Futures Surge More Than Three Percent",
+   "summary": "Malaysian palm oil futures experienced a sharp rally on Wednesday, climbing more than three percent and halting a six-session losing streak. The benchmark January delivery contract on the Bursa Malaysia Derivatives Exchange increased by 151 ringgit, translating to a 3.55 percent gain, to close at 4,407 ringgit, equivalent to $1,082.27 per metric ton. David Ng, a proprietary trader at Iceberg X Sdn Bhd in Kuala Lumpur, attributed the market recovery to stronger overnight soybean oil prices and a smaller-than-anticipated increase in domestic palm oil inventories reported by the Malaysian Palm Oil Board.\n\nDespite the positive price movement, market conditions remain vulnerable to export paces and shifts in rival edible oil markets. Malaysian palm oil stocks reached a record peak in October, surpassing the previous month's high due to continued bumper production outpacing a modest export recovery. However, this accumulation fell short of the 3.75 million ton peak predicted by a Reuters survey. Concurrently, cargo surveyors reported that palm oil product exports for the first ten days of November declined between 1.9 percent and 2.3 percent compared to the prior month.\n\nExternal vegetable oils and currency fluctuations provided additional support to the commodity. Dalian’s most active soyoil contract grew by 1.15 percent, its palm oil contract rose 2.57 percent, and Chicago Board of Trade soyoil futures increased by 1.08 percent. Furthermore, the ringgit weakened 0.39 percent against the US dollar, reducing acquisition costs for foreign buyers. Crude oil prices also advanced approximately one percent following comments from Iran’s security chief regarding enriched nuclear material, which enhanced palm oil's attractiveness as a biodiesel feedstock.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/10/131553149304939.webp",
+   "published": "2026-11-11T10:41:30+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "61834d6d39d4",
+   "rewritten": true,
+   "v4": true,
+   "title": "Indian Rupee Reaches Strongest Level Since April Despite Strong Dollar",
+   "summary": "The Indian rupee strengthened on Wednesday to achieve its highest level against the US dollar since April, successfully resisting a broadly firmer greenback. The currency closed at 93.69 per dollar, marking a 0.2 percent daily improvement after peaking at 93.6350 during afternoon trading. This recovery follows a record low of 96.96 reached in May and a threat to breach that threshold last month. The rupee is currently down approximately four percent for the year, cutting its maximum annual losses nearly in half.\n\nMarket participants noted widespread dollar selling pressure throughout the session, while non-deliverable forward market activity reflected improving sentiment toward the local currency. This momentum insulated the rupee from headwinds generated by hot US inflation figures and hawkish commentary from Federal Reserve officials. According to the CME FedWatch Tool, traders are fully anticipating a 25-basis-point interest rate hike in December, with a minor probability of a larger 50-basis-point increase also priced into expectations.\n\nAlthough rising US policy rates typically disadvantage emerging market currencies, foreign portfolio investments into Indian equities overshadowed interest rate concerns. Foreign investors injected nearly $6 billion into the market during November, marking their highest monthly purchase volume since September 2024. Attention is now shifting to the release of India's October consumer inflation figures on Thursday, where economists surveyed by Reuters anticipate annual inflation may have risen to 5.93 percent from September's 5.54 percent.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/04080610b68c2c9.webp",
+   "published": "2026-11-11T10:36:58+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "0c8d7024457d",
+   "rewritten": true,
+   "v4": true,
+   "title": "Indian Stock Benchmarks Climb on Foreign Inflows and Lower Crude Prices",
+   "summary": "Indian share indexes finished higher on Wednesday, driven by declining crude oil costs and growing expectations of robust foreign investment inflows into the country. The Nifty 50 advanced 0.84 percent to 25,255.05, while the Sensex gained 0.95 percent to 81,879.4, both marking their highest closing figures since February 26. These indexes have surged nearly ten percent during November, outperforming peer emerging markets following two years of continuous net capital outflows.\n\nForeign investors have poured nearly $6 billion into Indian equities this month, representing their largest monthly allocation since September 2024 as global investors seek alternatives to heavy artificial intelligence spending. Brent crude futures hovered near $93 per barrel following a two-month low of $89.16 recorded in the previous session. The drop in oil prices followed US officials downplaying the need for military action against Iran, easing energy supply anxieties for India, the world's third-largest energy importer.\n\nSector performance was broadly positive, with 13 of 16 major sectors recording gains. Heavyweight banks rose 1.8 percent, led by increases in HDFC Bank and the State Bank of India, bringing their monthly gains to 11.2 percent. Auto stocks climbed 2.1 percent due to optimism surrounding festival season sales and reduced geopolitical tensions. Additionally, shares of IIFL Finance jumped 6.3 percent after Blackstone agreed to acquire an approximate 16 percent stake in the non-bank lender.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/10/23073943b1eaca5.jpg",
+   "published": "2026-11-11T10:33:41+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "535ad57e0fad",
+   "rewritten": true,
+   "v4": true,
+   "title": "Former Afghan Army Member Arrested in Pakistan for Terrorism",
+   "summary": "Security forces and law enforcement agencies arrested a former Afghan National Army member, identified as Hikmatullah alias Hamza, during an intelligence-based operation in Khyber district's Tirah valley. Additional Inspector General Ahsan Abbas of the Khyber Pakhtunkhwa Police announced the arrest at a media briefing, stating that the suspect was detained on November 7. According to police, Hikmatullah had previously served in the Afghan National Army and later joined militant organizations, including the banned Hafiz Gul Bahadur group and the Tehreek-i-Taliban Pakistan network.\n\nAuthorities claimed the suspect, who hails from Paktia province in Afghanistan, received three months of military training and three months of commando training while in the Afghan National Army. After the army was dissolved, he allegedly utilized his training in various madressahs before confessing to carrying out terrorist activities in Pakistan. Mehmood Jan Babar, spokesperson for the designated areas, stated at the briefing that Afghan soil is continually used against Pakistan and accused cross-border attackers of exploiting darkness to plan assaults.\n\nThe arrest underscores ongoing tensions between Pakistan and Afghanistan. Islamabad has repeatedly urged the Taliban administration in Kabul to dismantle militant sanctuaries on Afghan soil, particularly those linked to the Tehreek-i-Taliban Pakistan, which the Afghan Taliban have denied. This security development follows recent border clashes, Pakistani airstrikes against terrorist hideouts, and the interception of cross-border drones near Torkham and Kohat.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/11154018b3a3216.webp",
+   "published": "2026-11-11T10:27:20+00:00",
+   "source": "Source: Dawn",
    "lang": "en",
    "category": "pakistan"
   },
@@ -717,6 +782,19 @@
    "category": "business"
   },
   {
+   "id": "3a7469210506",
+   "rewritten": true,
+   "v4": true,
+   "title": "ایل پی جی کی قیمت مقرر کرنے کے اختیارات اوگرا سے واپس لے لیے گئے",
+   "summary": "حکومت نے ایل پی جی مافیا کو کنٹرول کرنے اور عوام کو سستی سرکاری قیمت پر ایل پی جی فراہم کرنے کے لیے قیمت مقرر کرنے کے اختیارات اوگرا سے لے لیے ہیں۔ اب اوگرا کے بجائے پی ایس او، سوئی گیس اور آئل کمپنیوں پر مشتمل ایک نئی کمپنی ایل پی جی کی قیمت کا تعین کیا کرے گی اور آئندہ ماہ کی قیمت یہی کمپنی طے کرے گی۔ وزارت پیٹرولیم کے مطابق مقرر کردہ سرکاری قیمت پر ہی ایل پی جی فروخت کی جائے گی اور من مانی کرنے والوں کے خلاف فوری کارروائی عمل میں لائی جائے گی۔\n\nشہریوں کو سلنڈر پھٹنے کے حادثات سے بچانے کے لیے معیاری اور اوگرا سے منظور شدہ کمپنیوں کے دو سے پانچ کلوگرام تک کے سلنڈرز مارکیٹ میں فراہم کیے جائیں گے۔ اس نظام کے تحت صارفین دکان پر اپنا خالی سلنڈر دے کر بھرا ہوا سلنڈر حاصل کریں گے جبکہ ناقض یا غیر معیاری سلنڈر میں گیس بھرنے پر پابندی ہوگی۔ غیر معیاری سلنڈر استعمال کرنے والے دکانداروں کی دکانیں سیل کر کے ان پر بھاری جرمانے عائد کیے جائیں گے۔\n\nایل پی جی ڈسٹریبیوٹرز ایسوسی ایشن کے سیکریٹری جنرل رانا عبدالجبار نے اس اقدام کا خیرمقدم کرتے ہوئے حکومت کے ساتھ بھرپور تعاون کا اعلان کیا ہے۔ انہوں نے کہا ہے کہ تمام ڈسٹریبیوٹرز حادثات سے بچاؤ کے لیے حکومتی اقدامات پر عمل درآمد کریں گے اور غیر قانونی فروخت کے خلاف ہیں۔ انہوں نے اپیل کی کہ کارروائی کے دوران ضبط کیے جانے والے آلات اور پمپس ضائع کرنے کے بجائے معمولی جرمانہ لے کر دکانداروں کو واپس کیے جائیں تاکہ وہ باعزت طریقے سے روزگار کما سکیں۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-11T06:13:57+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "efcfa229bba6",
    "rewritten": true,
    "v4": true,
@@ -782,6 +860,19 @@
    "category": "pakistan"
   },
   {
+   "id": "97c98467b6a7",
+   "rewritten": true,
+   "v4": true,
+   "title": "ایران اپنے افزودہ یورینیم کا ایک ذرہ بھی باہر نہیں جانے دے گا، محسن رضائی",
+   "summary": "ایرانی سپریم نیشنل سکیورٹی کونسل کے سیکریٹری محسن رضائی نے اعلان کیا ہے کہ ایران اپنے افزودہ یورینیم کا ایک ذرہ بھی ملک سے باہر منتقل کرنے کی ہرگز اجازت نہیں دے گا۔ لبنانی میڈیا کو دیے گئے ایک انٹرویو میں انہوں نے واضح کیا کہ افزودہ یورینیم کا ذخیرہ ملک کے اندر ہی رہے گا اور اس کی بیرونِ ملک منتقلی کسی بھی صورت قبول نہیں کی جائے گی۔\n\nمحسن رضائی کا یہ بیان ایسے وقت میں سامنے آیا ہے جب ایران کے جوہری پروگرام اور افزودہ یورینیم کے ذخیرے کے معاملے پر کشیدگی پائی جاتی ہے۔ تہران اور واشنگٹن کے مابین جوہری تنازع پر اختلافات ہنوز برقرار ہیں، اور افزودہ یورینیم کا مستقبل دونوں فریقوں کے درمیان جاری مذاکرات کا ایک مرکزی نکتہ ہے۔\n\nاپنے انٹرویو کے دوران ایرانی عہدیدار نے کسی بھی مخصوص معاہدے یا مذاکراتی تجویز کی تفصیلات فراہم نہیں کیں۔ تاحال اس مؤقف پر امریکا یا دیگر متعلقہ عالمی فریقوں کی طرف سے کوئی باضابطہ ردعمل سامنے نہیں آیا ہے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-11T05:53:19+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "9a2df080a252",
    "rewritten": true,
    "v4": true,
@@ -808,6 +899,19 @@
    "category": "pakistan"
   },
   {
+   "id": "aa6ea6477614",
+   "rewritten": true,
+   "v4": true,
+   "title": "برطانوی اداکار رسل برانڈ کو جنسی زیادتی پر قید، ایلون مسک کی حمایت",
+   "summary": "برطانوی اداکار اور کامیڈین رسل برانڈ کو ایک عدالت کی جانب سے جنسی زیادتی اور حملوں کے مختلف الزامات میں مجرم قرار دے کر ساڑھے 10 سال قید کی سزا سنا دی گئی ہے۔ عدالت نے انہیں ایک خاتون سے زیادتی اور تین جنسی حملوں کے الزامات میں سزا دی جبکہ دو دیگر زیادتی سمیت تین الزامات سے بری کر دیا۔ مقدمے کی کارروائی کے دوران رسل برانڈ مسلسل اپنے اوپر لگائے گئے الزامات کی تردید کرتے رہے ہیں۔\n\nعدالتی فیصلے کے بعد معروف امریکی کاروباری شخصیت ایلون مسک نے سوشل میڈیا پلیٹ فارم ایکس پر ردعمل ظاہر کرتے ہوئے رسل برانڈ کی حمایت کی اور عدالتی فیصلے پر سوالات اٹھائے۔ ایلون مسک نے مقدمے میں استعمال کیے جانے والے قانونی معیار کو عجیب قرار دیا۔\n\nیاد رہے کہ اس سے قبل امریکی ٹی وی میزبان میگن کیلی بھی اس مقدمے میں جیوری کے فیصلے پر اپنے عدم اعتماد کا اظہار کر چکی ہیں۔ برطانوی عدالت کی جانب سے سنائی جانے والی اس سزا پر عوامی اور سماجی حلقوں میں مختلف تبصرے کیے جا رہے ہیں۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-11T05:49:55+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "28dab4c6970d",
    "rewritten": true,
    "v4": true,
@@ -819,6 +923,32 @@
    "source": "Source: ARY News",
    "lang": "en",
    "category": "pakistan"
+  },
+  {
+   "id": "bcdae444010d",
+   "rewritten": true,
+   "v4": true,
+   "title": "پاکستانی برآمدات میں بڑی کمی، خلیجی ممالک کو ہونے والی تجارت متاثر",
+   "summary": "پاکستان اور خلیجی ممالک کے درمیان تجارت کے حوالے سے جاری کردہ تازہ اعداد و شمار کے مطابق ایران امریکا تنازع کے اثرات کی وجہ سے خلیجی ممالک کو ہونے والی پاکستانی برآمدات میں نمایاں کمی ریکارڈ کی گئی ہے۔ دستیاب سرکاری دستاویزات سے ظاہر ہوتا ہے کہ مارچ سے جون 2026 کے دوران خلیجی ممالک کے لیے برآمدات میں 32.3 فیصد کی بڑی کمی واقع ہوئی۔\n\nرپورٹ کے مطابق مارچ سے جون 2025 کے دوران خلیجی ممالک کو پاکستان کی کُل برآمدات 98 کروڑ 6 لاکھ ڈالر تھیں، جو رواں سال اسی مدت میں گھٹ کر 66 کروڑ 37 لاکھ ڈالر رہ گئیں۔ اس کے علاوہ جولائی سے اکتوبر 2026 کے دوران بھی برآمدات میں گزشتہ سال کے مقابلے میں 6.4 فیصد کمی ہوئی، جس کے بعد یہ حجم 1 ارب 88 کروڑ 90 لاکھ ڈالر سے کم ہو کر 1 ارب 1 کروڑ 91 لاکھ ڈالر پر آ گیا۔\n\nمخصوص ممالک کے لحاظ سے دیکھا جائے تو مارچ سے جون کے دوران متحدہ عرب امارات کے لیے پاکستانی برآمدات میں سب سے زیادہ 42.7 فیصد کمی ہوئی۔ اسی طرح اسی عرصے میں سعودی عرب کو کی جانے والی برآمدات میں 1.7 فیصد اور عمان کو ہونے والی برآمدات میں 25.1 فیصد کی کمی ریکارڈ کی گئی۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-11T05:45:04+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
+   "id": "d50fafa014ac",
+   "rewritten": true,
+   "v4": true,
+   "title": "China Pledges Strong Support for Cuba Against US Pressure",
+   "summary": "Chinese Foreign Minister Wang Yi held talks in Beijing with his Cuban counterpart, Bruno Rodriguez Parrilla, where he pledged unwavering support for Cuba against sanctions, blockades, and foreign interference. Rodriguez was visiting China as a special envoy of Cuba's party and government, accompanied by Cuban Deputy Prime Minister Oscar Perez-Oliva Fraga. Wang stated that Beijing would firmly back Havana in safeguarding its national sovereignty and legitimate rights, regardless of changing global circumstances.\n\nDuring the meeting, Wang praised Cuba for maintaining its independence, resisting pressure from powerful nations, and pursuing a socialist development path tailored to its national conditions. He also advocated for closer coordination between China and Cuba to counter unilateral actions and promote solidarity among Global South countries. In response, Rodriguez thanked Beijing for its development support and opposition to external interference.\n\nThe Cuban minister reaffirmed Havana's adherence to the one-China principle and its opposition to foreign interference in Beijing's internal affairs. Rodriguez also endorsed President Xi Jinping's vision of building a community with a shared future for humanity along with his four global initiatives. Both officials agreed to deepen bilateral cooperation and enhance coordination on regional and international issues.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-11T05:42:29+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "world"
   },
   {
    "id": "ab9f2d78a6e2",
@@ -834,6 +964,32 @@
    "category": "pakistan"
   },
   {
+   "id": "f7ca45e4c808",
+   "rewritten": true,
+   "v4": true,
+   "title": "کولکتا سے ممبئی جانے والی ایئر انڈیا کی پرواز میں ہائی جیکنگ کی دھمکی",
+   "summary": "بھارت میں کولکتا سے ممبئی کی طرف جانے والی ایئر انڈیا کی ایک پرواز کو ہائی جیک کرنے کی دھمکی موصول ہونے کے بعد تمام مسافروں کو طیارے سے بحفاظت نیچے اتار لیا گیا ہے۔ بھارتی میڈیا کے مطابق یہ واقعہ اس وقت پیش آیا جب مسافر طیارہ ممبئی کے لیے روانہ ہونے کی تیاری کر رہا تھا۔\n\nپرواز کے دوران طیارے کے واش روم سے ہاتھ سے لکھا ہوا ایک پراسرار اور دھمکی آمیز نوٹ برآمد ہوا جس میں طیارے کو ہائی جیک کرنے کی دھمکی درج تھی۔ نوٹ ملنے پر پائلٹ نے بغیر کسی تاخیر کے فوری طور پر ایئر ٹریفک کنٹرول کو اس صورتحال سے آگاہ کیا۔\n\nاطلاع ملنے کے بعد ایئرپورٹ حکام نے فوری طور پر ہنگامی حفاظتی اقدامات نافذ کیے اور طیارے کو رن وے پر ایک محفوظ اور الگ تھلگ مقام پر منتقل کر دیا۔ حکام نے تمام مسافروں کو باحفاظت طیارے سے باہر نکال لیا۔\n\nسکیورٹی فورسز اور اہلکاروں نے کسی بھی ممکنہ خطرے کا جائزہ لینے کے لیے طیارے کی مکمل تلاشی کا عمل شروع کر دیا ہے۔ تاہم اس خبر کے وقت تک دھمکی دینے والے نامعلوم شخص کی شناخت، نوٹ کے اصل پس منظر اور تلاشی کے حتمی نتائج سے متعلق مزید تفصیلات فراہم نہیں کی گئی ہیں۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-11T05:27:09+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
+   "id": "a74d7c259663",
+   "rewritten": true,
+   "v4": true,
+   "title": "Spanish Workers Launch First General Strike in 14 Years Over Housing",
+   "summary": "Workers across Spain staged a 24-hour nationwide general strike on Wednesday to protest against a severe housing affordability crisis, marking the first joint general strike by the country's two largest unions, UGT and CCOO, in 14 years. The protests, which also involved tenants' associations and other labor organizations, coincided with anger over rising rents and evictions less than three weeks before a snap general election called by Prime Minister Pedro Sanchez. Participation was uneven, with strong support reported in coastal regions such as Catalonia, Andalusia, and the Cantabrian coast, where housing pressures are particularly acute.\n\nUnions reported high participation rates in sectors like automotive manufacturing, ports, and energy, while transportation and industrial activities experienced widespread disruptions. Early demonstrations saw clashes, including an incident at Madrid's Mercamadrid wholesale market where police used pepper spray and arrested a demonstrator after around 1,000 protesters gathered. The housing crisis is fueled by a national home deficit projected to exceed one million by 2028, pushing average rents to 1,176 euros, which equals roughly 98.7 percent of a young person's average monthly salary. Business lobbies argued the strike was counterproductive and advocated for building more homes and lowering construction taxes, while afternoon protest marches faced additional threats from storms Charles and Bruna.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-11T05:25:03+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "world"
+  },
+  {
    "id": "acd6516e8927",
    "rewritten": true,
    "v4": true,
@@ -845,6 +1001,45 @@
    "source": "Source: ARY News",
    "lang": "en",
    "category": "pakistan"
+  },
+  {
+   "id": "5e78e019ef87",
+   "rewritten": true,
+   "v4": true,
+   "title": "ثانیہ مرزا نے شعیب ملک سے علیحدگی کے بعد نجی زندگی پر خاموشی توڑ دی",
+   "summary": "معروف بھارتی ٹینس اسٹار ثانیہ مرزا نے سابق پاکستانی کرکٹر شعیب ملک سے طلاق اور علیحدگی کے بعد اپنی نجی زندگی سے متعلق جاری قیاس آرائیوں پر کھل کر بات کی ہے۔ انہوں نے واضح کیا ہے کہ اس وقت ان کی زندگی میں کوئی بھی نیا مرد موجود نہیں ہے۔\n\nغیر ملکی میڈیا رپورٹس کے مطابق ثانیہ مرزا نے حال ہی میں اپنی قریبی دوست اور معروف فلمساز فرح خان کے ہمراہ نیہا دھوپیا اور انگد بیدی کے شو ’ڈبل ڈیٹ‘ میں شرکت کی۔ شو کے دوران میزبانوں نے ان کی ڈیٹنگ لائف اور کسی نئے رشتے کے بارے میں سوالات کیے۔\n\nسوال کا جواب دیتے ہوئے ثانیہ نے دلچسپ انکشاف کیا کہ ان کے کئی مرد دوست انہیں باہر جانے کی دعوت ضرور دیتے ہیں مگر وہ انہیں صرف دوست کی نظر سے ہی دیکھتے ہیں۔ اس موقع پر ان کی دوست فرح خان نے بھی بتایا کہ اکثر لوگ ان سے پوچھتے ہیں کہ آیا ثانیہ واقعی سنگل ہیں۔\n\nثانیہ مرزا اور شعیب ملک کی شادی سال 2010 میں عمل میں آئی تھی اور ان کا ایک بیٹا بھی ہے جس کا نام اذہان مرزا ملک ہے۔ دونوں کے درمیان سال 2023 میں علیحدگی ہو گئی تھی، جس کے بعد شعیب ملک نے جنوری 2024 میں پاکستانی اداکارہ ثنا جاوید کے ساتھ دوسری شادی کر لی تھی۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-11T05:19:33+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
+   "id": "eadf8e577be2",
+   "rewritten": true,
+   "v4": true,
+   "title": "Jamie Dornan Cried After Landing Aragorn Role in New Lord of the Rings Film",
+   "summary": "Actor Jamie Dornan revealed that he was moved to tears when he discovered he had been cast as Aragorn in the upcoming film The Lord of the Rings: The Hunt for Gollum. Known for his roles in Belfast and The Fall, Dornan described the opportunity as a dream and an enormous honor, particularly because the character was memorably portrayed by Viggo Mortensen in Peter Jackson's original trilogy. Dornan noted that while he felt the pressure of following Mortensen, whom he considers one of his favorite performers, he is not trying to surpass the original portrayal but rather bring some of that original energy to the new project.\n\nDornan shared that he has already completed filming for the movie, finishing roughly three weeks prior to his interview. He expressed hope that audiences would warmly welcome the new story into the established fantasy franchise. Andy Serkis, who originally voiced and performed motion capture for Gollum, is directing the upcoming feature.\n\nThe film's cast features returning actors including Ian McKellen as Gandalf, Elijah Wood as Frodo, and Lee Pace as King Thranduil, alongside franchise newcomers Kate Winslet as Marigol, Leo Woodall as Halvard, and Anya Taylor-Joy as an elf. The Hunt for Gollum is scheduled for theatrical release on December 17, 2027.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-11T05:15:37+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "entertainment"
+  },
+  {
+   "id": "9c75f8cba25d",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistani Boxer Mohammad Waseem Stymied by Persistent Visa Hurdles",
+   "summary": "Pakistani professional boxer Mohammad Waseem says ongoing visa complications are severely hindering his athletic career and preventing him from pursuing major global bouts. The two-time World Boxing Association gold champion and former three-time World Boxing Council silver flyweight titleholder revealed that he submitted his passport to the Spanish Embassy in July and remains stranded while awaiting clearance. Waseem noted that significant portions of his career are wasted attempting to secure travel permits, contrasting his current difficulties with a hypothetical scenario where living elsewhere might have yielded multiple world titles. Over the preceding year, his two WBA gold bouts took place domestically in Quetta and Lahore, while previous opportunities evaporated due to administrative roadblocks regarding travel to Dubai and Central Asia.\n\nThe Quetta native, who has previously completed training camps in Las Vegas, Florida, and Mexico, turned professional in 2015 after a distinguished amateur background. During his amateur tenure spanning over a decade, Waseem collected international accolades including a silver medal at the 2014 Commonwealth Games in Glasgow and a bronze medal at the Asian Games in Incheon during the same year. No other Pakistani boxer has earned an Asian Games medal since his achievement in Incheon. Waseem expressed frustration that his status as a successful professional fighter has not brought him adequate recognition or state backing within Pakistan, pointing out that government assistance with travel documents could have enabled him to populate the nation's trophy cabinet.\n\nHis attempts to secure a diplomatic passport from federal authorities during the Pakistan Tehreek-e-Insaf regime and under the current administration have yielded no responses. Waseem characterized the anticipated four-month processing period for a Spanish visa as a major setback that leaves him out of touch and unable to prioritize proper preparation. Throughout his professional journey, Waseem has recorded only two defeats, both against former world champions: Moruti Mthalane in Kuala Lumpur and Sunny Edwards in Dubai in March 2022.\n\nOnce his travel authorization arrives, Waseem plans to travel immediately to the United Kingdom to resume training in Liverpool under longtime coach Danny Vaughan. His promotional team is actively attempting to arrange a world title opportunity, while Waseem also intends to collaborate with Europe-based promoters to set up a preliminary ranking bout. The athlete renewed his plea for the federal government to intervene and supply him with a passport capable of bypassing unnecessary administrative delays for upcoming international assignments.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-11T05:14:26+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "sports"
   },
   {
    "id": "9fdb2072ee5b",
@@ -883,6 +1078,19 @@
    "published": "2026-11-11T05:07:51+00:00",
    "source": "Source: ARY News",
    "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "35f9989dbcf8",
+   "rewritten": true,
+   "v4": true,
+   "title": "ڈی آئی خان میں کوچ اور موٹر سائیکل کے تصادم سے تین افراد جاں بحق",
+   "summary": "ڈیرہ اسماعیل خان میں تبلیغی جماعت کے افراد کو لے جانے والی ایک مسافر کوچ اور موٹر سائیکل کے درمیان خوفناک ٹریفک حادثہ پیش آیا ہے۔ اس حادثے کے نتیجے میں موقع پر ہی تین افراد جاں بحق جبکہ خواتین اور بچوں سمیت تیرہ مسافر شدید زخمی ہو گئے۔\n\nحادثے کی اطلاع ملتے ہی ریسکیو 1122 کی میڈیکل ٹیمیں فوری طور پر جائے وقوعہ پر پہنچ گئیں۔ امدادی ٹیموں نے موقع پر ہی تمام زخمیوں کو ابتدائی طبی امداد فراہم کی اور فوری طور پر انہیں مزید علاج کے لیے مفتی محمود اسپتال منتقل کر دیا، جبکہ جاں بحق ہونے والے تینوں افراد کی لاشیں بھی ضروری کارروائی کے لیے اسی اسپتال پہنچائی گئیں۔\n\nحادثے میں متاثر ہونے والے افراد میں دو خواتین اور ایک معصوم بچہ بھی شامل ہیں۔ زخمی ہونے والے مسافروں کی شناخت ٹیکہ خان، سدیس، وحید گل، میر خان، ارسلہ خان، غلام یاسین، فتح محمد، یوسف، ناظم شاہ، مشرف، حیات شاہ، سراج اور گلفام کے ناموں سے کی گئی ہے۔\n\nریسکیو 1122 کی ٹیموں نے بروقت اور مؤثر کارروائی کا مظاہرہ کرتے ہوئے حادثے کے متاثرین کو فوری طبی امداد دی اور تمام زخمیوں کو بحفاظت اسپتال منتقل کرنے کا فریضہ سر انجام دیا۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-11T05:03:45+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
    "category": "pakistan"
   },
   {
@@ -3692,214 +3900,6 @@
    "source": "Source: Business Recorder",
    "lang": "en",
    "category": "business"
-  },
-  {
-   "id": "8b3d73dee4ec",
-   "rewritten": true,
-   "v4": true,
-   "title": "Senate Panel Alleges Federal Government Misspent Rs5 Trillion on Provincial Subjects",
-   "summary": "Senator Barrister Zamir Hussain Ghumro claimed on Tuesday that the federal government expended over Rs5 trillion—equivalent to more than $18 billion—on devolved provincial subjects and ministries tied to Council of Common Interests matters, violating the Constitution. Citing findings from the Auditor General of Pakistan's report during a Senate Functional Committee on Devolution sub-committee meeting in Islamabad, the panel head noted that federal expenditures currently hover around Rs19 trillion against Rs20 trillion in total revenues, forcing heavy borrowing that totals $135 billion.\n\nThe PPP senator argued that strict adherence to the 18th Amendment and the proper transfer of Council of Common Interests matters under Article 154 would have eliminated the need for financial bailouts from the International Monetary Fund. He stated that over the past 15 years, the IMF provided Pakistan with $15 billion, whereas the government allocated $18 billion to $20 billion toward devolved ministries and institutions. Ghumro stressed that utilizing these funds for social development and infrastructure could have transformed the country, labelling the unauthorized spending a misuse of taxpayer funds.\n\nAccording to the panel convener, the Federal Consolidated Fund is split between charged expenditures, such as remuneration for high constitutional officeholders and debt servicing, and other discretionary ministry grants. He asserted that the federal government possesses no constitutional obligation or authority to deliver provincial services like health, education, housing, or water, rendering expenses outside the Federal Legislative List illegal. He noted that summaries to dismantle 24 redundant ministries and institutions have been sent to the prime minister by the Cabinet Division and the Council of Common Interests, though a response remains pending.\n\nThe sub-committee also addressed representation and job shortages for provinces in federal appointments pursuant to Article 38(g) of the Constitution. Discussions revealed shortages exceeding 30,000 jobs in Balochistan and over 80,000 jobs in Sindh across various government grades. The Federal Public Service Commission secretary reported that special examinations and recruitment drives are underway to clear the backlog. Additionally, the panel expressed dissatisfaction with the Ministry of Information for failing to submit a timely devolution report regarding print media and broadcasting rights, granting the ministry 15 days to finalize compliance issues.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/10165231ffc590c.webp",
-   "published": "2026-11-10T12:46:40+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "071549b040c4",
-   "rewritten": true,
-   "v4": true,
-   "title": "Wapda Confirms Tarbela Dam Remains Safe Following Rock Collapse Incident",
-   "summary": "The Water and Power Development Authority issued a press release on Tuesday confirming that the integrity of the main Tarbela Dam and its critical structures faces no threat following a rock collapse. The incident occurred at the 5th Extension Project construction site, triggering a surge of water into nearby work areas and prompting an immediate emergency response.\n\nFollowing the collapse, construction activities were suspended and workers were directed toward safer locations. Authorities confirmed that no loss of life occurred. In response to the event, Wapda Chairman retired Lieutenant Muhammad Saeed visited the site on Monday and Thursday to inspect the intake structure, tunnel, power house, and other key project areas while receiving briefings from contractors, consultants, and project management.\n\nThe chairman subsequently presided over a site meeting to discuss potential causes and formulate short, medium, and long-term preventive measures alongside immediate response strategies. Wapda teams, consultants, and contractors reached a unanimous assessment that the main dam and its vital infrastructure remain completely secure, according to the official statement.\n\nTo address the incident thoroughly, the chairman ordered a departmental inquiry and instructed consultants to deliver a comprehensive report swiftly while finalising contingency plans to limit project delays. Swabi Deputy Commissioner Nasarullah Khan assured the public that the situation is fully under control, noting that river flows were managed through coordinated safety measures by technical teams and urging citizens to rely exclusively on official updates.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/101738240396f42.webp",
-   "published": "2026-11-10T12:42:33+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "4aeacecb97a4",
-   "rewritten": true,
-   "v4": true,
-   "title": "Oxford Study Reveals 13 Pakistani Deaths in Greek Detention Since 2000",
-   "summary": "Research published on Tuesday by the University of Oxford on the Detention Landscapes platform revealed that 13 Pakistani nationals have died in Greek police and immigration detention facilities since 2000. The archive aims to document border and immigration control deaths in the absence of reliable public data from Greek authorities.\n\nThe study found that at least 112 foreign nationals have died in Greek custody overall since 2000, with Pakistanis and Albanians representing the largest identified national groups at 13 deaths each, while the nationality of 32 individuals remains unspecified. Utilizing Freedom of Information requests, international reports, media archives, and interviews, researchers noted that at least 27 of these deaths occurred in pre-removal detention centers established after 2012.\n\nDemographically, the documented victims were predominantly male, numbering 82 males compared to four females, with a median age of 33.5 years among the 70 individuals whose ages were recorded. Official sources attributed 44 deaths to suicide and 20 to pathological conditions, though 36 cases lacked a reported cause and non-governmental sources raised concerns regarding potential medical neglect and physical abuse.\n\nThe findings draw attention to broader systemic issues, highlighting a lack of transparent reporting by Greek authorities, minimal media follow-up on individual circumstances, and underlying connections between restrictive immigration policies, repressive policing, and violence against racialized people.",
-   "url": "",
-   "image": null,
-   "published": "2026-11-10T12:31:28+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "ecf7b9dfaab5",
-   "rewritten": true,
-   "v4": true,
-   "title": "جمہوریہ کانگو میں بزدلی کے الزام میں فوجیوں کو سزائے موت",
-   "summary": "جمہوریہ کانگو میں ایک فوجی عدالت نے کم از کم 66 فوجیوں کو بزدلی، بغاوت اور احکامات سے سرکشی کے الزامات کے تحت سزائے موت سنا دی ہے۔ یہ سزائیں صوبہ شمالی کیوو کے علاقے والیکالے میں 71 فوجیوں کے مقدمے کی سماعت کے بعد سنائی گئیں، جن میں سے چار فوجیوں کو بری کر دیا گیا جبکہ ایک کو دس سال قید کی سزا دی گئی۔\n\nفوجی حکام کے مطابق اس سخت قانونی کارروائی کا مقصد ملک کے مشرقی حصوں میں سرگرم مسلح گروہوں کے خلاف جاری آپریشنز کے دوران فوج کے اندر نظم و ضبط کو بہتر بنانا ہے۔ ان فوجیوں کو 20 اکتوبر کو گرفتار کیا گیا تھا اور ان پر الزام تھا کہ وہ فرنٹ فار دی ری فاؤنڈیشن آف دی نیشن کے جنگجوؤں کے ساتھ جھڑپوں کے دوران اپنی پوزیشنیں چھوڑ کر فرار ہو گئے تھے۔\n\nجمہوریہ کانگو کی فوج طویل عرصے سے نظم و ضبط کی کمی، بدانتظامی اور اندرونی مسائل کا شکار رہی ہے جبکہ اہلکاروں کی طرف سے کم تنخواہوں اور ناکافی سازوسامان کی شکایات بھی کی جاتی رہی ہیں۔ حکومت نے مارچ 2024 میں سزائے موت پر عائد بیس سالہ پابندی ختم کر دی تھی تاکہ غداروں اور مسلح گروہوں میں شامل افراد سے سختی سے نمٹا جا سکے، حالانکہ اس فیصلے پر انسانی حقوق کی تنظیموں کی جانب سے کڑی تنقید بھی کی گئی تھی۔\n\nملک میں اس طرح کے عدالتی فیصلے پہلے بھی سامنے آ چکے ہیں، جن میں پچھلے ماہ بھی بزدلی کے الزام میں 27 فوجیوں کو سزائے موت سنائی گئی تھی۔ فرانسیسی نشریاتی ادارے کے اعداد و شمار کے مطابق سنہ 2025 کے آغاز سے اب تک سیکڑوں فوجیوں کو مختلف سزائیں سنائی جا چکی ہیں، جو ملک کی سکیورٹی فورسز میں پائی جانے والی سنگین انتظامی چیلنجز کی عکاس ہیں۔",
-   "url": "",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a63c/live/0befd000-dcf5-11f1-b441-2b33b063138f.png",
-   "published": "2026-11-10T12:23:58+00:00",
-   "source": "ذریعہ: BBC Urdu",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "a6c37bc504a7",
-   "rewritten": true,
-   "v4": true,
-   "title": "Prime Minister Shehbaz Sharif Travels to Turkiye for COP31 Climate Summit",
-   "summary": "Prime Minister Shehbaz Sharif departed for Turkiye to take part in the Leaders' Summit of the 31st Conference of the Parties to the United Nations Framework Convention on Climate Change. The Foreign Office announced that the prime minister's scheduled visit runs from November 10 to November 12, with his address to the Leaders' Summit set for November 11.\n\nDuring the high-level gathering, Prime Minister Shehbaz is expected to urge the global community to implement practical actions against climate change. The Foreign Office stated that he will spotlight Pakistan's domestic initiatives involving rapid solarisation and the expansion of renewable energy capacity as part of the country's transition to a resilient economy. Furthermore, he will outline national efforts to bolster disaster preparedness and early-warning systems while advocating for predictable, adequate, and accessible climate financing for developing nations.\n\nOn the sidelines of the summit, the prime minister will participate in a high-level roundtable hosted by the COP31 presidency. He also plans to conduct bilateral meetings with Turkish leadership and various other world leaders in attendance. The Foreign Office noted that his presence underscores Pakistan's dedication to the international climate agenda and reinforces cooperation to resolve ongoing environmental crises.\n\nThe COP31 conference commenced in the Turkish Mediterranean city of Antalya with discussions on climate funding. UN chief Antonio Guterres called on world leaders to address climate challenges seriously following a year marked by extreme weather, including punishing European heatwaves, Indonesian wildfires, and severe floods in Nepal. Observers suggest major breakthroughs may be limited due to prevailing geopolitical tensions and global economic strains.",
-   "url": "",
-   "image": "https://www.geo.tv/assets/uploads/2026-11-10/690465_115415_updates.jpg",
-   "published": "2026-11-10T12:15:00+00:00",
-   "source": "Source: Geo News",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "b64375623368",
-   "rewritten": true,
-   "v4": true,
-   "title": "Sri Lanka Fights Back Against Pakistan on Day Two in Rawalpindi",
-   "summary": "Dhananjaya de Silva and Kamindu Mendis led a crucial recovery for Sri Lanka, guiding the visiting team to 114-3 by stumps on the second day of the first Test against Pakistan in Rawalpindi on Tuesday. Mendis finished the day unbeaten on 40 and De Silva was not out on 22, having put together an unbroken partnership of 49 runs. Bad light eventually brought an early conclusion to the day's play while the pair were resisting the bowling attack.\n\nSri Lanka had earlier resumed the final session at 42-2 before opener Lahiru Udara maintained an aggressive approach, contributing 42 runs from 52 balls. Udara fell to debutant Saqib Khan, leaving the visitors at 65-3 following dismissals earlier in the afternoon by Mohammad Abbas and Saqib. The visiting side still trails Pakistan by 320 runs after the hosts declared their first innings at a commanding 434-9.\n\nPakistan continued building their total from an overnight score of 281-5, bolstered by a 96-run partnership for the sixth wicket between Saud Shakeel and wicketkeeper Ghazi Ghori. Ghori was dismissed for 48 by Dilshan Madushanka, while Shakeel went on to anchor the innings with a score of 93 off 199 balls before falling to Asitha Fernando. Another debutant, Arafat Minhas, added a half-century by scoring 52 runs from 67 deliveries before also falling to Madushanka.\n\nFernando and Madushanka finished the innings with three wickets apiece for Sri Lanka, while Lahiru Kumara, Milan Rathnayake, and Sonal Dinusha each claimed one wicket. As play prepares to move into the third day, Pakistan aims to press their significant advantage, whereas Sri Lanka relies on their middle order to build upon the defensive resilience demonstrated by Mendis and De Silva.",
-   "url": "",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/1-30.jpg",
-   "published": "2026-11-10T11:51:01+00:00",
-   "source": "Source: ARY News",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "82af923f542b",
-   "rewritten": true,
-   "v4": true,
-   "title": "Aluminium Prices Drop to Two-Week Low Amid Higher Exports",
-   "summary": "Aluminium prices experienced a downturn on Tuesday, reaching their lowest level in more than two weeks as surging export volumes from primary producer China and optimism regarding potential Middle East de-escalation alleviated supply worries. Benchmark three-month aluminium on the London Metal Exchange dropped by 1.1% to $3,031.50 per metric ton around 0950 GMT, touching a low of $3,014, which marks its weakest position since October 23. Market sentiment was further influenced by United States President Donald Trump stating on Monday that he would temporarily withhold new military strikes against Iran following regional appeals.\n\nOfficial Chinese customs data revealed that the country's exports of aluminium and aluminium products grew by 18% to reach 5.9 million tons throughout the first ten months of 2026. Global aluminium prices have experienced a 20% decline since peaking at a four-year high in June. This downward shift is attributed to supply restarts in the Middle East—initially disrupted by the conflict with Iran—progressing faster than anticipated, alongside upcoming production capacity expected from Indonesia.\n\nAnalysts at ANZ noted that as metal returns from the Middle East and new projects in Indonesia ramp up, worldwide supply growth is projected to outpace demand, potentially shifting the market into a surplus by 2027. This outlook is expected to restrict major price gains next year, though lingering regional supply risks will likely maintain price volatility above $3,000 through early 2027. Providing some floor to the market, global inventories remain relatively low, with available aluminium stocks in LME-registered warehouses standing at 207,525 tons, representing their lowest figure since March 2025.\n\nReflecting tight immediate supply conditions, the premium of the LME cash aluminium contract over the three-month benchmark widened to $96 a ton, marking its highest level since June. Meanwhile, other metals on the London Metal Exchange showed mixed results: copper declined 0.1% to $13,876 a ton, zinc advanced 0.1% to $3,733.50, lead remained stable at $1,884.50, tin decreased 0.6% to $45,960, and nickel fell 0.7% to $16,100.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/09/0311252366ad835.webp",
-   "published": "2026-11-10T11:39:48+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "b6c6cadc6e3c",
-   "rewritten": true,
-   "v4": true,
-   "title": "Pakistan and US Agree to Expand Academic and Think Tank Exchanges",
-   "summary": "Deputy Prime Minister and Foreign Minister Senator Ishaq Dar and former US Assistant Secretary of State for South Asian Affairs Ambassador Robin Raphel met in Islamabad on Tuesday to discuss bilateral relations and regional matters. During the meeting, both officials agreed to promote closer cooperation and dialogue between academic institutions and think tanks in Pakistan and the United States to deepen mutual understanding.\n\nDuring the discussions, Dar praised the positive direction of Pakistan-US relations and emphasized the need for sustained diplomatic engagement. The meeting coincides with recent high-level diplomatic developments, including US President Donald Trump's nomination of Chargé d’Affaires Natalie A. Baker as the next US ambassador to Pakistan on Monday, which is pending Senate confirmation and would fill a vacancy left since early 2025.\n\nBilateral ties have undergone a notable transformation during Trump's second term, shifting from a cold period to strategic and pragmatic cooperation. This diplomatic thaw was propelled by Trump's intervention in brokering a ceasefire during the May 2025 Pakistan-India border skirmish, subsequent counterterrorism cooperation, and Pakistan's inclusion in geopolitical initiatives such as the Board of Peace.\n\nThe strengthening of ties matters for regional stability and international diplomacy, reflecting a repaired partnership between Islamabad and Washington that encompasses security collaboration, counterterrorism efforts, and enhanced institutional dialogues.",
-   "url": "",
-   "image": null,
-   "published": "2026-11-10T11:36:12+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "14f800b2a0f3",
-   "rewritten": true,
-   "v4": true,
-   "title": "Kylian Mbappe Focused Ahead of Upcoming Fixtures, Says Konate",
-   "summary": "France captain Kylian Mbappe has moved past a challenging recent period and is entirely concentrated on assisting his national team ahead of their upcoming Nations League matches against Italy and Turkey, according to defender Ibrahima Konate. Mbappe has rejoined the French squad after missing their previous three fixtures due to an injury.\n\nMbappe's return to the national setup follows a period of personal and professional scrutiny, which included finishing second behind England captain Harry Kane in the voting for the Ballon d'Or award. Additionally, the 27-year-old Real Madrid forward faced criticism in China stemming from remarks made during an interview where he referenced an online meme featuring his face superimposed on an image of Mao Zedong, modern China's founding leader. The controversy led to apologies from the player, a commercial backlash that saw several brands end partnerships with him, and the removal of Spanish league matches from the schedule of state broadcaster CCTV.\n\nKonate, who is also Mbappe's club teammate at Real Madrid, emphasized that the forward possesses a strong competitive mindset. Speaking to reporters, Konate noted that Mbappe is in a very positive frame of mind, pointing to his recent decisive performances and vital contributions for Madrid.\n\nAddressing the disappointment regarding the Ballon d'Or, Konate acknowledged that missing out on the accolade after believing he had a chance was difficult for a competitor like Mbappe. However, Konate highlighted the player's immediate resilience and professionalism, noting that he returned to training fully focused the very next day.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/03/24125221e8d4deb.webp",
-   "published": "2026-11-10T11:33:55+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "0c937586bb13",
-   "rewritten": true,
-   "v4": true,
-   "title": "UAE Issues Rare Tender to Sell 1.7 Million Barrels of Saudi Oil",
-   "summary": "The energy ministry of the United Arab Emirates is conducting a rare sale of 1.7 million barrels of Saudi Arab Light oil via a tender process, according to a document reviewed by Reuters. Industry sources indicated that the petroleum cargo is currently loaded aboard the tanker Gem No. 2.\n\nThe vessel carrying the oil was struck by an unidentified projectile last month. Following the onset of the conflict involving the United States, Israel, and Iran, commercial shipping lanes in the Gulf have faced increased attacks. These maritime security incidents have elevated risks for commercial transport and heightened widespread concerns regarding the potential environmental fallout in the region. The UAE government announced last week that an oil leak originating from the Gem No. 2 tanker had successfully been contained and stopped.\n\nDocumentation regarding the sale identifies the Ministry of Energy and Infrastructure of the UAE as the seller, operating under the judicial supervision of the UAE Federal Public Prosecution. The tender officially closed on Monday.\n\nAccording to the tender specifications, the arrangement required the oil cargo to be loaded between November 10 and November 20. The transfer is scheduled to take place via a ship-to-ship operation conducted from within the waters of the Gulf.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/03/0921404976a3329.webp",
-   "published": "2026-11-10T11:29:18+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "856ae3707ee4",
-   "rewritten": true,
-   "v4": true,
-   "title": "Imam-ul-Haq and Abdullah Shafique Score Centuries in Quaid-e-Azam Trophy Gold",
-   "summary": "Centuries by Imam-ul-Haq, Abdullah Shafique, and Azeem Bari highlighted the second day of the second round of the Quaid-e-Azam Trophy Gold first-class tournament on Tuesday. At the Diamond Cricket Ground in Islamabad, Imam scored an unbeaten 137 to guide Multan to 216 in response to Karachi Blues' 214, backed by Asad Umar's bowling figures of 6-45.\n\nAt the Shoaib Akhtar Cricket Stadium in Rawalpindi, Abdullah Shafique contributed 112 runs as Sialkot Blues reached 316-9 against Faisalabad's first-innings total of 222, with support from Abdul Rehman's 53. Meanwhile, Islamabad amassed 403-6 against Lahore Whites at the Abbottabad Cricket Stadium, powered by Azeem Bari's 105, alongside strong contributions from Raja Hamza Waheed, Sudais Ulfat, and Sarmad Bhatti.\n\nIn other matches, FATA were bowled out for 230 against Peshawar Blues, who subsequently established a 140-run lead, while Shaheen Shah Afridi claimed three wickets for 36. In the Silver competition, Rawalpindi and Abbottabad secured dominant innings victories over Larkana and DMJ, respectively, driven by standout bowling performances from Mohammad Nawaz, Mohammad Nabeel, and Israr Hussain.\n\nThese matches are part of the domestic first-class cricket calendar in Pakistan, providing a competitive platform for national players and emerging talent to showcase their skills across various regional and departmental sides.",
-   "url": "",
-   "image": null,
-   "published": "2026-11-10T11:20:11+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "sports"
-  },
-  {
-   "id": "020c74334980",
-   "rewritten": true,
-   "v4": true,
-   "title": "Pakistani Rupee Edges Up Slightly Against US Dollar in Inter-Bank Market",
-   "summary": "The Pakistani rupee registered a marginal gain against the US dollar in the inter-bank market on Tuesday, closing the trading session at 276.65. This marked an increase of Re0.01 compared to the previous week, when the local currency finished at 276.66 after appreciating by 0.03% from 276.75 a week earlier, according to data provided by the State Bank of Pakistan.\n\nInternationally, the US dollar held firm during Tuesday's Asia session as traders awaited upcoming US inflation data that could influence future interest rate decisions. The dollar had experienced pressure after oil prices tumbled and stocks gained, causing investors to shift back into riskier assets. However, a robust October jobs report released previously has led markets to price in an 85% probability of a Federal Reserve rate hike at the next meeting.\n\nGlobal oil prices declined further on Tuesday, extending losses from the previous session after US President Donald Trump downplayed the immediate need for military action against Iran. This easing of geopolitical tensions reduced fears of sustained supply disruptions in the Middle East. Consequently, Brent crude futures dropped 70 cents to $91.88 a barrel, while US West Texas Intermediate futures fell 78 cents to $86.07 a barrel.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/11/10075317e86e980.webp",
-   "published": "2026-11-10T11:11:52+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "94599629a460",
-   "rewritten": true,
-   "v4": true,
-   "title": "Overseas Remittances Cover Entire External Deficit and Boost Economy",
-   "summary": "Remittances sent by overseas Pakistanis now cover 100% of the country's external deficits and comprise approximately 10% of its gross domestic product, according to analyst Emre Akcakmak, Head of Frontier Markets at East Capital. Speaking on social media, Akcakmak noted that trailing 12-month remittances have reached $44 billion, playing a pivotal role in stabilizing the local economy following its near-default in 2023.\n\nOfficial figures from the State Bank of Pakistan support this positive trajectory, showing that workers' remittances reached $3.9 billion in October, reflecting a 14% increase compared to $3.42 billion during the same period last year. Cumulative inflows for the July-to-October period of fiscal year 2027 rose 14% to $14.8 billion. Driven by these resilient early inflows, the central bank recently revised its full-year remittance forecast upward to $45 billion.\n\nAkcakmak contrasted these current metrics with the economic vulnerability of 2023, when foreign currency bond default was narrowly avoided and central bank reserves covered only 1.5 months of imports. He attributed the subsequent economic turnaround—characterized by a fivefold increase in gross foreign exchange reserves and single-digit inflation—to a combination of a stable government, an active IMF program, and the substantial financial contributions of the estimated 10 million Pakistanis living abroad.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/09/091148371b1c8d3.webp",
-   "published": "2026-11-10T11:04:47+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "61adf2d8e54e",
-   "rewritten": true,
-   "v4": true,
-   "title": "امریکی انٹیلی جنس تحقیقات: اینویڈیا کے سربراہ جینسن ہوانگ کے مبینہ چینی تعلقات زیر بحث",
-   "summary": "مصنوعی ذہانت کی معروف صنعت کے سربراہ اور اینویڈیا کے چیف ایگزیکٹو جینسن ہوانگ کا ایک مبینہ چینی جاسوسہ ایلس ہوانگ کے ساتھ تعلق سامنے آنے پر سرکاری تحقیقات کا آغاز ہو چکا ہے۔ نیویارک ٹائمز کے مطابق امریکی انٹیلی جنس حکام کا خیال تھا کہ ایلس ہوانگ، جو ایک چینی کاروباری شخصیت ہیں اور جن کا مارچ سے نومبر 2023 تک سنگاپور کی کمپنی میگاسپیڈ سے تعلق رہا، بیجنگ کے لیے جاسوسی کر رہی تھیں۔ اتوار کو جینسن ہوانگ نے اپنی اہلیہ سے وفادار نہ رہنے کا اعتراف کرتے ہوئے اپنے خاندان کو پہنچنے والے نقصان پر معذرت کی۔\n\nامریکی صدر ڈونلڈ ٹرمپ نے بتایا کہ ایف بی آئی اس معاملے کی تحقیقات کر رہی ہے اور انھوں نے ہوانگ سے بات چیت کے بعد تصدیق کی کہ ہوانگ کو اس مبینہ جاسوسی کا کوئی علم نہیں تھا۔ دوسری جانب، چینی وزارت کے ترجمان نے ان تمام جاسوسی کے الزامات کو مکمل طور پر بے بنیاد، قیاس آرائیوں پر مبنی اور چین کو بدنام کرنے کی کوشش قرار دے کر مسترد کر دیا ہے۔\n\nاس معاملے نے امریکی قانون سازوں میں قومی سلامتی کے خدشات کو جنم دیا ہے کیونکہ اینویڈیا امریکہ اور چین کے درمیان مصنوعی ذہانت کی دوڑ کا مرکز ہے۔ واشنگٹن نے 2022 سے چین کو جدید ترین ٹیکنالوجی اور چپس تک رسائی سے روکنے کے لیے برآمدی پابندییاں عائد کر रखी ہیں تاکہ امریکہ کی مسابقتی برتری کا تحفظ کیا جا سکے۔\n\nاینویڈیا کمپنی نے آزادانہ تحقیقات شروع کر دی ہیں اور اس عزم کا اظہار کیا ہے کہ قومی سلامتی کو کوئی خطرہ لاحق نہیں ہوا اور ہوانگ بدستور کمپنی کی قیادت جاری رکھیں گے۔ ہوانگ کا کہنا ہے کہ کمپنی کو کسی حقیقی خطرے کا علم نہیں تھا ورنہ امریکی حکومت ضرور مطلع کرتی۔",
-   "url": "",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/efe9/live/06acf5e0-dcf6-11f1-9ef0-4b5930e2f80e.jpg",
-   "published": "2026-11-10T11:03:21+00:00",
-   "source": "ذریعہ: BBC Urdu",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "c6382a6ee6bb",
-   "rewritten": true,
-   "v4": true,
-   "title": "Chinese Businesswoman Alice Huang Linked to Nvidia CEO Faces US Scrutiny",
-   "summary": "Chinese businesswoman Alice Huang, also known as Huang Le, has drawn international scrutiny due to her connections with Nvidia CEO Jensen Huang. Public financial records and corporate filings indicate that Alice Huang previously held senior management roles at Shanghai Hexi Investment Management and worked in banking before becoming the controlling shareholder of Singapore-based cloud-computing firm Megaspeed International in March 2023. Megaspeed is listed by Nvidia as an official cloud partner.\n\nThe connection gained public attention following reports that US authorities investigated whether Megaspeed facilitated the acquisition of restricted advanced Nvidia chips, such as H100 processors, by Chinese entities in violation of Washington export controls. Furthermore, US media reports alleged that intelligence assessments linked her to Beijing as an intelligence asset while developing a relationship with the Nvidia CEO. China has denied the intelligence allegations, and Nvidia has launched an independent board investigation, though it stated it found no compromise of national security information or trade secrets.\n\nUS President Donald Trump stated that the FBI is looking into the situation, while Jensen Huang acknowledged being unfaithful to his wife but affirmed his commitment to US national security. Trade and shipping records indicate that Megaspeed's Indonesian subsidiary imported hardware from suppliers including Gigabyte subsidiaries between 2024 and 2026, though no formal violation of export rules has been publicly established. Lawmakers have since pressed for details regarding whether company secrets were compromised, while analysts note the Nvidia CEO may have been targeted without his knowledge.",
-   "url": "",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Alice-Huange.jpg",
-   "published": "2026-11-10T10:59:22+00:00",
-   "source": "Source: ARY News",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "82cd07c00acd",
-   "rewritten": true,
-   "v4": true,
-   "title": "Balochistan High Court Sentences Ex-MPA Abdul Majeed Achakzai Over Hit-and-Run Death",
-   "summary": "The Balochistan High Court in Quetta sentenced former lawmaker Abdul Majeed Achakzai to 10 years in prison in connection with the hit-and-run death of Traffic Sub-Inspector Haji Attaullah. A division bench consisting of Justice Muhammad Amir Nawaz Rana and Justice Abdul Qayyum Lehr reviewed an appeal brought by the provincial government against the former politician's earlier acquittal, ultimately overturning a local court's September 4, 2020 decision. Achakzai was convicted under Section 320 of the Pakistan Penal Code for causing death through rash or negligent driving and was additionally ordered to pay diyat to the victim's legal heirs. Furthermore, the court instructed the Additional Sessions Judge-VI in Quetta to issue non-bailable warrants for his immediate arrest.\n\nThe incident took place in June 2017 at GPO Chowk in Quetta, where Traffic Sergeant Ataullah was struck by a fast-moving vehicle while performing his official duties after Achakzai left a session at the Balochistan Assembly. The victim sustained severe injuries and subsequently died at a hospital. While police initially logged the event as an accident involving unidentified individuals, a manslaughter case was opened against the former MPA following viral CCTV footage broadcast across television networks and social media platforms. Achakzai, a member of the Pakhtunkhwa Milli Awami Party and a relative of opposition leader Mehmood Khan Achakzai, was initially granted bail by an anti-terrorism court before being acquitted by a local court in 2020.\n\nThis ruling matters as it reverses a contentious acquittal in a high-profile case involving a prominent political figure, testing judicial accountability in traffic-related fatalities involving public officials. Achakzai is a two-time elected member of the provincial assembly who previously served as a provincial minister and chairman of the assembly's Public Accounts Committee.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2020/09/5f6ebf76c4033.jpg",
-   "published": "2026-11-10T10:55:23+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
   }
  ]
 }
