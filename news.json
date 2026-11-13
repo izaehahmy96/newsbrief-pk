@@ -1,6 +1,45 @@
 {
- "updated": "2026-11-13T22:39:06.659494+00:00",
+ "updated": "2026-11-13T23:36:02.548181+00:00",
  "stories": [
+  {
+   "id": "7a9e16afd59a",
+   "rewritten": true,
+   "v4": true,
+   "title": "Germany defeats Serbia to set up crucial match against Netherlands",
+   "summary": "Germany secured a 3-1 victory against Serbia during a UEFA Nations League Group A2 fixture at the Rajko Mitic Stadium in Belgrade on November 13, 2026. Played in heavy rain inside a nearly empty venue due to a spectator ban on Serbia for discriminatory behavior, the match featured an early own goal by Serbia's Srdan Babic. Florian Wirtz and debutant Brajan Gruda also scored for Germany, while Babic netted a consolation goal later. Serbia ended the game with nine players after late red cards were issued to substitutes Vanja Dragojevic and Andrija Zivkovic.\n\nSimultaneously, the Netherlands achieved a dominant 7-0 win over Greece in Amsterdam, propelled by a first-half hat-trick from Tijjani Reijnders alongside goals from Crysencio Summerville, Jurrien Timber, and Donyell Malen. These results leave the Netherlands atop Group A2 with 11 points, holding a three-point advantage over both second-placed Greece and third-placed Germany. Consequently, Germany will likely need a victory in their upcoming match against the Dutch in Berlin to advance to the quarter-finals, unless Serbia defeats Greece in their away fixture.\n\nThe fixture marked the fifth match for Germany under coach Jurgen Klopp, bringing his record to two wins, two draws, and one loss. Klopp praised his squad's counter-pressing and intensity, expressing enthusiasm for the upcoming Berlin showdown. Meanwhile, Serbia remains at the bottom of the group following their fifth consecutive defeat. Greek winger Christos Tzolis described his team's performance, particularly the first half, as the national team's worst outing, while Dutch coach Xavi Hernandez commended his players for an extraordinary opening half.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/1404145039de8cc.webp",
+   "published": "2026-11-13T23:15:57+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "sports"
+  },
+  {
+   "id": "396b541947f0",
+   "rewritten": true,
+   "v4": true,
+   "title": "US grounds all departing domestic flights following communications system failure",
+   "summary": "The United States Federal Aviation Administration issued a nationwide ground stop on Friday, halting all departing flights across the country due to a major communications failure affecting air traffic control centers. While aircraft already airborne were permitted to land safely, any planes on the ground were prohibited from taking off. Flight tracking data from FlightAware indicated that nearly 7,000 flights experienced delays or cancellations as a result of the sudden nationwide disruption.\n\nTransportation Secretary Sean Duffy stated that technicians from the Federal Aviation Administration were actively investigating the issue, which impacted Air Route Traffic Control Centers nationwide. International flights were managed on an individual basis during the incident. Shortly before the broader announcement, aviation authorities had already halted departures specifically in Chicago due to identical communication failures within the air traffic control network.\n\nThis widespread disruption underscores ongoing vulnerabilities within the American air control apparatus, which has struggled with aging infrastructure, technical breakdowns, and staffing shortages among controllers. Lawmakers approved $12.5 billion for system modernization last year, and the agency alongside the White House requested an additional $30.1 billion on Friday. This event marks only the second nationwide departure ground stop in the United States since the attacks of September 11, 2001, following a similar brief two-hour domestic halt in January 2023.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/14033502f05622b.webp",
+   "published": "2026-11-13T23:05:46+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "bdd54f0d87c5",
+   "rewritten": true,
+   "v4": true,
+   "title": "Mohamed Salah sets scoring record as Egypt defeats Malawi in qualifiers",
+   "summary": "Mohamed Salah became Egypt's all-time leading goalscorer with 70 goals after netting twice in a 5-0 victory over Malawi during an Africa Cup of Nations qualifier at Cairo International Stadium on November 13, 2026. The 34-year-old forward secured his record-breaking milestone late in the match, scoring with a header at the far post in the 84th minute and converting a penalty five minutes into stoppage time. The win provided a successful debut for new Egypt coach Ali Maher, who replaced Hossam Hassan last week, following earlier first-half goals by Nasser Maher, Omar Marmoush, and Mohamed Hany.\n\nThe decisive victory places Egypt with seven points after three matches in Group B, three points ahead of Angola. In other qualifying action, Morocco routed Niger 5-1 in Casablanca with a brace from Achraf Hakimi, while Nigeria defeated Tanzania 3-1 in Uyo behind two quick goals from substitute Tolu Arokodaro. Nigeria's win elevates them to six points in Group L, keeping them one point behind Guinea-Bissau. Tanzania, despite sitting at the bottom of the group, holds a guaranteed spot in the 2027 tournament as co-hosts alongside Kenya and Uganda.\n\nMeanwhile, Tunisia faced a disappointing 2-0 home defeat against Libya in Group H, putting their historical streak of reaching every tournament since 1994 in serious jeopardy. Goals from Ali Youssef and Hamdou Elhouni lifted Libya into a tied lead with Uganda on four points, leaving Tunisia with only two points. In Group D, South Africa and Kenya played to a 2-2 draw after late heroics from Ryan Ogam, allowing South Africa to maintain their group lead under coach Pitso Mosimane while sharing points with Kenya, guided by Benni McCarthy.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/140356052b79bb2.webp",
+   "published": "2026-11-13T23:01:51+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "sports"
+  },
   {
    "id": "6e460ebddeda",
    "rewritten": true,
@@ -104,6 +143,19 @@
    "source": "Source: Business Recorder",
    "lang": "en",
    "category": "business"
+  },
+  {
+   "id": "8f70da12d981",
+   "rewritten": true,
+   "v4": true,
+   "title": "امریکی فضائی نظام میں خرابی، پروازیں معطل اور ہزاروں متاثر",
+   "summary": "امریکا کے فضائی ٹریفک کنٹرول کے نظام میں اچانک تکنیکی خرابی پیدا ہونے کے باعث ملک بھر کے تمام ہوائی اڈوں پر پروازوں کی روانگی عارضی طور پر روک دی گئی۔ اس واقعے کے نتیجے میں ملک بھر میں ہزاروں پروازیں شدید متاثر ہوئی ہیں، جس سے مسافروں کو بھی مشکلات کا سامنا کرنا پڑا۔\n\nامریکی فیڈرل ایوی ایشن ایڈمنسٹریشن (ایف اے اے) کے حکام کا کہنا ہے کہ اس تکنیکی نقص کی وجہ سے ریڈار اور ایئر ٹریفک کنٹرول کی operational صلاحیت متاثر ہوئی۔ تاہم، امریکا آنے والی بین الاقوامی پروازوں کا الگ الگ جائزہ لیا جائے گا، جبکہ حکام نے تاحال گراؤنڈ اسٹاپ کے خاتمے سے متعلق کسی حتمی وقت کا اعلان نہیں کیا۔\n\nامریکی میڈیا کے مطابق، اس واقعے کے پس منظر میں کسی قسم کے سائبر حملے یا تخریب کاری کے شواہد کی سرکاری طور پر تصدیق نہیں کی گئی۔ ایف اے اے کے تکنیکی ماہرین خرابی کی وجوہات جاننے کے لیے تحقیقات کر رہے ہیں، جبکہ فیڈرل بیورو آف انویسٹی گیشن (ایف بی آئی) نے بھی اس معاملے پر تحقیقات کا آغاز کر دیا ہے۔\n\nہوم لینڈ سکیورٹی کے سربراہ مارک وین مولن نے عوام کو یقین دلایا ہے کہ اس صورتحال پر خوفزدہ ہونے کی کوئی ضرورت نہیں ہے کیونکہ تمام پروازوں کا مکمل ریکارڈ موجود ہے۔ انہوں نے واضح کیا کہ ایئر ٹریفک کنٹرول مراکز میں مواصلاتی نظام کی خرابی کے باعث ہی پروازیں روکی گئیں۔ اس تمام صورتحال سے صدر ڈونلڈ ٹرمپ کو بھی باضابطہ طور پر آگاہ کر دیا گیا ہے۔\n\nایک الگ واقعے میں، امریکی محکمہ موسمیات کو بھی ملک گیر انٹرنیٹ اور مواصلاتی نظام میں خرابی کا سامنا کرنا پڑا ہے، جس کے باعث ان کی ویب سائٹس پر موسم سے متعلق معلومات تک رسائی محدود ہو گئی ہے۔ متعلقہ حکام کا کہنا ہے کہ تمام تکنیکی ماہرین جلد از جلد اس خرابی کو دور کرنے کے لیے مسلسل مصروفِ عمل ہیں۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-13T18:16:43+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
   },
   {
    "id": "c6a6778a0c86",
@@ -3848,58 +3900,6 @@
    "source": "Source: Dawn",
    "lang": "en",
    "category": "business"
-  },
-  {
-   "id": "487526e32869",
-   "rewritten": true,
-   "v4": true,
-   "title": "FBR Mandates Electronic Monitoring Systems for Tea Industry by December 10",
-   "summary": "The Federal Board of Revenue (FBR) has issued a directive requiring all registered entities involved in tea manufacturing, blending, and packing to install electronic production monitoring systems by December 10. This mandate applies to black tea, green tea, flavoured tea, tea bags, instant tea, tea extracts, and premixes containing milk powder or sugar, across all retail packaging types such as sachets, pouches, cartons, jars, tins, and bulk packs. The order also extends to toll and contract packers.\n\nUnder Sales Tax General Order (STGO) No. 35 of 2026, manufacturers must install barcode scanners, counting sensors, and related hardware and software on every packing line after the retail pack is filled and sealed. The system will electronically record production in real time and transmit the data to the FBR. The technology will read unique, machine-readable barcodes printed on each pack to identify stock-keeping units (SKUs) and count them based on approved master data using FBR-authorized vendors.\n\nThe FBR has identified 14 registered manufacturers and packers for this initiative, including Tapal Tea, Mezan Tea, Islamabad Tea Company, Alpha Tea, Leader Tea, Top Tea Company, Kohistan Foods, Quality Products, Noor Tea Co., Ahbaab Impex, DK Products (Pvt) Ltd, Kamal Foods, Raaz Industries (Pvt) Ltd, and Eastern Products (Pvt) Ltd. Chief Commissioners Inland Revenue have been instructed to appoint dedicated focal persons to coordinate the rollout.\n\nManufacturers have been given 15 days from the order date to ensure every product has a unique barcode corresponding to its brand, blend, weight, and packaging type. Furthermore, product details must be registered with an authorized vendor seven days prior to packing any new or altered product. The FBR aims to address the over Rs3 trillion sales tax collection gap through this digitization effort.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2023/07/23093134e54b11e.jpg",
-   "published": "2026-11-13T01:59:54+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "b8224cb3f40d",
-   "rewritten": true,
-   "v4": true,
-   "title": "Mobilink Bank Agrees to Acquire Controlling Stake in Apna Microfinance Bank",
-   "summary": "Mobilink Bank has entered into a sale-purchase agreement to acquire an 82.51 per cent shareholding in the Pakistan Stock Exchange-listed Apna Microfinance Bank Ltd. The transaction remains subject to necessary legal and regulatory approvals.\n\nThe formal agreement was signed on Thursday by Mobilink Bank President and Chief Executive Haaris M. Chaudhary and Apna Microfinance Bank Chairman Muhammad Akram Shahid. Following the completion of the acquisition, Apna Bank customers will officially transition into the Mobilink Bank network, with uninterrupted access to their accounts and services throughout the integration process.\n\nMobilink Bank Chairman and JazzWorld CEO Aamir Ibrahim noted that the acquisition broadens the group's financial services reach—which currently encompasses JazzCash, JazzSure Insurance, and FikrFree—into agricultural and micro-enterprise banking. Mr. Chaudhary emphasized that leadership is committed to ensuring a smooth transition for all affected customers.\n\nNazish Ali, Acting CEO of Apna Microfinance Bank, stated that the agreement signifies a major milestone for the institution. She expressed confidence that integrating with Mobilink Bank will grant their customer base enhanced digital infrastructure, broader institutional capabilities, and a wider array of financial services.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/130944454483374.webp",
-   "published": "2026-11-13T01:59:54+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "a85412082cb9",
-   "rewritten": true,
-   "v4": true,
-   "title": "PSX Drops Below 178,000 Amid Profit-Taking and Political Uncertainty",
-   "summary": "The Pakistan Stock Exchange (PSX) experienced a bearish session on Thursday, slipping below the key 180,000 threshold as investors engaged in profit-taking for the second consecutive day amid cautious sentiment and domestic political uncertainty.\n\nThe benchmark KSE-100 index fell 1,710.04 points, or 0.95 per cent, to finish the day at 177,373.76 points. The market initially showed strength, climbing nearly 1,200 points to an intraday peak of 180,310, but the gains were wiped out by midday as selling pressure mounted across major index-heavy equities.\n\nHeavyweights such as United Bank, Fauji Fertiliser, Hub Power, Lucky Cement, Systems Ltd, National Bank, Meezan Bank, Pakistan Petroleum, Askari Bank, and Bank Al-Habib acted as major laggards, collectively stripping 1,047 points from the index. Market participation also contracted, with trading volume dropping 14.23 per cent to 1.07 billion shares and turnover sliding 24.33 per cent to Rs31.6 billion. WorldCall Telecom topped the volume charts with 190.6 million shares traded.\n\nIn broader market developments, the Pakistan Automotive Manufacturers Association reported that national automobile sales rose to 21,635 units in October compared to September's 10,939 units, bringing cumulative sales for the period to 63,507 units. Additionally, Attock Refinery was included in the MSCI Frontier Markets Standard Index, raising Pakistan's representation to 30 stocks, while Flying Cement and Pakistan Oxygen were removed from the MSCI Small Cap Index.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2021/12/61a85f381d99d.jpg",
-   "published": "2026-11-13T01:59:54+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "34e71fab3cd6",
-   "rewritten": true,
-   "v4": true,
-   "title": "Truck Crash and Fire in UAE Fujairah Emirate Leaves 14 Dead",
-   "summary": "A severe collision and subsequent fire involving a truck and multiple other vehicles in the United Arab Emirates resulted in 14 fatalities and 30 injuries, marking one of the country's deadliest road accidents.\n\nAccording to Fujairah Police, the incident occurred shortly before midnight on Sheikh Khalifa bin Zayed Road near the entrance to the emirate of Fujairah. The truck driver lost control of the vehicle, colliding with another automobile before overturning and striking several cars that had halted due to slow-moving traffic. The impact triggered a major fire in the truck, which quickly spread to the surrounding damaged vehicles.\n\nEmergency responders, civil defense teams, and police rushed to the scene to extinguish the flames, secure the location, and transport the wounded to hospitals. Among the injured, 15 have since been discharged, while the remaining 15 continue to receive medical treatment. The casualties include Emirati nationals, and authorities are utilizing DNA testing to positively identify certain victims.\n\nThe Indian consulate in Dubai confirmed that Indian citizens were among those killed in the tragedy, stating that diplomatic officials have contacted the grieving families and are cooperating with local authorities to offer support. The UAE interior ministry and police continue to manage the aftermath of the disaster.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/130946548f2f442.webp",
-   "published": "2026-11-13T01:59:33+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
   }
  ]
 }
