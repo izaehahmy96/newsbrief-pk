@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T16:14:40.826142+00:00",
+ "updated": "2026-11-14T17:10:22.427699+00:00",
  "stories": [
   {
    "id": "4c939ce1500f",
@@ -11,6 +11,32 @@
    "image": "https://www.geo.tv/assets/uploads/2026-11-14/691093_062406_updates.jpg",
    "published": "2026-11-14T19:06:00+00:00",
    "source": "Source: Geo News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "f92a7eafb36e",
+   "rewritten": true,
+   "v4": true,
+   "title": "Microsoft Confirms Global Service Restoration After Massive Outage",
+   "summary": "Technology giant Microsoft announced on Saturday that it successfully restored services to all remaining customers and regions, effectively resolving a massive global outage. The US-based corporation stated that it had finished addressing the root cause of the incident, which previously caused widespread disruptions across public services and businesses globally.\n\nThe widespread disruption began on Thursday and affected Microsoft products in at least 74 countries and territories throughout the Americas, Europe, Asia, and Africa, according to monitoring data from Downdetector. The technological failure heavily impacted critical services, including the Outlook email platform, the Teams communication application, and the Copilot artificial intelligence assistant. Consequently, the stoppage created difficulties for healthcare institutions, delayed corporate earnings reports, and left numerous schools struggling with daily communications.\n\nThroughout the event, Microsoft maintained that the issue stemmed from an elevated load on its infrastructure rather than any malicious cyber or artificial intelligence activity. By Friday, the enterprise had reported a broad recovery for several applications and issued a formal apology to its customer base and partners for the inconveniences caused. The latest update on Saturday confirms that recovery efforts are fully complete across all impacted areas.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2025/07/0510025891c8b96.jpg",
+   "published": "2026-11-14T16:39:33+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "95be83afb816",
+   "rewritten": true,
+   "v4": true,
+   "title": "KP Wildlife Department Releases Confiscated Falcons Into Natural Habitat",
+   "summary": "The Khyber Pakhtunkhwa Wildlife Department successfully returned three confiscated falcons to their natural environment on Saturday. Officials involved in the release initiative included Muhammad Niaz, the Conservator of Wildlife for the Central Circle in Peshawar, alongside Mrs. Manahil Wahab, the Divisional Forest Officer for Wildlife in Peshawar.\n\nThe released birds comprised one Peregrine Falcon and one Shaheen Falcon that enforcement personnel confiscated on November 13, 2026. Authorities also included another Peregrine Falcon that was seized the following day, November 14, at the Peshawar Toll Plaza. This conservation effort highlights the Peshawar Wildlife Division's ongoing dedication to wildlife protection and the safe rehabilitation of protected birds.\n\nDuring the release event, Conservator Muhammad Niaz emphasized that authorities will maintain strict surveillance and vigilance to stop illegal hunting and poaching across the region. He reiterated the department's commitment to safeguarding provincial wildlife resources and warned that individuals caught violating wildlife laws will face strict legal consequences.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FotoJet-10.jpg",
+   "published": "2026-11-14T16:26:12+00:00",
+   "source": "Source: ARY News",
    "lang": "en",
    "category": "pakistan"
   },
@@ -886,6 +912,19 @@
    "category": "business"
   },
   {
+   "id": "9a332070d2fd",
+   "rewritten": true,
+   "v4": true,
+   "title": "India Under-19 Cricket Victory Overshadowed By Unsporting Post-Match Gestures",
+   "summary": "India's dramatic one-wicket victory over Pakistan in the Under-19 Asia Cup final faced heavy public criticism following allegations of unsporting conduct. Videos circulating widely on social media showed Indian players making inappropriate and obscene gestures toward Pakistani wicket-keeper Hamza Zahoor and other players in the background after Saturday's final match at the Al Amerat Cricket Ground in Oman.\n\nThe controversy drew intense reactions from cricket fans and observers who contrasted the behavior with the usual standards of sportsmanship expected at the international level. Particular attention focused on a viral video featuring Indian batsman Manal Chauhan allegedly directing inappropriate gestures toward Hamza. Observers argued that such actions detract from the achievements of emerging talent and undermine the mutual respect required between competing teams.\n\nOn the field, the final showcased a thrilling contest where Pakistan posted a strong total of 337 runs for nine wickets, driven by Usman Khan's century and Abdul Qadir's 80 runs. Despite sliding to 252 runs for eight wickets, India secured the championship thanks to an unbeaten 46 runs from Mohit Ulva and 47 runs from Manal. While the tactical recovery gained praise, the post-match controversies ultimately overshadowed the sporting success.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-14T11:02:35+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "sports"
+  },
+  {
    "id": "320f117db1fc",
    "rewritten": true,
    "v4": true,
@@ -1259,6 +1298,19 @@
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Google-Pixel.jpg",
    "published": "2026-11-14T09:31:07+00:00",
    "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "67c6c9f6ddea",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan and Uzbekistan Reaffirm Defense Cooperation During Air Chief Visit",
+   "summary": "Pakistan Air Force Chief of the Air Staff, Air Chief Marshal Zaheer Ahmed Baber Sidhu, traveled to the Republic of Uzbekistan on Saturday for an official visit. During his trip, the Air Chief held high-level meetings with Uzbek defense leadership to strengthen bilateral military ties, discuss regional security, and expand institutional cooperation.\n\nIn his primary meeting, Air Chief Marshal Sidhu conferred with Uzbekistan's Defense Minister, Lieutenant General Botir Qudrathodjayev Bahromovich, to review existing defense relationships and future partnership prospects. During the discussions, Lieutenant General Bahromovich praised the professionalism, combat capabilities, and operational prowess demonstrated by the Pakistan Air Force.\n\nLater, the Air Chief met with Major General Burkhanov Akhmad Jamolovich, the Deputy Defense Minister and Commander of the Air Defense and Air Force of Uzbekistan. Both sides evaluated opportunities to enhance operational readiness and bilateral defense cooperation through structured professional exchanges, joint military exercises, and collaboration in emerging technologies. Throughout the engagements, Air Chief Sidhu emphasized the enduring brotherly ties connecting Pakistan and Uzbekistan.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-14T09:30:57+00:00",
+   "source": "Source: The Express Tribune",
    "lang": "en",
    "category": "pakistan"
   },
@@ -1991,6 +2043,19 @@
    "category": "world"
   },
   {
+   "id": "d2fd1e44638d",
+   "rewritten": true,
+   "v4": true,
+   "title": "Elina Svitolina Beats Aryna Sabalenka to Reach WTA Finals Semifinals",
+   "summary": "Ukrainian veteran tennis player Elina Svitolina secured a hard-fought victory against world number two Aryna Sabalenka in Los Angeles on Friday, advancing to the semifinals of the WTA Finals. Svitolina overcame a second-set deficit to triumph 6-3, 3-6, 6-1, capitalizing on Sabalenka's 35 unforced errors and first-serve struggles. This marked Svitolina's second career win in eight matches against the Belarusian star.\n\nFollowing the round-robin conclusion, the sixth-ranked Svitolina will face Wimbledon champion Linda Noskova in the next round. Meanwhile, French Open champion Mirra Andreeva concluded an undefeated group stage run by defeating Diana Shnaider 6-2, 6-1 in just 56 minutes. Shnaider played as a late replacement for the ailing Karolina Muchova.\n\nIn the upcoming semifinal, 19-year-old Russian Andreeva is set to play fifth-ranked American Jessica Pegula for the first time. The match follows a minor controversy after a practice court microphone inadvertently captured Pegula referring to Andreeva as a \"diva.\" Pegula subsequently apologized, noting that Andreeva took the remark lightly and embraced the label.\n\nSabalenka's defeat caps off a disappointing season where she failed to secure a Grand Slam title despite winning three tournaments, including the Sunshine Double at Indian Wells and Miami in March. Svitolina, who won the WTA Finals crown in 2018, aims for her second title in the elite season-ending event as she continues her campaign.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-14T06:16:19+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "sports"
+  },
+  {
    "id": "e302d09673c0",
    "rewritten": true,
    "v4": true,
@@ -2251,6 +2316,19 @@
    "category": "business"
   },
   {
+   "id": "abd000361bfa",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan Needs Middle-Power Alliances Amid US-China Rivalry, Says German Professor",
+   "summary": "Professor Carlos Masala of the University of the Federal Armed Forces in Munich stated on Friday that Pakistan must forge partnerships with like-minded middle powers to navigate the emerging bipolar world order. Speaking at a seminar hosted by the Institute of Business Administration (IBA) City Campus in Karachi, the security and defence policy expert emphasized that growing US-China competition will heighten the pressure on nations to pick sides.\n\nMasala, author of the 2025 book 'If Russia Wins: A Scenario', described Pakistan as a middle power sandwiched between major neighbors like India and China due to its geography. He argued that multipolarity is currently an illusion, characterizing the future global framework as a bipolar system driven by geoeconomics and technological innovation rather than nuclear arms races, comparing the US and China to heavy gorillas with smaller nations acting as independent actors.\n\nInstead of depending on either superpower, Masala noted that most global countries are hedging their bets and seeking the best offer from Beijing or Washington. He suggested that Pakistan could leverage strategic vacuums, such as the Makkah pact, to play a more independent role in the Persian Gulf and Middle East while resisting great power coercion.\n\nDuring the seminar, Masala also addressed European security dynamics, describing Russia's recent shadow war and sabotage attempts as efforts to dilute European support for Ukraine. The event was part of the political science seminar series organized by IBA to examine structural changes in the international order.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-14T05:33:47+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
    "id": "6d4bcf4ccd7c",
    "rewritten": true,
    "v4": true,
@@ -2506,6 +2584,19 @@
    "url": "",
    "image": null,
    "published": "2026-11-14T04:06:24+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "world"
+  },
+  {
+   "id": "eeee0ccc4b68",
+   "rewritten": true,
+   "v4": true,
+   "title": "China and US Discuss Tariffs and Farm Trade Ahead of Shenzhen Summit",
+   "summary": "China and the United States held their inaugural trade council meeting on Friday, engaging in discussions regarding tariff cuts, agricultural trade, and the implementation of previous economic agreements. China's Commerce Ministry reported that the session featured candid exchanges on mutual concerns, including a proposed reciprocal thirty-billion-dollar tariff-cut arrangement, though no formal agreements were immediately finalized.\n\nThe discussions occur just ahead of an expected leaders' meeting between Chinese President Xi Jinping and US President Donald Trump, scheduled for Thursday on the sidelines of the Asia-Pacific Economic Cooperation forum in Shenzhen. Both nations previously proposed a sixty-billion-dollar reciprocal tariff reduction package following a September summit in Washington, which includes approximately seventeen billion dollars in US farm goods imported by China in 2024.\n\nDespite an existing agreement for China to purchase seventeen billion dollars annually in US farm goods through 2028, Chinese purchases outside of soybeans are tracking toward a seven-year low in 2024. Beijing has consistently urged Washington to fully implement the proposed sixty-billion-dollar tariff reduction package as a necessary prerequisite for increasing its agricultural imports.\n\nBoth governments intend to utilize the newly established trade board to address ongoing commercial concerns, foster cooperation, and resolve remaining economic disputes. The White House confirmed President Trump's upcoming meeting with President Xi as bilateral engagements continue to navigate trade friction.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-14T03:57:46+00:00",
    "source": "Source: The Express Tribune",
    "lang": "en",
    "category": "world"
@@ -3809,97 +3900,6 @@
    "source": "Source: The Express Tribune",
    "lang": "en",
    "category": "fashion"
-  },
-  {
-   "id": "8f70da12d981",
-   "rewritten": true,
-   "v4": true,
-   "title": "امریکی فضائی نظام میں خرابی، پروازیں معطل اور ہزاروں متاثر",
-   "summary": "امریکا کے فضائی ٹریفک کنٹرول کے نظام میں اچانک تکنیکی خرابی پیدا ہونے کے باعث ملک بھر کے تمام ہوائی اڈوں پر پروازوں کی روانگی عارضی طور پر روک دی گئی۔ اس واقعے کے نتیجے میں ملک بھر میں ہزاروں پروازیں شدید متاثر ہوئی ہیں، جس سے مسافروں کو بھی مشکلات کا سامنا کرنا پڑا۔\n\nامریکی فیڈرل ایوی ایشن ایڈمنسٹریشن (ایف اے اے) کے حکام کا کہنا ہے کہ اس تکنیکی نقص کی وجہ سے ریڈار اور ایئر ٹریفک کنٹرول کی operational صلاحیت متاثر ہوئی۔ تاہم، امریکا آنے والی بین الاقوامی پروازوں کا الگ الگ جائزہ لیا جائے گا، جبکہ حکام نے تاحال گراؤنڈ اسٹاپ کے خاتمے سے متعلق کسی حتمی وقت کا اعلان نہیں کیا۔\n\nامریکی میڈیا کے مطابق، اس واقعے کے پس منظر میں کسی قسم کے سائبر حملے یا تخریب کاری کے شواہد کی سرکاری طور پر تصدیق نہیں کی گئی۔ ایف اے اے کے تکنیکی ماہرین خرابی کی وجوہات جاننے کے لیے تحقیقات کر رہے ہیں، جبکہ فیڈرل بیورو آف انویسٹی گیشن (ایف بی آئی) نے بھی اس معاملے پر تحقیقات کا آغاز کر دیا ہے۔\n\nہوم لینڈ سکیورٹی کے سربراہ مارک وین مولن نے عوام کو یقین دلایا ہے کہ اس صورتحال پر خوفزدہ ہونے کی کوئی ضرورت نہیں ہے کیونکہ تمام پروازوں کا مکمل ریکارڈ موجود ہے۔ انہوں نے واضح کیا کہ ایئر ٹریفک کنٹرول مراکز میں مواصلاتی نظام کی خرابی کے باعث ہی پروازیں روکی گئیں۔ اس تمام صورتحال سے صدر ڈونلڈ ٹرمپ کو بھی باضابطہ طور پر آگاہ کر دیا گیا ہے۔\n\nایک الگ واقعے میں، امریکی محکمہ موسمیات کو بھی ملک گیر انٹرنیٹ اور مواصلاتی نظام میں خرابی کا سامنا کرنا پڑا ہے، جس کے باعث ان کی ویب سائٹس پر موسم سے متعلق معلومات تک رسائی محدود ہو گئی ہے۔ متعلقہ حکام کا کہنا ہے کہ تمام تکنیکی ماہرین جلد از جلد اس خرابی کو دور کرنے کے لیے مسلسل مصروفِ عمل ہیں۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-13T18:16:43+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "c6a6778a0c86",
-   "rewritten": true,
-   "v4": true,
-   "title": "Fawad Chaudhry Suggests Malik Ahmed Khan as Next Punjab Chief Minister",
-   "summary": "Former federal minister Fawad Chaudhry has publicly claimed that Punjab Assembly Speaker Malik Ahmed Khan is a prospective candidate to become the next chief minister of Punjab. During a recent interaction with journalists, Chaudhry asserted that establishing a national government remains the sole viable solution to address Pakistan's prevailing political and economic challenges. When questioned regarding a potential transition within the federal government, he expressed a belief that developments were approaching a conclusion and urged the Pakistan Tehreek-e-Insaf (PTI) to capitalize on the unfolding situation.\n\nChaudhry also remarked on the political stance of the Pakistan Peoples Party (PPP), noting their maintained silence following recent meetings, and suggested that clarity would emerge once the party officially responded. Concurrently, Punjab Governor Sardar Saleem Haider Khan stated that he possessed no awareness of any ongoing initiatives to replace incumbent Chief Minister Maryam Nawaz, declining to comment on speculative assumptions. The governor made these remarks while confirming that Faryal Talpur's visit to Punjab would yield positive impacts, and noted preparations to welcome President Asif Ali Zardari upon his arrival in Lahore, though he remained unbriefed on the president's specific local engagements.\n\nEarlier, Fawad Chaudhry sharply criticized Chief Minister Maryam Nawaz for her official visit to Jhelum, where she inaugurated various development projects originally initiated during the tenure of the PTI government. While acknowledging the positive outcome of the projects finally reaching inauguration, Chaudhry maintained that he had previously faced unfair political criticism for failing to complete them while in office. He attributed the multi-year delay in completing the Jhelum infrastructure initiatives to what he referred to as the 'London Plan'.",
-   "url": "",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/09/Fawad-Chaudhry.jpg",
-   "published": "2026-11-13T18:14:27+00:00",
-   "source": "Source: ARY News",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "fbc252695dda",
-   "rewritten": true,
-   "v4": true,
-   "title": "رانا ثناء اللہ نے نئے صوبوں سے متعلق محسن نقوی کے بیان پر اطمینان کا اظہار کر دیا",
-   "summary": "وزیراعظم کے مشیر برائے سیاسی امور سینیٹر رانا ثناء اللہ نے ایک نجی ٹی وی سے گفتگو کرتے ہوئے کہا ہے کہ محسن نقوی نے نئے صوبوں کے قیام کے حوالے سے جو بات کی ہے، اس کے بعد اب کوئی اعتراض باقی نہیں رہتا۔ انہوں نے یاد دلایا کہ اس سے قبل محسن نقوی کی ایک تقریب میں کہی گئی کچھ باتوں پر اعتراض کیا گیا تھا، جس کا جواب بھی دیا گیا تھا۔\n\nرانا ثناء اللہ نے وضاحت کی کہ محسن نقوی نے اپنے تازہ بیان میں واضح کیا ہے کہ سیاسی جماعتوں کی اپنی اہمیت ہے اور تمام صوبے باہمی اتفاق رائے سے ہی بنائے جائیں گے۔ اس عمل میں کسی کو بھی ناراض نہیں کیا جائے گا اور نہ ہی کسی کو باہر رکھا جائے گا، جبکہ صوبوں کا قیام مکمل طور پر عوام کی مرضی سے مشروط ہوگا۔\n\nانہوں نے مزید کہا کہ اگر نئے صوبے عوامی مرضی اور اتفاق رائے سے بنتے ہیں اور اس میں تمام سیاسی جماعتوں کو شامل کیا جاتا ہے، تو یہ ایک بہترین قدم ہے۔ اتفاق رائے طے کرنے کے لیے اگر چھ ہفتے، چھ ماہ یا چھ سال بھی لگ جائیں تو اس میں کوئی حرج نہیں ہے۔\n\nرانا ثناء اللہ کا یہ بھی کہنا تھا کہ محسن نقوی کی بات کو اسٹیبلشمنٹ کی سوچ سمجھا جاتا ہے کیونکہ ان کی اصل اتھارٹی اسٹیبلشمنٹ ہے۔ انہوں نے ملک کی سیاسی اور عسکری قیادت کے درمیان مکمل ہم آہنگی پر زور دیا اور بتایا کہ خطے میں سیکیورٹی فراہم کرنے کی صلاحیت کی وجہ سے دنیا پاکستان کو امن کے پاسبان کے طور پر دیکھ رہی ہے۔",
-   "url": "",
-   "image": "https://jang.com.pk/assets/uploads/updates/2026-11-13/b_1633185_112645_updates.jpg",
-   "published": "2026-11-13T18:11:53+00:00",
-   "source": "ذریعہ: Jang",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "1ba50aab317d",
-   "rewritten": true,
-   "v4": true,
-   "title": "سرکاری افسران کے اثاثوں کے ڈیجیٹل گوشوارے جمع کرانے کی تاریخ میں توسیع",
-   "summary": "سرکاری افسران کے لیے اپنے اثاثوں کے ڈیجیٹل گوشوارے جمع کرانے کی آخری تاریخ میں توسیع کر دی گئی ہے۔ وزیراعظم شہباز شریف کی منظوری کے بعد اسٹیبلشمنٹ ڈویژن نے تمام وزارتوں اور ڈویژنز کو اس حوالے سے نیا دفتری میمورنڈم جاری کر دیا ہے۔\n\nنئے نوٹیفکیشن کے مطابق اب سرکاری افسران 30 نومبر 2026ء تک فیڈرل بورڈ آف روینیو (ایف بی آر) کے پورٹل کے ذریعے اپنے اثاثوں کی تفصیلات باآسانی جمع کرا سکیں گے۔ اس فیصلے کا مقصد تمام متعلقہ افسران کو مقررہ مدت کے اندر ڈیجیٹل طریقے سے گوشوارے جمع کرانے کی سہولت فراہم کرنا ہے۔\n\nعلاوہ ازیں، اسٹیبلشمنٹ ڈویژن نے گوشواروں میں کسی بھی قسم کی تصحیح یا درستی کی آخری تاریخ بھی بڑھا کر 31 دسمبر 2026ء مقرر کر دی ہے۔ تاہم، یہ تصحیح صرف متعلقہ کیڈر ایڈمنسٹریٹر کی باقاعدہ منظوری کے بعد ہی کی جا سکے گی۔\n\nتمام سرکاری افسران کو سختی سے ہدایت کی گئی ہے کہ وہ اس توسیع شدہ مدت سے بھرپور فائدہ اٹھاتے ہوئے ایف بی آر پورٹل کے ذریعے اپنے اثاثوں کی تفصیلی معلومات بروقت جمع کرائیں تاکہ کسی بھی قسم کی انتظامی دشواری سے بچا جا سکے۔",
-   "url": "",
-   "image": "https://jang.com.pk/assets/uploads/updates/2026-11-13/b_1633184_111849_updates.jpg",
-   "published": "2026-11-13T18:11:42+00:00",
-   "source": "ذریعہ: Jang",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "bb2b21b1f75e",
-   "rewritten": true,
-   "v4": true,
-   "title": "پی ٹی آئی کو ہمدردی کارڈ استعمال کرنے کی عادت ہے، طلال چوہدری",
-   "summary": "وزیر مملکت برائے داخلہ سینیٹر طلال چوہدری نے ایک ٹی وی پروگرام میں گفتگو کرتے ہوئے کہا ہے کہ پاکستان تحریک انصاف (پی ٹی آئی) کو ہمیشہ سے ہمدردی کارڈ سوٹ کرتا ہے۔ انہوں نے واضح کیا کہ باہر سے کسی بھی قسم کی کوئی ڈیل یا ڈھیل نہیں ہونے جارہی جس کا لوگ عام طور پر سوچ رہے ہیں۔\n\nانہوں نے سوال اٹھایا کہ اگر بانی پی ٹی آئی کسی سے ملاقات نہیں کرنا چاہتے تو وہ اپنے وکلاء کیوں مقرر کرتے ہیں۔ طلال چوہدری کا کہنا تھا کہ بانی پی ٹی آئی کو درپیش موجودہ مشکلات دراصل ان کے اپنے ذاتی فیصلوں اور سابقہ دورِ حکومت کے اقدامات کا نتیجہ ہیں۔\n\nوفاقی وزیر نے مزید کہا کہ بانی پی ٹی آئی اور ان کے ساتھی دانستہ طور پر ایسے حالات پیدا کرتے ہیں جن سے وہ سیاسی ہمدردی سمیٹ سکیں۔ ان کا ماننا ہے کہ یہ لوگ روز بروز سیاسی طور پر کمزور ہوتے جا رہے ہیں اور ان کی حکمت عملی کا محور صرف ہمدردی حاصل کرنا رہ گیا ہے۔\n\nاس کے علاوہ انہوں نے وزیر داخلہ محسن نقوی کا دفاع کرتے ہوئے کہا کہ ان کے حوالے سے پھیلائی جانے والی افواہوں کا حقیقت سے کوئی تعلق نہیں ہے۔ انہوں نے کہا کہ وزیر داخلہ ملک کے نظام کے لیے ایک مستحکم قوت اور اسٹیبلائزر کا کردار ادا کر رہے ہیں۔",
-   "url": "",
-   "image": "https://jang.com.pk/assets/uploads/updates/2026-11-13/b_1633189_114744_updates.jpg",
-   "published": "2026-11-13T18:11:31+00:00",
-   "source": "ذریعہ: Jang",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "c6c0715e4222",
-   "rewritten": true,
-   "v4": true,
-   "title": "پاکستان ریلوے کا اے سی خراب یا ٹرین بند ہونے پر اضافی کرایہ واپس کرنے کا اعلان",
-   "summary": "پاکستان ریلوے نے مسافروں کو بہتر سہولیات فراہم کرنے کے لیے ایک اہم فیصلہ کرتے ہوئے سفر کے دوران ایئرکنڈیشنڈ (اے سی) خراب ہونے یا پاور پلانٹ فیل ہونے کی صورت میں مسافروں کو اضافی کرایہ واپس کرنے کا اعلان کیا ہے۔ اس کے ساتھ ہی ٹرین کی مکمل منسوخی پر بھی مکمل کرایہ واپس دیا جائے گا۔\n\nاس فیصلے پر عمل درآمد کے لیے ریلوے انتظامیہ نے ایک جدید ڈیجیٹل گارڈ سرٹیفکیٹ سسٹم متعارف کرایا ہے۔ نئے طریقہ کار کے تحت متاثرہ مسافر واقعے کے 7 روز کے اندر اندر اپنا ریفنڈ حاصل کرنے کے اہل ہوں گے۔\n\nریفنڈ کے حصول کے لیے مسافروں کو اپنا اصل ٹکٹ، گارڈ سرٹیفکیٹ اور شناختی کارڈ کی کاپی لازمی طور پر جمع کرانا ہوگی۔ ریلوے حکام کے مطابق جو مسافر آن لائن ٹکٹ خریدتے ہیں، انہیں یہ رقم کسی کاغذی کارروائی کے بغیر خودکار طریقے سے ان کے متعلقہ بینک اکاؤنٹ، کارڈ یا ڈیجیٹل والٹ میں منتقل کر دی جائے گی۔\n\nیہ اقدام مسافروں کے سفری تجربے کو بہتر بنانے اور ریلوے خدمات میں شفافیت لانے کے لیے اٹھایا گیا ہے تاکہ کسی بھی فنی خرابی کی صورت میں مسافروں کو ہونے والے مالی نقصان کا فوری ازالہ ممکن ہو سکے۔",
-   "url": "",
-   "image": "https://jang.com.pk/assets/uploads/updates/2026-11-13/b_1633187_114222_updates.jpg",
-   "published": "2026-11-13T18:11:00+00:00",
-   "source": "ذریعہ: Jang",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "5f8672006599",
-   "rewritten": true,
-   "v4": true,
-   "title": "Turkey and Qatar Sign Mutual Defence Agreement in Istanbul",
-   "summary": "Turkey and Qatar have officially signed a mutual defence agreement during a meeting between Turkish President Tayyip Erdogan and Qatari Emir Sheikh Tamim bin Hamad al-Thani in Istanbul. The office of the Turkish presidency announced the pact on social media, emphasizing that the accord further deepens the bilateral brotherhood and ongoing strategic cooperation between the two nations across both the defence industry and energy sectors. Although specific operational details of the defence agreement were not disclosed in the official announcement, leaders highlighted the growing partnership.\n\nPresident Erdogan underscored the shared commitment of Turkey and Qatar to collaborate closely to prevent the resurgence of armed conflict in the Gulf region, foster constructive dialogue, and secure lasting regional peace. He further noted that both governments are actively working to diversify and expand their joint energy partnerships while scaling up cooperative efforts within the defense manufacturing sector. The new pact follows a series of regional security alignments involving Turkey and other Middle Eastern allies aimed at strengthening mutual defense capabilities amidst ongoing geopolitical tensions.\n\nPreviously in August, Turkey, Saudi Arabia, and Pakistan formalized a separate joint defense agreement in Mecca to unify Sunni Muslim allies in response to regional conflicts. The Turkish parliament ratified that pact, known as the Mecca Joint Defence Agreement, enabling Ankara to extend military support to Saudi Arabia as it faces external attacks, including threats from Yemen's Houthi movement. Under the terms of that broader multi-nation agreement, an act of aggression against any single member party is officially treated as an attack against all signatories.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/11/132309090e50d80.webp",
-   "published": "2026-11-13T18:10:42+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
   }
  ]
 }
