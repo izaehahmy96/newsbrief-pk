@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T18:02:49.654577+00:00",
+ "updated": "2026-11-14T19:17:35.664180+00:00",
  "stories": [
   {
    "id": "4c939ce1500f",
@@ -11,6 +11,58 @@
    "image": "https://www.geo.tv/assets/uploads/2026-11-14/691093_062406_updates.jpg",
    "published": "2026-11-14T19:06:00+00:00",
    "source": "Source: Geo News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "656d8fd05c1a",
+   "rewritten": true,
+   "v4": true,
+   "title": "Technical Malfunction Disrupts US Transportation Secretary Press Conference on Flight Chaos",
+   "summary": "Trump administration officials faced an awkward situation on Saturday in Washington, DC, when a live televised press conference addressing a massive nationwide tech disruption of US flights was itself interrupted by technical problems. US Transportation Secretary Sean Duffy took the podium at the Department of Transportation headquarters to discuss a disastrous nationwide ground stop that had grounded thousands of flights due to ageing technology.\n\nAs Duffy began speaking, a deep, echoing hum emerged from the microphones and speakers. Pausing on camera, Duffy said into the mic, \"Check one two, three four, five six seven?\" and stepped away, apologizing for the issue while technicians scrambled to replace microphones and adjust cables. Although Duffy resumed his remarks shortly after, brittle feedback hit the room seconds later, leaving him visibly irritated as he realized the poor symbolism of an on-camera equipment failure following a major aviation shutdown.\n\nThe three-minute pause was broadcast live across US television networks. Duffy was joined at the briefing by Federal Aviation Administration head Bryan Bedford and, ironically, the FAA's chief technology officer, Rebecca Guy, who was participating in her first press conference alongside the secretary. Throughout the briefing, Duffy and Bedford emphasized the ongoing systemic difficulties involved in transitioning from outdated 1970s and 1980s air traffic control equipment to modern technology.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/14234055ec40d10.webp",
+   "published": "2026-11-14T18:50:41+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "2a6ca498a762",
+   "rewritten": true,
+   "v4": true,
+   "title": "Punjab Government Approves Transfer of Gulfstream G500 Operations to Pakistan Air Force",
+   "summary": "The Punjab government has formally approved a proposal to transition the operational control and maintenance of its Gulfstream G500 aircraft to the Pakistan Air Force (PAF). According to official documents, the provincial administration has cleared a draft Memorandum of Understanding with the PAF that outlines technical matters, financial arrangements, and aircraft maintenance protocols.\n\nTo facilitate the transition, the aircraft has already been de-registered with the Pakistan Civil Aviation Authority. Additionally, the services of three active-duty PAF pilots have been placed at the disposal of the provincial government on deputation. These pilots will manage flight operations alongside the pilots already employed by the Punjab government.\n\nThe decision follows consultations between the Punjab government's VIP Flight Wing and the PAF, which possesses the necessary infrastructure and trained personnel to maintain the aircraft properly. Discussions focused on ensuring round-the-clock availability, continuous operational readiness, and safe flights for the Gulfstream G500. The Additional Secretary for Welfare and the Services and General Administration Department has been authorized to officially sign the agreement on behalf of the provincial government.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/G500.jpg",
+   "published": "2026-11-14T18:48:26+00:00",
+   "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "f03eb15407c2",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan Railways Reaches Historic Revenue Milestone of One Hundred Billion Rupees",
+   "summary": "Pakistan Railways has crossed a historic financial threshold by generating more than one hundred billion rupees in revenue for the first time in its history. Federal Minister for Railways Muhammad Hanif Abbasi announced the milestone during a meeting in Islamabad with Minister for Parliamentary Affairs Tariq Fazal Chaudhry while briefing him on the department's performance.\n\nDuring their discussions, Abbasi reaffirmed the railway department's commitment to reaching an ambitious revenue target of one hundred and sixty billion rupees for the current financial year. Previously, the railway minister also expressed optimism about achieving a revenue of 1 trillion during the 2026-27 financial year. To help meet growing demands from the business community and further boost income, Pakistan Railways plans to increase its operational freight trains to 14 by January 2027.\n\nThis strategy follows decisions made during a meeting chaired by Abbasi at the Railways Headquarters, which also approved the creation of a dry port in Khanewal. The new facility is intended to strengthen overall freight operations and generate additional revenue streams for the national railway network.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/04/Pakistan-Railways-announces-50-travel-discount-for-THESE-passengers.jpg.jpeg",
+   "published": "2026-11-14T18:31:11+00:00",
+   "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "2d8a4d90ec30",
+   "rewritten": true,
+   "v4": true,
+   "title": "Trump Administration Proposes New Rules to Cut Food Stamps for Millions",
+   "summary": "The Trump administration moved on Tuesday to remove millions of Americans from the country's primary food assistance program, even as enrollment continues to decline following previous administration cuts. A newly proposed rule issued by the US Department of Agriculture aims to eliminate automatic eligibility for Supplemental Nutrition Assistance Program benefits—commonly known as food stamps—for households receiving cash aid through the Temporary Assistance for Needy Families program.\n\nUnder current guidelines, households receiving TANF qualify for SNAP without needing to meet federal income thresholds, though TANF eligibility standards vary by state between 130% and 200% of the federal poverty level, while standard SNAP eligibility is capped at 130%. According to a USDA analysis included in the proposal, the regulatory change would strip benefits from roughly 6.3 million people, representing nearly 18% of all SNAP recipients. The agency stated that the adjustments would standardize eligibility and preserve assistance for the truly needy.\n\nMore than 5.5 million people have already lost food stamp benefits since President Donald Trump implemented program cuts in his July 2025 tax law, reducing total enrollment to approximately 36 million. The USDA also estimates that 1.8 million children would lose eligibility for free school lunches because SNAP enrollment automatically confers access to other food aid programs. Democratic Representative Angie Craig of Minnesota criticized the proposal as heartless and cruel, while the public has been given a 30-day window to submit comments on the new rule.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FotoJet-13.jpg",
+   "published": "2026-11-14T18:12:39+00:00",
+   "source": "Source: ARY News",
    "lang": "en",
    "category": "pakistan"
   },
@@ -457,6 +509,19 @@
    "category": "pakistan"
   },
   {
+   "id": "2d7d23d88075",
+   "rewritten": true,
+   "v4": true,
+   "title": "اسلام آباد میں تیسویں اقتصادی تعاون تنظیم کونسل آف منسٹرز کانفرنس کا انعقاد",
+   "summary": "اسلام آباد کے پاک چائنا فرینڈشپ سینٹر میں پندرہ اور سولہ نومبر کو تیسویں اقتصادی تعاون تنظیم کونسل آف منسٹرز کانفرنس شروع ہو رہی ہے۔ اس سلسلے میں تمام انتظامی تیاریاں مکمل کر لی گئی ہیں اور وفاقی سیکریٹری اطلاعات و نشریات اشفاق احمد خلیل نے کوریج کے لیے میڈیا فیسیلیٹیشن سینٹر کا افتتاح کر دیا ہے۔\n\nافتتاحی تقریب کے دوران وفاقی سیکریٹری اطلاعات نے بتایا کہ اس مرکز میں ملکی اور غیر ملکی صحافیوں کو بہترین سہولیات فراہم کی جائیں گی۔ مرکز میں تیز ترین انٹرنیٹ، خصوصی ڈیسک، جدید ڈیجیٹل اسٹوڈیو، پوڈ کاسٹ اسٹوڈیو اور میڈیا بریفنگز کے لیے مخصوص کانفرنس رومز بنائے گئے ہیں۔\n\nانہوں نے مزید کہا کہ وفاقی وزیر اطلاعات و نشریات عطا اللہ تارڑ کی ہدایات کے مطابق اس سے قبل شنگھائی تعاون تنظیم کے اجلاس کے موقع پر بھی ایسے مراکز قائم کیے گئے تھے۔ اس روایت کو برقرار رکھتے ہوئے ملکی اور غیر ملکی میڈیا کو تمام ضروری سہولیات ایک ہی چھت تلے فراہم کی جا رہی ہیں۔\n\nانتظامیہ کی دن رات محنت اور وزارت اطلاعات کے اقدامات کا مقصد اس اہم کانفرنس کی مؤثر اور بروقت کوریج کو یقینی بنانا ہے۔ حکام کی بھرپور کوشش ہے کہ ای سی او پلیٹ فارم کے تحت ہونے والی یہ کانفرنس ہر لحاظ سے کامیاب ثابت ہو۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-14T13:48:49+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "4b533df4ad44",
    "rewritten": true,
    "v4": true,
@@ -506,6 +571,19 @@
    "published": "2026-11-14T13:37:22+00:00",
    "source": "Source: ARY News",
    "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "76b454e411c7",
+   "rewritten": true,
+   "v4": true,
+   "title": "ایلون مسک کی کمپنی کا اسٹار شپ راکٹ کا بوسٹر دھماکے سے تباہ",
+   "summary": "خلائی کمپنی اسپیس ایکس کو اسٹار شپ راکٹ کی واپسی کے تاریخی مشن میں ایک بڑی ناکامی کا سامنا کرنا پڑا ہے جہاں اس کا سپر ہیوی بوسٹر خلیج میکسیکو کے اوپر دھماکے سے تباہ ہو کر سمندر میں جا گرا۔\n\nمنصوبے کے تحت کمپنی نے پہلی بار یہ کوشش کی تھی کہ خلا میں بھیجے جانے والے راکٹ کے پہلے مرحلے کے بوسٹر کو واپس لا کر اسی لانچنگ ٹاور پر اتارا جائے جہاں سے اسے روانہ کیا گیا تھا۔ اس مقصد کے لیے مکینیکل بازوؤں یعنی چاپ اسٹکس کا استعمال کیا جانا تھا۔\n\nتاہم واپسی کے عمل کے دوران بوسٹر کو ٹیکساس کے شہر بوکا چیکا میں واقع اصل لانچنگ سائٹ پر واپس لانے کے بجائے اس کا رُخ تبدیل کر دیا گیا۔ اس کے بعد سپر ہیوی بوسٹر خلیج میکسیکو کے اوپر کچھ دیر فضا میں معلق رہا اور پھر ایک زور دار دھماکے کے بعد آگ کے گولے میں تبدیل ہو گیا۔\n\nواضح رہے کہ اسپیس ایکس کا بنیادی مقصد اسٹار شپ راکٹ کو مکمل طور پر دوبارہ قابلِ استعمال بنانا ہے تاکہ مستقبل میں بار بار خلائی پروازیں انجام دی جا سکیں اور خلائی سفر کے مجموعی اخراجات میں کمی لائی جا سکے گی۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-14T13:36:24+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
    "category": "pakistan"
   },
   {
@@ -600,6 +678,19 @@
    "category": "business"
   },
   {
+   "id": "28bf5369f299",
+   "rewritten": true,
+   "v4": true,
+   "title": "زمبابوے کرکٹ ٹیم کے ہیڈ کوچ جسٹن سمنز نے استعفیٰ دے دیا",
+   "summary": "زمبابوے کرکٹ ٹیم کے ہیڈ کوچ جسٹن سمنز نے اپنے عہدے سے مستعفی ہونے کا باضابطہ اعلان کر دیا ہے۔ وہ افغانستان کے خلاف جاری دوسرے ٹیسٹ میچ کے اختتام پر اپنی ذمہ داریوں سے دستبردار ہو جائیں گے۔\n\nکرکٹ ویب سائٹ کرک انفو کے مطابق جسٹن سمنز نے جون 2024 میں زمبابوے ٹیم کی کوچنگ سنبھالی تھی اور ان کا معاہدہ سنہ 2028 کے اختتام تک تھا۔ تاہم انہوں نے اپنے اہلخانہ کے ساتھ زیادہ وقت گزارنے کے لیے آبائی ملک جنوبی افریقا واپس جانے کا فیصلہ کیا ہے۔\n\nان کی کوچنگ کے دوران زمبابوے کی ٹیم نے تین ٹیسٹ میچز میں فتوحات حاصل کیں، جن میں اپریل 2025 میں سلہٹ کے مقام پر بنگلادیش کے خلاف حاصل ہونے والی بیرون ملک پہلی ٹیسٹ فتح بھی شامل ہے۔ اس کے علاوہ ٹیم نے افغانستان اور بنگلادیش کے خلاف اپنے آخری دو ہوم ٹیسٹ میچز میں بھی اننگز کی کامیابی اپنے نام کی۔\n\nرواں برس ٹی ٹوئنٹی ورلڈ کپ میں بھی زمبابوے نے شاندار کارکردگی کا مظاہرہ کرتے ہوئے پہلی بار آٹھویں پوزیشن حاصل کی۔ ٹیم گروپ بی میں ناقابل شکست رہی اور آسٹریلیا، سری لنکا اور عمان کے خلاف یادگار کامیابیوں کے جھنڈے گاڑے۔ جسٹن سمنز نے اس تجربے کو یادگار قرار دیتے ہوئے کھلاڑیوں، کوچنگ اسٹاف اور کرکٹ بورڈ کا شکریہ ادا کیا ہے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-14T13:14:51+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "3f5805804efb",
    "rewritten": true,
    "v4": true,
@@ -650,6 +741,19 @@
    "source": "Source: Business Recorder",
    "lang": "en",
    "category": "business"
+  },
+  {
+   "id": "ec4b6f221564",
+   "rewritten": true,
+   "v4": true,
+   "title": "پنجاب میں اسی لاکھ بچیاں اسکول نہیں جا رہی ہیں، حافظ نعیم الرحمان",
+   "summary": "جماعت اسلامی پاکستان کے امیر حافظ نعیم الرحمان نے مفت اور معیاری تعلیم کو ریاست کی بنیادی ذمہ داری قرار دیتے ہوئے کہا ہے کہ پنجاب میں اس وقت اسی لاکھ بچیاں اسکول نہیں جا رہی ہیں۔ انہوں نے لاہور میں ایک نمائش سے خطاب کرتے ہوئے ان خیالات کا اظہار کیا۔\n\nامیر جماعت اسلامی نے کہا کہ موجودہ حالات میں معاشرے کے اندر شدید افرا تفری پائی جاتی ہے جہاں لوگوں کو ان کے بنیادی حقوق نہیں مل رہے ہیں۔ امیر اور غریب کے درمیان خلیج بہت زیادہ بڑھ چکی ہے اور مڈل کلاس طبقہ بھی اس نظام میں بری طرح پس رہا ہے۔ انہوں نے تنقید کرتے ہوئے کہا کہ پنجاب کا موجودہ نظام بچیوں کو تعلیم کے حصول سے دور رکھ رہا ہے۔\n\nانہوں نے مزید بتایا کہ حکومت پنجاب کی جانب سے پندرہ ہزار اسکولوں کو آؤٹ سورس کر دیا گیا ہے جبکہ نجی تعلیمی اداروں میں بھی تعلیم کا دہرا معیار بنا دیا گیا ہے جہاں اچھی تعلیم کے نام پر انتہائی زیادہ فیسیں وصول کی جاتی ہیں۔ انہوں نے حکمرانوں کے طرزِ عمل پر کڑی تنقید کی۔\n\nحافظ نعیم الرحمان نے بتایا کہ نظام کو بہتر بنانے کے لیے جماعت اسلامی نے بنوقابل کے نام سے ایک پروگرام شروع کیا ہے جس کے تحت اب تک سولہ لاکھ طلبہ کی رجسٹریشن ہو چکی ہے اور اس میں بتیس فیصد حصہ خواتین کا ہے۔ انہوں نے زور دیا کہ رویے تبدیل کیے بغیر حالات کو درست نہیں کیا جا سکتا۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-14T13:08:54+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
   },
   {
    "id": "9a4bf3354480",
@@ -1013,6 +1117,19 @@
    "published": "2026-11-14T11:42:53+00:00",
    "source": "Source: ARY News",
    "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "4bcbd38548df",
+   "rewritten": true,
+   "v4": true,
+   "title": "یورپی یونین کا اسرائیل سے غزہ میں فوری اور بلا رکاوٹ امداد کا مطالبہ",
+   "summary": "یورپی یونین نے اسرائیل پر زور دیا ہے کہ وہ غزہ میں شدید بارشوں اور تباہ کن سیلاب سے متاثرہ فلسطینیوں تک انسانی امدادی سامان کی فوری، مسلسل اور بلا رکاوٹ رسائی کو یقینی بنائے۔ یورپی یونین نے اپنے جاری کردہ بیان میں اسرائیلی حکومت سے یہ بھی کہا ہے کہ وہ امدادی تنظیموں کو بلا روک ٹوک کام کرنے کی اجازت دے اور غزہ کی تمام سرحدی گزرگاہیں فوری طور پر دوبارہ کھول دے تاکہ متاثرہ علاقوں کی بحالی کا کام شروع ہو سکے۔\n\nبیان کے مطابق اسرائیل پر لازم ہے کہ وہ امدادی اداروں کو غیر مشروط رسائی فراہم کرے تاکہ طوفانی بارشوں اور سیلاب سے دوچار شہریوں کو فوری طور پر خوراک، پینے کا صاف پانی، ادویات، عارضی رہائش اور دیگر اشیاءِ ضروریہ فراہم کی جا سکیں۔ یہ اقدامات اس لیے بھی اہم ہیں کیونکہ غزہ کے مختلف حصوں میں بے گھر فلسطینی خاندانوں کے خیمے بارش کے پانی میں ڈوب چکے ہیں اور پناہ گاہوں میں پانی داخل ہونے سے بچوں، خواتین اور بزرگوں کو شدید مشکلات کا سامنا کرنا پڑ رہا ہے۔\n\nخراب موسم اور سیلاب کے نتیجے میں بے گھر افراد کے پاس موجود محدود سامان بھی ضائع ہو چکا ہے۔ اس صورتحال میں تباہ شدہ بنیادی ڈھانچہ، نکاسی آب کا انتہائی ناقص نظام اور پینے کے صاف پانی کی عدم دستیابی خطرناک بیماریوں کے پھیلنے کے خدشات کو تیزی سے بڑھا رہی ہے۔ متاثرہ آبادی کی زندگیوں کو درپیش اس بڑے خطرے کے پیشِ نظر بین الاقوامی امداد کی فراہمی انتہائی ناگزیر ہو چکی ہے۔\n\nدوسری جانب اسرائیلی ادارے کوآرڈینیٹر آف گورنمنٹ ایکٹیویٹیز ان دی ٹیریٹریز نے دعویٰ کیا ہے کہ حالیہ شدید بارشوں سے پہلے بین الاقوامی تنظیموں کے اشتراک سے غزہ میں صفائی ستھرائی اور صحت کے حالات بہتر بنانے کے لیے کوششیں تیز کی گئی تھیں۔ تاہم اسرائیل نے ان تمام الزامات کو یکسر مسترد کر دیا ہے جن میں کہا جا رہا ہے کہ وہ غزہ کے اندر ضروری امدادی سامان کی مناسب مقدار داخل ہونے سے روک رہا ہے، اور مؤقف اپنایا ہے کہ اس طرح کے الزامات دراصل حماس کی اپنی ذمہ داریوں سے توجہ ہٹانے کی کوشش ہیں۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-14T11:37:42+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
    "category": "pakistan"
   },
   {
@@ -3783,123 +3900,6 @@
    "source": "Source: Business Recorder",
    "lang": "en",
    "category": "business"
-  },
-  {
-   "id": "e9f3fe0abe83",
-   "rewritten": true,
-   "v4": true,
-   "title": "Federal Board of Revenue Restructures Tax Departments in Surprise Move",
-   "summary": "In Islamabad, the Federal Board of Revenue implemented major organizational changes late Friday night by separating the sales tax, federal excise duty, and income tax departments. This shift involves transferring 54 Inland Revenue officials, ranging from BS-17 to BS-21, to a newly established post titled Member, Sales Tax & FED (Technical). Dr. Muhammad Sarmad Qureshi, an Inland Revenue Service officer in BS-21, has been designated to fill this new role.\n\nStarting in January 2027, taxpayers will face a complicated system requiring them to interact with three separate entities: the Sales Tax Department, the Income Tax Department, and the Customs Department. Tax experts warn that this hybrid model creates severe complications for field formations and results in a confusing shuffle of taxpayer records. While the sales tax affairs have a new technical member reporting directly to the chairman, income tax matters will continue under the FBR Member Inland Revenue (Operations), raising questions about the operational rationale behind the split.\n\nThe restructuring contradicts broader trends of integrating tax operations under a single roof. Because the FBR has not yet notified a corresponding technical post for income tax, confusion persists regarding jurisdiction and reporting lines between chief commissioners and headquarters. Industry experts have formally requested the FBR Chairman to issue a comprehensive clarification regarding the precise powers, functions, and jurisdictions associated with the newly created position to guide confused taxpayers.\n\nThis organizational disruption matters because it directly impacts the business community and individual taxpayers who must navigate separate offices and officials for their tax obligations. The unexpected bifurcation risks complicating routine compliance, increasing administrative burdens, and frustrating ongoing tax reform and harmonization efforts across the country's federal and provincial tiers.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2025/02/24042149f2fc4e7.jpg",
-   "published": "2026-11-14T00:08:51+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "8e1f75af09c2",
-   "rewritten": true,
-   "v4": true,
-   "title": "National Tariff Commission Extends Anti-Dumping Duty on Chinese Steel",
-   "summary": "The National Tariff Commission in Islamabad has extended an anti-dumping duty of 40.47 percent to imports of Galvalume Steel Coils and Sheets originating in or exported from China. This regulatory action brings aluminium-zinc coated steel products under the exact trade protection measures previously applied solely to Chinese galvanized steel imports. The decision is rooted in Section 63 of the Anti-Dumping Duties Act, 2015, and ensures the duty remains active for as long as the parallel restrictions on galvanized steel coils and sheets stay in force.\n\nThis extension follows an anti-circumvention investigation initiated on August 24, 2024, after local manufacturers International Steels Limited and Aisha Steel Mills Limited of Karachi submitted a formal application. The domestic producers argued that Chinese exporters were bypassing existing tariffs by slightly modifying product coatings from zinc-coated galvanized steel to aluminium-zinc coated Galvalume steel. The Commission's final determination on June 27, 2025, confirmed that Galvalume steel shares essential characteristics, directly competes with, and acts as a substitute for galvanized steel, undermining previous trade remedies.\n\nGalvanized steel imports from China have faced definitive duties ranging from 6.09 percent to 40.47 percent since February 2017, which were extended for another five years in February 2022 following a sunset review. During the recent investigation, Chinese exporters and foreign producers failed to cooperate or provide required data, while Pakistani importers and user industries were consulted alongside import statistics from Pakistan Revenue Automation Limited and the Pakistan Single Window database. The newly extended duty applies exclusively to Chinese sources, excluding imports from other countries or materials used as inputs for sole exports and foreign grant-in-aid projects.\n\nThis ruling matters because it protects Pakistan's domestic steel manufacturing industry from injurious import surges and trade circumvention practices designed to evade tariffs. By closing this regulatory loophole, the National Tariff Commission aims to restore the intended remedial effects of trade protections on prices and quantities, thereby supporting local industrial viability and fair market competition.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2025/11/690948d834d26.jpg",
-   "published": "2026-11-14T00:08:51+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "7335c6055313",
-   "rewritten": true,
-   "v4": true,
-   "title": "Ministry of Commerce Demands Strict Enforcement of Used Car Rules",
-   "summary": "The Ministry of Commerce has urged provincial chief secretaries to rigorously enforce a mandatory one-year non-transfer restriction on vehicles imported through specialized schemes for overseas Pakistanis. The ministry issued official letters warning that exploiting these facilities for commercial vehicle trading threatens the integrity of current government policy safeguards. Under the Import Policy Order 2022, programs like the Gift Scheme and the Transfer of Residence Scheme exist strictly to help legitimate overseas Pakistanis acquire personal vehicles or gift them to eligible family members.\n\nTo prevent commercial exploitation, recent policy updates require that vehicles imported via the Gift Scheme must be registered directly in the names of designated family members, while Transfer of Residence vehicles must bear the name of the overseas owner. Crucially, these automobiles cannot be transferred to any third party throughout the entire one-year restriction period. The ministry stressed that uniform application by provincial Excise, Taxation, and Narcotics Control Departments during the vehicle registration stage is vital to closing loopholes.\n\nThis administrative focus follows discussions by the National Assembly Standing Committee on Commerce on September 3, 2026, which recommended nationwide coordination to ensure consistent compliance with SRO 61(1)/2026. Consequently, the ministry specifically instructed the Balochistan government and other regional authorities to block any registration or transfer attempts involving unauthorized individuals during the restricted timeframe. Because federal authorities dictate import policy while provincial departments manage vehicle registration, inter-governmental cooperation is essential for proper oversight.\n\nStrict enforcement of these rules is crucial to guarantee that vehicle import privileges benefit genuine overseas Pakistanis rather than functioning as a loophole for commercial car traders. Ensuring compliance prevents the policy from being undermined and preserves its original purpose as a facilitation measure for expatriates.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2025/09/1711273732ca745.webp",
-   "published": "2026-11-14T00:08:51+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "17ab25e226fa",
-   "rewritten": true,
-   "v4": true,
-   "title": "Nishat Group Expresses Interest in Investing in New Government Port",
-   "summary": "Federal Minister for Maritime Affairs Muhammad Junaid Anwar Chaudhry announced that the Nishat Group has signaled strong interest in investing in a new port proposed by the government. The announcement followed a Friday meeting in Islamabad between the minister and Mian Muhammad Mansha, the chairman of the prominent industrial conglomerate. During their discussions, both leaders explored avenues for private-sector collaboration to expand the nation's maritime infrastructure.\n\nMinister Junaid Chaudhry emphasized that involving the private sector is vital for mobilizing capital, introducing advanced technologies, and augmenting the country's port capabilities. He highlighted that constructing additional port facilities is strategically critical for stimulating Pakistan's maritime economy, optimizing trade connectivity, and managing expanding cargo volumes. Furthermore, he reiterated the government's dedication to maintaining a business-friendly environment that welcomes both domestic and international investors to the maritime sector.\n\nMian Muhammad Mansha confirmed his group's willingness to evaluate investment opportunities in the proposed port development. Such a partnership aims to support export-oriented industries by enhancing logistics and maximizing the nation's overall export capacity. The minister noted that establishing another port will generate significant economic growth, create new employment opportunities, and solidify Pakistan's standing as a central regional trade and logistics hub.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2024/07/668b3451e78a9.jpg",
-   "published": "2026-11-14T00:08:51+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "354de0cfc7c2",
-   "rewritten": true,
-   "v4": true,
-   "title": "Funds Released to Acquire Land for Punjab University Campus in Gujar Khan",
-   "summary": "Former prime minister Raja Pervaiz Ashraf announced on Friday that the Punjab government has released funds to purchase land for a long-awaited Punjab University campus in Gujar Khan, enabling construction to begin soon. Speaking at the PPP Punjab Secretariat during a meeting with Academic Staff Association president Dr Amjad Magsi, Ashraf stated that the project will bring quality technical and advanced education directly to local residents, including the establishment of the region's first College of Pharmacy.\n\nAshraf recalled that his original vision for an education city on 100 acres along G.T. Road, conceived in 1993, is finally materializing. The campus already facilitates programs such as LLB, BBA, BS Information, BS Information Technology, and Commerce. Once fully completed, students from the Potohar region will no longer need to travel to Lahore or Islamabad for higher education.\n\nExpressing gratitude for the provincial leadership, Ashraf thanked Punjab Chief Minister Maryam Nawaz Sharif for her personal interest, alongside Punjab Governor Sardar Saleem Haider, Vice Chancellor Dr Muhammad Ali, Dr Amjad Magsi, and Mian Faisal. He also acknowledged federal support, noting that Prime Minister and Federal Minister Ahsan Iqbal allocated Rs 6.5 billion for the Gujar Khan University project, alongside cooperation from the Punjab cabinet, chief secretary, and relevant departments.\n\nAddressing broader academic concerns, Ashraf urged the federal government to raise annual grants for universities facing financial strain. He explained that currency depreciation has halved the real value of institutional funds, making it increasingly difficult for universities to cover their operating expenses.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2025/12/30074428e81f34b.webp",
-   "published": "2026-11-14T00:08:51+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "97d062e72d2b",
-   "rewritten": true,
-   "v4": true,
-   "title": "Punjab Assembly Committee Approves Bill to Prevent Holy Quran Desecration",
-   "summary": "The Punjab Assembly’s Standing Committee on Auqaf has unanimously approved the Punjab Holy Quran (Printing and Recording) Amendment Bill 2026. Chaired by Farooq Khan Maneka, the committee advanced the legislation to establish a robust legal framework preventing desecration, distortion, and unauthorized alterations of the Holy Quran, while regulating objectionable physical and digital material.\n\nAccording to Chief Whip Rana Muhammad Arshad, the proposed amendments seek to ensure error-free printing and establish procedures for handling cases of desecration or contamination. The legislation outlines methods for preserving evidence of damaged copies, handling respectful disposal, and empowering investigating police officers to seize objectionable written items or symbols for submission to a magistrate.\n\nUnder the bill, magistrates will direct the Punjab Forensic Science Authority or another designated laboratory to secure forensic evidence. Afterward, original materials will be transferred to the Punjab Quran Board for safe custody, restoration, or disposal. The bill also introduces protocols for addressing objectionable body art, requiring video and photographic evidence before removal, as well as enabling the Pakistan Telecommunication Authority to block illicit social media content to prevent religious unrest.\n\nAdditionally, the legislation restructures a special cell within the Punjab Quran Board to include both government members nominated by the chief minister and non-government members serving at his discretion. The bill will next be submitted to the Punjab Assembly for formal approval and requires final assent from the Governor of Punjab.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2025/11/6909692bafe62.jpg",
-   "published": "2026-11-14T00:08:51+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "c84da941849d",
-   "rewritten": true,
-   "v4": true,
-   "title": "Pakistan Central Government Debt Drops by Rs937 Billion in Q1",
-   "summary": "Pakistan’s central government debt decreased by Rs936.6 billion during the first quarter of the 2027 fiscal year, spanning from July to September 2026. Figures released by the State Bank of Pakistan (SBP) indicate total debt fell by 1.12 percent to stand at Rs82.658 trillion at the end of September, compared to Rs83.595 trillion at the close of June 2026. However, on a year-on-year basis, the debt rose by 7.9 percent from Rs76.608 trillion in September 2025.\n\nAnalysts noted that the quarterly reduction resulted entirely from a contraction in domestic borrowing, which outweighed an increase in external obligations. Central government external debt grew by 2.89 percent, or Rs699.6 billion, reaching Rs24.900 trillion in September 2026 compared to Rs24.201 trillion in June, driven primarily by foreign inflows. These external figures omit IMF loans and foreign exchange liabilities.\n\nConversely, central government domestic debt dropped by Rs1.636 trillion, or 2.75 percent, falling from Rs59.394 trillion in June to Rs57.758 trillion in September. This domestic decline was fueled by reductions in short-term borrowing, permanent debt, and long-term domestic debt, with long-term debt decreasing by Rs484.1 billion to Rs47.915 trillion and permanent debt declining by Rs578.1 billion to Rs44.144 trillion.\n\nDespite the positive quarterly drop, the SBP warned that escalating Middle East conflict complicates fiscal management. The central bank emphasized the necessity of strict fiscal discipline, broadened tax bases for revenue mobilization, and structural reforms to sustain macroeconomic stability.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2021/11/619f26f23475f.jpg",
-   "published": "2026-11-14T00:08:51+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "c25d0a1605de",
-   "rewritten": true,
-   "v4": true,
-   "title": "Maulana Asad Mehmood Fails to Appear Before NAB Over Illegal Appointments",
-   "summary": "Maulana Asad Mehmood, son of JUI-F chief Maulana Fazlur Rehman, missed a second summons by the National Accountability Bureau (NAB) on Friday regarding an inquiry into alleged illegal recruitments. The investigation focuses on appointments made within the Pakistan Post Office Department (PPOD) during Mehmood's tenure as Minister for Communications and Postal Services across 2022 and 2023.\n\nFollowing initial directives on November 10, the anti-graft body issued a subsequent summons for November 13. While Mehmood submitted a written response, investigators found his reply unsatisfactory. The inquiry is being conducted under the National Accountability Ordinance 1999 to investigate irregularities during his time in office.\n\nAccording to NAB notices, although the Establishment Division authorized filling 3,938 posts, recruitments were carried out for 4,252 positions. Furthermore, 2,646 appointments were allegedly made against abolished posts in direct contravention of cabinet committee instructions. Investigators stated that despite the PPOD Director General recommending contractual hires via a testing agency, numerous regular appointments were made without proper rationale, imposing financial strain and favoring candidates with political affiliations.\n\nThe allegations additionally cite recruitments using fake or forged documents, appointments of overage individuals, and violations of domicile quotas. Consequently, Mehmood was ordered to appear before the Combined Investigation Team of NAB Rawalpindi at the Civic Centre in G-6, Islamabad, to record his statement.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2023/06/6498b01d1b8d0.jpg",
-   "published": "2026-11-14T00:08:51+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "6f46ea085a6c",
-   "rewritten": true,
-   "v4": true,
-   "title": "Goalkeeper Jesus Owono Given 12-Match Ban Following Fatal Collision",
-   "summary": "FC Andorra goalkeeper Jesus Owono has been handed a 12-match suspension by the disciplinary committee of the Spanish football federation. The punishment follows a violent challenge during a second-division match on November 2, when the Equatorial Guinea international rushed into midfield and struck Tenerife striker Jesus de Miguel in the chest with his leg using excessive force while contesting an aerial ball.\n\nFollowing the collision, thirty-year-old De Miguel was placed into intensive care at a hospital, where he passed away the following day on November 3. The disciplinary committee noted in its official statement that the maximum sanction was fully justified due to the severity of the player's conduct, which was officially recorded in the referee's report as a violent foul while the ball remained in play. Spanish police sources confirmed that authorities have initiated an investigation under judicial supervision.\n\nExpressing profound grief, Owono stated in a club-published message that he was currently enduring the most difficult days of his life and felt immense pain regarding the tragedy. FC Andorra coach Carles Manso noted that the goalkeeper would personally decide when and if he wishes to resume playing professional football. Meanwhile, players, fans, and prominent figures recently gathered to pay their respects, with around four hundred mourners attending De Miguel's funeral, including Real Madrid president Florentino Perez and Spain coach Luis de la Fuente.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/14043012828f255.webp",
-   "published": "2026-11-13T23:33:06+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "sports"
   }
  ]
 }
