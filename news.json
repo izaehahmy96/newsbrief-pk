@@ -1,6 +1,71 @@
 {
- "updated": "2026-11-14T03:44:06.861503+00:00",
+ "updated": "2026-11-14T04:45:50.852530+00:00",
  "stories": [
+  {
+   "id": "e0c29d9dbab5",
+   "rewritten": true,
+   "v4": true,
+   "title": "Tesla Slips Out of Top 10 EV Brands in China",
+   "summary": "Tesla has dropped out of China's top 10 New Energy Vehicle brands, according to October 2026 retail data from the CPCA passenger car association. During that month, Tesla sold 8,817 NEVs, which encompass both battery electric vehicles and plug-in hybrids. This performance follows a fourth-place ranking in September and reflects a broader downward trend in the country's market.\n\nMarket leader BYD dominated sales with 250,301 NEVs, capturing a 22.4% market share, followed by Geely with 131,708 sales and Leapmotor with 83,573. Meanwhile, Xiaomi Auto climbed to sixth place with 50,123 sales, marking the highest monthly growth among the top ten brands at 25.3% over September figures. For the first ten months of the year, Tesla’s regional sales fell 15.0% to 389,905 units, dropping the company from fifth to seventh place in year-to-date standings.\n\nThe decline coincides with a broader contraction in China's automotive sector. Total passenger car sales fell 27.1% year-on-year in October to 1,643,000 units, while NEV sales decreased by 13.7% to 1,109,000. Despite lower overall volume compared to the previous year, NEVs achieved a record 67.5% share of total passenger car retail sales in the world's largest car market.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Tesla-China-made-Model-3-vehicles-.jpg",
+   "published": "2026-11-14T04:42:08+00:00",
+   "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "5aa0e2879cd5",
+   "rewritten": true,
+   "v4": true,
+   "title": "US Lifts Airport Ground Stop, Blames Old Equipment",
+   "summary": "United States authorities lifted an hours-long nationwide ground stop at airports on Friday, attributing the severe travel disruption to outdated hardware rather than any cyberattack or Microsoft-related outage. Transportation Secretary Sean Duffy announced the reopening of airspace during a late-night White House briefing, noting that traffic flow would recover gradually.\n\nThe technical failure occurred when data overloads overwhelmed legacy switches and routers built with 1980s copper lines. The incident arrived just a day after the administration formally asked Congress for $30 billion to modernize the national air traffic control system. Despite the disruption, Duffy maintained that flying remained safe for the public.\n\nHomeland Security Secretary Markwayne Mullin firmly rejected speculation regarding a coordinated cyber assault or any connection to worldwide issues affecting Microsoft. Mullin stated that security agencies found no digital footprints or threat actor claims, though investigations remained ongoing. Both officials defended President Donald Trump, confirming he stayed in continuous communication with staff throughout the crisis.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/U.S.-Transportation-Secretary-Sean-Duffy-1.jpg",
+   "published": "2026-11-14T04:35:52+00:00",
+   "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "61098e8d0920",
+   "rewritten": true,
+   "v4": true,
+   "title": "Massive US Flight Grounding Sparks Nationwide Travel Chaos",
+   "summary": "A major communications outage caused by aging technology forced the Federal Aviation Administration to ground all US flights for approximately four hours on Saturday, creating widespread travel chaos. The rare nationwide stoppage left hundreds of thousands of passengers stranded at airports and marked only the second time such an emergency measure was implemented since the September 11 attacks, following a previous failure in January 2023.\n\nTransportation Secretary Sean Duffy blamed the nationwide failure on overloaded legacy infrastructure, specifically 1980s copper lines, switches, and routers. Duffy reiterated his urgent request for Congress to approve $30.1 billion in funding to modernize the air traffic control system. FlightAware reported nearly 6,000 canceled flights, forcing frustrated travelers to seek alternative arrangements as airports faced severe congestion ahead of the Thanksgiving holiday.\n\nCabinet officials, including Homeland Security Secretary Markwayne Mullin, confirmed there was zero evidence pointing to foul play, artificial intelligence threats, or cyberattacks. Mullin also dismissed any link to a separate technical outage that impacted Microsoft services globally earlier in the week. Stranded passengers across various airports expressed frustration over delayed updates and suddenly altered travel plans.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/06/22195859ed22084.webp",
+   "published": "2026-11-14T04:26:00+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "f1bf469783fd",
+   "rewritten": true,
+   "v4": true,
+   "title": "Bus Conductor Sacked in Lahore After Pushing Woman",
+   "summary": "A private transport company in Lahore terminated a bus conductor's employment on Friday after a video surfaced showing him pushing a woman off a vehicle. The incident, which occurred at a local terminal, quickly spread across social media and provoked widespread public outrage and swift government intervention.\n\nFootage captured the conductor physically pushing the female commuter as she attempted to board, causing her to fall onto a parked motorcycle. In response to the backlash, Punjab Minister for Transport and Mass Transit Bilal Akbar Khan announced that Faisal Movers Group had fired the employee, identified in a disciplinary termination letter as Ali Rizwan of the BRT Lahore service. The minister condemned the behavior and apologized on behalf of the transport department.\n\nChief Minister Maryam Nawaz deemed simple dismissal insufficient and directed police to pursue further legal measures against the conductor. She instructed DIG Faisal Kamran to apprehend the individual and have him taken directly to the victim's residence to offer a public apology, emphasizing that transport staff are not permitted to mistreat the public.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/140920231f53407.jpg",
+   "published": "2026-11-14T04:20:52+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "e8d29ed94bf6",
+   "rewritten": true,
+   "v4": true,
+   "title": "مریم نواز اور وفاقی وزیر کے درمیان تنازع اور سیاسی ہلچل",
+   "summary": "پاکستان کے صوبے پنجاب کے سیاسی منظرنامے پر اس وقت ہلچل دیکھی جا رہی ہے جب وفاقی وزیر چوہدری سالک کے ایک بیان کے بعد حکومتی صفوں میں اختلافات سامنے آئے۔ چوہدری سالک نے ایک نجی چینل کے انٹرویو میں دعویٰ کیا تھا کہ پنجاب میں کرپشن سے الماریاں بھری ہوئی ہیں، جس کے بعد وزیر اعلیٰ پنجاب مریم نواز نے ان کے اس بیان کو مسترد کرتے ہوئے انھیں ہرجانے کا نوٹس جاری کیا۔\n\nوزیر اعلیٰ مریم نواز نے پنڈدادخان اور اٹک میں تقاریر کے دوران اس معاملے پر سخت ردِعمل ظاہر کیا۔ انھوں نے چوہدری سالک کا نام لیے بغیر تنقید کی کہ اگر حکومت اتنی ہی کرپٹ ہے اور اعتراض ہے تو وزراء استعفیٰ دے کر گھر کیوں نہیں چلے جاتے۔ مریم نواز کا کہنا تھا کہ الیکشن قریب آ رہا ہے اور کچھ لوگ اپنی اگلی ارینجمنٹس اور متبادل نظام کے تحت بیانیہ بنا رہے ہیں۔\n\nاس معاملے پر وفاقی وزیر دفاع خواجہ آصف اور سابق نگران وزیر اعلیٰ محسن نقوی نے بھی بیانات دیے ہیں۔ خواجہ آصف نے کہا کہ ان کی سیاسی سمجھ کے مطابق ایک متبادل نظام بنانے کی تیاری کی جا رہی ہے تاکہ موجودہ حکومت کو بدنام کیا جا سکے، جس میں کچھ سرمایہ دار بھی شامل ہیں۔ محسن نقوی نے لاہور میں میڈیا سے گفتگو کرتے ہوئے کہا کہ کرپشن پورے پاکستان میں موجود ہے جسے ختم کرنا حکومت کی ذمہ داری ہے۔\n\nمسلم لیگ ن کے رہنما رانا ثنا اللہ نے اس حوالے سے یاد دلایا کہ 2018 کے الیکشن سے پہلے بھی کرپشن کا شور مچایا گیا تھا لیکن کسی الزام کا ثبوت نہیں دیا گیا تھا۔ نوٹس ملنے کے باوجود چوہدری سالک اپنے بیان پر قائم ہیں اور ان کا کہنا ہے کہ پنجاب حکومت نے ان کی سکیورٹی بھی واپس لے لی ہے۔\n\nسینیئر صحافیوں سہیل وڑائچ اور سلمان غنی کے مطابق یہ تنازع دونوں فریقین کے مفاد میں نہیں ہے اور مارچ تک اس سیٹ اپ میں کوئی تبدیلی نہیں آئے گی۔ تجزیہ کاروں کا کہنا ہے کہ اس کشمکش کے باوجود بالاآخر معاملات طے پا جائیں گے کیونکہ یہ نظام کے مفاد میں بہتر ہے۔",
+   "url": "",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/2933/live/1c64ecb0-df50-11f1-8364-2717a13d3b08.jpg",
+   "published": "2026-11-14T03:46:26+00:00",
+   "source": "ذریعہ: BBC Urdu",
+   "lang": "ur",
+   "category": "pakistan"
+  },
   {
    "id": "ae95f6260c00",
    "rewritten": true,
@@ -26,6 +91,19 @@
    "source": "Source: Dawn",
    "lang": "en",
    "category": "business"
+  },
+  {
+   "id": "f94dee2aafd1",
+   "rewritten": true,
+   "v4": true,
+   "title": "لاہور میں خواجہ سراؤں کی ٹرین ڈرائیور کیبن میں سفر پر مقدمہ",
+   "summary": "لاہور میں دو خواجہ سراؤں کے ٹرین کے ڈرائیور کیبن میں سفر کرنے کی ایک ویڈیو منظرِ عام پر آئی ہے۔ اس ویڈیو کے سامنے آنے کے بعد ریلوے حکام کی جانب سے فوری کارروائی عمل میں لائی گئی ہے۔\n\nواقعے کا نوٹس لیتے ہوئے متعلقہ ٹرین کے ڈرائیور اور اسسٹنٹ ٹرین ڈرائیور کے خلاف باضابطہ طور پر مقدمہ درج کر لیا گیا ہے۔ حکام کی جانب سے اس پورے واقعے کی مزید تحقیقات کا آغاز بھی کر دیا گیا ہے تاکہ تمام حقائق کا تعین کیا جا سکے۔\n\nاس کے علاوہ ملک بھر میں دیگر انتظامی اور حکومتی امور بھی زیرِ بحث رہے ہیں۔ پاکستان ریلوے نے اعلان کیا ہے کہ اے سی خراب ہونے یا پاور پلانٹ فیل ہونے کی صورت میں مسافروں کو اضافی کرایہ واپس کیا جائے گا۔\n\nکراچی میں ترقیاتی کاموں کے باعث یونیورسٹی روڈ حسن اسکوائر سے نیپا تک بند کر دی گئی ہے جبکہ پشاور پولیس نے نجی جرگوں پر پابندی عائد کرنے کا فیصلہ کیا ہے۔ مزید برآں، سرکاری افسران کے اثاثوں کے ڈیجیٹل گوشوارے جمع کرانے کی آخری تاریخ میں بھی توسیع کر دی گئی ہے۔",
+   "url": "",
+   "image": "https://jang.com.pk/assets/uploads/updates/2026-11-14/b_1633350_085911_updates.jpg",
+   "published": "2026-11-14T03:11:46+00:00",
+   "source": "ذریعہ: Jang",
+   "lang": "ur",
+   "category": "pakistan"
   },
   {
    "id": "cbc7c0f923e2",
@@ -431,6 +509,19 @@
    "category": "sports"
   },
   {
+   "id": "b9dfa12ef535",
+   "rewritten": true,
+   "v4": true,
+   "title": "بھارتی ریاست آسام میں خوفناک ٹریفک حادثہ، 26 افراد ہلاک",
+   "summary": "بھارتی ریاست آسام میں منی بس اور ٹرک کے درمیان ایک انتہائی خوفناک تصادم پیش آیا ہے۔ اس حادثے کے نتیجے میں کم از کم 26 افراد جاں بحق جبکہ 20 افراد زخمی ہو گئے ہیں۔\n\nپولیس کے مطابق یہ المناک حادثہ قازیگار کے قریب پیش آیا۔ حادثے کا شکار ہونے والی منی بس گولاگھاٹ سے ناگاؤں کی طرف جا رہی تھی جبکہ ٹرک آسام کی جانب رواں دواں تھا، اور منی بس پر سوار زیادہ تر افراد کالج کے طالب علم تھے جو اپنی کلاسیں ختم کرنے کے بعد گھروں کو واپس جا رہے تھے۔\n\nحادثے کی اطلاع ملنے پر پولیس اور ریسکیو ٹیمیں فوری طور پر موقع پر پہنچ گئیں۔ زخمی ہونے والے تمام 20 افراد کو فوری طور پر طبی امداد فراہم کرنے کے لیے قریبی اسپتال منتقل کر دیا گیا ہے جہاں حکام کی جانب سے مزید ہلاکتوں کا خدشہ بھی ظاہر کیا جا رہا ہے۔\n\nپولیس نے اس واقعے کی باضابطہ تحقیقات شروع کر دی ہیں تاکہ حادثے کی اصل وجوہات کا پتہ لگایا جا سکے۔ تاہم، خبر شائع ہونے تک حادثے کے اسباب کے بارے میں فوری طور پر کوئی حتمی وجوہات سامنے نہیں آ سکی تھیں۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-13T23:21:05+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "7a9e16afd59a",
    "rewritten": true,
    "v4": true,
@@ -481,6 +572,19 @@
    "source": "Source: Dawn",
    "lang": "en",
    "category": "sports"
+  },
+  {
+   "id": "ec3e5325849d",
+   "rewritten": true,
+   "v4": true,
+   "title": "نیتن یاہو کا ایران جنگ کیلئے دباؤ، موساد سربراہ کی واشنگٹن آمد",
+   "summary": "اسرائیلی وزیراعظم بینجمن نیتن یاہو کی جانب سے ایران کے خلاف جنگ دوبارہ شروع کرنے کے لیے امریکی صدر ڈونلڈ ٹرمپ پر دباؤ ڈالے جانے کی اطلاعات سامنے آئی ہیں۔ ان اطلاعات کے درمیان اسرائیلی خفیہ ایجنسی موساد کے سربراہ رومن گوفمین امریکا کے دورے پر واشنگٹن پہنچ گئے ہیں جہاں وہ اہم حکام سے ملاقاتیں کر رہے ہیں۔\n\nامریکی میڈیا کے مطابق موساد کے سربراہ واشنگٹن میں امریکی سینٹرل انٹیلی جنس ایجنسی (سی آئی اے) کے ڈائریکٹر جان ریٹکلف سے ملاقات کر رہے ہیں اور ان کی وائٹ ہاؤس کے خصوصی نمائندے اسٹیو وٹکوف سے ملاقات کے لیے میامی جانے کی بھی توقع ہے۔ تاہم موساد، سی آئی اے اور وائٹ ہاؤس نے اس دورے اور مجوزہ ملاقاتوں پر تبصرہ کرنے سے گریز کیا ہے۔\n\nرپورٹس کے مطابق صدر ٹرمپ اب تک نیتن یاہو کی جانب سے فوجی کارروائیاں دوبارہ شروع کرنے کا مطالبہ قبول نہیں کرتے آئے ہیں اور انھوں نے فوجی کارروائی کے بجائے بحری ناکہ بندی اور اقتصادی دباؤ جاری رکھنے کی حمایت کی ہے۔ 5 نومبر کو دونوں رہنماؤں کے درمیان ٹیلی فون پر اس معاملے پر گفتگو بھی ہوئی تھی۔\n\nاسرائیل کی اندرونی سیاست میں، 27 اکتوبر کے انتخابات کے بعد نیتن یاہو پارلیمنٹ میں اپنی اکثریت کھو چکے ہیں اور ان کے سیاسی حریف گادی آئزنکوٹ کو نئی حکومت بنانے کا مینڈیٹ ملا ہے۔ اسرائیلی اپوزیشن کو خدشہ ہے کہ نیتن یاہو اپنا اقتدار بچانے کے لیے ایران پر حملہ کرنے کی کوشش کر سکتے ہیں، جبکہ نیتن یاہو نے گادی آئزنکوٹ کو حالیہ ملاقات میں ایران کی صورتحال پر بریفنگ بھی دی ہے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-13T22:24:31+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
   },
   {
    "id": "6e460ebddeda",
@@ -3796,110 +3900,6 @@
    "source": "Source: The Express Tribune",
    "lang": "en",
    "category": "pakistan"
-  },
-  {
-   "id": "454372dfd7d1",
-   "rewritten": true,
-   "v4": true,
-   "title": "Pakistan Demands Halt to Houthi Attacks as UN Security Council Renews Sanctions",
-   "summary": "Pakistan has called for an immediate and unconditional end to Houthi military actions against Saudi Arabia as the United Nations Security Council adopted a consensus resolution extending sanctions related to Yemen. The measure maintains asset freezes and travel bans on individuals threatening Yemeni peace until November 14, 2027, and preserves the arms embargo established under Resolution 2216 in April 2015. Additionally, the mandate for the monitoring Panel of Experts was prolonged through December 15, 2027.\n\nAddressing the Security Council, Pakistan’s Permanent Representative to the UN, Ambassador Syed Haider Shah, expressed absolute solidarity with Saudi Arabia and condemned the Houthi offensive. He emphasized that the kingdom holds a legitimate right to defend its territory under international law and the UN Charter. Ambassador Shah also underlined that accountability for actors destabilizing Yemen is crucial for establishing lasting peace, while insisting that the expert panel must operate with strict professionalism and impartiality.\n\nThe newly adopted resolution addresses the manufacturing capabilities of the Houthis by targeting their access to precursor chemicals and commercial components used to construct drones and missiles. It tasks council members with determining measures to block the acquisition of specific dual-use items by January 11, based on recommendations from the expert panel. Furthermore, the panel's scope was broadened to examine revenue generated through key economic sectors controlled by the Houthis, and the text notes that arbitrary detentions of UN and diplomatic personnel could trigger further sanctions.\n\nNegotiations leading to the vote involved disagreements among member states. Britain sought to classify the Houthis as a terrorist group, mirroring previous terminology from 2022, but withdrew the push after Russian opposition. China and Russia also voiced objections regarding the proposed dual-use items list and the expanded panel mandate. While Yemen's UN Ambassador Abdullah Al-Saadi welcomed the condemnation of the group, he expressed disappointment over the omission of the terrorist label. Pakistan ultimately reiterated that a sustainable resolution requires an inclusive, Yemeni-led political process under UN guidance.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/13090303017bf9a.webp",
-   "published": "2026-11-13T04:12:33+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "2ce78532ef6f",
-   "rewritten": true,
-   "v4": true,
-   "title": "Trump Rejects Iran Deal and Reassigns Vice President Vance to Domestic Corruption",
-   "summary": "President Donald Trump announced on Thursday that the United States does not require an agreement with Iran, concurrently instructing Vice President JD Vance to shift his entire focus toward investigating alleged crime and corruption within Democratic-led cities and states. The presidential directive followed media reports that Vice President Vance was contemplating direct peace discussions with a hard-line Iranian security official, and came shortly after Vance attributed the Republican party's midterm election setbacks partly to the financial costs of the ongoing conflict with Iran.\n\nDetailing his stance on social media, President Trump asserted that the period for reaching an accord with Tehran has passed, pointing to accumulated funds and control over the Strait of Hormuz. The administration indicated confidence in its ongoing blockade and economic sanctions, suggesting neither military escalation nor formal diplomacy is necessary. Meanwhile, the U.S. military continues to enforce a blockade on Iranian ports, and Iranian state media reported that four oil tankers sustained damage from explosions after disregarding warnings from Tehran.\n\nVice President Vance previously engaged in diplomatic outreach by leading talks with Iranian officials in Pakistan in April, which yielded a temporary memorandum of understanding in June before collapsing. Although Iranian state media indicated Tehran recently received a letter from Vance regarding renewed dialogue, President Trump clarified that he did not authorize the outreach. Secretary of State Marco Rubio also dismissed potential negotiations, labeling Iranian demands for war reparations as absurd after conferring with allies in Paris.\n\nDefending the necessity of the military campaign to prevent Iran from acquiring nuclear weapons, President Trump redirected Vice President Vance's portfolio toward domestic fraud inquiries. Trump contended that addressing large-scale criminal activity in Democratic municipalities could quickly balance the federal budget. Meanwhile, the Kuwait Ministry of Interior launched a new travel notification service via the Sahel unified application to let residents track entry and exit records.",
-   "url": "",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Donald-Trump-Iran-war.jpg",
-   "published": "2026-11-13T04:02:16+00:00",
-   "source": "Source: ARY News",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "1c375d249d7c",
-   "rewritten": true,
-   "v4": true,
-   "title": "Microsoft Outage Disrupts Outlook and Teams for Thousands Globally",
-   "summary": "A major technical disruption affecting Microsoft 365, Outlook, Teams, and other company applications persisted for more than five hours on Thursday, impacting thousands of users worldwide. The incident also affected connectors utilized by artificial intelligence platforms operated by OpenAI and Anthropic. By early evening, Microsoft reported that it was actively working to restore affected servers to operational status and observed limited recovery as clients gradually reestablished connections.\n\nAccording to tracking data from Downdetector, complaints regarding Outlook failures peaked at approximately 138,058 around 1 p.m. Eastern Time before declining to roughly 34,490 by the evening. Microsoft initially attributed the service interruption to a subset of servers unexpectedly becoming unavailable due to elevated loads rather than an overall surge in network traffic. By late afternoon, reports for Microsoft 365 dropped to nearly 13,000 users, while Teams disruption reports fell to 763.\n\nThe technology corporation stated that restored servers had maintained stability while traffic was actively rerouted through alternate paths to accelerate recovery processes for remaining impacted hardware. OpenAI noted that it was investigating broken connections and tool malfunctions tied to Microsoft connectors, while Anthropic reported an upstream provider issue affecting its own Microsoft 365 integration.\n\nThe latest event follows an Azure cloud platform outage last month that similarly disrupted productivity software and global industries. The widespread Microsoft technical failure also forced adjustments in corporate schedules, prompting electric truck manufacturer Workhorse Group to postpone the release of its third-quarter financial results from November 12 to November 16 due to business disruptions.",
-   "url": "",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/10/Microsoft-1.jpg",
-   "published": "2026-11-13T03:56:02+00:00",
-   "source": "Source: ARY News",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "bc8e881ba04f",
-   "rewritten": true,
-   "v4": true,
-   "title": "PSX Rebounds Strongly with Over 1,000-Point Gain Before Midday Break",
-   "summary": "The Pakistan Stock Exchange experienced a strong recovery during Friday's morning session, climbing more than 1,000 points before trading was temporarily suspended for midday prayers. The benchmark KSE-100 Index reached 178,434.59 points, marking an increase of 1,060.83 points or 0.60% compared to the previous close.\n\nAfter opening lower, the market steadily recovered from an intraday low of 176,865.05 to hit its session high at the 12:00 pm suspension, completely offsetting the sharp losses recorded the day before. Trading volume in the ready market reached approximately 90 million shares, with a total traded value of roughly Rs9.83 billion.\n\nBuying interest was particularly evident among commercial banks, oil and gas exploration firms, oil marketing companies, and refineries. Prominent market gainers included ARL, PRL, MARI, POL, PSO, SSGC, HBL, MCB, NBP, and UBL, with MARI drawing notable attention following recent corporate developments.\n\nThe positive momentum offered relief after a volatile session on Thursday, when political uncertainty caused the index to drop 1,710 points and close at 177,373.76. Market participants are closely watching whether the morning rebound will persist through the afternoon session.",
-   "url": "",
-   "image": null,
-   "published": "2026-11-13T03:44:14+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "da172491b19f",
-   "rewritten": true,
-   "v4": true,
-   "title": "Kim Kardashian Faces Scrutiny Over SKIMS Ties Following Lewis Hamilton's Gaza Visit",
-   "summary": "Reality television star and entrepreneur Kim Kardashian is facing renewed public criticism regarding her business interests and political associations in Israel. This scrutiny follows statements made by her romantic partner, Formula 1 world champion Lewis Hamilton, who publicly condemned military actions in Gaza and demanded immediate humanitarian relief following a visit to Egypt's Rafah border crossing on November 10, 2026. In an Instagram post the following day, Hamilton called the situation an appalling genocide and urged Israel to fulfill its ceasefire obligations and allow aid trucks into the territory.\n\nHamilton's outspoken remarks drew attention to Kardashian's commercial footprint in the region, particularly her shapewear brand SKIMS. SKIMS expanded into the Israeli market in November 2025 through an agreement with the retail group Irani Corp. Critics have also highlighted a previous private SKIMS shopping event in Los Angeles that included daughters of Israeli soldiers, an event connected to Hagiborim, an organization supporting children of fallen or injured Israel Defense Forces personnel. Additionally, attention has turned toward Kardashian's past social interactions involving figures like Ivanka Trump and Melania Trump, although she has never formally endorsed Donald Trump and previously supported Hillary Clinton and Joe Biden.\n\nThe public divergence between Hamilton's activism and Kardashian's commercial associations has sparked widespread online debate over the compatibility of differing worldviews within a relationship. While some observers question whether such public positions can coexist, others maintain that romantic partners are not required to share identical political beliefs. This controversy highlights broader ongoing discussions surrounding celebrity activism, corporate responsibility, and the extent to which public figures should be held accountable for their associations rather than solely their personal statements.",
-   "url": "",
-   "image": null,
-   "published": "2026-11-13T03:33:09+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "entertainment"
-  },
-  {
-   "id": "414bbd807be4",
-   "rewritten": true,
-   "v4": true,
-   "title": "میر رضا کیس: جے آئی ٹی کا اجلاس آج، احمد بھاردے کی پیشی متوقع",
-   "summary": "کراچی میں میر رضا کیس کی تحقیقات کے سلسلے میں تشکیل دی گئی مشترکہ تحقیقاتی ٹیم یعنی جے آئی ٹی کا دوسرا اجلاس آج طلب کر لیا گیا ہے۔ اس اہم اجلاس میں میر رضا کے کاروباری شراکت دار احمد بھاردے سے متعلق ایک اہم فیصلہ متوقع ہے۔ تفتیشی ذرائع کے مطابق اس معاملے میں تیزی سے کام جاری ہے اور تحقیقاتی عمل کو آگے بڑھایا جا رہا ہے۔\n\nذرائع کا بتانا ہے کہ احمد بھاردے سے مسلسل پوچھ گچھ کا عمل جاری ہے اور انہیں اس سے قبل بھی کئی بار طلب کر کے طویل گھنٹوں تک تفتیش کا نشانہ بنایا جا چکا ہے۔ اس وقت احمد بھاردے تیموریہ تھانے میں موجود ہیں اور انہیں آج ہونے والے جے آئی ٹی کے اجلاس میں باقاعدہ طور پر پیش کیا جائے گا۔\n\nتفتیشی ذرائع کے مطابق آج کے اجلاس میں احمد بھاردے کے حوالے سے حتمی فیصلہ کیا جائے گا۔ تحقیقات کے دوران اگر کوئی ٹھوس شواہد سامنے آئے تو انہیں فوری طور پر حراست میں بھی لیا جا سکتا ہے۔ ملزم کو حراست میں لینے کے بعد تفتیش کو مزید آگے بڑھانے کے لیے عدالت سے اس کا جسمانی ریمانڈ بھی حاصل کیا جائے گا۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-13T03:26:45+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "7bbab7873afd",
-   "rewritten": true,
-   "v4": true,
-   "title": "Indian Rupee Faces Downward Pressure Amid Rising Oil and US Yields",
-   "summary": "The Indian rupee experienced a faltering rally and is projected to open weaker than the 94-per-dollar mark. This downward pressure follows a significant decline on Thursday, which marked the currency's largest daily drop in nearly three weeks. The external economic environment has grown increasingly unfavorable for the currency as it repeatedly encounters resistance at the 94-per-dollar threshold over three consecutive sessions.\n\nDriving this pressure is a rebound in Brent crude, which climbed to $96 a barrel following fresh attacks on Saudi energy infrastructure and disruptions in the Strait of Hormuz. Additionally, the 10-year US Treasury yield surged past the 5% mark. This increase was triggered by higher-than-expected US inflation data, which strengthened expectations of further Federal Reserve interest rate hikes, with markets fully pricing in a 25-basis-point increase for December.\n\nThese macroeconomic headwinds arrive as the rupee's recovery attempts meet strong resistance despite robust equity inflows. During Thursday's trading session, the currency reached an intraday high of 93.60 before slipping past the 94-per-dollar level. Bankers suggest that this inability to extend recent gains points to possible dollar-buying by the Reserve Bank of India, alongside oil companies returning to the spot market to fulfill their dollar demands.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/11/130823424b9334f.webp",
-   "published": "2026-11-13T03:24:48+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "af454e3ea563",
-   "rewritten": true,
-   "v4": true,
-   "title": "Nvidia Names CFO Colette Kress Interim CEO Following Huang's Departure",
-   "summary": "Colette Kress, the chief financial officer of Nvidia, has been appointed as the company's interim CEO. This leadership change occurs following the departure of co-founder Jensen Huang, who stepped down amid a cloud of scandal after leading the chipmaker for three decades. Kress, aged 59, previously acted as a key internal counterweight to Huang by challenging his ambitious and risky AI investments and financing deals.\n\nDuring her tenure, Kress and her staff frequently clashed with sales teams and Huang over massive funding deals directed toward what critics termed a circular AI economy, including investments in OpenAI and infrastructure firms such as Lambda. Described by associates as a pragmatist, Kress joined Nvidia in 2013 after working at major technology corporations like Microsoft, Cisco, and Texas Instruments. Her appointment aims to stabilize markets and reassure customers and suppliers while the board searches for a permanent successor.\n\nNvidia shares experienced a significant drop following the announcement of Huang's exit, though losses were partially pared by the end of the trading session. While Kress is viewed as a calming presence, analysts and investors have raised questions regarding whether a finance executive can maintain the technological risk-taking that drove the company's growth. Additional candidates being discussed for the permanent position include Nvidia executive Ian Buck, AMD CEO Lisa Su, and Arm boss Rene Haas.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/11/12223603f982e29.webp",
-   "published": "2026-11-13T03:22:07+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
   }
  ]
 }
