@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T17:29:37.867533+00:00",
+ "updated": "2026-11-15T18:08:29.957729+00:00",
  "stories": [
   {
    "id": "141abe9693cd",
@@ -24,6 +24,32 @@
    "image": "https://www.geo.tv/assets/uploads/2026-11-15/691204_075057_updates.jpg",
    "published": "2026-11-15T19:42:19+00:00",
    "source": "Source: Geo News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "174819b1d4fb",
+   "rewritten": true,
+   "v4": true,
+   "title": "US FDA Rejects Summit Therapeutics Lung Cancer Drug Ivonescimab",
+   "summary": "The United States Food and Drug Administration has declined to approve Summit Therapeutics’ lung cancer medication, ivonescimab. This decision creates a significant obstacle for expanding treatment options for patients whose cancer has worsened following earlier therapies. In a formal complete response letter, the regulatory agency noted that although a late-stage trial proved the drug successfully delayed disease progression, it failed to achieve a statistically significant enhancement in overall survival.\n\nThe evaluation centered on a study where combining ivonescimab with chemotherapy lowered the risk of death or disease progression by 48% compared to chemotherapy alone. However, the primary analysis did not demonstrate the necessary improvement in overall survival, which gauges how long patients live after treatment commences. Summit later supplied updated data showing consistent survival benefits across Western and Asian patient populations, but the administration concluded the progression-free survival benefit alone could not justify a favorable benefit-risk profile for marketing approval.\n\nIvonescimab functions by targeting two separate proteins: PD-1, which normally helps tumors evade detection by the human immune system, and VEGF, which cancer cells utilize to grow blood vessels. Summit previously secured the commercialization rights for the drug in the United States, Canada, Japan, and Europe from China-based Akeso in 2022 through a transaction valued at up to $5 billion, while Akeso kept the rights in China and other territories.\n\nThe setback occurs as other pharmaceutical companies advance competing therapies, such as Johnson & Johnson's treatment combination involving Rybrevant and AstraZeneca's Tagrisso. Additionally, AstraZeneca announced a $2 billion investment and partnership with Summit in September to study ivonescimab alongside its own antibody-drug conjugate cancer treatments. Summit plans to release late-stage trial data for a different type of lung cancer category before the conclusion of the year.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/FDA.jpg",
+   "published": "2026-11-15T18:04:54+00:00",
+   "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "74fd339f4076",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistani Defence Minister Optimistic About Consensus on New Provinces",
+   "summary": "Pakistan’s Defence Minister Khawaja Muhammad Asif stated that the nation's political environment would experience progressive improvement if leaders successfully build a consensus regarding the establishment of new provinces. Speaking during a television interview on Geo News, Asif addressed recent high-level political meetings involving the president and prime minister, noting that consultations have been progressing over the last several weeks and are steering toward a mutual agreement.\n\nThe discussions follow recent interactions between Interior Minister Mohsin Naqvi, President Asif Ali Zardari, and Prime Minister Shehbaz Sharif. While official sources indicated that the leadership agreed to strictly follow constitutional guidelines for forming new administrative units, Asif suggested that reaching a consensus will not take much longer. He declined to comment on whether a National Assembly referendum would be utilized, noting potential complications, although sources reported that both top leaders agree the Parliament must not be bypassed in deciding referendum procedures.\n\nAsif rejected claims that the push for smaller administrative units originates from hidden motives, explaining that he has advocated for robust local governance and smaller divisions for years to better handle a growing population and deliver efficient public services. He suggested that the new system could begin to take shape by 2026 and reassured political figures that no one needs to feel politically threatened by these structural updates. Furthermore, he noted that the process could potentially offer a window of opportunity for jailed former Prime Minister Imran Khan to re-enter mainstream politics if he supports the initiative.\n\nThe proposal has encountered resistance from certain political groups, notably the Pakistan Peoples Party in Sindh. Sindh Chief Minister Murad Ali Shah voiced strong opposition to dividing Sindh into smaller provinces, referencing a unanimous provincial assembly resolution against the move, though he stated his party holds no objection to new provinces in other parts of the country. Meanwhile, the Pakistan Muslim League-Nawaz has withheld a formal policy statement until the matter officially reaches Parliament.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2025/04/2820471965550c3.jpg",
+   "published": "2026-11-15T17:56:49+00:00",
+   "source": "Source: Dawn",
    "lang": "en",
    "category": "pakistan"
   },
@@ -1003,6 +1029,19 @@
    "category": "pakistan"
   },
   {
+   "id": "be434e630568",
+   "rewritten": true,
+   "v4": true,
+   "title": "Towhid Hridoy Century Leads Bangladesh Recovery Against South Africa",
+   "summary": "Bangladesh finished the opening day of the first Test match against South Africa at 327-6 following a remarkable recovery at the Wanderers Stadium in Johannesburg. The visiting team suffered a disastrous start after winning the toss and electing to bat, losing their first three wickets for only 22 runs as South African pace bowler Kagiso Rabada tore through the top order.\n\nRabada continued his onslaught by removing Tanzid Hasan for 67, claiming five wickets for 51 runs in 17 overs and leaving Bangladesh struggling at 121-5. However, middle-order batsman Towhid Hridoy and Litton Das orchestrated a crucial sixth-wicket partnership of 206 runs. Hridoy played a patient innings, scoring 137 runs from 227 deliveries with 14 boundaries and a single six before falling to Marco Jansen in the final over of the day. This performance marked Hridoy's second Test century, achieved after facing 194 balls.\n\nLitton provided vital assistance at the crease, finishing the opening day unbeaten on 92 runs from 71 balls with 12 boundaries, moving just eight runs away from his eighth Test century. The record-shifting partnership successfully frustrated the South African bowling attack throughout the afternoon and evening sessions, steering the visiting side into a commanding position.\n\nBangladesh will resume their innings on Monday with Litton aiming to reach his three-digit milestone. The team still has lower-order contributions remaining from Mehidy Hasan Miraz, Hasan Mahmud, Taskin Ahmed, and Ebadot Hossain as they look to capitalize on their strong recovery.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-15T11:03:07+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "sports"
+  },
+  {
    "id": "2d0e01fa3166",
    "rewritten": true,
    "v4": true,
@@ -1014,6 +1053,19 @@
    "source": "ذریعہ: Express News",
    "lang": "ur",
    "category": "pakistan"
+  },
+  {
+   "id": "70ae5a819408",
+   "rewritten": true,
+   "v4": true,
+   "title": "Multiple Arrests and Injuries Reported During Berlin Gen Z Protest",
+   "summary": "At least 20 individuals were arrested in Berlin following a demonstration organized by youth groups, according to police statements released on Sunday. The event featured a march joined by pro-Palestine activists under the banner of \"Gen Z regelt.\" Authorities deployed a heavy presence of 700 riot officers as protesters engaged in clashes, erected barricades, and utilized pyrotechnics and explosives.\n\nLaw enforcement filed 28 criminal complaints covering various offenses, including disturbing the public peace, physical assault, resistance to police officers, and violations of explosives regulations. Video footage shared on social media captured officers confronting participants inside a subway car. At least three police officers sustained injuries during the demonstrations, though officials provided no immediate casualty figures for the protesters. During the march, demonstrators voiced anti-Israel and anti-police slogans, alongside criticisms directed at Chancellor Friedrich Merz.\n\nThe demonstrations in Berlin form part of a broader wave of youth-led unrest across Germany and Europe, with participants demanding higher education funding, relief from soaring living costs, and opposition to revived compulsory military service plans. Authorities are bracing for significantly larger turnouts on November 20, when a Europe-wide youth strike is scheduled, with organizers in Berlin anticipating up to 15,000 protesters. Similar large-scale actions are expected in nations such as France, Italy, Spain, Belgium, and Great Britain following previous unrest earlier in the month that resulted in over 200 arrests across several German cities.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-15T10:56:25+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "world"
   },
   {
    "id": "4fd274c8cec8",
@@ -3847,58 +3899,6 @@
    "published": "2026-11-14T20:44:17+00:00",
    "source": "Source: The Express Tribune",
    "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "a961f01acbe4",
-   "rewritten": true,
-   "v4": true,
-   "title": "امریکا اپنی ناکامیوں پر پردہ ڈالنے کے لیے جھوٹا بیانیہ بنا رہا ہے: اسماعیل بقائی",
-   "summary": "ایرانی وزارت خارجہ کے ترجمان اسماعیل بقائی نے الزام عائد کیا ہے کہ امریکی انتظامیہ سیاسی اور فوجی محاذوں پر مشکلات کا شکار ہے اور ایران کے خلاف فوجی کارروائیوں کی ذمہ داری سے بچنے کے لیے حقائق کو مسخ کر رہی ہے۔\n\nاسماعیل بقائی کا کہنا ہے کہ یہ دعویٰ بالکل بے بنیاد ہے کہ 1979 کے انقلاب کے بعد ایران نے امریکا کے ساتھ محاذ آرائی کی شروعات کی تھی۔ انہوں نے واضح کیا کہ ایرانی انقلاب دراصل قومی خودمختاری، آزادی اور انسانی وقار کی بحالی کی ایک پرعزم جدوجہد کا نام تھا۔\n\nترجمان نے یاد دلایا کہ ایرانی عوام 1953 میں سی آئی اے کی حمایت سے ہونے والی بغاوت کو نہیں بھولے ہیں۔ واشنگٹن پر الزام عائد کیا گیا کہ اس نے دو مرتبہ مذاکرات کے دوران ایران پر بلااشتعال فوجی حملے کیے جن میں سپریم لیڈر سمیت اعلیٰ حکام کو نشانہ بنایا گیا، خواتین اور بچے شہید و زخمی ہوئے اور بنیادی ڈھانچے کو نقصان پہنچا۔\n\nاسماعیل بقائی نے مزید کہا کہ واشنگٹن جنگ شروع کرنے کی ذمہ داری قبول کرنے سے گریزاں ہے اور اپنی کامیابیوں کا تاثر دے کر ناکامی چھپانے میں مصروف ہے۔ انہوں نے کہا کہ امریکی سیاسی نظام کی اعلیٰ ترین سطح پر بھی اس بات کا اعتراف کیا گیا ہے کہ ایران کے خلاف جنگ انتخابی شکست کی بڑی وجہ بنی۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-14T20:26:05+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "15f97a049825",
-   "rewritten": true,
-   "v4": true,
-   "title": "اقتصادی تعاون تنظیم (ای سی او) کے وزرائے خارجہ کا دو روزہ اجلاس اسلام آباد میں شروع",
-   "summary": "اسلام آباد میں اقتصادی تعاون تنظیم (ای سی او) کونسل آف منسٹرز کا دو روزہ اجلاس آج شروع ہو رہا ہے۔ اجلاس میں علاقائی تجارت، توانائی، ٹرانسپورٹ اور وسطی ایشیا کو عالمی منڈیوں سے مربوط کرنے کے لیے مشترکہ حکمت عملی پر غور کیا جائے گا۔\n\nاس اہم اجلاس میں شرکت کے لیے رکن ممالک کے وزرائے خارجہ اور اعلیٰ سطح کے وفود کی پاکستان آمد کا سلسلہ جاری ہے۔ ایرانی وزیر عباس عراقچی خصوصی طور پر اجلاس میں شرکت کے لیے پہنچ رہے ہیں جبکہ ترک جمہوریہ شمالی قبرص کے وزیر خارجہ تحسین ارطغرل اوغلو بھی اسلام آباد آ چکے ہیں۔ اجلاس میں تاجکستان اور ایران سمیت دیگر ممالک کے وزرائے خارجہ شریک ہوں گے، جبکہ کرغزستان، قازقستان اور ترکیے کی نمائندگی نائب وزرائے خارجہ کریں گے۔ افغان وزیر خارجہ کو اجلاس میں شرکت کی دعوت نہیں دی گئی ہے۔\n\nنائب وزیراعظم و وزیر اور خارجہ اسحاق ڈار اجلاس کی افتتاحی تقریب سے خطاب کریں گے۔ اس کے علاوہ ای سی او کے سیکریٹری جنرل اسد مجید خان اور رکن ممالک کے وزرائے خارجہ بھی اپنے خیالات کا اظہار کریں گے۔\n\nاجلاس کے دوران رکن ممالک میں اقتصادی و تجارتی روابط کے فروغ اور بنیادی ڈھانچے کو بہتر بنانے پر بات ہوگی۔ غیر ملکی وزرائے خارجہ کی وزیراعظم شہباز شریف سے ملاقات اور ان کے اعزاز میں ظہرانے کا بھی اہتمام کیا جائے گا۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-14T20:16:27+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "5cdb1f18cdaa",
-   "rewritten": true,
-   "v4": true,
-   "title": "پنجاب میں گنے کا کسان سیزن آج سے باضابطہ طور پر شروع ہوگا",
-   "summary": "پنجاب حکومت کی جانب سے باضابطہ نوٹیفکیشن جاری کیے جانے کے بعد صوبے بھر میں گنے کا کرشنگ سیزن آج 15 نومبر سے شروع ہو رہا ہے۔ یہ نوٹیفکیشن محکمہ فوڈ سیکیورٹی اینڈ کنزیومر پروٹیکشن کی طرف سے جاری کیا گیا ہے۔\n\nجاری کردہ نوٹیفکیشن کی رو سے پنجاب بھر میں موجود تمام شوگر ملیں پابند ہوں گی کہ وہ کسانوں سے گنے کی خریداری کریں۔ ذرائع کے مطابق تمام شوگر ملیں گنے کی خریداری کا ریٹ مارکیٹ فورسز کے طے کردہ میکزم کے مطابق ہی جاری کریں گی۔\n\nموجودہ سیزن کے حوالے سے اعداد و شمار بتاتے ہیں کہ پنجاب میں اس سال کل 47 میں سے 41 شوگر ملیں فعال حالت میں ہیں۔ اس سال صوبے کے اندر مجموعی طور پر 24 لاکھ 52 ہزار ایکڑ کے وسیع رقبے پر گنے کی فصل کاشت کی گئی ہے۔\n\nمحکمہ ذرائع کا کہنا ہے کہ رواں سال گنے کی یہ کاشت گزشتہ سال کے مقابلے میں 16 فیصد زیادہ ریکارڈ کی گئی ہے۔ کرشنگ سیزن کے آغاز سے چینی کی پیداوار اور کسانوں کے معاملات پر براہ راست اثر پڑے گا۔",
-   "url": "",
-   "image": "https://jang.com.pk/assets/uploads/updates/2026-11-15/b_1633452_014515_updates.jpg",
-   "published": "2026-11-14T20:11:38+00:00",
-   "source": "ذریعہ: Jang",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "c67440eb416b",
-   "rewritten": true,
-   "v4": true,
-   "title": "لاہور میں ڈیوس روڈ پر ٹریفک حادثے کے نتیجے میں دو سگے بھائی جاں بحق",
-   "summary": "لاہور کے علاقے ڈیوس روڈ پر ایک دلخراش ٹریفک حادثے میں موٹر سائیکل پر سوار دو سگے بھائی موقع پر ہی جاں بحق ہو گئے۔\n\nپولیس کے مطابق یہ حادثہ تیز رفتار موٹر سائیکل کے فٹ پاتھ سے ٹکرانے کے باعث پیش آیا۔ حادثے میں جاں بحق ہونے والے دونوں نوجوانوں کی شناخت ساجد اور کلیم کے ناموں سے ہوئی ہے۔\n\nحادثے کی اطلاع ملتے ہی پولیس فوری طور پر موقع پر پہنچ گئی۔ پولیس نے دونوں بھائیوں کی لاشوں کو اپنی تحویل میں لے کر ضروری قانونی کارروائی کا آغاز کر دیا ہے۔\n\nاس افسوسناک حادثے کے بعد پولیس کی جانب سے مزید تفصیلات اور شواہد اکٹھے کیے جا رہے ہیں تاکہ حادثے کی اصل وجوہات کا تعین کیا جا سکے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-14T20:09:54+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
    "category": "pakistan"
   }
  ]
