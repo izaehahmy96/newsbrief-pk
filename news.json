@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T23:04:58.004574+00:00",
+ "updated": "2026-11-15T00:00:59.211266+00:00",
  "stories": [
   {
    "id": "8f92272c3149",
@@ -285,6 +285,19 @@
    "published": "2026-11-14T18:31:11+00:00",
    "source": "Source: ARY News",
    "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "0554e07813a2",
+   "rewritten": true,
+   "v4": true,
+   "title": "کراچی: گڈاپ سٹی تھانے سے ملزم فرار، تین پولیس اہلکار معطل",
+   "summary": "کراچی کے علاقے گڈاپ سٹی تھانے سے ایک زیر حراست ملزم مبینہ طور پر فرار ہو گیا ہے۔ پولیس تحویل سے ملزم کے نکل جانے کے واقعے پر فوری نوٹس لیتے ہوئے غفلت اور لاپرواہی کا مظاہرہ کرنے والے تینوں پولیس اہلکاروں کو کوارٹر گارڈ کر دیا گیا ہے۔ حکام کی جانب سے اس معاملے کی باقاعدہ تحقیقات کا حکم بھی جاری کر دیا گیا ہے۔\n\nابتدائی اطلاعات میں اس زیر حراست شخص کو گڈاپ سٹی میں پیش آنے والی آٹھ کروڑ روپے کی ڈکیتی کی واردات کا ملزم قرار دیا جا رہا تھا۔ تاہم، ایس ایس پی ملیر ڈاکٹر عبدالخالق پیرزادہ نے واضح کیا ہے کہ فرار ہونے والے ملزم کا اس آٹھ کروڑ روپے کی ڈکیتی کے واقعے سے کوئی تعلق نہیں ہے۔\n\nاس حوالے سے تاجر کشن چند کا ایک ویڈیو بیان بھی سامنے آ چکا ہے، جس میں انہوں نے تصدیق کی ہے کہ فرار ہونے والا شخص ان کے گھر پر ہونے والی واردات میں ملوث نہیں تھا۔ اصل میں اس ملزم کو چوری کے شبے میں حراست میں لیا گیا تھا جو بعد ازاں پولیس کی گرفت سے نکلنے میں کامیاب ہو گیا۔\n\nمتعلقہ حکام کے مطابق فرار ہونے والے ملزم کا تعلق موٹر سائیکل گینگ سے تھا۔ پولیس نے اس کی تلاش کے لیے کارروائیاں شروع کر دی ہیں جبکہ ڈیوٹی پر غفلت برتنے والے تمام ذمہ دار اہلکاروں کے خلاف محکمہ جاتی کارروائی بھی عمل میں لائی جا رہی ہے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-14T18:31:00+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
    "category": "pakistan"
   },
   {
@@ -3884,19 +3897,6 @@
    "url": "",
    "image": "https://i.brecorder.com/large/2026/11/140709288375167.webp",
    "published": "2026-11-14T02:09:46+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "17c79be79606",
-   "rewritten": true,
-   "v4": true,
-   "title": "FBR Denies Written Tests Amid Training Needs Assessment Controversy",
-   "summary": "The Federal Board of Revenue (FBR) is scheduled to hold a training needs assessment in Lahore for Inland Revenue officials in Grade-17 and above. This follows the completion of similar evaluations in Islamabad and Karachi aimed at measuring the sales tax and income tax capabilities of tax officers. A senior FBR official addressed recent misconceptions regarding the capability assessment previously conducted in Karachi.\n\nFBR representatives firmly rejected claims that written exams had taken place during the Karachi evaluation. The official explained that the exercise was merely a routine 'training needs assessment' conducted by the bureau based on identified requirements, stressing that it should not be treated as a formal written test of tax personnel. This clarification follows a viral social media report claiming that out of tested officers, only a small fraction were deemed capable of independently adjudicating tax cases.\n\nDismissing the circulated figures as inauthentic, the FBR official questioned the validity of the social media report, pointing out the absence of official signatures or stamps and suggesting it could easily be generated via artificial intelligence tools like Claude AI. Nevertheless, the leaked report sparked intense debates regarding the legality, transparency, methodology, and underlying purposes of surprise competency checks administered to FBR officers recruited through competitive examinations.\n\nCritics have raised questions concerning whether such limited assessments can legally justify questioning the competence of career civil servants under existing service rules, or if they are intended to push a narrative of institutional failure that favors external consultants. As calls grow for an independent review of the evaluation framework, transparency regarding AI involvement, and fair appeal mechanisms, affected officers continue to express worries over professional reputational damage and institutional morale.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2025/01/679416864af29.jpg",
-   "published": "2026-11-14T02:02:08+00:00",
    "source": "Source: Business Recorder",
    "lang": "en",
    "category": "business"
