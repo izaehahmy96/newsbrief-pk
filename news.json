@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T22:47:52.407183+00:00",
+ "updated": "2026-11-17T23:45:00.773892+00:00",
  "stories": [
   {
    "id": "e0e77e59e0b7",
@@ -1211,6 +1211,19 @@
    "category": "business"
   },
   {
+   "id": "31ee8a5892c1",
+   "rewritten": true,
+   "v4": true,
+   "title": "Over 8,000 Hoax Bomb Threats Disrupt European Schools and Airports",
+   "summary": "More than 8,000 bomb hoaxes targeted businesses and institutions across Europe over the span of a month, according to disclosures by European officials, media reports, and cybersecurity firms like Proofpoint and Mimecast. The campaign primarily affected schools in the United Kingdom, Ireland, and Italy, while also disrupting airlines, airports, media organizations, and charities. Notable incidents included threats sent to approximately 300 schools in Northern Ireland and Scotland on October 19 with the subject line \"Death is near,\" prompting evacuations and room searches.\n\nThe wave of disruptions continued into November, forcing dozens of flight diversions and cancellations. Flight tracking specialists AirNav Radar reported that over 50 flights across roughly 15 airlines received hoax threats between November 2 and November 6. Media outlets, such as France's TF1, Bulgaria's Nova, and Irish broadcaster RTE, were also targeted, briefly knocking some programs off the air. A significantly larger wave occurred on November 11, when about 6,300 Italian schools, along with roughly 1,000 schools in Scotland and 300 each in Northern Ireland and Ireland, received threats purportedly originating from a group called \"Misoginistan\" or \"Male State.\"\n\nEuropean officials, including French interior minister Laurent Nuñez, have stated they suspect foreign interference, specifically pointing to Russia or other potential countries, while Europol works to determine the origin of the threats. Cybersecurity experts noted similarities in the wording and distribution methods, suggesting the use of a shared target list. School principals and authorities emphasized that despite appearing implausible or reckless, the threats had to be treated with extreme seriousness due to safety concerns.\n\nThe mass-distributed emails were sent from at least four hijacked email accounts, including one belonging to a former graduate student at Da-Yeh University in Taiwan. While previous bomb hoaxes in Western government entities had been linked by cybersecurity firms to suspected Russian mercenary hackers known as the DaVinci Group, officials continue extensive inquiries to confirm direct connections. The widespread disruptions have left communities and institutions on high alert as investigations into the source of the campaign persist.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-17T11:19:32+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
    "id": "5bfb58479695",
    "rewritten": true,
    "v4": true,
@@ -1220,6 +1233,32 @@
    "image": "https://i.dawn.com/large/2026/11/17152749570cbca.webp",
    "published": "2026-11-17T11:17:34+00:00",
    "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "fb0183e21122",
+   "rewritten": true,
+   "v4": true,
+   "title": "India Defeats Pakistan to Win Record Tenth SAFF Championship Title",
+   "summary": "Pakistan's historic bid for a maiden SAFF Championship title ended in heartbreak on Tuesday at the National Stadium in Dhaka, where India secured a 2-1 comeback victory in the final. Late substitute Sandip Mandi scored the winning goal in the 87th minute, extending India's record to ten regional crowns and securing their third consecutive championship. The defeat was particularly cruel for Pakistan, who had dominated much of the match and held the lead through the first half.\n\nPakistan controlled the opening exchanges and maintained 65 percent possession in the first half compared to India's 35 percent, outshooting their opponents nine to four. Their dominance paid off in first-half stoppage time when Alamghir Ghazi curled a shot into the far corner past goalkeeper Yousuf Butt's efforts, giving Pakistan a 1-0 advantage at the interval. It was Ghazi's second goal of the tournament, with both of his strikes coming against India.\n\nIndia increased their attacking pressure after the break. Pakistan's hopes suffered a major setback in the 57th minute when midfielder Junaid Shah received a red card following a VAR review for a rough challenge, leaving the Green-shirts with ten men. India capitalized almost immediately when Sohail Ahmed Butt scored his fourth goal of the tournament to equalize in the 58th minute. Despite being a man down, Pakistan maintained a resilient defensive shape.\n\nThe resilient defense held until the 87th minute, when Sandip Mandi found the net to put India ahead for the first time in the match. Pakistan pushed for a late equalizer but failed to break through, allowing India to hold on and claim the championship trophy once again.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-17T11:16:30+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "sports"
+  },
+  {
+   "id": "0eb5acb34cf0",
+   "rewritten": true,
+   "v4": true,
+   "title": "Post-Mortem Reveals Brutal Violence in Islamabad Domestic Worker's Death",
+   "summary": "The post-mortem report of 13-year-old domestic worker Fatima Asghar revealed approximately 20 major wounds and visible marks of physical violence spanning from her head to her toes. Conducted by the Pakistan Institute of Medical Sciences, the examination documented severe physical trauma, untreated infections resulting in pus and foul odor, blood clots in the heart and kidneys, and burn marks consistent with a heated iron. Fatima was employed at the Islamabad residence of a senior Police Service of Pakistan officer posted in Gujranwala.\n\nThe girl's death on November 14 was initially reported as mysterious, and local police allegedly attempted to keep the matter quiet before senior officials intervened and a case was registered at the Shams Colony Police Station. Two suspects, Afshan—a Pakistani-origin Canadian national and wife of the police officer—and Qari Ali, a tutor and Punjab Highway Patrol employee, were arrested and granted a four-day physical remand by an Islamabad district court. During police interrogation, the suspects gave contradictory statements.\n\nAfshan denied ever subjecting the minor to physical violence. However, Qari Ali claimed he beat Fatima on Afshan's instructions, adding that he complied out of fear of losing his job. Following these disclosures, police conducted a surprise raid at the officer's residence within the Police Lines Headquarters, recovering an iron on Afshan's identification and sticks and canes on Ali's identification. Interior Minister Mohsin Naqvi stated that the police pursued the case despite initial reluctance from the victim's father and are conducting a thorough investigation.\n\nThe case has drawn widespread condemnation and calls for justice. First Lady Bibi Asifa Bhutto Zardari expressed deep sorrow over the incident, emphasizing that under Islamabad's four-year-old child employment law, no child of that age could be employed as a domestic worker. She called for a transparent, impartial investigation and strict enforcement of child protection laws to prevent further exploitation and abuse of vulnerable children in domestic settings.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-17T10:59:02+00:00",
+   "source": "Source: The Express Tribune",
    "lang": "en",
    "category": "pakistan"
   },
@@ -1234,6 +1273,19 @@
    "published": "2026-11-17T10:55:08.984871+00:00",
    "source": "ذریعہ: BBC Urdu",
    "lang": "ur",
+   "category": "pakistan"
+  },
+  {
+   "id": "95bfa3567b97",
+   "rewritten": true,
+   "v4": true,
+   "title": "Asian Buddhist Leaders Explore Pakistan's Ancient Gandhara Heritage",
+   "summary": "An international delegation of Buddhist monks and religious scholars from eight Asian countries visited the Islamabad Museum and the historic Shah Allah Ditta Caves on Tuesday. The high-profile visit was part of the three-day Gandhara Strategic Dialogue 2026, held under the theme \"Towards a Shared Future\" to promote international cooperation for the preservation and global recognition of Gandhara's Buddhist heritage. The initiative is led by Imran Shaukat, coordinator to the Prime Minister's Task Force on Gandhara.\n\nThe visiting delegation included senior religious figures from Thailand, Laos, Vietnam, Japan, Cambodia, Sri Lanka, South Korea, and Bangladesh. At the Islamabad Museum, the monks and scholars viewed an extensive collection of Gandharan antiquities, including Buddha sculptures, relics, and artifacts showcasing the region's historical and spiritual significance. They also experienced an immersive digital presentation detailing the ancient civilization's history.\n\nFollowing the museum tour, the delegation traveled to the Shah Allah Ditta Caves, an archaeological site linked to the area's Buddhist past. Accompanied by Tanzeela Sabahat, Joint Secretary of the National Heritage and Culture Division, the visitors explored the site to connect with a heritage that remains important to Buddhist communities across Asia. The dialogue sessions cover topics such as faith-based visitor facilitation, conservation, sacred manuscripts, tourism infrastructure, and community participation.\n\nOpening at the Ministry of Foreign Affairs and concluding at the Ministry of National Heritage and Culture Division, the dialogue aims to position Gandhara as a shared civilisational legacy. Imran Shaukat stated that the initiative demonstrates Pakistan's commitment to engaging with the international Buddhist community, using Gandhara as a bridge for cultural diplomacy, interfaith understanding, and global cooperation.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-17T10:51:58+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
    "category": "pakistan"
   },
   {
@@ -2041,6 +2093,32 @@
    "source": "Source: Business Recorder",
    "lang": "en",
    "category": "business"
+  },
+  {
+   "id": "6a9837f5004c",
+   "rewritten": true,
+   "v4": true,
+   "title": "US Naval Deployment in Middle East Surpasses Iran War Peak",
+   "summary": "An Israeli security institute reported on Tuesday that the present deployment of United States naval vessels and forces in the Middle East has surpassed the levels recorded during the height of the US-Israeli conflict against Iran in February and March. According to the Institute for National Security Studies (INSS), which analyzed open-source intelligence covering the Mediterranean, Red Sea, Arabian Sea, and Gulf, the deployment delivers enhanced offensive power and greater missile-interception capacity compared to Operation Epic Fury. The institute did not specify exact numbers for the currently stationed military personnel or warships.\n\nThe conflict began on February 28 when the US and Israel initiated hostilities against Iran, which retaliated with strikes targeting Israel and facilities it identified as US military installations in Arab countries. An interactive map published by the institute shows that the aircraft carriers USS George Washington, USS Theodore Roosevelt, and USS George H.W. Bush are presently stationed in the region alongside additional military hardware. US President Donald Trump stated on November 9 that the military phase of the Iran conflict was effectively concluded, though he noted that a major naval blockade would persist to maintain economic pressure on Tehran.\n\nWhile more than 200 aerial refueling planes are located in the territory, the institute observed that US air power positioned at land bases sits below March levels. Aircraft have been shifted westward or moved to Europe due to the susceptibility of forward installations to Iranian attacks, though the INSS noted that air assets can be redeployed far quicker than naval units. Meanwhile, a memorandum of understanding signed by Washington and Tehran in June has stalled over disputes regarding shipping security in the Strait of Hormuz, leading to intermittent confrontations since July despite ongoing diplomatic efforts.\n\nThe ongoing hostilities continue to cause significant political and economic fallout regionally and globally. Washington and Tel Aviv accuse Tehran of running nuclear programs that threaten Israel and American allies, an allegation made without evidence, while Iran insists its nuclear activities are exclusively peaceful.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-17T05:51:51+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "world"
+  },
+  {
+   "id": "4fcbf6d7688f",
+   "rewritten": true,
+   "v4": true,
+   "title": "Train Collision Close to Prague Injures Dozens of Passengers",
+   "summary": "A collision involving two trains occurred on Tuesday morning near the main railway station in Prague, resulting in dozens of injuries among passengers, several of whom sustained serious conditions. The Czech News Agency reported the incident, which prompted a swift response from local emergency responders who successfully evacuated all individuals from both affected trains.\n\nPrague emergency services spokesperson Karel Kirs confirmed that multiple passengers suffered severe injuries, with certain cases involving life-threatening complications. All individuals with critical injuries were promptly transported to hospitals situated in Prague. Transport Minister Ivan Bednarik labeled the event a very serious incident, emphasizing that the immediate focus remained on treating the injured while expressing gratitude to the rescue personnel for their swift actions.\n\nThe Railway Inspectorate has initiated an investigation to determine the exact cause and circumstances surrounding the crash. In the wake of the collision, train operations on the affected rail line were completely suspended, with service disruptions projected to persist for several hours and impact numerous scheduled runs. Additionally, long-distance railway services are being rerouted to alternative stations within Prague.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-17T05:47:56+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "world"
   },
   {
    "id": "76aae356d751",
@@ -3822,84 +3900,6 @@
    "source": "Source: Business Recorder",
    "lang": "en",
    "category": "business"
-  },
-  {
-   "id": "ec8a5c11376c",
-   "rewritten": true,
-   "v4": true,
-   "title": "لاہور ریلوے اسٹیشن کو 1860 کی اصل حالت میں بحال کرنے کا فیصلہ",
-   "summary": "پاکستان ریلوے نے لاہور ریلوے اسٹیشن کی تاریخی حیثیت کو بحال کرنے کا کام شروع کر دیا ہے۔ کروڑوں روپے کی لاگت سے آرکیالوجی ڈیپارٹمنٹ کی مدد سے پلیٹ فارم نمبر پانچ سے اس کو 1860 کی دہائی کی اصل حالت میں لانے کا کام شروع کر دیا گیا ہے۔\n\nلاہور ریلوے اسٹیشن کا سنگ بنیاد 1859 میں جان لارنس نے رکھا تھا اور یہ برطانوی راج کی پہلی سرکاری عمارت تھی۔ اسے 1857 کی جنگ آزادی کے بعد قلعے کی طرز پر بنایا گیا تھا جس میں موٹی سرخ اینٹوں، گول برج، مینار اور بندوقوں کے لیے سوراخ رکھے گئے تھے۔\n\nاس تاریخی مقام پر 1928 میں لالہ لاجپت رائے کا جلوس نکلا، 1947 میں مہاجرین کی آمد کا مرکز رہا اور 1956 میں ہالی وڈ فلم بھوانی جنکشن کی شوٹنگ بھی یہیں ہوئی۔ یہ منصوبہ وزیراعلیٰ مریم نواز اور وزیر ریلوے حنیف عباسی کی ہدایت پر شروع کیا گیا ہے۔\n\nپاکستان ریلوے کے ڈویژنل سپرنٹنڈنٹ انعام اللہ اور آرکیالوجی کی چیف آرکیٹیکٹ ثانیہ افضل اس مشترکہ منصوبے کی نگرانی کر رہے ہیں۔ ماسٹر پلان کے تحت پلیٹ فارم 2، 4 اور 5 پر 1860 والا ڈیزائن بحال کیا جائے گا۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-16T15:00:40+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "9bb3cf580287",
-   "rewritten": true,
-   "v4": true,
-   "title": "کراچی میں بے لگام ٹرک ڈرائیور نے ٹریفک پولیس کی گاڑی کو ٹکر مار دی",
-   "summary": "کراچی کے علاقے ڈیفنس لائبریری روڈ پر ایک ٹرک ڈرائیور نے ٹریفک پولیس کی گاڑی کو ٹکر ماری اور موقع سے فرار ہونے کی کوشش کی۔ یہ واقعہ ہفتے کی شام پیش آیا جب پولیس اہلکار نے سامان سے لیس ٹرک کو روکنے کی کوشش کی تھی۔\n\nٹرک کی زور دار ٹکر سے ٹریفک پولیس کی موبائل فٹ پر چڑھ گئی اور گاڑی کو نقصان پہنچا۔ تاہم پولیس اہلکار نے ہمت نہیں ہاری اور ٹوٹی ہوئی گاڑی کے ساتھ ہی ٹرک کا تعاقب جاری رکھا۔\n\nاہلکار نے فرار ہونے کی کوشش کرنے والے ٹرک ڈرائیور کو بالآخر پکڑ لیا۔ واقعے کی ویڈیو سوشل میڈیا پر بھی وائرل ہو گئی جس پر عوام نے شدید ردعمل کا اظہار کیا۔\n\nٹریفک پولیس نے موٹر وہیکل آرڈیننس کے تحت ملزم ڈرائیور کے خلاف قانونی کارروائی کا آغاز کر دیا ہے۔ دوسری جانب ٹرک کے مالک نے پولیس کی گاڑی کو پہنچنے والے نقصان کا ازالہ کرنے کی یقین دہانی کرا دی ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-16T14:46:37+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "e6ac9ecbd1f1",
-   "rewritten": true,
-   "v4": true,
-   "title": "امریکی ریاست نیویارک میں نایاب زرد رنگ کی مچھلی دریافت",
-   "summary": "امریکی ریاست نیویارک کی اوسویگو بندرگاہ سے ایک انتہائی نایاب اور چمکدار پیلے رنگ کی مچھلی پکڑی گئی ہے۔ امریکی ادارے فش اینڈ وائلڈ لائف سروس کے ماہرین نے معمول کے آبی سروے کے دوران یہ منفرد مچھلی پکڑی ہے، جسے ماہرین نے لاکھوں میں ایک قرار دیا ہے۔\n\nاس مچھلی کا نام بربوٹ (Lota lota) ہے جو کہ میٹھے پانی میں پائی جاتی ہے۔ ماہرین کے مطابق اس مچھلی میں زینتھوکرومزم نامی ایک غیر معمولی جینیاتی کیفیت پائی جاتی ہے، جس کی وجہ سے اس کا ظاہری رنگ زرد مائل نارنجی ہو گیا ہے۔\n\nیہ مچھلی گزشتہ ماہ اس وقت سامنے آئی جب آبی ماحول میں حملہ آور انواع کی نگرانی کے لیے ایک باقاعدہ سروے کیا جا رہا تھا۔ امریکی ادارہ گریٹ لیکس کے ساحلی علاقوں، دریاؤں اور بندرگاہوں میں مچھلیوں کی آبادی کا تخمینہ لگانے کے لیے مسلسل سائنسی طریقے بروئے کار لاتا ہے۔\n\nاس مقصد کے لیے استعمال کیے جانے والے سائنسی طریقوں میں الیکٹرو فشنگ، مختلف اقسام کے جال کا استعمال اور ماحولیاتی ڈی این اے کا تجزیہ کرنا شامل ہے۔ اس طرح کے سروے آبی حیات کے تنوع کو سمجھنے اور ان کی حفاظت کے لیے انتہائی اہمیت کے حامل مانے جاتے ہیں۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-16T14:44:38+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "e5098867a33f",
-   "rewritten": true,
-   "v4": true,
-   "title": "Punjab Minister Dismisses Chief Minister Removal Rumors",
-   "summary": "Punjab Information Minister Azma Bokhari has firmly rejected speculations regarding a potential change in the province's leadership, insisting that Chief Minister Maryam Nawaz will successfully complete her current term and lead her party into the next elections. Speaking at a press conference in Lahore, Bokhari stated that individuals anticipating a replacement for the chief minister would face a major surprise.\n\nThe press briefing addressed a recent public dispute sparked by Federal Minister for Overseas Pakistanis Chaudhry Salik Hussain, who alleged widespread corruption and a disproportionate allocation of public development funds favoring Lahore over other districts during a television interview. Bokhari criticized Hussain's formal response to an official notice, arguing that it failed to provide substantive evidence and merely offered an audit report instead of substantiating his claims.\n\nAddressing other provincial administrative matters, Bokhari defended the transfer of the Punjab government's Gulfstream G-500 aircraft to the Pakistan Air Force, explaining that routine maintenance by the military is entirely normal for state-owned aircraft after a year of operation. Official documentation had previously shown that the provincial cabinet approved handing over operational control due to the VIP Flight Wing's limited technical capabilities.\n\nThe minister reiterated that the provincial government remains focused on its governance and performance outcomes while taking firm political stances against unverified allegations. The ongoing political friction between provincial and federal figures highlights persistent debates over resource distribution and governance transparency in the region.",
-   "url": "",
-   "image": "https://www.geo.tv/assets/uploads/2026-11-16/691286_024201_updates.jpg",
-   "published": "2026-11-16T14:33:59+00:00",
-   "source": "Source: Geo News",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "495db4a05832",
-   "rewritten": true,
-   "v4": true,
-   "title": "Lindsay Clancy to Face Second Murder Trial in March Over Children's Deaths",
-   "summary": "A Massachusetts judge has scheduled a second murder trial for Lindsay Clancy on March 29 following a deadlocked jury in her initial trial. Clancy, 36, faces first-degree murder charges over the January 24, 2023, strangulation deaths of her three young children—5-year-old Cora, 3-year-old Dawson, and 8-month-old Callan—in their Duxbury home. During the hearing in Plymouth, Massachusetts, Judge William Sullivan set the upcoming court date, while her defense argued she suffered from postpartum psychosis at the time of the killings. \n\nClancy's first trial ended in a mistrial on September 4 after a single holdout juror prevented a unanimous verdict, though multiple jurors later indicated readiness to find her not guilty by reason of insanity. Following the killings, Clancy attempted suicide by cutting herself and jumping from a second-story window, which left her paralyzed. Her defense lawyer, Kevin Reddington, noted that prosecutors opted to seek a first-degree murder conviction again rather than lesser second-degree charges, which would have allowed a bench trial before a judge. \n\nJudge Sullivan set the March trial date over objections from prosecutors who requested a later start in May due to scheduling conflicts. Clancy's legal team had urged an earlier date before Judge Sullivan retires in June. Last week, the judge largely ruled in favor of the prosecution on pending motions, rejecting the defense's request to dismiss the case on constitutional grounds. \n\nIf convicted of the first-degree murder charges, Clancy faces a mandatory sentence of life imprisonment without the possibility of parole. A not guilty verdict by reason of insanity, known in Massachusetts as a lack of criminal responsibility, would have resulted in her commitment to a state psychiatric facility subject to ongoing court review.",
-   "url": "",
-   "image": null,
-   "published": "2026-11-16T14:30:35+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "world"
-  },
-  {
-   "id": "5cc9f9125268",
-   "rewritten": true,
-   "v4": true,
-   "title": "Shaun Tait and Kusal Mendis Urge Push for Result in Pakistan-Sri Lanka Test",
-   "summary": "Sri Lankan captain Kusal Mendis and Pakistan bowling coach Shaun Tait have called upon their respective teams to strive for a definitive outcome in the second and final Test match. The upcoming fixture is set to begin on Tuesday at the Rawalpindi Cricket Stadium. The opening Test ended in a draw due to inclement weather and less penetrative bowling on a grassy pitch, despite Sri Lanka holding a strong position and later reducing Pakistan to 57-3 on the final day before missed catches allowed the hosts to close at 284-8.\n\nReflecting on the first match, Kusal noted his team's aim to build a significant lead, which was ultimately curtailed by debutant Saqib Khan. Saqib claimed stellar figures of 7-130, becoming the fourth Pakistani bowler to take seven wickets on debut, after Sri Lanka collapsed from 404-4 to 446 all out following centuries by Kusal and Dhananjaya de Silva. Kusal indicated that the pitch for the second Test shares similarities with the first, prompting potential squad adjustments such as bringing in spinners Prabath Jayasuriya or Keshara Nuwantha, while Pakistan considers 19-year-old pacer Ali Shabbir.\n\nShaun Tait expressed satisfaction with Pakistan's bowling performance in the previous match but emphasized the need for an extra effort to secure their first Test series win of the year. Individually, Pakistan's Saud Shakeel fell short of centuries with scores of 93 and 97, while captain Babar Azam extended his century drought to 42 innings. \n\nThe two-match series forms part of the fourth cycle of the World Test Championship. Both teams are already eliminated from contention for next year's final, with Pakistan currently ninth and Sri Lanka seventh in the standings.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/161925425674651.webp",
-   "published": "2026-11-16T14:28:40+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
   }
  ]
 }
