@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T22:46:00.462165+00:00",
+ "updated": "2026-11-18T23:44:09.190666+00:00",
  "stories": [
   {
    "id": "324c86ea9267",
@@ -158,6 +158,19 @@
    "category": "business"
   },
   {
+   "id": "5d81bc7fb362",
+   "rewritten": true,
+   "v4": true,
+   "title": "Bilawal warns PPP may join opposition if allies are ignored",
+   "summary": "Pakistan Peoples Party Chairman Bilawal Bhutto-Zardari warned on Wednesday that his party could leave the ruling coalition and join the opposition benches if the PML-N-led government refuses to heed the concerns of its political allies. Speaking during a television interview, Bilawal defended his recent political remarks, urging government representatives to develop the courage to listen to differing opinions and the truth.\n\nThe political debate intensified following a July proposal by Interior Minister Mohsin Naqvi to create new administrative units and provinces, a move strongly rejected by the PPP, which governs Sindh. Bilawal argued that such divisions would not solve the nation's underlying issues and cautioned that forcibly splitting Sindh could trigger serious unrest. He criticized the government for opening multiple political fronts during a severe economic crisis rather than fostering unity.\n\nThe PPP chairman questioned why governance discussions were initiated with business groups rather than brought to parliament. He asserted that being part of the ruling coalition does not strip his party of its right to critique policies, maintaining that the government must take stock of the situation. Bilawal also dismissed suggestions that his remarks indicated a confrontational approach, emphasizing instead the need for a democratic reset to address poverty, inflation, and unemployment.\n\nBilawal noted that neither the prime minister nor other federal stakeholders had discussed the restructuring proposal with him or President Asif Ali Zardari. He criticized federal ministers for lacking tolerance toward criticism and warned that any forced division of Sindh would severely aggravate the regional law and order situation.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/190002078d1fc01.webp?v=c3_pATj0in_r0ncuUO7zzwxq",
+   "published": "2026-11-18T19:33:51+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
    "id": "7a6c7c254aef",
    "rewritten": true,
    "v4": true,
@@ -262,6 +275,19 @@
    "category": "business"
   },
   {
+   "id": "ed8f02396dbb",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan grants trade exemption for potato and kinnow exports",
+   "summary": "The government of Pakistan has approved a one-time exemption from financial instrument requirements for exporting potatoes and kinnow to the Russian Federation through both land and sea routes. The policy, effective until May 15, 2027, covers three specific product categories: potatoes, kinnow or mandarins, and other mandarins. Financial instruments like letters of credit or advance payments typically manage trade risks and secure payments between exporters and buyers.\n\nThis decision follows a similar exemption granted in December 2025 for exports to Commonwealth of Independent States member countries routed through Iran. Earlier this year, Pakistan and Russia agreed to expand direct land and air links to boost regional trade. Furthermore, the Russian Federal Service for Veterinary and Phytosanitary Surveillance permitted potato imports from Punjab province in April, lifting phytosanitary restrictions that had been active since May 2025.\n\nAgricultural expansion over the past decade has driven significant growth in these key sectors. Land dedicated to potato cultivation surged by approximately 160 percent over ten years, reaching roughly 462,160 hectares and yielding a harvest of about 12 million tonnes for the 2025-26 season. Meanwhile, the kinnow season runs from December to April, peaking in January and February.\n\nIndustry associations previously set an ambitious export target of 300,000 tonnes of kinnow, projecting $110 million in foreign exchange earnings. Sector experts believe that improving supply chains and introducing new citrus varieties could scale Pakistan's overall export earnings to $400 million within a five-year span.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/182029531054eec.webp?v=c3_pATj0in_r0ncuUO7zzwxq",
+   "published": "2026-11-18T18:29:34+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
    "id": "d9daed0624b0",
    "rewritten": true,
    "v4": true,
@@ -301,6 +327,19 @@
    "category": "business"
   },
   {
+   "id": "127c9067a9b5",
+   "rewritten": true,
+   "v4": true,
+   "title": "Nvidia halts shipments of approved AI processors to China",
+   "summary": "Nvidia has ceased shipments of powerful artificial intelligence chips to China, according to interim CEO Colette Kress, casting uncertainty over a special licensing agreement negotiated between Washington and Beijing. During a Tuesday earnings call, Kress noted that while the company sold $2.4 billion in licensed Hopper-generation data centre products to China in the quarter ending October 25, there are currently no plans for subsequent shipments.\n\nThe US initially placed export controls on advanced AI processors in 2022. However, following a summit between US President Donald Trump and Chinese President Xi Jinping, the administration permitted sales of the powerful H200 chip to approved Chinese customers under individual licensing reviews. Former CEO Jensen Huang engaged in months of lobbying to support the policy shift, though he recently stepped down amid personal allegations.\n\nThe export arrangement involved manufacturing the chips via TSMC in Taiwan and applying a 25 percent tariff on eligible units before shipping them to China. Washington ultimately approved H200 sales to 10 major Chinese firms, including Alibaba, Tencent, and ByteDance. However, Beijing subsequently restricted imports to decrease its reliance on American technology.\n\nReports indicate that approximately 600,000 H200 processors have remained stored in Hong Kong awaiting mainland delivery while awaiting domestic approval. Several prominent Chinese internet companies had each acquired around 10,000 units prior to the recent shipping halt announced by Nvidia.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/182313265b81c2c.webp?v=c3_pATj0in_r0ncuUO7zzwxq",
+   "published": "2026-11-18T18:15:18+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
    "id": "760205fd17b0",
    "rewritten": true,
    "v4": true,
@@ -308,6 +347,19 @@
    "summary": "Internet users in Pakistan may encounter intermittent connectivity problems and reduced service performance after an international submarine cable system suffered a malfunction close to the national coastline. The Pakistan Telecommunication Authority reported on Wednesday that the SEA-ME-WE 5 submarine cable network experienced a disruption approximately 11 kilometers from the shore. Transworld Associates is currently working alongside the SMW5 Consortium to diagnose the root cause and establish an estimated time frame for complete network restoration.\n\nTo mitigate the impact and sustain operations as effectively as possible, network traffic is being redirected through alternative international connectivity pathways. The regulator stated that it remains in close communication with all relevant industry participants while continuously observing the situation to ensure standard internet services resume across the country as swiftly as possible. Independent confirmation came from global internet monitor NetBlocks, which reported that traffic telemetry indicated a drop in connectivity aligned with a malfunction on the SMW5 subsea infrastructure.\n\nThis incident matters because reliable internet connectivity is essential for daily communications, commercial operations, and financial transactions nationwide. The swift rerouting of data traffic by authorities aims to prevent widespread digital isolation while repair crews work to restore the damaged underwater infrastructure.",
    "url": "",
    "image": "https://i.brecorder.com/large/2026/11/18221306e8ea014.webp",
+   "published": "2026-11-18T18:12:19+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "db8db8eb5976",
+   "rewritten": true,
+   "v4": true,
+   "title": "Submarine cable fault causes internet slowdown across Pakistan",
+   "summary": "Internet users across Pakistan may experience intermittent connectivity issues and a drop in service quality following a fault in an international submarine cable system near the country's coast. The Pakistan Telecommunication Authority announced the disruption on Wednesday, confirming that the SEA-ME-WE 5 submarine cable system reported a malfunction roughly 11 kilometres offshore.\n\nTransworld Associates is actively collaborating with the SMW5 Consortium to pinpoint the root cause of the breakdown and establish an estimated time for service restoration. In the interim, internet traffic is being rerouted through alternative international pathways to mitigate disruptions and preserve overall network operations as much as possible.\n\nThe telecommunications regulator stated that it is closely monitoring the situation while communicating with key stakeholders to ensure normal internet services are restored across the country as swiftly as possible. Global internet monitor NetBlocks verified that network data reflects a measurable decline in local connectivity.\n\nNetBlocks confirmed that the reported incident aligns directly with a malfunction on the SMW5 international subsea cable system. Network operators are currently working to implement alternative routing to stabilize connections for users nationwide.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/18221306e8ea014.webp?v=c3_pATj0in_r0ncuUO7zzwxq",
    "published": "2026-11-18T18:12:19+00:00",
    "source": "Source: Business Recorder",
    "lang": "en",
@@ -457,6 +509,19 @@
    "category": "business"
   },
   {
+   "id": "58199ba3e318",
+   "rewritten": true,
+   "v4": true,
+   "title": "Xi and Putin condemn Western protectionism as Trump arrives in China",
+   "summary": "Chinese President Xi Jinping and Russian President Vladimir Putin criticized Western protectionism, sanctions, and economic dominance during speeches ahead of an Asia-Pacific Economic Cooperation summit in Shenzhen. Putin spoke about Europe's decline and claimed Western economic tools have lost their power, while Xi pledged to support free trade and counter unilateralism. The remarks preceded a high-stakes trilateral meeting involving Xi, Putin, and US President Donald Trump, who arrived in China following recent midterm election defeats and new US restrictions on advanced AI chip access.\n\nTrump was welcomed at the Shenzhen airport by Xi, marking the first time Xi has personally greeted a visiting leader at the airport since becoming president. The three leaders gathered for photographs and a banquet, with a trilateral meeting scheduled on Thursday to potentially discuss the war in Ukraine, the US conflict in Iran, trade, artificial intelligence, and nuclear weapons. Kremlin officials and a US official confirmed that Trump would also hold a separate one-on-one meeting with Putin during the visit.\n\nThe upcoming trilateral gathering has drawn comparisons to the 1945 Yalta Conference, causing concern among some European and Asian capitals regarding major powers deciding global affairs. However, the Kremlin dismissed these comparisons, while Beijing stated the meeting would advance world peace. Meanwhile, Japanese Prime Minister Sanae Takaichi arrived in China without a welcoming ceremony amid ongoing diplomatic tensions between Beijing and Tokyo over regional security and Taiwan.\n\nXi's promotion of free trade aims to position China as a reliable global partner, resonating with nations in the Global South. This stance contrasts with criticisms from Western trade partners regarding China's massive trade surpluses and supply chain dominance. At the same time, Trump traveled to Manila to strengthen defense ties with the Philippines amid regional disputes in the South China Sea, while also mentioning a possible meeting with North Korean leader Kim Jong Un.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/182306167e05846.webp?v=c3_pATj0in_r0ncuUO7zzwxq",
+   "published": "2026-11-18T18:09:05+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
    "id": "1a10ea0a2b18",
    "rewritten": true,
    "v4": true,
@@ -490,6 +555,19 @@
    "summary": "Freelancers in Pakistan achieved a historic milestone in October 2026 by generating $210 million in foreign exchange earnings. According to State Bank of Pakistan data released on Wednesday, this is the first time monthly receipts have crossed the $200 million threshold, rising from $196.9 million in September and providing a substantial boost to the national economy.\n\nPakistan hosts the world's fourth-largest freelance community, with over three million individuals engaged in the sector. Ibrahim Amin, chairman of the Pakistan Freelancers Association (PAFLA), explained that limited domestic job opportunities and lucrative international earning potential are driving more students and young professionals toward freelancing platforms.\n\nDuring the first four months of the current fiscal year (FY27), the freelance sector brought in over $758 million, representing a 47% increase compared to the $515.770 million recorded during the same period in FY26. IT-related freelancers earned $463.843 million, marking a 26% year-on-year growth, while non-IT freelancers generated $295.572 million, reflecting an exceptional 99% increase compared to the previous year.\n\nAmin emphasized that public and private institutions must focus on training programs in high-demand skills to help young professionals secure international projects. Expanding the digital skills base is expected to further strengthen Pakistan's position in the global digital services market and increase contributions to the national exchequer.",
    "url": "",
    "image": "https://i.brecorder.com/large/2025/10/0919314644f5a35.webp",
+   "published": "2026-11-18T17:50:59+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "6ace22756519",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistani freelancers achieve record monthly earnings of $210 million in October",
+   "summary": "Freelancers in Pakistan generated a record $210 million in foreign exchange during October 2026, surpassing the $200 million threshold in a single month for the first time. State Bank of Pakistan data released on Wednesday showed an increase from the $196.9 million recorded in September. Pakistan currently hosts the world's fourth-largest freelancer community, with over three million citizens working in the sector.\n\nIbrahim Amin, chairman of the Pakistan Freelancers Association, noted that limited domestic job prospects and attractive international earnings are driving young professionals and students toward freelancing platforms. He emphasized that both public and private institutions must prioritize training in high-demand skills to help young workers secure international projects and boost the national economy.\n\nDuring the first four months of fiscal year 2027, the freelance community accumulated over $758 million in foreign exchange, marking a 47% increase compared to the same period in the previous fiscal year when earnings stood at $515.770 million. IT-related freelancers brought in $463.843 million, up 26% year-on-year from $366.608 million.\n\nNon-IT service providers experienced even faster growth, generating $295.572 million between July and October of fiscal year 2027. This represents a 99% increase, or an addition of $147.410 million, compared to $148.162 million in the corresponding period of fiscal year 2026, showcasing strong export growth outside the technology sector.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2025/10/0919314644f5a35.webp?v=c3_pATj0in_r0ncuUO7zzwxq",
    "published": "2026-11-18T17:50:59+00:00",
    "source": "Source: Business Recorder",
    "lang": "en",
@@ -561,6 +639,32 @@
    "category": "business"
   },
   {
+   "id": "8040050dcdc1",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan decreases petrol and diesel prices by three rupees per litre",
+   "summary": "The Pakistani government lowered the prices of petrol and high-speed diesel by Rs3 per litre each, setting the new rates at Rs322 and Rs355 per litre, respectively. The Oil and Gas Regulatory Authority issued a notification on Wednesday detailing the revised ex-depot prices, which were calculated under the pricing mechanism approved by the federal government and took effect on Thursday, November 19. This followed a previous reduction on Tuesday that cut petrol to Rs325 per litre while keeping diesel steady at Rs358.\n\nThe local price adjustments coincided with a global decline in oil prices. On Wednesday, crude and fuel inventories in the United States showed larger-than-expected increases according to the Energy Information Administration, fueling expectations of a supply surplus. Brent crude futures dropped by $1.12, or 1.2%, to reach $92.02 a barrel, while US West Texas Intermediate futures fell by $1.63, or 1.9%, to settle at $84.38, marking their lowest level since late August.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2023/06/648a467f20805.jpg?v=c3_pATj0in_r0ncuUO7zzwxq",
+   "published": "2026-11-18T17:22:21+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "558c0d871cd9",
+   "rewritten": true,
+   "v4": true,
+   "title": "وفاقی حکومت کا قومی بچت کی بعض اسکیموں پر منافع کی شرح میں ردوبدل",
+   "summary": "وفاقی حکومت نے پاکستان میں قومی بچت کی چند مخصوص اسکیموں پر منافع کی شرح میں ردوبدل کر دیا ہے۔ اسلام آباد سے موصولہ اطلاعات کے مطابق اس تبدیلی کے نتیجے میں اسپیشل سیونگز سرٹیفکیٹس کے پہلے پانچ منافعوں کی شرح کو کم کر کے 11.8 فیصد مقرر کیا گیا ہے، جبکہ چھٹا منافع 12.8 فیصد کی شرح پر برقرار رکھا گیا ہے۔ اسی طرح ڈیفنس سیونگز سرٹیفکیٹس کے منافع کی شرح میں بھی کوئی تبدیلی نہیں کی گئی اور اسے برقرار رکھا گیا ہے۔\n\nحکام کے فراہم کردہ اعداد و شمار کے مطابق نئے ریٹس کے تحت شارٹ ٹرم سیونگز سرٹیفکیٹس کے منافع میں اضافہ کیا گیا ہے۔ اس اضافے کے بعد تین ماہ کے شارٹ ٹرم سرٹیفکیٹس پر منافع کی شرح 11.56 فیصد ہو گئی ہے۔\n\nمزید برآں چھ ماہ کے شارٹ ٹرم سیونگز سرٹیفکیٹس پر منافع کی نئی شرح 11.90 فیصد مقرر کی گئی ہے۔ ایک سال کی مدت والے شارٹ ٹرم سیونگز سرٹیفکیٹس پر بھی منافع کی شرح میں اضافہ ریکارڈ کیا گیا ہے اور اب یہ بڑھ کر 12.14 فیصد ہو چکی ہے۔\n\nقومی بچت کی ان اسکیموں میں ردوبدل کا یہ فیصلہ ایسے وقت میں سامنے آیا ہے جب ملک میں مالیاتی اور معاشی شعبوں کے حوالے سے مختلف خبریں زیرِ گردش ہیں۔ ان تبدیلیوں سے بچت اسکیموں کے ذریعے سرمایہ کاری کرنے والے افراد متاثر ہوں گے جنہیں اب ان نئے مقرر کردہ شرحِ منافع کے تحت ریٹرن ملے گا۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-18T17:21:57+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "60eacb21c98d",
    "rewritten": true,
    "v4": true,
@@ -587,6 +691,19 @@
    "category": "pakistan"
   },
   {
+   "id": "0efcbd4b6e79",
+   "rewritten": true,
+   "v4": true,
+   "title": "لاہور سیالکوٹ موٹروے پر کار الٹنے کے بعد آتشزدگی، دو افراد زخمی",
+   "summary": "لاہور سیالکوٹ موٹروے پر محمود بوٹی کے قریب ایک المناک حادثہ پیش آیا جہاں چلتی کار الٹنے کے بعد اچانک آگ کی لپیٹ میں آ گئی۔ موٹروے پولیس کے ترجمان سید عمران احمد کے مطابق اس حادثے کی اطلاع ملتے ہی موٹروے پولیس اور ریسکیو ٹیمیں فوری طور پر جائے وقوعہ پر پہنچ گئیں اور بروقت کارروائی کا آغاز کیا۔\n\nپولیس اور ریسکیو اہلکاروں نے انتہائی پھرتی کا مظاہرہ کرتے ہوئے گاڑی میں سوار تمام مسافروں کو بحفاظت باہر نکال لیا۔ اس حادثے کے نتیجے میں دو افراد کے زخمی ہونے کی تصدیق کی گئی ہے جنہیں ابتدائی طبی امداد کے لیے فوری طور پر قریبی اسپتال منتقل کر دیا گیا تھا۔\n\nزخمی ہونے والے دونوں افراد کی حالت کو دیکھتے ہوئے انہیں بعد میں مزید بہتر علاج و معالجے کے لیے لاہور کے میو اسپتال ریفر کر دیا گیا۔ خوش قسمتی سے اس حادثے میں کوئی جانی نقصان یا مسافروں کے شدید جھلسنے کا کوئی واقعہ پیش نہیں آیا، تاہم آگ لگنے کے باعث کار مکمل طور پر جل کر تباہ ہو گئی۔\n\nموقع پر موجود ریسکیو ٹیموں اور موٹروے پولیس نے مشترکہ کارروائی کرتے ہوئے آگ پر مکمل قابو پا لیا۔ امدادی کارروائیاں مکمل ہونے اور ملبہ ہٹائے جانے کے بعد سڑک کو عام ٹریفک کے لیے مکمل طور پر کلیئر کر دیا گیا، جبکہ اس حادثے کی اصل وجوہات کا تعین کرنے کے لیے متعلقہ حکام کی جانب سے تحقیقات کا سلسلہ جاری ہے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-18T16:20:53+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "e24ba521edb5",
    "rewritten": true,
    "v4": true,
@@ -607,6 +724,19 @@
    "summary": "Pakistan experienced a 36 percent decline in mango exports during the recent season, dispatching 78,000 tonnes and generating $58.5 million in foreign exchange. The figures fell short of the official 80,000-tonne target, resulting in substantial financial losses compared to the previous season when the country exported 123,000 tonnes and earned $92.2 million.\n\nAccording to Waheed Ahmed, Patron-in-Chief of the All Pakistan Fruit and Vegetable Exporters, Importers and Merchants Association, the downturn was primarily driven by ongoing tensions in the Middle East, escalating freight charges, and reduced demand in key Gulf markets like the United Arab Emirates and Saudi Arabia. Shipments to Gulf nations dropped significantly from 36,000 tonnes to 14,500 tonnes. Furthermore, continuous cross-border trade disruptions with Afghanistan severely affected exports to Afghan and Central Asian markets, accounting for an estimated loss of 24,000 tonnes.\n\nDespite these hurdles, exporters managed to reach near-target volumes following a strategic decision by the Ministry of Commerce and the Ministry of National Food Security and Research to commence exports on June 1. Ahmed noted that starting earlier in May would have compromised fruit quality. The export season ultimately ran from June 1 through the end of September, with notable reductions recorded across destinations including Qatar and Oman.\n\nBeyond geopolitical and logistical barriers, the domestic mango sector faces severe challenges from climate change and rising production costs. Orchard yields have dropped by roughly 35 percent from a potential capacity of 1.8 million tonnes over two consecutive years, leaving trees increasingly vulnerable to diseases. Ahmed emphasized the urgent need for federal and provincial government intervention to support growers with modern agricultural practices and expressed hope that exports could recover if lasting peace is achieved in the Middle East.",
    "url": "",
    "image": "https://i.brecorder.com/large/2026/11/18210548ee89856.webp",
+   "published": "2026-11-18T16:08:04+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "404ef983f39e",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan mango exports fall 36 percent due to Middle East conflicts",
+   "summary": "Pakistan's mango exports dropped by 36% to 78,000 tonnes during the recent season, missing the official target of 80,000 tonnes and leading to a loss in foreign exchange earnings. Waheed Ahmed, patron-in-chief of the All Pakistan Fruit and Vegetable Exporters, Importers and Merchants Association, reported that the country earned $58.5 million this season, compared to 123,000 tonnes exported and $92.2 million generated in the previous season, marking a decline of 45,000 tonnes and $33.7 million.\n\nThe downturn was primarily attributed to ongoing conflicts in the Middle East, which drove up freight costs and restricted demand in primary Gulf markets such as the United Arab Emirates, Saudi Arabia, Qatar, and Oman. Exports to Gulf nations dropped significantly, with shipments to the UAE and Saudi Arabia seeing sharp reductions. Additionally, trade with Afghanistan and Central Asian markets was disrupted due to ongoing cross-border trade suspensions, causing an estimated loss of 24,000 tonnes.\n\nDespite these challenges, exporters credited the Ministry of Commerce and the Ministry of National Food Security and Research for supporting a June 1 export start date, which ensured fruit quality and helped achieve the close-to-targeted volume. Starting in May would have triggered quality complaints and severely harmed total export figures.\n\nThe mango sector also faced severe pressure from climate change and rising production costs, cutting production capacity down from an estimated potential of 1.8 million tonnes. This marks the second consecutive year of falling production as orchards face increasing disease and weaker resistance. Industry stakeholders emphasized the need for governmental assistance in adopting modern farming techniques to safeguard the sector, while expressing hope for recovery if peace is restored in the Middle East.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/18210548ee89856.webp?v=c3_pATj0in_r0ncuUO7zzwxq",
    "published": "2026-11-18T16:08:04+00:00",
    "source": "Source: Business Recorder",
    "lang": "en",
@@ -795,6 +925,32 @@
    "category": "business"
   },
   {
+   "id": "db55bc292a8b",
+   "rewritten": true,
+   "v4": true,
+   "title": "IAEA Head Praises Inspection Terms in Proposed US-Saudi Nuclear Deal",
+   "summary": "The United Nations nuclear watchdog chief, Rafael Grossi, stated on Wednesday that inspection provisions outlined in a proposed civil nuclear agreement between the United States and Saudi Arabia are highly satisfactory. The prospective 123 agreement has not yet received approval from US lawmakers and faces criticism from nonproliferation experts because it lacks a requirement to bar Riyadh from enriching uranium or reprocessing spent reactor fuel.\n\nSaudi Arabia recently signed a Comprehensive Safeguards Agreement with the International Atomic Energy Agency, which outlines mandatory obligations for possessing nuclear technology and permits IAEA inspections of declared facilities. However, the kingdom has not adopted the Additional Protocol, a framework that would provide the agency with more intrusive monitoring tools, such as unannounced visits to undeclared locations.\n\nA safeguarding text reviewed by Reuters permits short-notice access exclusively at designated covered sites. According to the document, inspectors must provide at least two hours of advance notice if agency personnel are already on a covered site, or a minimum of 24 hours of advance notice otherwise.\n\nGrossi, who is currently seeking the position of UN secretary-general, described the outcome as very satisfactory during a quarterly IAEA Board of Governors press conference. Meanwhile, Saudi Crown Prince Mohammed bin Salman has asserted that his country will pursue nuclear weapons if regional adversary Iran does so. Iran previously implemented the Additional Protocol under a 2015 agreement but halted compliance in 2021 after the United States withdrew from the pact.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/09/07203531c2c0b93.webp?v=c3_pATj0in_r0ncuUO7zzwxq",
+   "published": "2026-11-18T15:07:31+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "f7929a2a9308",
+   "rewritten": true,
+   "v4": true,
+   "title": "بچوں کے خلاف تشدد کی روک تھام کے لیے ملک بھر میں 13 چائلڈ کورٹس قائم",
+   "summary": "پاکستان نے فلپائن کے دارالحکومت منیلا میں منعقد ہونے والی بچوں کے خلاف تشدد کے خاتمے سے متعلق دوسری عالمی وزارتی کانفرنس میں شرکت کی ہے۔ وفاقی وزیر برائے انسانی حقوق اعظم نذیر تارڑ کی قیادت میں پاکستانی وفد نے اس عالمی کانفرنس میں حصہ لیا، جہاں چیئرپرسن چائلڈ پروٹیکشن اینڈ ویلفیئر بیورو پنجاب سارہ احمد نے بچوں کے لیے ایک مؤثر نظام انصاف کے حوالے سے ملک کا مؤقف اجاگر کیا۔\n\nکانفرنس کے دوران پینل ڈسکشن سے خطاب کرتے ہوئے سارہ احمد نے بچوں کے حقوق، ان کے تحفظ اور انصاف تک رسائی کے امور پر تفصیلی گفتگو کی۔ انہوں نے بتایا کہ پاکستان میں بچوں کے خلاف تشدد کے مقدمات کے بروقت ٹرائل کے لیے ملک بھر میں 13 چائلڈ کورٹس قائم کی جا چکی ہیں، جبکہ اس کے علاوہ 45 جووینائل جسٹس کمیٹیاں بھی مکمل طور پر فعال انداز میں کام کر رہی ہیں۔\n\nانہوں نے مزید اعداد و شمار شیئر کرتے ہوئے بتایا کہ سال 2019 سے 2021 کے دوران بچوں کے کل 661 مقدمات متبادل طریقہ کار کے تحت کامیابی سے حل کیے گئے۔ سارہ احمد کا کہنا تھا کہ بچوں کے خلاف تشدد کے مقدمات کو نمٹانے کے لیے جووینائل جسٹس سسٹم اور اس سے وابستہ کمیٹیوں کے کردار کو مزید مضبوط اور مؤثر بنانے کی اشد ضرورت ہے۔\n\nاس کے علاوہ جووینائل جسٹس سسٹم رولز 2023 کے تحت بچوں کی بہتر تعلیم، صحت، فنی تربیت اور معاشرے میں ان کی بحالی پر بھی خصوصی توجہ دی جا رہی ہے۔ انہوں نے اس عزم کا اظہار کیا کہ بچوں کے تحفظ کے لیے بین الاقوامی اداروں کے ساتھ باہمی تعاون کو فروغ دینا ناگزیر ہے۔ پنجاب میں چائلڈ پروٹیکشن اینڈ ویلفیئر بیورو بچوں کو رہائش، تعلیم، نفسیاتی مدد اور قانونی معاونت فراہم کر رہا ہے جبکہ چائلڈ ہیلپ لائن 1121 کے ذریعے بھی بچوں کو ہنگامی مدد مہیا کی جا رہی ہے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-18T14:56:10+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "621237643cb3",
    "rewritten": true,
    "v4": true,
@@ -860,6 +1016,19 @@
    "category": "business"
   },
   {
+   "id": "664ef85b1fe0",
+   "rewritten": true,
+   "v4": true,
+   "title": "Take-Two Shares Jump As Grand Theft Auto VI Launches Globally",
+   "summary": "Shares of Take-Two Interactive experienced a premarket surge of more than six percent on Wednesday as the highly anticipated global rollout of Grand Theft Auto VI began. The strong market reaction reflects investor expectations that positive reviews from both critics and players will drive substantial sales, revenue, and bookings for the company throughout the current year.\n\nConsumer enthusiasm for the title has proven intense, with players taking multiple days of paid time off or drafting personal agreements with partners to secure uninterrupted gaming time. Industry analysts and brokerages have responded to the widespread demand by significantly upgrading their financial forecasts for the publisher and its studio.\n\nWells Fargo adjusted its unit sales projection for the current fiscal year ending in March to roughly 65 million copies, up from an earlier forecast of 35 million units. This revised outlook is further supported by expectations for a potential personal computer release early in 2027, prompting the brokerage to raise its annual bookings projection by 19 percent to $9.76 billion.\n\nOther market trackers also anticipate record-breaking commercial performance for the release. Oppenheimer estimates that gross revenue could reach approximately $1.85 billion within the first three days, surpassing the $1 billion milestone achieved by its predecessor, GTA V, over thirteen years ago. Additionally, Sensor Tower data indicates that nearly 17.1 million units were sold by early Wednesday.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/18194020f452b8e.webp?v=c3_pATj0in_r0ncuUO7zzwxq",
+   "published": "2026-11-18T14:41:30+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
    "id": "ad83acfce58a",
    "rewritten": true,
    "v4": true,
@@ -884,6 +1053,19 @@
    "source": "ذریعہ: Express News",
    "lang": "ur",
    "category": "pakistan"
+  },
+  {
+   "id": "1cb04080692b",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan Central Bank Governor Urges Export-Led Growth Reforms",
+   "summary": "State Bank of Pakistan Governor Jameel Ahmad emphasized on Wednesday that the country must prioritize structural reforms and expand exports to achieve sustainable economic development and overcome recurrent boom-and-bust cycles. Speaking at an annual global research briefing hosted by Standard Chartered Bank in Karachi, Ahmad noted that while macroeconomic stability has been restored, the nation must maintain consistent policies and foster greater private-sector involvement.\n\nAddressing external vulnerabilities, the governor explained that emerging markets remain highly susceptible to global economic shocks such as geopolitical tensions, climate disruptions, and commodity price fluctuations. Nations equipped with robust fiscal buffers and resilient institutions are naturally better positioned to handle such pressures. He recalled that difficult monetary and fiscal adjustments undertaken during the 2022 and 2023 fiscal years successfully rebuilt confidence and economic stability with the backing of multilateral and bilateral partners.\n\nTurning to recent conditions, Ahmad pointed out that Pakistan's improved economic fundamentals enabled it to manage recent external shocks stemming from the Middle East conflict more effectively than the pressures experienced during the Russia-Ukraine crisis. Inflation averaged near the target range during the 2026 fiscal year and is projected to ease toward medium-term targets, while the current account deficit is anticipated to stay within zero to one percent of gross domestic product.\n\nFurthermore, real gross domestic product growth reached 3.7 percent in the 2026 fiscal year and is expected to climb further during the current fiscal cycle. To secure long-term progress, Ahmad urged businesses and financial institutions to boost domestic savings, increase investments, and drive higher export volumes to permanently alter the country's economic trajectory.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/18193655c432762.webp?v=c3_pATj0in_r0ncuUO7zzwxq",
+   "published": "2026-11-18T14:37:25+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
   },
   {
    "id": "7682998a4210",
@@ -997,6 +1179,19 @@
    "summary": "North Korea has constructed an extension to the original uranium-enrichment plant located at its Yongbyon nuclear complex, according to Rafael Grossi, the chief of the International Atomic Energy Agency. Speaking at a quarterly meeting of the IAEA's 35-nation Board of Governors on Wednesday, Grossi highlighted the ongoing efforts by Pyongyang to expand its production of weapons-grade nuclear material.\n\nThe IAEA has been without direct access to North Korea since inspectors were expelled in 2009, relying instead on satellite imagery to monitor the country's nuclear activities. North Korea continues to produce highly enriched uranium and plutonium, the core materials required for nuclear weapons, at sites including Kangson and Yongbyon.\n\nGrossi stated that construction on a further extension to the original Yongbyon enrichment facility began in mid-September 2026 and that the exterior of the new addition was completed by late October. He described the continued expansion of the country's uranium enrichment program as a serious cause for concern, though he did not provide further elaboration on the construction details.\n\nAdditionally, the IAEA observed indications that the 5-megawatt nuclear reactor at Yongbyon, used to produce plutonium from spent fuel, is likely still operating in its seventh irradiation cycle. Grossi also noted that another light-water reactor at the Yongbyon site has been active since April of this year.",
    "url": "",
    "image": "https://i.brecorder.com/large/2026/03/010111070b59304.webp",
+   "published": "2026-11-18T14:15:50+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "8bb0ad1fb090",
+   "rewritten": true,
+   "v4": true,
+   "title": "IAEA Reports North Korea Expanding Uranium Enrichment Facility at Yongbyon",
+   "summary": "North Korea has constructed an extension to its primary uranium enrichment facility within the Yongbyon nuclear complex, according to statements made on Wednesday by International Atomic Energy Agency chief Rafael Grossi. The United Nations watchdog has lacked direct physical access to the country since inspectors were expelled in 2009, forcing the agency to rely primarily on satellite imagery to monitor developments.\n\nPyongyang continues to produce weapons-grade materials, specifically plutonium and highly enriched uranium, which are necessary for manufacturing nuclear weapon cores. Speaking before a quarterly meeting of the 35-nation IAEA Board of Governors, Grossi highlighted ongoing activities at enrichment facilities located in Kangson and Yongbyon, noting that the continued expansion of the country's nuclear program remains a matter of serious international concern.\n\nConstruction on the latest addition to the original enrichment facility at Yongbyon began in mid-September and reached external completion by late October. Grossi noted that this building work compounds earlier observations regarding broader production efforts for weapons-grade material at the site, which lies north of Pyongyang compared to the smaller Kangson installation near the capital.\n\nIn addition to the enrichment plant expansion, the IAEA detected indications that North Korea's five-megawatt nuclear reactor at Yongbyon is likely continuing operations in its seventh irradiation cycle to produce plutonium from spent fuel. A separate light-water reactor at the same complex has also remained active since April of this year.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/03/010111070b59304.webp?v=c3_pATj0in_r0ncuUO7zzwxq",
    "published": "2026-11-18T14:15:50+00:00",
    "source": "Source: Business Recorder",
    "lang": "en",
@@ -1289,6 +1484,19 @@
    "category": "pakistan"
   },
   {
+   "id": "192c50a947e0",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan Government Decreases Fuel Prices Across the Country",
+   "summary": "The federal government in Pakistan lowered the retail prices of petrol and high-speed diesel by Rs3 per litre, taking effect on November 19. According to a notification issued by the Oil and Gas Regulatory Authority, the revised cost for petrol stands at Rs322 per litre, while high-speed diesel is priced at Rs355 per litre.\n\nThis downward adjustment follows earlier administrative measures intended to manage fuel costs amid ongoing global market fluctuations linked to the conflict involving the United States and Iran. Previously, on November 2, authorities announced that oil refineries would absorb a monthly burden of Rs15 billion to keep petrol prices Rs322 lower than prevailing international rates. Furthermore, the government implemented a special relief scheme on September 13, offering a discount of Rs100 per litre on specific fuel volumes for owners of motorcycles, three-wheeler rickshaws, and cars with engines up to 800cc.\n\nThe broader policy landscape also included renewed fuel conservation and austerity steps introduced on September 17 to address rising energy expenses. Under those directives, commercial venues such as shops, markets, and shopping malls were mandated to close by 9pm daily, while wedding halls faced a 10pm curfew and restaurants were permitted to operate until 11pm. Takeaway and home delivery services remained exempt from these scheduling constraints.\n\nThese ongoing policy adjustments matter significantly for lower-income households and transport operators attempting to cope with inflationary pressures driven by regional geopolitical tensions. The establishment of a rule-based petroleum price stabilisation fund further aims to ensure transparency regarding future funding and financial disbursements in the energy sector.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-18T12:21:55+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "business"
+  },
+  {
    "id": "c4e80d5d838a",
    "rewritten": true,
    "v4": true,
@@ -1549,6 +1757,19 @@
    "category": "pakistan"
   },
   {
+   "id": "275ed10d994a",
+   "rewritten": true,
+   "v4": true,
+   "title": "Bilawal Bhutto Zardari Criticizes Ruling Coalition Over Policy Debates",
+   "summary": "Pakistan Peoples Party Chairman Bilawal Bhutto Zardari responded strongly on Wednesday to criticism from federal government ministers, advising officials to calm down and pursue a meaningful debate on the creation of new provinces. His comments followed sharp remarks from Defence Minister Khawaja Asif, State Minister for Interior Talal Chaudhry, and Health Minister Mustafa Kamal regarding his earlier call for a political and democratic reset.\n\nDuring a recent media interaction, Bilawal had emphasized the necessity of restoring public trust in state institutions and reviving dialogue with opposition groups like the Pakistan Tehreek-e-Insaf. In his Wednesday statements on a television talk show, he argued that the government initiated a public discussion on dividing provinces but failed to consult key stakeholders or bring the matter into parliament. He defended his right to offer critical perspectives as a major stakeholder in the current political system.\n\nThe PPP leader highlighted multiple simultaneous crises facing Pakistan, pointing to severe economic fallout from regional conflicts, strained ties with Afghanistan, security challenges involving the Tehreek-e-Insaf, Jamiat Ulema-e-Islam, and militant groups like the TTP and BLA. He contended that political leaders frequently lack the courage to confront difficult truths or listen to dissenting viewpoints regarding the state of the nation.\n\nBilawal stressed that ordinary citizens deserve greater transparency and relief from economic hardships rather than unilateral political decisions. By pushing for a democratic reset, he aims to encourage political factions to set aside mutual hostilities and collaborate on systemic reforms to alleviate public suffering.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-18T11:09:36+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
    "id": "2e9a7559748b",
    "rewritten": true,
    "v4": true,
@@ -1679,6 +1900,19 @@
    "category": "business"
   },
   {
+   "id": "9323c0a3ea2d",
+   "rewritten": true,
+   "v4": true,
+   "title": "Global Leaders Convene for Unprecedented Trilateral Summit in Shenzhen",
+   "summary": "Chinese President Xi Jinping hosted United States President Donald Trump and Russian President Vladimir Putin for a historic trilateral summit on Thursday. The gathering took place on the sidelines of the Asia-Pacific Economic Cooperation summit in Shenzhen, marking the first time the heads of state of these three major global powers have met in a formal three-way format.\n\nAhead of the official meetings, President Xi extended an unusual planeside welcome to Donald Trump at Shenzhen Bao'an International Airport, featuring a fighter-jet flyover and a public exchange of greetings. Chinese Foreign Ministry officials described the trilateral dialogue as an event of groundbreaking significance aimed at exploring ways to preserve global peace and enhance strategic stability amid widespread international friction.\n\nForeign policy analysts have drawn varied conclusions regarding the meeting's potential impact, comparing the optics to historical events like the 1945 Yalta Conference while noting stark differences in modern geopolitical realities. Observers such as former Pakistani diplomats Mushahid Hussain Syed, Masood Khalid, and Sanaullah Abbasi suggest that while the summit serves as a formal acknowledgment of a multipolar world, substantive breakthroughs on contentious issues remain unlikely due to deep-seated disagreements over Ukraine, Iran, nuclear proliferation, and global trade.\n\nThe meeting unfolds against a backdrop of acute global volatility, including ongoing conflicts in Ukraine and the Middle East, security concerns in the Persian Gulf, and the aftermath of US midterm elections. Although experts caution that tangible diplomatic agreements may be limited, the summit sets a significant precedent for direct communication among major global powers seeking to manage international crises.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-18T10:42:38+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
    "id": "9fc2488860e7",
    "rewritten": true,
    "v4": true,
@@ -1690,6 +1924,19 @@
    "source": "ذریعہ: BBC Urdu",
    "lang": "ur",
    "category": "pakistan"
+  },
+  {
+   "id": "4f57784bbe71",
+   "rewritten": true,
+   "v4": true,
+   "title": "South Africa Takes Control Against Bangladesh in First Test Match",
+   "summary": "South Africa established a commanding position over Bangladesh on the fourth day of the first Test at Johannesburg on Wednesday, reducing the visitors to 100-5 in their second innings. After trailing by 157 runs following the first innings, Bangladesh faced severe pressure as bad light brought an early end to the day's play, with only five wickets remaining.\n\nDuring the final session, Bangladeshi batsmen Mahfijul Islam scored 32 runs and Towhid Hridoy contributed 23, while Mushfiqur Rahim and Litton Das remained unbeaten at stumps. South African bowlers Kagiso Rabada and Simon Harmer applied intense pressure by capturing two early wickets each to dismantle the top order. Earlier in the match, South Africa completed their first innings with a total of 557 runs in 124.1 overs in response to Bangladesh's initial score of 400.\n\nRyan Rickelton anchored the South African innings by hitting his fourth Test century, scoring 102 runs off 165 balls with 13 boundaries. He was supported by Kagiso Rabada, who added a brilliant 72 runs off 92 balls in a crucial 117-run eighth-wicket partnership. Captain Temba Bavuma, who had retired hurt on the previous day with a muscle strain, returned to the crease to finish not out on 68, while Dane Paterson chipped in with 29 runs. Fast bowler Hasan Mahmud was the standout performer for Bangladesh, claiming 4-118 in 30.4 overs.\n\nThis match holds critical importance for the series outcome as Bangladesh struggles to avoid defeat on the final day. Much of their remaining hope rests on the experienced partnership between Mushfiqur Rahim and the in-form wicketkeeper-batsman Litton Das as they try to salvage a respectable result.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-18T10:41:41+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "sports"
   },
   {
    "id": "c2dca1b947ba",
@@ -2693,6 +2940,19 @@
    "category": "pakistan"
   },
   {
+   "id": "a6057951c7e2",
+   "rewritten": true,
+   "v4": true,
+   "title": "Ainy Jaffri Says Love and Understanding Key to Changing Perspectives",
+   "summary": "Pakistani actor Ainy Jaffri recently discussed her views on communication, religious interpretations, and personal freedom, emphasizing that changing behavior requires compassion rather than criticism. Speaking about the drama Dar-e-Nijaat, Jaffri noted that the show teaches viewers to address disagreements respectfully, comparing this approach to early Islamic figures. She argued that society often unfairly places the burden of modesty and societal frustrations onto women, questioning the disproportionate focus on female clothing and pointing out that religious texts instruct men to lower their gaze.\n\nThe conversation also touched on international regulations, such as Austria's restrictions on headscarves for girls under 14. Jaffri explained that living in Europe sparked her curiosity about such laws, though she stressed that offensive language is counterproductive to education and meaningful dialogue. She defended her right to ask questions, noting that aging has brought her more inquiries than definitive answers, and added that she welcomes diverse opinions from followers on social media to broaden her understanding.\n\nRegarding marriage, Jaffri raised questions about monogamous agreements, the realities of fulfilling the conditions for polygamy in Islam, and how historical circumstances like war influenced traditional practices. She criticized patriarchal interpretations of religion that are sometimes used to justify harmful customs. Ultimately, Jaffri stressed that kindness does not require absolute agreement, but rather a patient and compassionate willingness to listen to differing points of view.\n\nHer reflections highlight the importance of open communication in a divided society. By advocating for empathy over judgment, Jaffri hopes to foster environments where individuals feel safe to explore complex social and religious issues without fear of condemnation.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-18T05:43:23+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "fashion"
+  },
+  {
    "id": "54823984d962",
    "rewritten": true,
    "v4": true,
@@ -2771,6 +3031,19 @@
    "category": "world"
   },
   {
+   "id": "ff98a29ce30f",
+   "rewritten": true,
+   "v4": true,
+   "title": "Jeff Bezos Claims Major Role in Casting Robert Pattinson as 007",
+   "summary": "Amazon founder and chairman Jeff Bezos revealed that he played a heavy role in choosing actor Robert Pattinson to star as the next James Bond. Speaking at the Semafor \"Silicon Valley & The World\" conference in San Francisco on Tuesday, Bezos discussed the casting decision just a day after Amazon officially announced Pattinson for the iconic role. He detailed that executives narrowed down a larger pool of talent and conducted rigorous screen tests, evaluating five actors who performed three distinct scenes in full costume on dedicated sets.\n\nBezos admitted that initial internal discussions involved a slight bias against Pattinson because of his existing global fame, as leadership briefly considered whether an unknown actor would be more suitable. However, after reviewing the screening tests on a Friday with a select group, Bezos stated that it became blatantly obvious that the actor was meant for the part. He remarked that something genuinely special emerged during the auditions, concluding that Pattinson simply embodies the famous secret agent.\n\nPattinson, who is 40 years old, began his prominent cinematic career in 2005 with a role in Harry Potter and the Goblet of Fire and has since starred in major franchises and films like The Twilight Saga, Tenet, and The Lost City of Z. The upcoming production marks a significant milestone for the legendary franchise, representing the first official James Bond film under Amazon MGM Studios. This follows a 2025 joint venture granting creative control to Amazon alongside long-standing rights holders Barbara Broccoli and Michael Wilson.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-18T05:03:52+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "fashion"
+  },
+  {
    "id": "055ad690f866",
    "rewritten": true,
    "v4": true,
@@ -2847,6 +3120,32 @@
    "source": "Source: Dawn",
    "lang": "en",
    "category": "world"
+  },
+  {
+   "id": "647ea69ed0cc",
+   "rewritten": true,
+   "v4": true,
+   "title": "Salman Safdar Confirms Imran Khan's Letter Used Exact Words",
+   "summary": "Lawyer Barrister Salman Safdar clarified that a recent letter drafted on behalf of jailed Pakistan Tehreek-e-Insaf (PTI) founder Imran Khan was composed using the former prime minister's exact words rather than personal recollection. Safdar stated that he documented every word spoken during their meeting, noting that senior counsel Sardar Latif Khosa was also present and independently took notes. The letter appealed to the nation's highest judges to ensure Supreme Court orders regarding Imran's medical care and prison conditions are met, warning that his deteriorating health had reached a critical stage.\n\nAccording to Safdar, Imran expressed severe anxiety over his blood pressure, which he reported consistently remained high at readings between 150 and 192 despite medication, raising fears of a potential brain haemorrhage or heart attack. The former prime minister claimed that doctors indicated his persistent high blood pressure had already caused some damage to his heart. Imran also detailed the conditions of his solitary confinement and argued that he was being denied proper access to doctors and hospital facilities, unlike other individuals who received treatment at medical institutions established during his administration.\n\nThe legal battle regarding Imran's medical treatment follows a series of court directives and petitions. In August, the Supreme Court ordered his transfer to Shifa International Hospital, though he was briefly taken to PIMS instead. Subsequent medical boards examined his eyes and overall health, finding improved vision after procedures such as an anti-VEGF injection, while similar medical evaluations were conducted for his wife, Bushra Bibi, who was diagnosed with posterior vitreous detachment. Imran and Bushra Bibi are currently incarcerated in Adiala Jail, serving a 17-year sentence in the Toshakhana-II case alongside other pending legal matters.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-18T04:49:59+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "c87bcceee411",
+   "rewritten": true,
+   "v4": true,
+   "title": "Xi Jinping Urges Asia-Pacific Cooperation and Open Trade at APEC",
+   "summary": "Chinese President Xi Jinping called on Asia-Pacific economies to reinforce unity, defend free trade, and expand economic collaboration to combat rising protectionism and global uncertainty. Speaking at the APEC CEO Summit 2026 in Shenzhen, Guangdong province, Xi stressed that the region faces clear choices between openness and isolation, or cooperation and confrontation. Hosting the forum for the third time, he urged members to reject inward-looking policies and instead pursue shared regional prosperity amidst a turbulent international economic landscape.\n\nXi outlined four primary areas for regional development: maintaining peace and stability, strengthening openness and cooperation, utilizing innovation to drive growth, and ensuring that development benefits all communities equitably. On security, he highlighted that economic progress requires a stable postwar international order and dialogue to resolve differences. Regarding commerce, he advocated for a rules-based multilateral trading system centered around the World Trade Organization, the advancement of the Free Trade Area of the Asia-Pacific, and enhanced digital trade. Furthermore, Xi emphasized technological innovation, calling for deeper partnerships in artificial intelligence, the digital economy, and green transitions.\n\nHighlighting regional economic hubs, Xi announced China's support for creating a World Association for Bay Areas Economic Cooperation to boost global market connections. Turning to domestic developments, he reported that China's economy grew by 4.6 percent in the first three quarters of the year, driven by innovation and high-quality productive forces. He invited international businesses to participate in China's ongoing economic transformation, pointing to the country's massive consumer market, innovation-friendly environment, and predictable business climate as key opportunities for global commerce.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-18T04:44:14+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "pakistan"
   },
   {
    "id": "829a63fd55a8",
@@ -3601,305 +3900,6 @@
    "source": "Source: Business Recorder",
    "lang": "en",
    "category": "business"
-  },
-  {
-   "id": "1de5cc4f866e",
-   "rewritten": true,
-   "v4": true,
-   "title": "Saylani Welfare Launches Mining and Minerals Training Division for Youth",
-   "summary": "Saylani Welfare International Trust has launched a dedicated Mining and Minerals Division, replicating the structure of its existing IT training programs to prepare young individuals from Balochistan and other provinces for careers in Pakistan's mineral sector. The inaugural phase will train a batch of 60 youths from Balochistan in Karachi before sending them back to their home districts for hands-on, field-based instruction.\n\nThe initiative follows Saylani's appearance at the Pakistan Minerals Investment Forum in Islamabad, where a 10-member delegation attended on a special government invitation. Led by Founder and Chairman Maulana Muhammad Bashir Farooq Qadri, the organization displayed its work at a complimentary exhibition stall that attracted significant interest from local and international attendees.\n\nDuring the investment forum, organization leaders briefed high-level officials—including Prime Minister Muhammad Shehbaz Sharif, Field Marshal General Asim Munir, provincial chief ministers, and foreign delegates from over 60 countries—on strategies to equip marginalized youth with vocational skills. Maulana Bashir Farooq emphasized that the new division aims to meet the rising demand for skilled technical labor while securing employment prospects for youth within their native regions.\n\nTo solidify the initiative, Saylani Welfare signed Memorandums of Understanding with three entities: the Heavy Mechanical Complex (HTMA), the All Mine Association, and Komatsu. These partnerships will focus on developing industry-aligned training curricula and vocational programs. With the initial selection of 60 Balochistan trainees finalized, the organization is set to begin the Karachi-based training phase immediately before deploying participants for regional practical work.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/09/07011426439da7e.webp",
-   "published": "2026-11-18T00:27:32+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "c4849cbfaa4b",
-   "rewritten": true,
-   "v4": true,
-   "title": "Sindh Chief Secretary Launches New Digital Domicile and PRC Portal",
-   "summary": "The Chief Secretary of Sindh, Asif Haider Shah, officially inaugurated a new e-Domicile and Permanent Residence Certificate (PRC) portal in Karachi. The newly introduced digital platform and accompanying mobile application eliminate the traditional requirement for citizens to wait in long physical queues, allowing individuals to complete their applications directly from home.\n\nAccording to the chief secretary, processes that previously required weeks to finalize can now be completed within a matter of hours. Furthermore, the electronic system is designed to stop fraudulent applications and fake domiciles, while the increased accessibility is expected to enhance public perception of the government.\n\nDuring the launch event, Karachi Commissioner Syed Hassan Naqvi outlined the core functionalities of the portal, noting that it incorporates user registration, facial recognition, and document uploading tools. Applicants can pay the required fee through an online transaction or a bank challan, and they are able to track their application progress directly on the platform until the relevant Deputy Commissioner's office reaches a final decision.\n\nFollowing the inauguration, Chief Secretary Asif Haider Shah personally handed out domiciles to young applicants who successfully utilized the digital system. He also announced that the e-domicile facility will soon be expanded to encompass other districts throughout the province of Sindh.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2025/04/10015928ca957d2.jpg",
-   "published": "2026-11-18T00:27:32+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "f66cd32dfecf",
-   "rewritten": true,
-   "v4": true,
-   "title": "Former Business Recorder Sub-Editor M. Akhtar Bashir Passes Away",
-   "summary": "M. Akhtar Bashir, a former sub-editor for the publication Business Recorder, has passed away at the age of 82. His death was reported by the publication yesterday in Karachi.\n\nHe is survived by his grieving family, including his wife, three sons, and one daughter. The community and former colleagues mourn the loss of the veteran journalist.\n\nFuneral services for the late sub-editor were held yesterday. His Namaz-e-Janaza took place at the Banori Town Masjid located in Karachi.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/11/18011238f451169.webp",
-   "published": "2026-11-18T00:27:32+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "fe52fe2d9b46",
-   "rewritten": true,
-   "v4": true,
-   "title": "K-Electric Denies Excess Power Outages in Karachi Commercial Hubs",
-   "summary": "Utility provider K-Electric (KE) has formally denied allegations of implementing excessive load shedding across several major commercial and wholesale markets in Karachi. The disputed areas include Jodia Bazar, the Pakistan Motorcycle Spare Parts Importers and Dealers Association, Auto Parts Market, Eidgah, Urdu Bazar, and Old Haji Camp.\n\nThese commercial districts are powered by a total of 15 electricity feeders. The company noted that the vast majority of these feeders fall into high-loss categories, where combined technical and commercial losses span between 40 percent and nearly 90 percent. KE emphasized that supplying free electricity to any region is completely unfeasible, noting that over 70 percent of its overall service territory network remains entirely free from load shedding.\n\nKE explained that power interruptions are driven by distinct factors, requiring differentiation between scheduled load shedding, localized technical faults, and infrastructure damage caused by non-utility incidents. Actual load-shedding schedules are directly tied to local electricity theft and non-payment rates, following published timetables available on the utility's official website.\n\nAdditionally, the provider pointed out that widespread urban development work has severely compromised its network integrity. Unsanctioned excavations and pickaxing have frequently damaged underground cables, triggering unplanned outages across Karachi. The company encourages consumers to report disruptions through official complaint channels and utilize the KE Live App to monitor estimated restoration times transparently.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/01/220450392546a4d.webp",
-   "published": "2026-11-18T00:27:32+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "d7f4e621faee",
-   "rewritten": true,
-   "v4": true,
-   "title": "Medical Experts Sound Alarm Over Pakistan's Escalating Diabetes Crisis",
-   "summary": "Medical professionals have raised serious concerns regarding the soaring rates of diabetes in Pakistan during a World Diabetes Day seminar at Ziauddin University. Titled \"Early Action on Diabetes: A Solution for a Healthier Future,\" the event was organized by Ziauddin University's Department of Medicine and College of Molecular Medicine, alongside the Department of Family Medicine and the Pakistan Endocrine Society.\n\nProf. Dr. Muhammad Ali Shaikh, Vice Chancellor of Ziauddin University, stated that Pakistan now ranks among the top countries globally for diabetic patients, calling the situation an alarming public health crisis. Consultant Endocrinologist and Pakistan Endocrine Society President Dr. Ali Asghar warned that focusing strictly on blood sugar ignores vital organ damage, noting that one in three diabetics already suffers from chronic kidney disease, while heart disease remains the primary killer across these overlapping conditions.\n\nProf. Dr. Uzma Ghori highlighted that 34.5 million individuals are affected, meaning one in every three adults in Pakistan suffers from diabetes, giving the country the highest percentage burden globally. Meanwhile, Prof. Dr. Najmul Islam of Aga Khan University Hospital stressed the importance of proper clinical management to achieve glycemic control and mitigate long-term health complications.\n\nProf. Dr. Fatima Jehangir addressed the broader \"diabesity\" crisis affecting 70 million people, pointing out that 82 million adults live with a high body mass index. She warned that unmanaged obesity could drive Pakistan toward economic and public health collapse, with the country projected to rank fifth globally in obesity by 2030 and face economic impacts reaching US$51 billion. Concluding the seminar, Prof. Dr. Talat Mirza emphasized that advancing molecular and clinical research into early diagnostics is vital to overcoming the epidemic.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2025/08/689e91bde008b.jpg",
-   "published": "2026-11-18T00:27:32+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "fe0a79cc5a9b",
-   "rewritten": true,
-   "v4": true,
-   "title": "SSUET hosts awareness summit to promote breast cancer prevention and care",
-   "summary": "Sir Syed University of Engineering and Technology recently hosted an event known as the Trifecta of Health Awareness Summit. The gathering was organized by the university's Department of Biomedical Engineering and Allied Health Sciences alongside Darul Sehat Hospital, PASTIC, and the European Union project BIOMED 5.0 to mark Breast Cancer Day and educate the community on prevention and treatment.\n\nErum Akbar Ali Khan, Chairperson of the Zakir Ali Khan Foundation and Chief Guest at the event, stressed that early detection is crucial and noted that men joining female health advocacy strengthens the movement. University Chancellor Muhammad Akbar Ali Khan emphasized that education empowers women to handle the disease with courage, while Vice Chancellor Prof. Dr. Muhammad Aamir highlighted that women's health is essential for family and societal well-being.\n\nSeveral experts spoke during the program. Prof. Dr. Qudsia Tariq from Karachi University addressed mental well-being, Dr. Eraj Humayun from NED University spoke about DNA Day and genetic innovations, Dr. Sarah Rauf from Darul Sehat Hospital delivered a talk on breast cancer awareness, and Prof. Dr. Asima Faisal of DUHA gave a special address.\n\nThe initiative matters because it brings experts and community members together to emphasize that timely diagnosis, accurate information, and regular screenings save lives and foster a supportive environment for patients.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/07/24005149358c099.webp",
-   "published": "2026-11-18T00:27:32+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "940a49c2f806",
-   "rewritten": true,
-   "v4": true,
-   "title": "Boiler explosion triggers major fire at food factory in Baldia Town",
-   "summary": "A major fire erupted at a food factory situated in Rashidabad, near Baldia Town within Karachi, which is the capital of Sindh. The blaze began on the ground floor of the building due to a boiler explosion.\n\nUpon receiving alerts, fire brigade and rescue teams rapidly arrived at the location to initiate relief operations. Officials from Rescue 1122 confirmed that the explosion quickly caused the fire to engulf the entire structure and intensify, posing a serious threat of spreading further.\n\nImmediate concerns arose because a garments factory stands directly next to the burning food factory, creating a risk that the flames could reach the adjacent building. Authorities deployed eight fire engines and one snorkel to the site to fight the blaze.\n\nFirefighters and rescue workers engaged in strenuous efforts to contain the fire, prevent further expansion, and avoid major casualties. While cooling and firefighting operations continued, officials noted that it would take time to fully extinguish the flames.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/11/180116445e611aa.webp",
-   "published": "2026-11-18T00:27:32+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "ebf8ec3cf9cd",
-   "rewritten": true,
-   "v4": true,
-   "title": "Alkhidmat Karachi launches 27th Help Centre offering free medical equipment",
-   "summary": "Alkhidmat Karachi has officially opened its 27th Help Centre located in Korangi J Area. The new facility aims to provide free medical equipment and various other welfare services to local residents.\n\nNaveed Ali Baig, the Chief Executive of Alkhidmat Karachi, inaugurated the centre during a ceremony attended by local dignitaries, area residents, and officials including Ameer Jamaat-e-Islami Korangi District Mirza Farhan Baig, Director Community Services Umar Qaim Khani, and Senior Manager Sarfaraz Sheikh. During the gathering, Naveed Ali Baig noted that the citywide network of 27 centres provides roughly 140 essential items.\n\nCitizens can borrow items such as oxygen cylinders, crutches, walkers, patient beds, suction machines, and nebulisers free of charge for a specified period and return them when they are no longer needed. Additionally, the Korangi facility will offer a subsidised funeral transport or Mayyat Bus service for the community.\n\nDirector Community Services Umar Qaim Khani highlighted other year-round welfare initiatives, such as dowry and winter packages, ration distributions during Ramazan, meat distributions on Eid-ul-Azha, and a recently completed citywide fumigation campaign against dengue and malaria. The centre matters because it delivers vital health and social support to deserving citizens.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2025/10/68f55e3bd4d90.jpg",
-   "published": "2026-11-18T00:27:32+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "2d0c1c1ff56a",
-   "rewritten": true,
-   "v4": true,
-   "title": "FBR establishes minimum export values for various sesame seed varieties",
-   "summary": "The Federal Board of Revenue has set minimum customs export values for different types of sesame seeds, with prices ranging from USD 1,103 to USD 1,524 per metric ton. The Directorate of Customs Valuation in Lahore issued Valuation Ruling No. 03 of 2026 to specify these minimum free-on-board values for export consignments.\n\nUnder the ruling, hybrid, farm, till, natural, and mixed sesame seed varieties have a minimum export value of USD 1,103 per metric tonne. White and black Sortex seeds are priced at USD 1,211 per metric tonne, while hulled sesame seeds are assessed at USD 1,524 per metric tonne. The ruling also introduces updated Pakistan Customs Tariff codes for integration into the WeBOC system, assigning specific subcodes for the different seed categories.\n\nThe valuation process was launched following directions from the Director General of Customs Valuation in Karachi. Officials held five meetings, including virtual sessions, with representatives from the Trade Development Authority of Pakistan, the Federation of Pakistan Chambers of Commerce and Industry, and sesame exporters. Stakeholder proposals, market surveys, PRAL export data, and international trends were evaluated.\n\nThe ruling dictates that if a declared transaction value exceeds the set customs value, the assessing officer must apply the higher declared value under Section 25A of the Customs Act, 1969. Aggrieved parties may file a revision petition before the Director General in Karachi within 30 days.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/02/090312531225351.webp",
-   "published": "2026-11-18T00:27:32+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "9e37c534a157",
-   "rewritten": true,
-   "v4": true,
-   "title": "پنجاب کے سرکاری میڈیکل کالجوں میں ایم بی بی ایس داخلوں کی پہلی فہرست جاری",
-   "summary": "یونیورسٹی آف ہیلتھ سائنسز (یو ایچ ایس) نے پنجاب کے سرکاری میڈیکل کالجوں میں ایم بی بی ایس کے داخلوں کے لیے پہلی سلیکشن لسٹ جاری کر دی ہے۔ جاری کردہ تفصیلات کے مطابق اوپن میرٹ پر داخلوں کا کم سے کم میرٹ 93.297 فیصد ریکارڈ کیا گیا ہے۔ اس مرحلے میں مجموعی طور پر 19 سرکاری میڈیکل کالجوں کی 3 ہزار 796 اوپن میرٹ نشستیں شامل ہیں۔\n\nترجمان یو ایچ ایس کا بتانا ہے کہ کنگ ایڈورڈ میڈیکل کالج لاہور کا میرٹ سب سے زیادہ 95.3697 فیصد رہا، جبکہ رواں سال شروع ہونے والے رسول یونیورسٹی منڈی بہاؤالدین کے میڈیکل کالج کا میرٹ سب سے کم 93.297 فیصد درج ہوا۔ اس کے علاوہ دیگر اداروں میں علامہ اقبال میڈیکل کالج کا میرٹ 94.875 فیصد اور سروسز انسٹی ٹیوٹ آف میڈیکل سائنسز کا میرٹ 94.3917 فیصد رہا۔\n\nمختلف دیگر اداروں کے میرٹ میں نشتر میڈیکل کالج ملتان کا 94.1889 فیصد، راولپنڈی میڈیکل کالج کا 94.0131 فیصد، امیر الدین میڈیکل کالج لاہور کا 93.8972 فیصد، اور پنجاب میڈیکل کالج فیصل آباد کا میرٹ 93.7121 فیصداتنا ہی رہا۔ اس کے علاوہ فاطمہ جناح میڈیکل کالج کا 93.7106 فیصد، قائداعظم میڈیکل کالج کا 93.5636 فیصد، اور نئے قائم ہونے والے مریم نواز شریف میڈیکل کالج میانوالی کا کم سے کم میرٹ 93.3121 فیصد رہا۔\n\nیونیورسٹی نے اوورسیز، خصوصی طلبہ، پسماندہ اضلاع، ریسیپروکل اور چولستان کی مخصوص نشستوں کی سلیکشن لسٹیں بھی جاری کر دی ہیں۔ اوورسیز کیٹگری کا کم سے کم میرٹ 87.4717 فیصد، خصوصی طلبہ کا 89.9609 فیصد، پسماندہ اضلاع کا 88.3778 فیصد، ریسیپروکل کا 93.3293 فیصد اور چولستان کی مخصوص نشست کا میرٹ 93.1591 فیصد رہا۔\n\nمنتخب ہونے والے امیدواروں کو ہدایت کی گئی ہے کہ وہ 21 نومبر تک آن لائن فیس جمع کروائیں۔ امیدوار داخلہ پورٹل سے فیس چالان ڈاؤن لوڈ کر سکتے ہیں، اس کے علاوہ الاٹ شدہ میڈیکل کالج میں اصل تعلیمی دستاویزات کے ساتھ جوائننگ دینا بھی لازمی قرار دیا گیا ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-18T00:19:23+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "8bd2783ffec2",
-   "rewritten": true,
-   "v4": true,
-   "title": "1971 کی جنگ میں بہاری کمیونٹی پر بھارتی مظالم تاریخ کا سیاہ باب ہیں",
-   "summary": "سنہ 1971 کی پاک بھارت جنگ کے دوران بہاری کمیونٹی سمیت محب وطن پاکستانیوں کو جن مظالم کا سامنا کرنا پڑا، وہ تاریخ کا ایک سیاہ باب ہیں۔ دہشت گرد تنظیم مکتی باہنی نے نہتے، بے گناہ اور پاکستان سے محبت کرنے والے شہریوں پر ظلم و تشدد کے پہاڑ توڑے اور درندگی کی بدترین مثالیں قائم کیں۔\n\nبہاری کمیونٹی سے تعلق رکھنے والے محمد علاؤالдин بھی ان بہادر افراد میں شامل ہیں جنہوں نے پاکستان کی محبت میں اپنی زندگی کی تمام جمع پونجی قربان کر دی۔ اپنی آپ بیتی سناتے ہوئے انہوں نے بتایا کہ بھارتی سرپرستی میں کام کرنے والی دہشت گرد تنظیموں نے پورے ملک میں خون کی ندیاں بہائیں، اور انہوں نے بڑی مشکل سے اپنے لوگوں کی جانیں بچائیں۔\n\nمحمد علاؤالдин کے مطابق چٹاگانگ میں حالات اس قدر ہولناک تھے کہ انہوں نے 45 ڈرموں میں لوگوں کی سربریدہ لاشیں جمع کیں۔ سڑکوں پر بے شمار لاشیں پڑی ہوئی تھیں جنہیں انہوں نے اپنے ہاتھوں سے دفن کیا۔\n\nاس دور میں مکتی باہنی کے علاوہ شانتی باہنی اور لال باہنی کے دہشت گردوں نے بھی ملک بھر میں انتہائی تباہ کن صورتحال پیدا کر رکھی تھی۔ ان جماعتوں اور تنظیموں کے کارندوں نے انسانیت سوز کارروائیاں کرتے ہوئے عام اور بے گناہ عوام کو نشانہ بنایا۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-17T23:58:19+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "c817f5da2d2c",
-   "rewritten": true,
-   "v4": true,
-   "title": "آٹھ سال پرانا سینڈ پیپر اسکینڈل، کرکٹ آسٹریلیا کا آزاد فورم قائم کرنے کا فیصلہ",
-   "summary": "کرکٹ آسٹریلیا نے سال 2018 کے بدنام زمانہ سینڈ پیپر اسکینڈل میں ملوث کھلاڑیوں اور ٹیم آفیشلز کو اپنے تجربات اور مؤقف پیش کرنے کی خاطر ایک آزاد فورم بنانے کا اعلان کیا ہے۔ اس فیصلے کی تصدیق ہوبارٹ میں کی جانے والی ایک پریس کانفرنس کے دوران کرکٹ آسٹریلیا کے عبوری چیئرمین ڈیوڈ بون اور چیف ایگزیکٹو ٹوڈ گرینبرگ نے کی۔\n\nاس فورم کی کارروائی مکمل طور پر خفیہ رکھی جائے گی اور سنہ 2018 کے دورہ جنوبی افریقا میں شامل افراد اپنی مرضی کے مطابق اس میں شرکت کر سکیں گے۔ ٹوڈ گرینبرگ کا کہنا تھا کہ اس معاملے کی ابتدائی تحقیقات کو دوبارہ نہیں کھولا جائے گا اور نہ ہی انہیں عوام کے سامنے پیش کیا جائے گا۔ انہوں نے مزید واضح کیا کہ کیپ ٹاؤن ٹیسٹ کھیلنے والے کل 11 میں سے صرف 8 کھلاڑیوں کے انٹرویوز کیے گئے تھے۔\n\nاس آزاد فورم کی سربراہی کسی آزاد شخصیت، ممکنہ طور پر کسی سابق جج یا کنگز کونسل کے سپرد کی جائے گی۔ یہ تمام پیشرفت عثمان خواجہ کی سوانح عمری میں سامنے آنے والے انکشافات کے بعد ہوئی ہے، جن کی حمایت ڈیوڈ وارنر نے کی جبکہ پیٹ کمنز نے ان تمام دعوؤں کو مسترد کر دیا تھا۔ اس کے علاوہ سابق فاسٹ بولر چاڈ سائرز نے بھی عثمان خواجہ کے مؤقّف کی حمایت کی تھی۔\n\nعثمان خواجہ نے اس فورم کے قیام کا خیرمقدم تو کیا لیکن اس کے ساتھ ساتھ شفافیت سے متعلق کچھ سوالات بھی اٹھائے۔ دوسری طرف ڈیوڈ وارنر کا اس حوالے سے کہنا تھا کہ اب یہ معاملہ مزید سزاؤں کا نہیں بلکہ حقائق کو سامنے لانے اور جوابدہی کا ہے۔ کرکٹ آسٹریلیا کے مطابق اس اقدام کا مقصد ماضی کے باب کو دوبارہ کھولنا نہیں بلکہ آسٹریلوی کرکٹ کے اندر اعتماد اور اتحاد کو بحال کرنا ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-17T23:58:12+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "33711440629a",
-   "rewritten": true,
-   "v4": true,
-   "title": "Erling Haaland Fires Norway Into Nations League Quarter-Finals With Late Penalty",
-   "summary": "Erling Haaland secured Norway's progression into the UEFA Nations League quarter-finals on Tuesday by converting a dramatic last-gasp penalty in the sixth minute of injury time in Copenhagen. The Manchester City striker's strike completed a remarkable comeback from a two-goal deficit, sealing a 3-2 victory that allowed Norway to leapfrog Denmark into second place in Group A on a head-to-head record after both teams finished with nine points. Both squads concluded the group stage six points behind group winners Portugal, who secured a 3-2 away win against Wales in Cardiff during the final round of fixtures.\n\nDenmark had established a commanding lead early in the match in front of passionate home supporters following goals from Rasmus Hojlund and Pierre-Emile Hojbjerg. Haaland initiated Norway's comeback in the 37th minute after earlier having a goal disallowed. The momentum shifted after a defensive error by Denmark goalkeeper Mads Hermansen gifted possession to Martin Odegaard, allowing Haaland to halve the deficit. Odegaard subsequently leveled the score for Norway with six minutes remaining in regulation time. The decisive penalty was awarded after VAR spotted a handball by Joachim Andersen in the dying moments of the game, giving Haaland the opportunity to snatch qualification from the Danes, who only needed a draw to advance.\n\nIn Cardiff, Portugal secured a victory over Wales that ultimately proved inconsequential to their final group standing due to Norway's late heroics. Carlos Forbs scored his first international goal in the 70th minute to decide an entertaining encounter played against a spirited Welsh side that was already guaranteed to finish bottom of the group. Wales will head into the upcoming play-offs to determine promotion and relegation between Leagues A and B, maintaining a strong fighting chance to stay in the top tier based on their performance. Bruno Fernandes opened the scoring for Portugal with a superb strike before David Brooks quickly equalized for Wales. Sorba Thomas then gave the hosts a brief lead in the 40th minute, only for Pedro Neto to equalize almost immediately before Forbs sealed the win for Jorge Jesus' side.\n\nElsewhere, Northern Ireland achieved historic promotion to League A for the first time following a 1-1 draw against Hungary in Budapest. Stoke City player Justin Devenny scored a crucial equalizer with a thumping strike in the 65th minute at the Ferenc Puskas Arena, securing a second consecutive promotion for Michael O'Neill's squad. Meanwhile, the Republic of Ireland joined Wales in the upcoming play-offs by concluding Group B3 in second place after earning a comfortable 3-0 victory over ten-man Kosovo.",
-   "url": "",
-   "image": null,
-   "published": "2026-11-17T22:44:21+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "sports"
-  },
-  {
-   "id": "e0e77e59e0b7",
-   "rewritten": true,
-   "v4": true,
-   "title": "Tiger Woods aims for competitive return at upcoming Bahamas golf event",
-   "summary": "Golf star Tiger Woods is scheduled to make his competitive return next month at the Hero World Challenge in the Bahamas, tournament organisers announced on Tuesday. The 50-year-old athlete, who holds 15 major championships, has not participated in an official PGA Tour event since July 2024. This comeback marks his first appearance in over two years, a period during which he faced various injuries and legal challenges following a Florida car crash in March.\n\nIn that March incident, authorities found Woods appearing impaired despite no alcohol consumption, discovering two pills containing hydrocodone in his pocket. Following his refusal to submit to a urine analysis, he was charged, arrested, and later reached a plea agreement that resulted in a five-year suspension of his driver's license. Woods subsequently stepped away to seek treatment at an inpatient facility abroad, reportedly in Switzerland, and made his first public appearance at the Travellers Championship in June.\n\nThe upcoming limited-field tournament takes place in Albany from December 3 to 6. Throughout his career, Woods has endured numerous physical setbacks, including multiple back surgeries and severe leg injuries resulting from a separate 2021 car crash in California. His last tournament victory occurred in 2019 at the ZoZo Championship held in Japan.\n\nThis return is significant for golf fans and the sport as it brings one of history's most prominent players back to the professional stage after a lengthy absence. The event serves as a crucial test for Woods as he attempts to resume his career despite ongoing health challenges and past legal controversies.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2022/06/62a4c63141a92.jpg",
-   "published": "2026-11-17T22:40:14+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "sports"
-  },
-  {
-   "id": "f4513f78dd93",
-   "rewritten": true,
-   "v4": true,
-   "title": "Erling Haaland scores late penalty to send Norway into quarter-finals",
-   "summary": "Erling Haaland secured Norway's spot in the UEFA Nations League quarter-finals by scoring a dramatic penalty in the sixth minute of injury time. The Manchester City striker completed a remarkable comeback from two goals down against Denmark in Copenhagen, allowing Norway to leapfrog their opponents into second place in Group A4. Portugal claimed the top spot in the group after defeating Wales 3-2 in Cardiff.\n\nDenmark had established a commanding lead early in the match through goals from Rasmus Hojlund and Pierre-Emile Hojbjerg in front of passionate home supporters. However, Haaland initiated the fightback in the 37th minute after capitalizing on a mistake by Danish goalkeeper Mads Hermansen, who gifted possession to Martin Odegaard. Odegaard later equalized with six minutes remaining in regulation time before Haaland converted the decisive spot-kick awarded for a handball by Joachim Andersen.\n\nWith this result, Norway joins group winners Portugal in Friday's draw in Nyon, where group winners will be seeded to face second-placed teams. Meanwhile, Portugal secured their first victory of the post-Cristiano Ronaldo era thanks to a winning goal from Carlos Forbs in the 70th minute against Wales. Wales finished bottom of the group and will enter the promotion and relegation play-offs between Leagues A and B.\n\nIn other action, Northern Ireland achieved promotion to League A for the first time following a 1-1 draw against Hungary in Budapest. Stoke City player Justin Devenny scored a crucial 65th-minute equalizer at the Ferenc Puskas Arena, securing back-to-back promotions for Michael O'Neill's squad.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/180318259c741ca.webp",
-   "published": "2026-11-17T22:25:00+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "sports"
-  },
-  {
-   "id": "4c4e0cfbfd76",
-   "rewritten": true,
-   "v4": true,
-   "title": "Alexander Zverev defeats Ben Shelton to advance to ATP Finals semi-finals",
-   "summary": "World No. 1 Alexander Zverev secured his place in the ATP Finals semi-finals with a 6-2, 7-6 victory over third-seed Ben Shelton in Turin on Tuesday. In a battle between big servers at the Inalpi Arena, the German player dominated baseline rallies and converted an early break in the opening set. Zverev maintained control through a tight second set, ultimately sealing the win in 94 minutes with a powerful forehand pass.\n\nThe straight-sets victory eliminated Spanish newcomer Rafael Jodar from the John McEnroe Group following Jodar's earlier defeat to France's Arthur Fils. Zverev extended his head-to-head record against Shelton to seven consecutive wins, having previously beaten the American in the US Open final. Zverev expressed satisfaction with his performance, stating that focusing on his own game yields positive results.\n\nIn the day's earlier fixture, Arthur Fils rallied from a set down to defeat Jodar 4-6, 6-2, 6-2, keeping his own semi-final hopes alive. Jodar, the first player to reach the Finals during his debut season on the ATP Tour, struggled physically after the opening set and subsequently requested medical assistance. The 20-year-old Spaniard acknowledged that the heavy match schedule across the tour contributed to his physical difficulties.\n\nFils's victory marked France's first win at the ATP Finals since Jo-Wilfried Tsonga reached the semi-finals in 2011. The final round of group matches will feature Zverev facing Fils and Jodar playing Shelton to determine the remaining qualifiers for the next round.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/180311246043917.webp",
-   "published": "2026-11-17T22:15:42+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "sports"
-  },
-  {
-   "id": "85f525e9a5a3",
-   "rewritten": true,
-   "v4": true,
-   "title": "امریکہ میں سکھ رہنما کے قتل کی بھارتی سازش اور را ایجنٹ کا معاملہ",
-   "summary": "بھارتی خفیہ ایجنسی را کی ایما پر بیرون ملک ٹارگٹ کلنگ کی کارروائیوں میں ملوث بھارتی شہری نکھل گپتا امریکی قانون کے شکنجے میں آ گیا ہے۔ بھارتی جریدے دی ہندو کے مطابق امریکی پراسیکیوٹرز نے امریکہ میں قتل و غارت گری میں ملوث را کے ایجنٹ نکھل گپتا کے لیے چوبیس سال سے زائد قید کی سزا کی سفارش کی ہے۔ امریکی محکمہ انصاف کے مطابق سکھ رہنما گرپتونت سنگھ پنوں کے قتل کی سازش میں ملوث بھارتی شہری نکھل گپتا کو بیس نومبر کو سزا سنائی جائے گی۔ رپورٹس کے مطابق مئی دو ہزار تئیس میں را کے ایجنٹ وکاش یادو نے گرپتونت سنگھ پنوں کے قتل کے لیے نکھل گپتا کو بھرتی کیا تھا۔ امریکی محکمہ انصاف کا کہنا ہے کہ را نے نکھل گپتا کو اضافی رقم دینے کے ساتھ ساتھ منی پور ایئرپورٹ پر منشیات بردار طیارے کی کلیئرنس اور اسلحے کی خرید و فروخت میں مدد کی پیشکش کی تھی۔ امریکی محکمہ انصاف کے مطابق گزشتہ سال سماعت کے دوران یہ انکشاف بھی ہوا تھا کہ نکھل گپتا اور وکاش یادو پاکستان اور نیپال میں ایک اور قتل کی منصوبہ بندی میں بھی شامل تھے۔ نکھل گپتا نے مئی دو ہزار تئیس میں پاکستان میں ایک ہدف کے قتل کے سلسلے میں بھی را ایجنٹ وکاش یادو سے رابطہ کیا تھا، اور دونوں بھارتی شہری کینیڈا میں سکھ علیحدگی پسند رہنما ہردیپ سنگھ نجر کے قتل میں بھی ملوث تھے۔ نکھل گپتا تیرہ فروری دو ہزار چھبیس کو را کے ایجنٹ سے روابط، سکھ رہنما کے قتل کی سازش، قتل کے لیے اجرت دینے اور منی لانڈرنگ کے تمام الزامات تسلیم کر چکا ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-17T22:01:56+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "850965ddb239",
-   "rewritten": true,
-   "v4": true,
-   "title": "ڈونلڈ ٹرمپ کے قتل کی سازش، پاکستانی شہری کو ستائیس سال قید",
-   "summary": "عرب میڈیا کے مطابق امریکہ میں صدر ڈونلڈ ٹرمپ سمیت اہم سیاسی شخصیات کو قتل کرنے کی مبینہ سازش کے الزام میں پاکستانی شہری آصف مرچنٹ کو ستائیس سال چھ ماہ قید کی سزا سنا دی گئی۔ امریکی محکمہ انصاف کے مطابق اٹھارہ سالہ آصف مرچنٹ کو نیویارک کے علاقے بروکلین کی وفاقی عدالت میں امریکی ڈسٹرکٹ جج ایرک آر کومیٹی نے تین سو تیس ماہ قید کی سزا سنائی۔ انہیں بین الاقوامی سطح پر دہشت گردی کی کارروائی اور معاوضے کے عوض قتل کی سازش کے الزامات میں مجرم قرار دیا گیا۔ امریکی استغاثہ کے مطابق آصف مرچنٹ نے دو ہزار چوبیس میں مبینہ طور پر ایران کی ہدایت پر امریکہ میں ایسے افراد بھرتی کرنے کی کوشش کی تھی جو صدر ڈونلڈ ٹرمپ اور دیگر اہم سیاسی شخصیات کو نشانہ بنا سکیں۔ اس منصوبے میں اس وقت کے امریکی صدر جو بائیڈن اور ریپبلکن صدارتی نامزدگی کی امیدوار نکی ہیلی بھی ممکنہ اہداف میں شامل تھیں۔ حکام کا کہنا تھا کہ اس مبینہ منصوبے کا مقصد دو ہزار بیس میں امریکی حملے کے دوران ایرانی فوجی کمانڈر جنرل قاسم سلیمانی کی ہلاکت کا بدلہ لینا تھا۔ امریکی قانون نافذ کرنے والے اداروں نے حملے سے پہلے ہی سازش ناکام بنا دی تھی۔ امریکی محکمہ انصاف کے مطابق آصف مرچنٹ نے اپریل دو ہزار چوبیس میں ایک شخص سے اس منصوبے میں مدد طلب کی تاہم اس شخص نے حکام کو اطلاع دے دی اور خفیہ مخبر بن گیا، جس کے بعد آصف مرچنٹ کو گرفتار کر لیا گیا۔ مارچ میں وفاقی جیوری نے انہیں مجرم قرار دیا تھا۔ دوران مقدمہ آصف مرچنٹ نے اعتراف کیا کہ وہ ایران کی پاسداران انقلاب سے منسلک افراد کے ساتھ اس منصوبے میں شامل ہوئے تھے، تاہم ان کا موقف تھا کہ انہوں نے تہران میں موجود اپنے اہل خانہ کو تحفظ فراہم کرنے کے لیے دباؤ کے تحت ایسا کیا۔ دوسری جانب ایران نے ڈونلڈ ٹرمپ یا دیگر امریکی عہدیداروں کو قتل کرنے کی سازش میں ملوث ہونے کے الزامات کی تردید کی ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-17T21:32:04+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "a9971c5f89ac",
-   "rewritten": true,
-   "v4": true,
-   "title": "کراچی میں پولیس اور مبینہ ڈاکوؤں کے مقابلے، نو ملزمان گرفتار",
-   "summary": "کراچی کے مختلف علاقوں میں پولیس اور مبینہ ڈاکوؤں کے درمیان چار مقابلوں کے دوران چھ ملزمان زخمی ہو گئے جبکہ پولیس نے زخمیوں سمیت نو ملزمان کو گرفتار کر لیا۔ تمام زخمی ملزمان کو فوری طور پر طبی امداد کے لیے اسپتال منتقل کر دیا گیا۔ پولیس کے مطابق حیدری مارکیٹ پولیس نے نارتھ ناظم آباد بلاک جی میں مبینہ مقابلے کے دوران ایک ڈاکو محمد نعمان کو زخمی حالت میں گرفتار کیا۔ منگھو پیر پولیس نے ناردرن بائی پاس مائی گاڑی چوکی کے قریب مقابلے کے بعد دو ملزمان فیصل اور عمیر کو گرفتار کیا، جن میں سے ایک زخمی ہے۔ گرفتار ملزمان کے قبضے سے اسلحہ، موبائل فون، نقدی اور موٹرسائیکل برآمد کی گئی۔ سائٹ سپر ہائی وے پولیس نے فقیرا گوٹھ میں کارروائی کے دوران دو زخمی ملزمان گل زمان اور سراج کو گرفتار کر کے دو پستول، موبائل فونز، نقدی اور موٹرسائیکل برآمد کر لی۔ اسی طرح قائدآباد پولیس نے لانڈھی داؤد چورنگی کے قریب مبینہ مقابلے میں دو زخمیوں سمیت چار ملزمان شمن خان، عدنان، افسریاب اور رفیق احمد کو گرفتار کر لیا۔ ملزمان کے قبضے سے دو پستول، موبائل فونز، نقدی اور دو موٹرسائیکلیں برآمد ہوئیں۔ پولیس کے مطابق زخمی ملزمان کو اسپتال منتقل کر دیا گیا جبکہ دیگر گرفتار ملزمان کو متعلقہ تھانوں میں منتقل کر کے مزید تفتیش شروع کر دی گئی ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-17T21:22:23+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "d819156b0377",
-   "rewritten": true,
-   "v4": true,
-   "title": "کراچی میں شاہراہ فیصل پر تیز رفتار گاڑی الٹنے سے ایک شخص زخمی",
-   "summary": "کراچی میں شاہراہ فیصل پر پاکستان پوسٹ آفس کے قریب ایک تیز رفتار کار نے دوسری گاڑی کو ٹکر مار دی، جس کے نتیجے میں وہ گاڑی قلابازیاں کھاتی ہوئی سڑک پر الٹ گئی۔ حادثے کے بعد پولیس نے موقع پر پہنچ کر زخمی ہونے والے گاڑی کے سوار کو فوری طور پر طبی امداد کے لیے اسپتال منتقل کر دیا۔\n\nعینی شاہدین کے مطابق، جس گاڑی نے ٹکر ماری تھی اس میں خواتین سوار تھیں جو اس حادثے کے فوراً بعد موقع سے فرار ہونے میں کامیاب ہو گئیں۔ پولیس حکام کا کہنا ہے کہ اس واقعے کی مزید تفتیش اور تحقیقات کا عمل جاری ہے، تاہم اس ضمن میں تحاحال کوئی گرفتاری عمل میں نہیں لائی گئی ہے۔\n\nاس کے علاوہ شہر کے دوسرے علاقے لیاقت آباد سپر مارکیٹ میں بھی ایک اور واردات پیش آئی جہاں نامعلوم ملزمان پچیس لاکھ روپے سے زائد کی نقدی لوٹ کر باآسانی فرار ہو گئے۔ پولیس نے ان تمام مختلف واقعات کے حوالے سے قانونی کارروائی اور تفتیش شروع کر رکھی ہے۔",
-   "url": "",
-   "image": "https://jang.com.pk/assets/uploads/updates/2026-11-18/b_1634428_030901_updates.jpg",
-   "published": "2026-11-17T21:11:32+00:00",
-   "source": "ذریعہ: Jang",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "2a86c4cda43a",
-   "rewritten": true,
-   "v4": true,
-   "title": "کراچی کے علاقے محمود آباد میں نشے کے دوران جھگڑا، ایک شخص قتل",
-   "summary": "کراچی کے علاقے محمود آباد جونیجو ٹاؤن میں منشیات کے استعمال کے دوران ہونے والے تنازعے کے نتیجے میں ایک نوجوان جاں بحق جبکہ دوسرا شدید زخمی ہو گیا۔ پولیس نے فوری کارروائی کرتے ہوئے ملزم کو حراست میں لے لیا ہے اور قتل میں استعمال ہونے والا آلہ بھی برآمد کر لیا ہے۔\n\nیہ پرتشدد واقع خلفائے راشدین مسجد کے نزدیک پیش آیا جہاں چار دوست گلی کے کونے پر موجود ایک چبوترے پر بیٹھے ہوئے نشہ کر رہے تھے۔ اس دوران ان کے درمیان کسی بات پر تلخ کلامی ہوئی جس پر ملزم عاصم نے تیز دھار آلے سے اپنے ساتھیوں پر حملہ کر دیا جس سے عباس موقع پر ہی دم توڑ گیا جبکہ زوہیب احمد کو شدید چوٹیں آئیں۔\n\nپولیس ذرائع کے مطابق مقتول، زخمی اور حملہ آور تینوں کا تعلق ایک ہی محلے سے ہے۔ پیشے کے اعتبار سے مقتول عباس کیٹرنگ کا کام کرتا تھا جبکہ زخمی ہونے والا زوہیب احمد واٹر ٹینکر چلانے کا فریضہ انجام دیتا تھا۔ واقعے کے بعد پولیس نے فوری طور پر جائے وقوعہ پر پہنچ کر ملزم عاصم کو گرفتار کر لیا جو اس لڑائی کے دوران خود بھی معمولی زخمی ہوا تھا۔\n\nاس نوعیت کے پرتشدد واقعات معاشرے میں بڑھتے ہوئے منشیات کے استعمال اور اس کے نتیجے میں ہونے والے جانی نقصان کی نشاندہی کرتے ہیں۔ پولیس نے ملزم کو حراست میں لے کر قتل کا مقدمہ درج کر لیا ہے اور واقعے کی مزید تفتیش جاری ہے تاکہ اس سانحے کے تمام محرکات کو سامنے لایا جا سکے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-17T21:08:45+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "b63e61c08415",
-   "rewritten": true,
-   "v4": true,
-   "title": "کراچی میں شاہراہ فیصل پر تیز رفتار کار کی ٹکر سے فیملی گاڑی تباہ",
-   "summary": "کراچی میں شاہراہ فیصل کے قریب پاکستان پوسٹ آفس کے نزدیک ایک حادثہ پیش آیا جہاں تیز رفتار کار نے ایک فیملی کی گاڑی کو زور دار ٹکر مار دی۔ ٹکر کے نتیجے میں متاثرہ گاڑی قلابازیاں کھاتی ہوئی سڑک پر حادثے کا شکار ہوگئی۔\n\nحادثے کی شدت اتنی زیادہ تھی کہ متاثرہ فیملی کی گاڑی مکمل طور پر تباہ ہوگئی۔ اس خوفناک واقعے میں گاڑی میں سوار ایک شخص معمولی زخمی ہوا جسے فوری طبی امداد کی ضرورت پڑی۔\n\nاطلاع ملتے ہی پولیس کی نفری فوری طور پر جائے وقوعہ پر پہنچ گئی۔ عینی شاہدین کے مطابق حادثے کا سبب بننے والی تیز رفتار کار میں خواتین سوار تھیں جو تصادم کے بعد موقع سے فرار ہونے میں کامیاب ہوگئیں۔\n\nپولیس نے اس واقعے کی باقاعدہ تحقیقات شروع کر دی ہیں۔ حکام کا کہنا ہے کہ مفرور خواتین کی تلاش جاری ہے اور عینی شاہدین کے بیانات کی روشنی میں حادثے کے اسباب کا تعین کیا جا رہا ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-17T20:43:05+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "f86ac2227e41",
-   "rewritten": true,
-   "v4": true,
-   "title": "Three PTI Leaders Detained Under MPO Following Peshawar High Court Bail",
-   "summary": "Three prominent Pakistan Tehreek-e-Insaf leaders, including former Khyber Pakhtunkhwa ministers Taimoor Saleem Jhagra and Kamran Bangash along with Peshawar president Irfan Saleem, were placed under preventative detention shortly after securing interim bail from the Peshawar High Court. Earlier, an anti-terrorism court had rejected their pre-arrest bail applications concerning a 2023 vandalism and arson case at the Radio Pakistan building during the May 9 riots. Following the trial court's decision, an hours-long standoff occurred at the high court premises involving heavy police deployment and members of the Insaf Lawyers Forum.\n\nChief Justice SM Attique Shah later granted the three politicians interim bail until November 23 against two sureties of Rs1 million each, while instructing them to cooperate with investigators. Despite the high court relief, police executed detention orders issued by the district administration under the Maintenance of Public Order Ordinance. Senior Superintendent of Police Farhan Khan confirmed that the politicians surrendered inside the high court barroom before being officially taken into custody.\n\nDuring court proceedings, defense lawyers argued that the accused were falsely implicated more than three years after the initial FIR was registered on May 10, 2023. They contended that video footage used by the prosecution failed to prove any direct involvement in criminal acts. Conversely, prosecution counsel maintained that proper identification procedures through forensic agencies justified their inclusion in the supplementary charge-sheet.\n\nThis legal development unfolds amidst ongoing scrutiny over related political cases in the province, where authorities have also initiated proceedings against other figures linked to the party. The detention highlights escalating tensions between legal representatives and law enforcement agencies over the handling of political opposition members connected to the 2023 civil unrest.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/1800043799e2635.webp",
-   "published": "2026-11-17T20:35:24+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
   }
  ]
 }
