@@ -1,6 +1,32 @@
 {
- "updated": "2026-11-22T04:27:49.822009+00:00",
+ "updated": "2026-11-22T05:29:01.096391+00:00",
  "stories": [
+  {
+   "id": "e233c5281872",
+   "rewritten": true,
+   "v4": true,
+   "title": "Khyber Pakhtunkhwa Launches Dastak App for Learner Driving Licences",
+   "summary": "The government of Khyber Pakhtunkhwa has introduced a digital solution allowing citizens to obtain and download learner driving licences directly from home via the Dastak App. Announced by the Directorate of Transport, the platform eliminates the previous requirement to visit government offices physically for the application and verification process.\n\nTo acquire a permit through the mobile application, applicants must first register and set up a personal profile. Following this, users download a NADRA challan to complete verification at a local NADRA center, or alternatively carry out biometric verification using the Pak ID App. Once verified, the fee voucher becomes accessible for download within the application.\n\nPayments for the service are handled online using the One Bill payment facility via Easypaisa or any standard banking application. Upon successful processing of the payment, users can instantly download their learner driving permit straight from the digital platform.\n\nThis administrative update matters because it aims to streamline public service delivery across the region. By cutting out physical office visits, the initiative makes obtaining driver documentation much more accessible to the public through streamlined digital government services.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Driving-licence-KP-online.jpg",
+   "published": "2026-11-22T05:01:06+00:00",
+   "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "ed7ffa97bedc",
+   "rewritten": true,
+   "v4": true,
+   "title": "برطانوی تیراک لوئس پیو نے ماحولیاتی خطرات اجاگر کرنے کیلئے آبنائے ہرمز میں تیراکی کی",
+   "summary": "برطانوی طویل فاصلے کے تیراک لوئس پیو نے آبنائے ہرمز میں تین دن کے دوران تقریباً 15 کلومیٹر تیراکی کی۔ اس مہم کا مقصد ایران کی جنگ کے ماحولیاتی اثرات اور سمندری حیات کو درپیش خطرات کی طرف دنیا کی توجہ مبذول کرانا تھا۔ 56 سالہ لوئس پیو نے اقوام متحدہ کے سمندروں کے لیے خیرسگالی سفیر کی حیثیت سے یہ سفر کیا۔ انہوں نے پیر کو آبنائے ہرمز کے جنوبی حصے میں واقع جزیرہ نما مسندم سے تیراکی کا آغاز کیا اور کیپ ہرمز کے گرد اسے مکمل کیا۔\n\nاپنی تیراکی کے دوران انہوں نے آبنائے ہرمز میں بحری جہازوں پر حملوں، دھماکو ں اور آگ کے ہولناک مناظر دیکھے۔ سفر کے آغاز پر ہی انہوں نے دو زور دار دھماکے سنے اور ایک آئل ٹینکر کو نشانہ بنتے دیکھا جس کے بعد جنگی طیارے بھی وہاں پہنچے۔ انہوں نے ایک اور بحری جہاز کو بھی آگ کی لپیٹ میں دیکھا۔ ان کا کہنا تھا کہ اس صورتحال میں فوری طور پر وہاں سے نکلنا ضروری تھا۔\n\nلوئس پیو نے آبنائے ہرمز کو محض تیل کی ترسیل کا راستہ نہیں بلکہ ایک قدرتی حسن اور سمندری حیات سے مالا مال خطہ قرار دیا۔ انہوں نے ڈولفن، سمندری کچھوؤں، مرجان کی چٹانوں اور مینگروو کے جنگلات کا ذکر کرتے ہوئے خبردار کیا کہ جنگ اور تیل کے سمندر میں پھیلنے سے ماحولیات کو پہنچنے والا نقصان کئی نسلوں تک برقرار رہ سکتا ہے۔\n\nوہ گزشتہ چار دہائیوں سے ماحولیاتی آلودگی اور موسمیاتی تبدیلی کے خلاف دنیا بھر میں تیراکی کی مہمات چلاتے رہے ہیں۔ شمالی قطب میں تیراکی کرنے والے وہ پہلے شخص ہیں۔ آبنائے ہرمز کی اس حالیہ مہم کے بعد انہوں نے مطالبہ کیا ہے کہ جنگ فوری طور پر بند کی جانی چاہیے، آبنائے کو کھولا جانا چاہیے اور آلودگی کو صاف کیا جانا چاہیے تاکہ قدرتی ماحول کا تحفظ ممکن ہو سکے۔",
+   "url": "",
+   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/85b2/live/21bf2c00-e5c9-11f1-a094-5fdc692f3e33.jpg",
+   "published": "2026-11-22T04:30:43+00:00",
+   "source": "ذریعہ: BBC Urdu",
+   "lang": "ur",
+   "category": "pakistan"
+  },
   {
    "id": "cf1d563532c1",
    "rewritten": true,
@@ -25,6 +51,19 @@
    "published": "2026-11-22T04:13:00+00:00",
    "source": "Source: Dawn",
    "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "208b56acd473",
+   "rewritten": true,
+   "v4": true,
+   "title": "پاکپتن میں دو موٹرسائیکلوں کی ٹکر سے دو افراد جاں بحق اور ایک زخمی",
+   "summary": "پاکپتن کے کچہری روڈ پر دو موٹرسائیکلوں کے درمیان پیش آنے والے ایک ٹریفک حادثے کے نتیجے میں دو افراد موقع پر ہی جاں بحق ہو گئے جبکہ ایک شخص شدید زخمی ہو گیا۔ پولیس حکام کے مطابق حادثے میں جان کی بازی ہارنے والوں میں ایک 40 سالہ شخص اور ایک 16 سالہ لڑکا شامل ہیں۔\n\nپولیس نے واقعے کی تفصیلات بتاتے ہوئے کہا کہ اس حادثے کے نتیجے میں جاں بحق ہونے والے 16 سالہ لڑکے کا 12 سالہ بھائی بھی شدید زخمی ہوا ہے۔ حادثے کے فوری بعد مقامی افراد اور ریسکیو حکام نے متاثرین کو طبی امداد کے لیے اسپتال منتقل کیا۔\n\nزخمی ہونے والے افراد کو طبی امداد فراہم کی جا رہی ہے اور پولیس کے مطابق ان میں سے دو افراد کی حالت انتہائی تشویشناک بتائی گئی ہے۔ بہتر علاج کے لیے انہیں اسٹیڈیم روڈ پر واقع ایک نجی اسپتال میں منتقل کر دیا گیا ہے۔\n\nیہ حادثہ پاکپتن کے مصروف کچہری روڈ پر پیش آیا جہاں دو موٹرسائیکلیں آپس میں ٹکرا گئیں۔ پولیس اس معاملے کی مزید قانونی کارروائی اور تفتیش کر رہی ہے تاکہ حادثے کی اصل وجوہات کا تعین کیا جا سکے اور متاثرہ خاندان کو قانونی معاونت فراہم کی جا سکے۔",
+   "url": "",
+   "image": "https://jang.com.pk/assets/uploads/updates/2026-11-22/b_1635661_091751_updates.jpg",
+   "published": "2026-11-22T04:11:21+00:00",
+   "source": "ذریعہ: Jang",
+   "lang": "ur",
    "category": "pakistan"
   },
   {
@@ -262,6 +301,19 @@
    "category": "pakistan"
   },
   {
+   "id": "35c2e43b163a",
+   "rewritten": true,
+   "v4": true,
+   "title": "کراچی میں ڈاکوؤں سے فائرنگ کا تبادلہ، دو پولیس اہلکار زخمی",
+   "summary": "کراچی میں سپر ہائی وے کے قریب گڈاپ سٹی پولیس چوکی کے پاس پولیس اور ڈاکوؤں کے درمیان شدید جھڑپ ہوئی۔ اس واقعے کے دوران فائرنگ اور ہاتھ پائی کے نتیجے میں دو پولیس اہلکار زخمی ہو گئے جنہیں فوری طور پر طبی امداد کے لیے اسپتال منتقل کر دیا گیا۔\n\nپولیس ترجمان کے مطابق زخمی ہونے والے اہلکاروں میں کانسٹیبل غلام مرتضیٰ اور ہیڈ کانسٹیبل عبدالحمید شامل ہیں۔ ابتدائی تحقیقات کے مطابق پولیس اہلکاروں نے دو ڈاکوؤں کو حتحراست میں لیا تھا کہ اتنے میں ملزمان کے دیگر ساتھی بھی وہاں پہنچ گئے اور انہوں نے پولیس پر حملہ کر دیا جس سے دونوں فریقین میں جھڑپ شروع ہو گئی۔\n\nترجمان نے مزید بتایا کہ فائرنگ کے دوران ایک پولیس اہلکار گولی لگنے سے زخمی ہوا جبکہ دوسرے کو پستول کا بٹ لگنے سے چوٹ پہنچی۔ واقعے کی اطلاع ملتے ہی گڈاپ سٹی پولیس کی اضافی نفری بھی موقع پر پہنچ گئی لیکن اس دوران ملزمان موقع سے فرار ہونے میں کامیاب ہو گئے۔\n\nپولیس نے زخمی اہلکاروں کو ایدھی ایمبولینس کے ذریعے اسپتال پہنچایا جہاں ان کا علاج جاری ہے۔ پولیس حکام کا کہنا ہے کہ موقع سے فرار ہونے والے تمام ملزمان کی تلاش اور گرفتاری کے لیے چھاپے مارے جا رہے ہیں اور جلد ہی انہیں قانون کے کٹہرے میں لایا جائے گا۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-22T00:13:27+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "689b0dda7ebe",
    "rewritten": true,
    "v4": true,
@@ -314,6 +366,19 @@
    "category": "pakistan"
   },
   {
+   "id": "5f3acb5f0d91",
+   "rewritten": true,
+   "v4": true,
+   "title": "Quetta Court Denies Bail Application of Journalist Shahid Maitla",
+   "summary": "A local court in Quetta on Saturday formally rejected the bail application of Islamabad-based journalist Shahid Maitla. The legal request was presented by Rahib Buledi Advocate and fellow defense lawyers before Judicial Magistrate-VII, with Judicial Magistrate Akhtar Shah delivering the final ruling after previously reserving his verdict.\n\nShahid Maitla was initially taken into custody under the Prevention of Electronic Crimes Act. His arrest followed a formal complaint lodged by former caretaker prime minister Anwarul Haq Kakar. Following his detention in Islamabad, Maitla was transferred to Quetta, where he is currently being held on judicial remand at District Jail Quetta.\n\nThe denial of bail is part of ongoing legal proceedings surrounding the journalist under electronic crime legislation. The case has drawn attention within media and legal circles regarding press freedom and the application of regulatory laws governing digital content and public complaints.\n\nThe decision leaves the journalist in custody as the judicial process continues. The case underscores ongoing tensions regarding legal actions taken against media figures under specific statutory frameworks in the country.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/2208440206b3f7c.webp",
+   "published": "2026-11-22T00:11:12+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
    "id": "d007cc9bf1ea",
    "rewritten": true,
    "v4": true,
@@ -338,6 +403,19 @@
    "source": "Source: Dawn",
    "lang": "en",
    "category": "world"
+  },
+  {
+   "id": "4f69ed52f8aa",
+   "rewritten": true,
+   "v4": true,
+   "title": "شمالی میکسیکو میں سیکیورٹی فورسز کی کارروائی، منشیات مافیا کے سربراہ سمیت 11 افراد ہلاک",
+   "summary": "شمالی میکسیکو کے شہر گواسوی میں سیکیورٹی فورسز اور جرائم پیشہ گروہ کے درمیان ایک شدید خونریز جھڑپ کے نتیجے میں 11 افراد ہلاک ہو گئے ہیں۔ اس کارروائی کے دوران سیکیورٹی فورسز نے ایک اہم منشیات مافیا کے سربراہ کو بھی گرفتار کرنے میں کامیابی حاصل کی ہے۔\n\nحکام کے مطابق فائرنگ کے اس تبادلے میں ہلاک ہونے والوں میں منشیات کارٹل کے 7 مبینہ مسلح ارکان اور میکسیکو کے 4 فوجی اہلکار شامل ہیں۔ یہ کارروائی گواسوی کے علاقے میں کی گئی جہاں سیکیورٹی فورسز نے جرائم پیشہ نیٹ ورک کے خلاف بڑا آپریشن کیا۔\n\nآپریشن کے دوران علاقے میں پوری رات شدید فائرنگ کا سلسلہ جاری رہا۔ اس دوران مجرموں کی جانب سے گاڑیوں کو نذرِ آتش کرنے اور راستے بند کرنے کے واقعات بھی پیش آئے تاکہ سیکیورٹی فورسز کی پیش قدمی کو روکا جا سکے۔\n\nحکومت اور سیکیورٹی اداروں کی جانب سے اس کارروائی کو منشیات کے کارٹلز کے خلاف ایک اہم کامیابی قرار دیا گیا ہے۔ گرفتار کیے گئے مافیا سربراہ سے مزید تفتیش کی جا رہی ہے جبکہ علاقے میں امن و امان بحال کرنے کے لیے اضافی سیکیورٹی فورسز کو تعینات کر دیا گیا ہے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-21T23:56:36+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
   },
   {
    "id": "5b760394b24d",
@@ -936,6 +1014,32 @@
    "source": "Source: ARY News",
    "lang": "en",
    "category": "pakistan"
+  },
+  {
+   "id": "72d7906f1aae",
+   "rewritten": true,
+   "v4": true,
+   "title": "International Artists Unveil Peace Murals at Karachi Arts Council",
+   "summary": "International artists have contributed new anti-war and environmentally focused murals to the exterior walls of the Arts Council of Pakistan Karachi. The unveiling took place on the 24th day of the World Culture Festival 2026, featuring an anti-war piece by Colombian artist Jhon Ramirez and 'Concrete Horizon' by Italian muralist Edoardo Ettore. Dignitaries including Arts Council President Muhammad Ahmed Shah, alongside various consuls and diplomats, formally inaugurated the installations.\n\nDuring the ceremony, Muhammad Ahmed Shah emphasized that cultural diplomacy bridges nations and projects a positive national image. The Arts Council currently houses 12 murals, with an ambitious target of establishing 100 quality murals across Karachi over the next five years. Italian Consul General Fabrizio Bielli and German Consul General Thomas Schultze also spoke, praising cultural ties, festival growth, and the participation of artists from over 150 countries.\n\nIn addition to the mural inaugurations, the day's events featured a diverse lineup of international cinema, theatrical performances, music, and dance. Screenings included Canadian and Palestinian productions, while musical acts showcased performers from Algeria, Azerbaijan, Pakistan, and Germany. Dance showcases featured troupes from Russia and Belarus, culminating in a multinational DJ night titled Culture Radio.\n\nThe festival highlights the growing role of Karachi as an international cultural hub. By using public art and global performances, the ongoing event underscores the power of cultural exchange to transcend geographical borders and foster mutual understanding.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-21T17:51:17+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "fashion"
+  },
+  {
+   "id": "6a8004a64393",
+   "rewritten": true,
+   "v4": true,
+   "title": "Tens of Thousands of Fans Attend Annual Mascot Meetup Near Tokyo",
+   "summary": "Tens of thousands of enthusiasts gathered in Hanyu, a city near Tokyo, on Saturday for the annual mascot meetup event. The popular gathering features more than 200 life-size cuddly characters representing various regions, railways, prisons, and private businesses from across Japan. The two-day event has been running annually since 2010 to celebrate characters that have achieved full celebrity status.\n\nCrowds watched animal mascots dance to pop music on stage, while others queued for photographs and selfies with regional favorites like a pony mascot from Gunma prefecture. Another character, a cat mascot, was pushed through the dense crowds on a cart to navigate the busy venue. City official Shogo Dei noted that the event previously drew around 80,000 attendees and anticipated a similar turnout for this year's iteration.\n\nThese regional mascots play a significant role in local culture and town revitalization efforts across Japan. Successful characters can generate millions of dollars in revenue and drive regional tourism. For instance, Hikonyan, a samurai helmet-wearing cat associated with Hikone Castle, regularly receives thousands of New Year's greeting cards annually.\n\nThe widespread popularity of these figures is evident in daily life, where adults frequently carry mascot merchandise on their bags. The annual gathering highlights the economic and cultural impact of these regional symbols, cementing their place in modern Japanese society.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-21T17:51:17+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "fashion"
   },
   {
    "id": "1c8a1d6ec26e",
@@ -3793,110 +3897,6 @@
    "url": "",
    "image": null,
    "published": "2026-11-21T02:10:58+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "0092c901ad02",
-   "rewritten": true,
-   "v4": true,
-   "title": "PBF Urges Finance Minister to Address Agricultural Crisis and Food Prices",
-   "summary": "The Pakistan Business Forum has sent a letter to Federal Minister for Finance and Economic Coordination Committee Chairman Muhammad Aurangzeb. Dated November 19, 2026, the letter voices deep alarm regarding the deteriorating agricultural sector, growing food security concerns, surplus sugar inventories, and soaring wheat and flour prices. PBF President Khawaja Mehboobur Rehman cautioned that a lack of swift support could turn Pakistan into a permanent importer of core commodities like wheat and sugar.\n\nThe Forum noted that the 2025–26 crushing season generated about 7.7 million metric tonnes of sugar, leaving a 1.3 million metric tonne surplus, whereas authorities have only authorized 200,000 metric tonnes for export. With sugarcane cultivation expanding by over 16 percent, production for the 2026–27 season is projected to hit 8.5 million metric tonnes. The PBF has requested that the ECC permit the export of at least 1 million metric tonnes of surplus sugar and establish a minimum sugarcane price of Rs500 per 40 kg.\n\nAdditionally, the PBF raised alarms over a severe wheat deficit and flour prices exceeding Rs7,000 per 40 kg, alongside concerns regarding deteriorated imported wheat supplied by the TCP. The Forum urged the government to distribute clean wheat quickly, stabilize prices, and issue a formal notification for the Rs4,500 per 40kg wheat support price announced by the Prime Minister on October 26 for the Rabi season.\n\nWarning against continued policy delays, the PBF stressed that inadequate farmer support and delayed decisions will undermine domestic agricultural production. They emphasized that timely policy interventions are crucial to protecting national food security, preventing permanent reliance on imported food items, and easing pressure on foreign exchange reserves.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/06/05061637ba7b74d.webp",
-   "published": "2026-11-21T02:10:11+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "03afa354d871",
-   "rewritten": true,
-   "v4": true,
-   "title": "Pakistan and Indonesia Conclude Elang Strike-III Counter-Terrorism Exercise",
-   "summary": "The Pakistan Army and the Indonesian Army have successfully concluded the third edition of their bilateral counter-terrorism exercise, named Elang Strike-III. The military drills took place at the National Counter Terrorism Centre located in Pabbi, according to an announcement by the Inter-Services Public Relations.\n\nRunning from November 9 to November 21, the exercise focused on sharing counter-terrorism experiences, refining operational drills and procedures, and enhancing combat skills through mutual learning and the exchange of best practices. The military media wing stated that the event highlighted the longstanding defence cooperation between the two nations and reaffirmed their shared resolve to strengthen bilateral ties.\n\nThis joint military engagement follows several other counter-terrorism exercises conducted by Pakistan's military with regional and international partners. Notably, the Pakistan-Tajikistan Joint Exercise Dosti-III concluded on November 6 at the Special Operations School in Cherat, Khyber-Pakhtunkhwa.\n\nAdditional recent exercises included the ninth edition of the Pakistan-Russia Joint Exercise Druzhba-IX, the second edition of the Pakistan-Oman Joint Exercise Washaq Al Jabal-II in October, a Sri Lankan joint exercise in May, and the Egyptian joint exercise Thunder-II in April. These ongoing international engagements emphasize Pakistan's active military collaboration focused on drone warfare, counter-improvised explosive devices, and building operations.",
-   "url": "",
-   "image": null,
-   "published": "2026-11-21T02:07:09+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "910927674b95",
-   "rewritten": true,
-   "v4": true,
-   "title": "Punjab Allocates Over Rs39.5 Billion for Specialized Free Medical Care",
-   "summary": "Punjab is ensuring the provision of free medical treatment worth over Rs39.5 billion for patients across selected hospitals through various specialized health programs. Provincial Health Minister Khawaja Salman Rafique announced these figures during a meeting, highlighting that foundational steps are being taken to reduce patient waiting lists for adult cardiac care, cancer treatment, dialysis, strokes, pediatric heart surgery, and organ transplants.\n\nSpecific initiatives include the Chief Minister’s Adult Cardiac Surgery Programme, which allocates Rs3 billion annually and has already successfully performed free heart surgeries for over 2,944 patients. Meanwhile, the Chief Minister’s Special Initiative for Cancer Patients dedicates Rs10 billion annually to cover diagnosis, chemotherapy, radiotherapy, and surgical or medical therapies. Authorities are actively utilizing all available resources to enhance healthcare quality across public facilities.\n\nSecretary of the Specialized Healthcare and Medical Education Department Azmat Mehmood emphasized that designated hospitals must prioritize patient facilities and promptly resolve any reported grievances. These efforts align with the vision of Chief Minister Maryam Nawaz Sharif to continuously improve cardiac hospitals and general treatment capacities throughout the province.\n\nTo further strengthen specialized medical staffing, the department has issued merit-based BS-18 appointment orders for 36 Senior Registrars in Cardiology and 8 Senior Registrars in Cardiac Surgery, following Punjab Public Service Commission recommendations. These three-year contract positions take effect immediately at cardiac institutions in Lahore, Faisalabad, Rawalpindi, Multan, and Sahiwal to fill existing vacancies.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/04/040226160c2321d.webp",
-   "published": "2026-11-21T02:07:05+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "495933b52cab",
-   "rewritten": true,
-   "v4": true,
-   "title": "Oxford University Press Pakistan Hosts School Leaders’ Conference 2026",
-   "summary": "Oxford University Press (OUP) Pakistan convened school leaders, educationists, and practitioners in Islamabad for the School Leaders’ Conference 2026. Centered on the theme “Shaping Tomorrow: Navigating Change, Driving Impact,” the two-day event featured dedicated platforms for educators from both local and international examination board schools to examine the shifting educational landscape and future learning priorities.\n\nOpening the event, OUP Pakistan Managing Director Arshad Saeed Husain emphasized that educational transformation demands collective commitment and leaders who can identify emerging needs and place meaningful learning at the center of decisions. Elizabeth Munn, Managing Director of Education at OUP UK, participated virtually on the first day to stress the importance of balancing educational innovation with clear learning outcomes.\n\nThe conference program included keynote sessions and presentations addressing transformative leadership, the role of mathematics in the age of artificial intelligence, skills development, and student-centred science ecosystems. Speakers and experts included former Vice-Chancellor Dr. Nadeem ul Haque, OUP specialists Shazia Asad and Emma Baxter, and international educator Dr. Nicolas Brasch.\n\nThrough interactive audience polls and panel discussions addressing challenges and opportunities, participants explored practical implications for their institutions. The Islamabad gathering formed part of OUP Pakistan's broader national engagement to foster collaboration, professional dialogue, and forward-looking leadership within school communities.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/11/2107030005d2385.jpg",
-   "published": "2026-11-21T02:03:31+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "3585aeeb1265",
-   "rewritten": true,
-   "v4": true,
-   "title": "بالی ووڈ اداکار رنبیر کپور نے فلمسازی اور ہدایتکاری میں قدم رکھ دیا",
-   "summary": "معروف بالی ووڈ اداکار رنبیر کپور نے ہدایتکاری کے میدان میں قدم رکھنے کا باضابطہ ارادہ ظاہر کرتے ہوئے اپنی پہلی فلم کی تیاری شروع کر دی ہے۔ بھارتی میڈیا کے مطابق وہ آئندہ دو سے تین سال کے دوران اپنی اس پہلی فلم کی شوٹنگ کا آغاز کرنے کا ارادہ رکھتے ہیں۔\n\nاداکار گزشتہ چند ماہ سے اپنی اس فلم کا اسکرپٹ خود تحریر کر رہے ہیں، جسے انہوں نے اپنے لیے ایک مشکل لیکن نہایت دلچسپ تجربہ قرار دیا ہے۔ وہ ایک ایسی شاندار ڈرامہ فلم بنانا چاہتے ہیں جو دیکھنے والوں کے دلوں پر ایک خوشگوار اثر چھوڑ سکے۔\n\nرنبیر کپور نے یہ بھی واضح کیا ہے کہ وہ ہدایتکاری کی دنیا میں قدم رکھنے سے پہلے اپنے تمام زیرِ تکمیل اداکاری کے منصوبے مکمل کریں گے۔ اس کے علاوہ، بطور ہدایتکار اپنی پہلی فلم میں وہ خود اداکاری کے فرائض انجام نہیں دیں گے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-21T02:00:51+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "764174508245",
-   "rewritten": true,
-   "v4": true,
-   "title": "Report Reveals Low Corporate Commitment to Children's Rights on PSX",
-   "summary": "A new sustainability assessment in Pakistan reveals that only 3 percent of 98 companies listed on the Pakistan Stock Exchange (PSX) explicitly disclose a commitment to children's rights. Titled Making Children Count: Sustainability Reporting in Pakistan, the report was launched during a World Children’s Day event jointly organized by the PSX, UNICEF, and the Pakistan Business Council.\n\nThe assessment evaluated listed companies across 29 indicators related to children's rights and business. While 78 percent of the reviewed firms reported community investments benefiting children, the findings showed that disclosures offered limited visibility regarding children's rights in corporate governance, supply chains, workplace practices, and environmental considerations.\n\nUNICEF Representative in Pakistan Pernille Ironside noted that business decisions affect children long before they enter the workforce through parental working conditions, products, and communities. PSX Chief Executive Officer Farrukh H. Sabzwari emphasized that capital markets share a responsibility to promote transparency and responsible corporate conduct by integrating children's rights into sustainability agendas.\n\nThe report's release coincides with the Securities and Exchange Commission of Pakistan moving toward mandatory environmental, social, and governance reporting requirements starting in 2029. The transition presents an opportunity to improve the visibility of children's rights within Pakistan's evolving corporate sustainability framework.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2024/08/66b681dae189b.jpg",
-   "published": "2026-11-21T02:00:20+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "938072396398",
-   "rewritten": true,
-   "v4": true,
-   "title": "کراچی سمیت ملک بھر میں بجلی کی قیمتوں میں چار روپے اضافے کا تخمینہ",
-   "summary": "دسمبر کے مہینے میں کراچی سمیت ملک بھر کے بجلی صارفین پر اضافی مالی بوجھ پڑنے کا امکان ظاہر کیا گیا ہے۔ ایک نجی ٹی وی کی رپورٹ کے مطابق، سہ ماہی اور ماہانہ ایڈجسٹمنٹس کی مد میں بجلی کی قیمت میں مجموعی طور پر 4 روپے 22 پیسے فی یونٹ اضافے کا تخمینہ لگایا گیا ہے۔ وزیراعظم شہباز شریف کی زیر صدارت منعقد ہونے والے ایک اہم اجلاس میں بجلی کی قیمتوں اور صارفین پر ممکنہ مالی بوجھ سے متعلق تفصیلی بریفنگ دی گئی۔\n\nرپورٹ کے مطابق اس وقت صارفین بجلی کے بلوں میں ان ایڈجسٹمنٹس کی مد میں 2 روپے 89 پیسے فی یونٹ ادا کر رہے ہیں جو اب بڑھ کر 4 روپے 22 پیسے تک پہنچ سکتے ہیں۔ اس طرح نومبر کے مقابلے میں آئندہ ماہ صارفین پر ایک روپے 33 پیسے فی یونٹ کا اضافی بوجھ پڑ سکتا ہے۔ حکومت کی یہ کوشش ہے کہ عوام کو اس مالی دباؤ سے کم سے کم نقصان پہنچے۔\n\nدوسری جانب، بجلی کی تقسیم کار کمپنیوں نے جولائی سے ستمبر 2026 کی سہ ماہی ایڈجسٹمنٹ کے تحت نیپرا میں فی یونٹ ایک روپے 34 پیسے اضافے کی درخواست دی ہے جس کی سماعت مکمل ہو چکی ہے۔ ادھر سینٹرل پاور پرچیزنگ ایجنسی نے اکتوبر 2026 کی ماہانہ فیول ایڈجسٹمنٹ کے تحت 2 روپے 88 پیسے فی یونٹ اضافے کی درخواست دائر کی ہے۔ ان تمام ایڈجسٹمنٹس کا نفاذ آئندہ ماہ متوقع ہے۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-21T02:00:11+00:00",
-   "source": "ذریعہ: Express News",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "816c42e15965",
-   "rewritten": true,
-   "v4": true,
-   "title": "بھارتی کرکٹر سرفراز خان بچپن کی مشکلات اور والد کی قربانیوں پر آبدیدہ",
-   "summary": "بھارتی کرکٹر سرفراز خان اپنے بچپن کے ایام کی شدید مالی مشکلات اور والد کی لازوال قربانیوں کو یاد کرتے ہوئے جذباتی ہوگئے اور انٹرویو کے دوران ان کی آنکھیں چھلک پڑیں۔ سابق بھارتی اوپنر آکاش چوپڑا کے پوڈکاسٹ میں گفتگو کرتے ہوئے انہوں نے بتایا کہ ان کا پورا خاندان ایک چھوٹی سی جھونپڑی میں زندگی بسر کرتا تھا جہاں دو وقت کے اخراجات چلانا بھی انتہائی مشکل مرحلہ تھا۔\n\nانہوں نے بچپن کا ایک دردناک واقعہ شیئر کیا جب ان کے والد نے بتایا کہ وہ سارا دن محنت کے بعد صرف ایک اضافی روپیہ کما پائے ہیں۔ اس واقعے نے سرفراز کے کم سن ذہن پر گہرا اثر ڈالا اور انہوں نے عزم کیا کہ وہ کرکٹ کے کھیل کے ذریعے اپنے خاندان کے حالات بدل کر دکھائیں گے۔ ممبئی میں انڈر 16 کرکٹ کھیلنے پر تقریباً 9 ہزار بھارتی روپے ملنے کی خبر نے انہیں اس پیشے کو اپنانے کی مزید طاقت دی۔\n\nآخر کار ان کی برسوں کی محنت رنگ لائی اور فروری 2024 میں انہوں نے انگلینڈ کے خلاف اپنا پہلا ٹیسٹ میچ کھیلا۔ سرفراز نے انکشاف کیا کہ آج بھی وہ اپنی تمام تر کمائی اپنے والد کے حوالے کرتے ہیں اور خود صرف ماہانہ خرچ لیتے ہیں۔ انہوں نے اس بات کا اعتراف کیا کہ ان کے والد نے نہ صرف ان کی بہترین کرکٹ تربیت کی بلکہ ہر کٹھن وقت میں ان کا بھرپور ساتھ نبھایا۔",
-   "url": "",
-   "image": null,
-   "published": "2026-11-21T01:59:40+00:00",
    "source": "ذریعہ: Express News",
    "lang": "ur",
    "category": "pakistan"
