@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:51:25.003791+00:00",
+ "updated": "2026-11-26T18:51:36.320441+00:00",
  "stories": [
   {
    "id": "48b06677efad",
@@ -28,6 +28,19 @@
    "category": "pakistan"
   },
   {
+   "id": "3f2f25c9f0b5",
+   "rewritten": true,
+   "v4": true,
+   "title": "Karachi Police Issue Traffic Advisory Following Highway Closure Due to Protest",
+   "summary": "Traffic movement has been completely halted on both directions of the Main National Highway near the Sassi Toll Plaza heading toward Ghaghar Phatak. The closure was implemented on Thursday by Karachi Traffic Police because of an ongoing demonstration in the area.\n\nTo manage the disruption, authorities have set up alternative routes for commuters. Vehicles arriving from Thatta are being redirected away from ICI Chowk. Compact automobiles are instructed to take a left turn toward the FFC factory zone, Steel Mills, and Steel Mills Chowrangi.\n\nAdditionally, motorists driving from Steel Mills toward Ghaghar Phatak can utilize a link road situated at the T-junction prior to the Sassi Toll Plaza, which connects back to Thatta via the Super Highway. Law enforcement officers are stationed at the location to oversee and regulate traffic movement.\n\nOfficials have urged the public to utilize the suggested detours to prevent travel difficulties. Residents seeking further instructions can reach the traffic police helpline at 1915 or check live updates broadcasted on FM 88.6.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/Karachi-traffic.jpg",
+   "published": "2026-11-26T18:23:36+00:00",
+   "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
    "id": "7f269f91a010",
    "rewritten": true,
    "v4": true,
@@ -37,6 +50,45 @@
    "image": "https://www.geo.tv/assets/uploads/2026-11-26/692735_060617_updates.jpg",
    "published": "2026-11-26T18:20:00+00:00",
    "source": "Source: Geo News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "07382beef8bc",
+   "rewritten": true,
+   "v4": true,
+   "title": "SEPCO Announces Scheduled Power Outages Across Multiple Feeders for Maintenance",
+   "summary": "The Sukkur Electric Power Company Limited (SEPCO) has scheduled a temporary electricity suspension across 24 feeders in various regions. The shutdown is planned for Friday, November 27, 2026, to facilitate necessary maintenance work on the electrical grid.\n\nAccording to announcements from SEPCO’s Public Relations Office based in Sukkur, power will be cut off between 9:00 AM and either 2:00 PM or 3:00 PM, relying on the specific location. The affected infrastructure includes lines under the 132 kV Khairpur, Shahdad Kot, Ghotki, Khanpur Mahar, Daharki, Larkana New, Ratodero, Larkana Site, Shikarpur, Thull, Dadu, and Sukkur Site jurisdictions, alongside the 66 kV Nara-I network.\n\nSpecific areas facing disruptions include Hospital Road in Khairpur, Industrial zones in Mirpur Mathelo and Ghotki, City-IV in Shahdad Kot and Shikarpur, and Salehpat under Nara-I. Other impacted spots involve New Sarhad City, Khanpur City, Shahi Bazar in Daharki, Nazar, and various industrial and trading facilities.\n\nSEPCO has formally extended an apology to all affected electricity consumers for the temporary inconvenience brought on by these essential grid servicing operations.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/03/NEPRA-tariff-change-drives-sharp-rise-in-electricity-bills.jpg.jpeg",
+   "published": "2026-11-26T18:14:58+00:00",
+   "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "a9016ac53476",
+   "rewritten": true,
+   "v4": true,
+   "title": "New Study Reveals Alternative Electrical Signaling Mechanism Between Heart Cells",
+   "summary": "Heart muscle cells may transmit electrical impulses through a secondary pathway alongside traditional direct channels, according to new research published in the Proceedings of the National Academy of Sciences. For over fifty years, scientific consensus centered exclusively on gap junctions, which are microscopic channels allowing direct electrical current flow between adjacent cells.\n\nA research team directed by postdoctoral researcher Xiaobo Wu within Robert Gourdie’s laboratory at the Fralin Biomedical Research Institute at VTC uncovered evidence supporting an alternative mechanism known as ephaptic coupling. This process utilizes voltage fluctuations within the perinexus, a nanoscale gap measuring tens of nanometers across where neighboring cardiac cells interface.\n\nTo examine this microscopic handoff, Wu engineered a novel technique termed Single-on-Paired, recording electrical readings from a single mouse heart cell while preserving its natural connection to another. Experiments revealed a distinct electrical signature that vanished when sodium levels dropped and gap junctions were experimentally inhibited, but reappeared upon restoring sodium even while gap junctions remained blocked.\n\nSeth Weinberg, a biomedical engineering professor at The Ohio State University, developed a computer model that successfully mirrored the experimental data, demonstrating how local electrical fields can stimulate adjacent cells. Steven Poelzing noted that understanding these pathways could aid investigations into irregular heart rhythms like atrial fibrillation, which impacts over 10 million American adults.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/human-heart.jpg",
+   "published": "2026-11-26T18:12:29+00:00",
+   "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "9ce820be6ec1",
+   "rewritten": true,
+   "v4": true,
+   "title": "Brazilian Delegation Visits NARC to Explore Pakistan Livestock and Goat Breeds",
+   "summary": "A high-ranking delegation from Brazil visited the National Agricultural Research Centre in Islamabad to examine Pakistan's indigenous goat breeds and local livestock research. Headed by Rafael Guimarães Requião, Deputy Secretary for Trade and International Relations, the visitors expressed keen interest in the country's diverse genetic resources for meat production.\n\nTalks centered on prospective partnerships involving livestock breeding, genetic enhancement, and the sharing of goat germplasm. Both parties also investigated avenues for joint scientific studies, technology transfer, and creating commercially viable goat breeds suited for meat production.\n\nFederal Minister for National Food Security and Research Rana Tanveer Hussain has been working to modernize Pakistan's agricultural research framework and elevate the livestock industry. His strategy emphasizes commercializing local genetic assets, implementing advanced breeding techniques, and turning the nation's livestock capacity into export-driven economic ventures.\n\nPakistan Agricultural Research Council Chairman Dr Syed Murtaza Hassan Andrabi has similarly championed international scientific cooperation to bolster institutional partnerships. The delegation's interest represents a significant milestone in agricultural ties between Pakistan and Brazil, opening pathways to convert indigenous genetic wealth into commercial export success.",
+   "url": "",
+   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/GOAT-Breed.jpg",
+   "published": "2026-11-26T17:55:57+00:00",
+   "source": "Source: ARY News",
    "lang": "en",
    "category": "pakistan"
   },
@@ -119,6 +171,32 @@
    "category": "pakistan"
   },
   {
+   "id": "4e6e209312fa",
+   "rewritten": true,
+   "v4": true,
+   "title": "مولانا فضل الرحمان حالات کو تصادم کی طرف لے جانا چاہتے ہیں: عطا تارڑ",
+   "summary": "وفاقی وزیر اطلاعات عطا تارڑ نے جیو نیوز کے پروگرام میں گفتگو کرتے ہوئے کہا ہے کہ مولانا فضل الرحمان غصے میں ہیں اور حالات کو تصادم کی طرف دھکیلنا چاہتے ہیں۔ انہوں نے مزید کہا کہ بلاول بھٹو اگر خود کنفیوز رہنا چاہتے ہیں تو رہیں مگر عوام کو الجھن کا شکار نہ کریں، اور سوال کیا کہ انہیں عوامی رائے سے اتنا خوف کیوں ہے۔\n\nاسی پروگرام میں سینیٹ میں اپوزیشن لیڈر علامہ راجا ناصر عباس نے بیان دیا کہ وہ بانی پی ٹی آئی کو مائنس نہیں ہونے دیں گے۔ ان کا کہنا تھا کہ جب تک وہ بانی پی ٹی آئی کے منہ سے خود نہیں سن لیتے، تب تک وہ نئے صوبوں اور ریفرنڈم کی حمایت نہیں کریں گے، کیونکہ ایسا کرنا بانی پی ٹی آئی کے بیانیے سے انحراف ہوگا۔\n\nدوسری جانب پاکستان، ترکی اور سعودی عرب کے مکہ دفاعی مشترکہ معاہدے کے تحت اسٹریٹیجک سیاسی و دفاعی کمیٹی کا اہم اجلاس کل جمعہ کو اسلام آباد میں منعقد ہوگا۔ اجلاس میں تینوں ملکوں کے وزرائے خارجہ اور اعلیٰ عسکری حکام کی شرکت متوقع ہے، اور معاہدے کے تحت سعودی عرب کا دفاع تینوں ممالک کی مشترکہ ذمے داری ہے۔\n\nمختلف شہروں میں دیگر انتظامی اور قانونی امور بھی جاری ہیں جن میں لاہور کے ستوکتلہ میں نجی اسپتال سے لاش کی برآمدگی، اسلام آباد میں فاطمہ اصغر قتل کیس کی سماعت، اور ایف آئی اے کی جانب سے انسانی اسمگلر کی گرفتاری شامل ہیں۔ حکام ان تمام معاملات پر اپنی قانونی اور انتظامی کارروائیاں جاری رکھے ہوئے ہیں۔",
+   "url": "",
+   "image": "https://jang.com.pk/assets/uploads/updates/2026-11-26/b_1636995_102046_updates.jpg",
+   "published": "2026-11-26T17:11:31+00:00",
+   "source": "ذریعہ: Jang",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
+   "id": "c3c54e7a69be",
+   "rewritten": true,
+   "v4": true,
+   "title": "گلگت بلتستان کی خطرناک فیری میڈوز سڑک پر خاتون نے جیپ چلا دی",
+   "summary": "گلگت بلتستان کی انتہائی خطرناک اور دشوار گزار فیری میڈوز سڑک پر پشاور سے تعلق رکھنے والی 39 سالہ خاتون رفیعہ قاسم بیگ نے جیپ چلا کر ایک منفرد اور شاندار مہم سر کی ہے۔ یہ سڑک اپنی تنگ گزرگاہوں، خطرناک موڑوں، گہری کھائیوں اور پہاڑی ڈھلوانوں کی وجہ سے دنیا کی خطرناک ترین سڑکوں میں شمار ہوتی ہے جہاں عام طور پر صرف مقامی اور ماہر ڈرائیور ہی گاڑی چلاتے ہیں۔\n\nرفیعہ قاسم بیگ نے 24 نومبر کو اس کٹھن راستے پر اپنی جرأت، خود اعتمادی اور ڈرائیونگ کی مہارت کا مظاہرہ کرتے ہوئے خود رضاکارانہ طور پر جیپ چلائی۔ ان کا یہ خطرناک سفر خواتین کے لیے ایڈونچر ڈرائیونگ کے شعبے میں ایک بڑی حوصلہ افزا مثال کے طور پر سامنے آیا ہے۔\n\nخاتون نے اپنی اس شاندار اور بہادرانہ کاوش کو پاکستان کے تمام ان شہداء کے نام منسوب کیا ہے جن کی قربانیاں ملک سے محبت، وفاداری اور حب الوطنی کی روشن مثال ہیں۔ اس مہم نے ملک بھر میں خواتین کی ہمت اور صلاحیتوں کو اجاگر کیا ہے۔\n\nیہ واقعہ ایسے وقت میں سامنے آیا ہے جب ملک کے مختلف حصوں میں سیاسی سرگرمیاں، دفاعی اجلاس اور انتظامی امور بھی ساتھ ساتھ چل رہے ہیں، تاہم فیری میڈوز پر اس خاتون کی کامیابی نے ایک الگ ہی تاریخ رقم کی ہے۔",
+   "url": "",
+   "image": "https://jang.com.pk/assets/uploads/updates/2026-11-26/b_1636994_101603_updates.jpg",
+   "published": "2026-11-26T17:11:22+00:00",
+   "source": "ذریعہ: Jang",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "7eba7d6c3449",
    "rewritten": true,
    "v4": true,
@@ -143,6 +221,19 @@
    "source": "Source: ARY News",
    "lang": "en",
    "category": "pakistan"
+  },
+  {
+   "id": "ea20824498a9",
+   "rewritten": true,
+   "v4": true,
+   "title": "Makkah Pact Nations to Meet in Islamabad to Discuss Yemen",
+   "summary": "Representatives from Saudi Arabia, Turkey, and Pakistan are scheduled to convene in Islamabad for a high-level meeting. Pakistan's defense minister, Khawaja Asif, confirmed that the ongoing conflict in Yemen between Saudi Arabia and the Houthis will be a primary agenda item during Thursday's discussions.\n\nThe three Muslim-majority nations established the mutual defense agreement in August, which dictates that any military aggression against Saudi Arabia is considered an attack on all member states. While the pact remains in a nascent development stage following its formation amid Middle Eastern tensions, officials aim to solidify operational procedures over the coming months.\n\nDuring discussions, Khawaja Asif noted that regional security extends beyond the immediate conflict with the Houthis. He identified potential security risks originating from Israel and highlighted Pakistan's previous diplomatic interventions between Washington and Tehran.\n\nThe upcoming consultations in Islamabad are part of broader regional diplomatic efforts to coordinate security policies. However, officials noted that ongoing international mediation remains fragile as governments work to establish long-term stability.\n\nThis mutual defense framework underscores the commitment of Pakistan, Saudi Arabia, and Turkey to address shared security challenges collaboratively. The meeting provides a platform for defense and foreign ministers to align their strategies regarding ongoing regional turmoil.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2025/08/06175441826ac08.jpg",
+   "published": "2026-11-26T17:02:44+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
   },
   {
    "id": "b1530ba80689",
@@ -231,6 +322,19 @@
    "url": "",
    "image": "https://jang.com.pk/assets/uploads/updates/2026-11-26/b_1636990_100257_updates.jpg",
    "published": "2026-11-26T16:11:51+00:00",
+   "source": "ذریعہ: Jang",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
+   "id": "904931eb000f",
+   "rewritten": true,
+   "v4": true,
+   "title": "مراد علی شاہ کا کہنا ہے کہ امن و امان برقرار رکھنا ہماری پہلی ترجیح ہے",
+   "summary": "سندھ کے وزیر اعلیٰ سید مراد علی شاہ نے کراچی میں ایک پریس کانفرنس سے خطاب کرتے ہوئے کہا ہے کہ 29 نومبر کے لیے ایک سیاسی جماعت نے بہت پہلے ریلی کی درخواست دی تھی، جبکہ میڈیا کے ذریعے معلوم ہوا کہ متحدہ قومی موومنٹ (ایم کیو ایم) بھی اسی روز ریلی نکالنا چاہتی ہے۔\n\nوزیر اعلیٰ سندھ نے واضح کیا کہ ان کی حکومت کی اولین ترجیح صوبے میں امن و امان کا قیام ہے۔ انہوں نے بتایا کہ اس سلسلے میں تمام متعلقہ تینوں جماعتوں سے بات چیت کی گئی ہے اور انہوں نے موثر جواب دیا ہے، جبکہ محکمہ قانون امن و امان کی صورتحال کا جائزہ لے کر ہی اجازت دے گا۔\n\nپریس کانفرنس کے دوران مراد علی شاہ نے یہ بھی ذکر کیا کہ انہوں نے سندھ کے وزیر قانون کو ہدایت کی ہے کہ وہ سندھ ہائی کورٹ کے چیف جسٹس سے ملاقات کریں اور درخواست کریں کہ غیر قانونی عمارتوں کے مقدمات کا فیصلہ پندرہ دن کے اندر کیا جائے۔\n\nاس کے علاوہ کراچی میں ٹریفک کی روانی کو برقرار رکھنے کے لیے متبادل راستے بھی تجویز کیے گئے ہیں تاکہ کسی بھی سیاسی سرگرمی یا ریلی کے دوران عوام کو مشکلات کا سامنا نہ کرنا پڑے اور شہر میں نظم و ضبط قائم رہے۔",
+   "url": "",
+   "image": "https://jang.com.pk/assets/uploads/updates/2026-11-26/b_1636991_100756_updates.jpg",
+   "published": "2026-11-26T16:11:28+00:00",
    "source": "ذریعہ: Jang",
    "lang": "ur",
    "category": "pakistan"
@@ -769,6 +873,19 @@
    "category": "world"
   },
   {
+   "id": "ee4655112362",
+   "rewritten": true,
+   "v4": true,
+   "title": "واشنگٹن میں نیتن یاہو اور ٹرمپ کیخلاف متنازعہ احتجاج ریکارڈ کرایا گیا",
+   "summary": "امریکی دارالحکومت واشنگٹن میں صیہونیت مخالف کارکنوں نے یونین اسٹیشن کے باہر تھینکس گیونگ سے قبل ایک احتجاجی مظاہرہ کیا۔ اس مظاہرے کو 'فرینڈز گیونگ ڈنر' کا نام دیا گیا تھا جس میں اسرائیلی وزیراعظم بنیامین نیتن یاہو اور امریکی صدر ڈونلڈ ٹرمپ سمیت دیگر اعلیٰ امریکی شخصیات کے خلاف شدید علامتی تنقید کی گئی۔\n\nمظاہرے کے دوران اداکاروں نے نیتن یاہو، ڈونلڈ ٹرمپ اور مالیاتی شخصیت جیفری ایپسٹین کا روپ دھار کر ایک میز پر بیٹھنے کی منظرکشی کی۔ اس میز پر بچوں کی خون آلود گڑیاں اور مصنوعی خون کے پیالے رکھے گئے تھے، جن کا مقصد غزہ میں بچوں کی ہلاکتوں کو اجاگر کرنا تھا اور میز پر موجود ایک مشروب کا نام 'غزہ کا خون' رکھا گیا تھا۔\n\nاس احتجاجی پرفارمنس میں امریکی وزیر خارجہ مارکو روبیو اور سابق وزیر خارجہ انٹونی بلنکن کے کردار بھی شامل تھے۔ اس کے علاوہ ایک اداکار نے مجسمہ آزادی کا روپ دھار رکھا تھا جسے زنجیروں میں جکڑا گیا تھا اور اس کے منہ پر اسرائیلی پرچم باندھا گیا تھا۔\n\nاس علامتی احتجاج پر مختلف آراء سامنے آئیں کیونکہ اس میں قرون وسطیٰ کے دور کے الزامات اور تاریخی مظاہر کی عکاسی بھی کی گئی تھی۔ اس نوعیت کے مظاہرے واشنگٹن میں اسرائیلی اور امریکی پالیسیوں کے خلاف بڑھتے ہوئے عوامی اور کارکنوں کے ردعمل کا حصہ ہیں۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-26T13:18:30+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "d698cd952db6",
    "rewritten": true,
    "v4": true,
@@ -857,6 +974,32 @@
    "published": "2026-11-26T13:11:00+00:00",
    "source": "ذریعہ: Jang",
    "lang": "ur",
+   "category": "pakistan"
+  },
+  {
+   "id": "85cd8c2c4ee6",
+   "rewritten": true,
+   "v4": true,
+   "title": "Prime Minister Shehbaz Sharif Pushes for Gemstone Sector Reforms",
+   "summary": "Prime Minister Shehbaz Sharif has urged authorities to implement comprehensive reforms in Pakistan's gemstone industry. During a high-level review meeting, he stressed the need to establish international-standard laboratories, modernize mining techniques, and provide specialized professional training to increase exports and value addition.\n\nTo upgrade professional skills, the prime minister instructed officials to send Pakistani master trainers to Sri Lanka and Thailand for specialized education in gemstone processing. Furthermore, he directed the foreign secretary to ensure local ambassadors in those nations offer complete assistance. Officials noted that Pakistan possesses around 300 million carats of gemstone reserves with over 9,000 miners extracting more than 30 varieties of precious stones.\n\nDespite vast reserves, the sector faces severe limitations, including excessive waste during mining, a lack of technical expertise, and a heavy reliance on exporting unprocessed stones. A Rs4.1 billion project is currently underway to establish facilitation centers across Gilgit-Baltistan, Azad Jammu and Kashmir, and Islamabad. Additionally, authorities have begun implementing the National Gemstone Policy 2026-2030.\n\nThe proposed framework introduces an independent regulatory system, restricted export of raw stones, and tax exemptions on imported machinery. The meeting was attended by prominent federal ministers, advisors, and senior officials, all tasked with expanding private-sector participation and building an integrated domestic value chain.",
+   "url": "",
+   "image": "https://i.brecorder.com/large/2026/11/261745504a53dbb.webp",
+   "published": "2026-11-26T12:47:06+00:00",
+   "source": "Source: Business Recorder",
+   "lang": "en",
+   "category": "business"
+  },
+  {
+   "id": "ea711df30593",
+   "rewritten": true,
+   "v4": true,
+   "title": "Government Limits Quarterly Fuel Cost Adjustments to 83 Paise",
+   "summary": "The federal government announced plans to cap additional fuel cost charges for electricity consumers at 83 paise per unit through a forward-looking quarterly adjustment mechanism. The decision aims to shield the public from a proposed Rs2.88 per unit increase sought for December billing.\n\nDuring a public hearing at the National Electric Power Regulatory Authority (Nepra), Power Division officials explained that winter conditions typically trigger a seasonal drop in hydropower generation, forcing greater reliance on thermal fuels. International fuel price volatility stemming from the Iran-US conflict further exacerbated these financial pressures on the power sector.\n\nPower Division Additional Secretary Mehfooz Bhatti stated that the newly proposed Forward-looking Fuel Cost Adjustment (FFCA) mechanism will provide crucial pricing predictability for industrial and domestic consumers. Nepra officials acknowledged the proposal and stated that formal regulatory reviews will proceed once official policy directives are received from the government.\n\nThe Power Division highlighted that prior to recent international energy crises, concerted policy reforms had successfully reduced national average tariffs. The latest intervention is designed to minimize external price shocks and maintain tariff stability for the business community and ordinary citizens alike.\n\nAuthorities will continue monitoring international fuel markets closely while executing load management strategies to optimize available supplies. The government maintains that these proactive measures are necessary to safeguard consumer interests during challenging economic times.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/07/171550184e07a8c.webp",
+   "published": "2026-11-26T12:39:14+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
    "category": "pakistan"
   },
   {
@@ -990,6 +1133,19 @@
    "category": "pakistan"
   },
   {
+   "id": "a11ade1d64a2",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan Lowers Petrol and Diesel Prices for November 27",
+   "summary": "The federal government announced a reduction in the prices of petrol and high-speed diesel for November 27. According to an Oil and Gas Regulatory Authority press release, petrol decreased by Re1 to cost Rs313 per litre, while high-speed diesel dropped by Rs2 to Rs346 per litre.\n\nThis latest revision follows a previous price decrease enacted for November 26, which saw petrol and diesel fall by Rs4 and Rs5 per litre, respectively. The adjustments form part of a daily pricing mechanism implemented on July 17 to address continuous global oil market volatility driven by renewed tensions between the United States and Iran.\n\nTo mitigate the impact of rising fuel costs on vulnerable populations, Prime Minister Shehbaz Sharif previously introduced targeted relief initiatives. These included a special scheme offering discounted fuel to users of motorcycles, rickshaws, and small cars, alongside broader national austerity measures such as early closing times for commercial markets.\n\nEarlier in November, the government also arranged for domestic oil refineries to absorb financial burdens to keep domestic petrol prices lower than prevailing global rates. The ongoing daily revisions reflect active state management amid fluctuating international petroleum markets and broader regional supply concerns.\n\nThe regular price updates are intended to pass international market adjustments directly to local consumers while maintaining structured oversight. Regulatory bodies will continue reviewing rates daily to navigate ongoing economic pressures affecting the energy sector.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-26T12:04:12+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "business"
+  },
+  {
    "id": "49900b1711f2",
    "rewritten": true,
    "v4": true,
@@ -1081,6 +1237,19 @@
    "category": "pakistan"
   },
   {
+   "id": "5f2f054d0c02",
+   "rewritten": true,
+   "v4": true,
+   "title": "واٹس ایپ نے صارفین کے لیے میسجز شیڈول کرنے کا نیا فیچر متعارف کرا دیا",
+   "summary": "مقبول ترین میسجنگ ایپ واٹس ایپ نے اپنے صارفین کی طویل عرصے سے چلی آنے والی خواہش کو پورا کرتے ہوئے پیغامات کو شیڈول کرنے کی سہولت متعارف کرانے کا باضابطہ اعلان کر دیا ہے۔ اس نئی تبدیلی کے بعد اب صارفین کسی بھی پیغام کو فوری طور پر بھیجنے کی بجائے اس کے پہنچنے کی تاریخ اور وقت کا تعین پہلے سے ہی کر سکیں گے، جس کے نتیجے میں مطلوبہ پیغام مقررہ وقت پر خود بخود متعلقہ چیٹ میں منتقل ہو جائے گا۔ میٹا کے زیرِ انتظام چلنے والی اس ایپ میں اس سے قبل یہ سہولت فراہم نہیں کی گئی تھی، لیکن اب آنے والے اس فیچر کے ذریعے اکیلے افراد کی چیٹس اور گروپس دونوں میں ہی پیغامات کا شیڈول تیار کرنا ممکن ہو گا۔ اس سہولت کے دائرہ کار میں صرف سادہ الفاظ یا تحریریں ہی نہیں بلکہ مختلف ویب لنکس، تصاویر اور ویڈیوز بھی شامل ہوں گی۔\n\nنئے فیچر کو استعمال کرنے کا طریقہ انتہائی آسان بنایا گیا ہے تاکہ ہر فرد اسے آسانی سے برت سکے۔ صارف کو سب سے پہلے اپنا مطلوبہ پیغام تحریر کرنا ہوگا اور پھر معمول کے مطابق سینڈ کا بٹن دبانے کی بجائے اس نشان کو کچھ دیر تک دبا کر رکھنا پڑے گا۔ اس عمل کے بعد سکرین پر ایک نئی ونڈو ظاہر ہو گی جہاں سے اس پیغام کو بھیجے جانے کے لیے مطلوبہ تاریخ اور وقت کا انتخاب کیا جا سکے گا۔ جیسے ہی وہ مقررہ وقت آئے گا، پیغام خود بخود آگے روانہ ہو جائے گا۔ صارفین اپنی چیٹ کی معلومات والی سکرین میں جا کر ان تمام پیغامات کو دیکھ بھی سکیں گے جنہیں انہوں نے شیڈول کیا ہوگا، اور ضرورت پڑنے پر وہ ان پیغامات کو حذف کرنے کا اختیار بھی رکھتے ہوں گے۔\n\nموجودہ تفصیلات کے مطابق اس فیچر کے تحت کسی بھی پیغام کے بھیجنے کا وقت موجودہ وقت سے کم از کم 10 منٹ آگے اور زیادہ سے زیادہ دو ہفتے کے فاصلے تک مقرر کیا جا سکتا ہے۔ تاہم یہ کارآمد سہولت ہر صارف کو فی الفور میسر نہیں آئے گی۔ اگر سینڈ کے آئیکون کو دبا کر رکھنے کے باوجود شیڈولنگ کا کوئی بھی متبادل نظر نہ آئے تو اس کی بنیادی وجہ یہ ہو گی کہ یہ فیچر تاحال اس مخصوص اکاؤنٹ تک نہیں پہنچ سکا ہے۔ کمپنی کی جانب سے فراہم کردہ معلومات کے مطابق اس فیچر کی دنیا بھر میں فراہمی کا آغاز کر دیا گیا ہے اور آنے والے چند ہفتوں کے اندر اندر اسے تمام صارفین کے لیے مہیا کر دیا جائے گا۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-26T11:47:17+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
+   "category": "pakistan"
+  },
+  {
    "id": "1fee578406a9",
    "rewritten": true,
    "v4": true,
@@ -1131,6 +1300,19 @@
    "source": "Source: Business Recorder",
    "lang": "en",
    "category": "business"
+  },
+  {
+   "id": "dcce827c37dc",
+   "rewritten": true,
+   "v4": true,
+   "title": "Türkiye and Saudi Arabia Sign Defence Development Cooperation Agreement",
+   "summary": "Türkiye and Saudi Arabia have signed a memorandum of understanding to bolster cooperation in the defence industry, as announced by Turkish defence industries chief Haluk Gorgun on Thursday. The agreement was concluded between Türkiye’s Presidency of Defence Industries and Saudi Arabia’s General Authority for Defence Development, with GADD President Faleh bin Abdullah Al-Sulaiman taking part in the signing.\n\nThe pact focuses on collaborative efforts in research, development, and innovation concerning defense and military technologies and systems. Both sides hope the partnership will yield mutual benefits for the two nations, and Gorgun thanked Al-Sulaiman and his delegation for their visit during the proceedings.\n\nIn addition to the signing, Gorgun addressed security matters by offering Türkiye's condolences and support following an attack directed at the King Abdullah Financial District in Riyadh. He condemned the hostile act and reaffirmed solidarity with the Saudi population.\n\nThe new agreement highlights deepening ties between Ankara and Riyadh in the military technology sector. It also underscores ongoing diplomatic engagements amidst regional security concerns in the Middle East.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-26T11:39:18+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "world"
   },
   {
    "id": "4573a8103eb9",
@@ -1250,6 +1432,32 @@
    "category": "pakistan"
   },
   {
+   "id": "990d6db48815",
+   "rewritten": true,
+   "v4": true,
+   "title": "UK Net Migration Drops to Lowest Level Since 1997",
+   "summary": "Britain recorded an annual net migration decline to 77,000 in the year leading up to the end of June, marking the lowest figure outside of the COVID-19 pandemic since 1997. Official statistics released on Thursday revealed a sharp drop from 204,000 the previous year, reflecting a roughly 90% plunge from the peak of nearly a million people in 2023.\n\nThe significant decrease stems from tighter restrictions implemented by former and current administrations on work visas, student arrivals, and asylum seekers, alongside higher salary thresholds and dependent bans. Interior minister Shabana Mahmood stated that the government has regained control of the immigration system, though populist figures and parties argued the long-term influx has severely strained public services and housing.\n\nWhile the ONS noted that a reduction in long-term migration from individuals born outside the European Union drove the decline, economists warned of potential economic consequences. Experts from Oxford Economics and other institutions suggested that sustained low immigration could shrink the British workforce, slow growth potential, and tighten public finances.\n\nThe milestone fulfills a long-sought political goal initially pledged by former Prime Minister David Cameron in 2010. However, think tanks like British Future noted that the dramatic drop may surprise voters accustomed to debates about surging arrivals, prompting calls for politicians to establish sustainable long-term immigration levels.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-26T10:30:42+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "world"
+  },
+  {
+   "id": "d5a48a7505d2",
+   "rewritten": true,
+   "v4": true,
+   "title": "Major Trading Partners Reject Proposed US Tariffs on Overcapacity",
+   "summary": "Major global economies, including China and the European Union, have strongly criticized proposed United States tariffs following a lengthy investigation into alleged excess production. The new tolls, reaching up to 20 percent, target trading partners such as India, Japan, South Korea, Indonesia, and Vietnam, and will undergo a public comment period before potentially taking effect in January.\n\nUS trade officials defended the measures as a necessary response to mass production at a loss that undercuts local rivals and threatens the domestic manufacturing base. However, Beijing dismissed the overcapacity rationale as a pretext for protectionism and threatened to take measures to defend its rights. Other nations, including Japan and Singapore, similarly denied engaging in non-market practices or subsidizing domestic manufacturing.\n\nThe levies form part of President Donald Trump's broader second-term strategy to reshape global trade by compelling countries to buy American goods or shift production to the US. Trade lawyers noted that the probe addresses fears of foreign factories flooding global markets with excess goods, potentially depressing prices and hollowing out American industry.\n\nThe announcement coincides with data showing high domestic inflation and follows recent legislative shifts in Washington. While the Supreme Court struck down broader global tariffs earlier in the year, sector-specific and forced-labour duties remain in place, with the administration stating that the new production levies will not stack on top of existing ones.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/261521313d33255.webp",
+   "published": "2026-11-26T10:30:41+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "business"
+  },
+  {
    "id": "35c644db69b3",
    "rewritten": true,
    "v4": true,
@@ -1285,6 +1493,32 @@
    "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/11/Munem-Zafar-Khan.jpg",
    "published": "2026-11-26T10:26:23+00:00",
    "source": "Source: ARY News",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "da31a5756968",
+   "rewritten": true,
+   "v4": true,
+   "title": "Sindh Government Orders Immediate Halt and Demolition of Illegal Buildings",
+   "summary": "The Sindh government has directed the Sindh Building Control Authority to immediately halt construction on all unauthorized buildings across the province and initiate demolition proceedings against gross violations, particularly unoccupied structures. Issued by the Local Government and Housing Town Planning Department on November 26, the directive mandates that construction must stop instantly even where stay or restraining orders exist, with such legal cases to be prioritized alongside district attorneys.\n\nUnder the notification, grossly illegal or completed structures lacking proper approvals will be targeted for demolition using standard operating procedures with assistance from district administrations. SBCA Director General Bilal Ahmed Memon was tasked with overseeing the enforcement of these orders, which were formally signed by Sindh Secretary Bilal Ahmed Memon.\n\nThe provincial directive follows a series of deadly structural incidents in Karachi, including the collapse of a six-storey under-construction building in the Baloch Colony area that killed four people and injured 14 others. Initial investigations into that collapse revealed that six extra floors had allegedly been constructed without approval beyond the permitted basement, ground floor, and single storey.\n\nAdditional incidents earlier in the year—such as bridge and residential building collapses due to structural flaws and gas leaks—have intensified public scrutiny over regulatory oversight and construction safety in the region. The latest government order aims to address unchecked illegal expansion and prevent further tragedies across local neighborhoods.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-26T10:25:14+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "b14dc48e6726",
+   "rewritten": true,
+   "v4": true,
+   "title": "Swat Motorbike Passenger Becomes Global Cricket Sensation After One-Handed Catch",
+   "summary": "Mehran Khan, a 27-year-old civil servant and amateur cricketer from Pakistan, achieved worldwide fame after completing an extraordinary one-handed catch from the back of a moving motorbike. The incident occurred on Tuesday in Mingora, Khyber Pakhtunkhwa, as Khan and a friend were riding past a Swat Premier League match. Batsman Abrar Lala hit a looping six that sailed over the boundary toward the adjacent road, prompting Khan to stand up slightly on the vehicle and pluck the ball out of the air.\n\nAn employee of the Public Health Engineering Department who has played cricket since childhood, Khan described the act as pure instinct. Following the event, a local TikTok user uploaded footage of the catch, which quickly went viral globally and caught the attention of cricket legends. Australian fast bowler Brett Lee shared the video on Facebook, calling it an unbelievable catch, which left Khan thrilled and overwhelmed by the unexpected recognition.\n\nPolice and event commentators stopped Khan and his friend as they sped past, calling them back into the ground where spectators and players greeted them with loud applause. Tournament organisers rewarded Khan with Rs10,000 for his feat. Although social media users joked that he stole the match ball, Khan clarified that he handed it directly to the tournament organisers and expressed hope that they would eventually return it to him as a keepsake.\n\nKhan attributes his recent good fortune to the birth of his daughter eight months ago, believing her arrival kicked off a lucky streak that led to the iconic moment. He noted that his life has completely changed since the video spread, with strangers frequently stopping him for selfies. Grateful for the respect and recognition, the mountain resident remarked that a single catch transformed him from an ordinary player into someone very special.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-26T10:16:15+00:00",
+   "source": "Source: The Express Tribune",
    "lang": "en",
    "category": "pakistan"
   },
@@ -1328,6 +1562,19 @@
    "category": "pakistan"
   },
   {
+   "id": "6cd571488ac8",
+   "rewritten": true,
+   "v4": true,
+   "title": "Pakistan Misses Azlan Shah Cup Final After Dramatic Draw Against Malaysia",
+   "summary": "Pakistan missed out on a place in the final of the Sultan Azlan Shah Cup after conceding a late goal to draw 5-5 against hosts Malaysia in a thrilling final group-stage match in Ipoh on Thursday. The result left both national teams level with ten points each, but Malaysia advanced to the title clash due to a superior goal average. Pakistan will now face South Korea in the third-place playoff on Saturday, while Malaysia prepares to play Australia.\n\nPakistan appeared headed for victory when Sufyan Khan successfully converted a penalty corner with just three minutes remaining, giving the Green Shirts a 5-4 lead. However, Malaysia secured a dramatic draw when Faizal Saari completed his hat-trick by converting a late penalty in the closing stages. The match underlined recurring defensive vulnerabilities for Pakistan, who repeatedly struggled to protect their leads throughout the tournament despite showing strong attacking potential.\n\nThe game saw frequent momentum shifts from the start. Malaysia opened the scoring through Abu Kamal Azari in the third minute, but Pakistan answered quickly with two goals from Ahmed Nadeem in the 12th and 15th minutes. After Jalil Marhan equalised via a penalty corner in the 20th minute, Pakistan briefly played with ten men following a green card issued to Rana Waheed Ashraf. Pakistan then surged ahead in the second half with goals from Muhammad Ahmed in the 35th minute and Hannan Shahid in the 47th minute.\n\nMalaysia mounted a swift response when Saari struck twice in the 49th minute via penalty corners to tie the score at 4-4. Although Sufyan's late penalty corner briefly restored Pakistan's lead, Saari's third conversion denied them the win. Missing the leadership of experienced defender Ammad Butt, Pakistan must now regroup to face South Korea, while Malaysia carries their momentum forward to face Australia on home soil.",
+   "url": "",
+   "image": null,
+   "published": "2026-11-26T10:10:50+00:00",
+   "source": "Source: The Express Tribune",
+   "lang": "en",
+   "category": "sports"
+  },
+  {
    "id": "8edd88aeb7c3",
    "rewritten": true,
    "v4": true,
@@ -1352,6 +1599,19 @@
    "source": "ذریعہ: BBC Urdu",
    "lang": "ur",
    "category": "pakistan"
+  },
+  {
+   "id": "731c3f5aacbe",
+   "rewritten": true,
+   "v4": true,
+   "title": "Motorbike Passenger in Swat Becomes Viral Cricket Sensation After Catch",
+   "summary": "Mehran Khan, a 27-year-old civil servant and amateur cricketer from Pakistan, gained international recognition after executing a remarkable one-handed catch while riding on the back of a moving motorcycle. The event took place on Tuesday in Mingora, Khyber Pakhtunkhwa, as Khan and a friend were commuting home from work past a Swat Premier League match. When batsman Abrar Lala struck a looping six toward the road, Khan stood up slightly on the bike and caught the ball out of the air with one hand.\n\nA government employee with the Public Health Engineering Department who has played cricket since childhood, Khan stated that the catch was driven entirely by instinct. A local TikTok user recorded and uploaded the moment, which rapidly spread across social media platforms. Khan expressed immense pride upon discovering that Australian fast bowler Brett Lee shared the footage on his Facebook page, describing it as an unbelievable honor for an ordinary player.\n\nTournament commentators spotted the speeding motorbike and instructed police to bring the pair back to the venue. Upon entering the ground, Khan was greeted by roaring applause from players and spectators, and tournament organizers presented him with a cash reward of Rs10,000. Addressing online jokes that he stole the cricket ball, Khan clarified that he promptly surrendered it to the organizers inside the ground, though he hopes to retrieve it eventually as a personal souvenir.\n\nKhan believes his recent stroke of good fortune stems from the birth of his daughter eight months ago, noting that everything has gone well for him since she arrived. The sudden fame has dramatically altered his daily routine, with locals frequently asking him for selfies both in public and when he returned home to a celebratory welcome from his family. He reflected that the single moment turned an ordinary mountain resident into someone very special.",
+   "url": "",
+   "image": "https://i.dawn.com/large/2026/11/261422178a849ce.webp",
+   "published": "2026-11-26T10:00:23+00:00",
+   "source": "Source: Dawn",
+   "lang": "en",
+   "category": "sports"
   },
   {
    "id": "785230692bf3",
@@ -3639,266 +3899,6 @@
    "published": "2026-11-25T14:48:19+00:00",
    "source": "ذریعہ: Express News",
    "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "ca5e37927793",
-   "rewritten": true,
-   "v4": true,
-   "title": "Six-Story Building Collapse in Karachi Kills Three and Injures 14",
-   "summary": "At least three people died and 14 others sustained injuries when the upper floors of an under-construction six-story building collapsed near Baloch Colony in Karachi. Rescue officials stated that no residents were living in the structure at the time, and heavy machinery was deployed to clear debris and search for individuals reportedly trapped underneath. Jinnah Postgraduate Medical Centre officials confirmed that 14 injured victims were brought to the facility, with nine subsequently discharged after treatment.\n\nAmong those pulled from the rubble was a young worker named Ahmed, who reported working on the fifth floor alongside several colleagues when the incident occurred. Rescue operations identified other injured individuals as Nadir Hussain and Shaukat Ali. Karachi Mayor Murtaza Wahab visited the site to inspect relief efforts, declaring that illegal construction had led to multiple arrests and emphasizing that no negligence in rescue operations would be tolerated. The Sindh Building Control Authority reported that the project involved commercial construction on a residential plot measuring 600 square yards.\n\nPrime Minister Shehbaz Sharif expressed grief over the tragedy and urged swift medical assistance for the wounded. Sindh Chief Minister Murad Ali Shah also inspected the site and criticized the permitting process, noting that initial approvals were restricted to a ground-plus-one structure before six floors were unlawfully erected. He asserted that such extensive violations required the complicity of government officials and vowed strict punishment for the owner, consultant, contractor, and any responsible state personnel. Authorities noted that establishing the exact number of missing people remained difficult due to multiple contractors operating at the site.",
-   "url": "",
-   "image": "https://www.geo.tv/assets/uploads/2026-11-25/692580_024215_updates.jpg",
-   "published": "2026-11-25T14:48:00+00:00",
-   "source": "Source: Geo News",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "2bb32e54f48b",
-   "rewritten": true,
-   "v4": true,
-   "title": "US Proposes 17% Tariff Cap on Indian Imports Contingent on Trade Deal",
-   "summary": "United States Trade Representative Jamieson Greer announced that the US will cap tariffs on Indian imports at 17% if Washington and New Delhi successfully finalize a trade agreement. Without a formal trade deal, the levy on Indian goods is set to increase to 25%. The proposal forms part of broader US administrative actions targeting 14 trading partners to address structural excess industrial capacity.\n\nThe United States criticized several Indian economic policies, citing inadequate labor protections, financial repression, market access barriers, and industrial expansion strategies as unreasonable trade practices. Washington argued that these measures harm domestic producers, exports, and employment while elevating economic security risks through heavy reliance on non-market economy inputs, particularly in sectors such as steel, solar technology, pharmaceuticals, and medical devices.\n\nBilateral trade relations have fluctuated previously, with both nations agreeing to a framework in February that lowered punitive tariffs on most Indian goods to 18% following earlier friction. Although a subsequent Supreme Court ruling invalidated the emergency powers used to implement sweeping global tariffs—dropping the baseline rate to 10%—a comprehensive and final trade pact between the two economies remains pending. Indian officials confirmed that bilateral discussions between New Delhi and Washington are ongoing.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2025/08/27193753adb8189.webp",
-   "published": "2026-11-25T14:37:34+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "ae289a6cf0f5",
-   "rewritten": true,
-   "v4": true,
-   "title": "Yemeni Houthis Claim Drone Attack on Saudi Arabia's Ras Tanura Refinery",
-   "summary": "Yemen’s Houthi movement stated that it launched an attack on Saudi Arabia's Ras Tanura oil refinery, the kingdom's largest facility, situated near a major crude export terminal in the Eastern Province. Houthi military spokesman Yahya Saree reported that the strike triggered fires at the site. The Saudi-led coalition confirmed that air defenses intercepted and destroyed four drones over Ras Tanura but did not acknowledge any direct hit to the refinery itself. Satellite imagery from NASA reviewed by Reuters revealed extensive thick black smoke covering a 600-square-kilometer area around the complex.\n\nThe Ras Tanura facility, which possesses a refining capacity of 550,000 barrels per day, has experienced previous attacks during the ongoing regional conflicts. The escalation follows a reignition of Yemen's civil war in July as a spillover from the wider US-Iran conflict, which has previously disrupted Aramco operations and forced the postponement of major international events in Saudi Arabia. Neither the Saudi government communications office nor state oil giant Aramco provided immediate comments regarding the refinery incident.\n\nAdditionally, the Houthis claimed responsibility for a multi-phase assault on Riyadh's financial district. Saudi civil defense reported that 11 people were wounded when a strike hit the tallest building in the capital, which houses the headquarters of the Public Investment Fund. This marked the second attack on the landmark sovereign wealth fund tower in less than a week, following a previous strike on November 19 that caused structural damage without injuries.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/11/25191816fec5c86.webp",
-   "published": "2026-11-25T14:18:30+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "67007047d38a",
-   "rewritten": true,
-   "v4": true,
-   "title": "غزہ میں جنگ کے باعث قبرستانوں میں جگہ کی شدید قلت",
-   "summary": "غزہ میں جاری جنگ کے دوران اموات کی تعداد میں بے پناہ اضافے کے باعث گورکنوں کو شدید مشکلات کا سامنا ہے۔ 1986 سے گورکن کے طور پر کام کرنے والے 61 سالہ یوسف احمد سلیم ابو حطب کا کہنا ہے کہ انھوں نے حالیہ تین برسوں میں 18 ہزار سے زائد لاشیں دفن کی ہیں، جو ان کے پورے کیریئر سے زیادہ ہیں۔ غزہ کی وزارتِ صحت کے مطابق جنگ میں اب تک 74,645 افراد ہلاک ہو چکے ہیں۔\n\nقبرستانوں میں جگہ ختم ہونے کی وجہ سے گورکنوں کو کئی دہائی پرانی قبریں دوبارہ کھولنا پڑی ہیں تاکہ ایک ہی خاندان کے نئے شہداء کو پہلے سے دفن افراد کے اوپر یا ساتھ دفنایا جا سکے۔ جگہ کی اس شدید کمی کے باعث جو قبرستان صرف 20 لاشوں کے لیے بنایا گیا تھا، وہاں 60 لاشیں دفن کی گئی ہیں اور ایک نئی قبر کی قیمت بڑھ کر 300 ڈالر تک پہنچ گئی ہے۔\n\nتدفین کے لیے درکار بنیادی اشیاء جیسے کہ کفن، غسل کے لیے صابن، اور قبروں کے لیے پتھر یا سلیب بھی نایاب ہو چکے ہیں۔ پتھر نایاب ہونے کی وجہ سے تباہ شدہ گھروں کا ملبہ استعمال کیا جا رہا ہے جہاں سے لوگ پتھر نکال کر دو ڈالر سے زائد قیمت پر فروخت کرتے ہیں۔ بعض اوقات پورے خاندانوں کو بغیر قبر کے ریت میں براہِ راست یا اجتماعی طور پر دفن کرنا پڑا ہے۔\n\nمعاشی تنگی اور علاج کی سہولت نہ ہونے کے باعث 16 سالہ سراج صیام جو کہ آنتوں کے کینسر میں مبتلا ہیں، خاندان کی کفالت کے لیے روزانہ قبریں کھودنے کا کام کرتے ہیں۔ بیمار والدین اور گھر میں واحد کمانے والے فرد ہونے کی وجہ سے وہ یومیہ چھ سے نو ڈالر اجرت پر یہ تھکا دینے والا کام کرنے پر مجبور ہیں۔\n\nغزہ کے رہائشیوں اور گورکنوں کا کہنا ہے کہ موجودہ حالات میں مردوں کے لیے جگہ ناپید ہو چکی ہے یہاں تک کہ قبرستانوں کے اردگرد کی زمین بھی بے گھر افراد کے خیموں سے بھری ہوئی ہے۔ ابو احمد کا کہنا ہے کہ اگر اختیار ہو تو وہ نئی قبر کی جگہ زندہ انسانوں کو خیمہ لگانے کے لیے ترجیح دیں گے کیونکہ زندہ انسان زیادہ ضرورت مند ہیں۔",
-   "url": "",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/82d8/live/c75edb90-e8a0-11f1-99a1-253766e7ad8b.jpg",
-   "published": "2026-11-25T14:17:41+00:00",
-   "source": "ذریعہ: BBC Urdu",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "2de8635163ae",
-   "rewritten": true,
-   "v4": true,
-   "title": "Qatari LNG Shipments Reach Post-War High Despite Skyrocketing Insurance Costs",
-   "summary": "Qatari liquefied natural gas shipments are heading toward their busiest month since the United States-Iran conflict began, despite a significant surge in insurance expenses. Data gathered by the analytics organization Kpler indicates that the Ras Laffan export facility recorded 36 vessel berthings during November, surpassing the 21 berthings seen in September and 35 in October. Out of the November total, 29 tankers turned off their Automatic Identification System signals, compared to seven in September and 27 in October.\n\nAs the world's leading supplier of liquefied natural gas, Qatar transports nearly its entire output through the Strait of Hormuz. Although November loading numbers represent the strongest performance since the war's outbreak at the end of February, overall shipments stay at roughly 40 percent of pre-conflict volumes according to industry analysts.\n\nWhile early anxieties centered on potential blockages within the Strait of Hormuz, experts note that financial repercussions have become the more immediate challenge. War-risk insurance coverage for vessels entering the Gulf has climbed from about 0.25 percent of a ship's value early in the year up to five percent or higher, as stated by Wood Mackenzie research director Ikram Elloumi. For a contemporary tanker valued near $250 million, this extra expense adds between $2.5 million and $12.5 million per voyage, whereas older, less valuable vessels experience much smaller increases.\n\nMarket dynamics and negotiating leverage dictate who ultimately pays these extra fees. Elloumi explained that when supplies are constrained, competing buyers typically absorb the expenses to guarantee their cargoes, whereas balanced markets may cause producers to experience diminished returns. Consequently, war-risk charges have transitioned from basic operational expenses into a vital element of trade economics.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2022/02/620f8fa7200e7.jpg",
-   "published": "2026-11-25T14:06:41+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "3b409d75df90",
-   "rewritten": true,
-   "v4": true,
-   "title": "Pakistan Celebrates First Astronaut in Space Aboard Chinese Tiangong Mission",
-   "summary": "Excitement filled an Islamabad auditorium before dawn on Wednesday as a Pakistani pilot lifted off on an unprecedented space journey in northwest China. Muhammad Zesahen Ali, a payload specialist and Pakistan Air Force pilot, became the first foreign national to join a Chinese space flight and the first non-Chinese individual to enter the Tiangong space station.\n\nCrowds of officials, students, and scientists gathered at the headquarters of the national space commission in the capital to watch Ali depart aboard the Shenzhou-24 alongside two Chinese crew members, while the national anthem played. Physics and astronomy student Zainab Abbasi expressed awe at witnessing the historic event, noting it was hard to imagine seeing a compatriot reach space so soon. Ali marks the first person from Pakistan to achieve orbit, following adventurer Namira Salim's commercial suborbital flight in October 2023. Ali is scheduled to spend a week in orbit before returning on the Shenzhou-23 spaceship already docked at the station.\n\nMuhammad Yousaf Khan, head of the Space and Upper Atmosphere Research Commission, expressed surprise at the large turnout for the early morning launch. Khan noted that Ali will conduct four orbital experiments, which include studying microalgae, growing quinoa beyond Earth, and testing self-healing materials for spacecraft. These projects were chosen from over 300 university proposals. The rigorous selection process screened over 50 candidates before sending 19 to China for testing, ultimately choosing Ali and naval officer Khurram Daud after roughly seven months of training.\n\nPakistan's space journey began in 1961 with its first rocket launch the following year, and the nation now partners closely with China to pursue its space ambitions following a bilateral agreement signed in February 2025. Professor Raza Akbar of the Institute of Space Technology described gaining independence from Beijing as a gradual mentoring process. Reflecting on the partnership, Akbar compared their cooperation to the height of the Himalayas, noting that while the mountain range reaches nine kilometers, today's achievement extends 400 kilometers into space.",
-   "url": "",
-   "image": "https://www.geo.tv/assets/uploads/2026-11-25/692573_012130_updates.jpg",
-   "published": "2026-11-25T14:02:00+00:00",
-   "source": "Source: Geo News",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "0e1d3813aa9e",
-   "rewritten": true,
-   "v4": true,
-   "title": "United States Inflation Accelerates Further in October, Keeping Rate Hikes Likely",
-   "summary": "Consumer inflation in the United States advanced further during October, strengthening predictions that the Federal Reserve could prolong interest rate increases into early 2027. Data released Wednesday by the Commerce Department's Bureau of Economic Analysis showed that the Personal Consumption Expenditures Price Index grew 0.3% last month, following an unrevised 0.5% increase in September. This matched predictions made by economists polled by Reuters. Over the 12-month period ending in October, the index climbed 3.8%, compared to a 3.6% advance the previous month.\n\nWhen omitting volatile energy and food sectors, the core PCE Price Index also rose 0.3% over the month, matching September's unrevised figure. On a 12-month basis, core inflation reached 3.3% in October following a 3.1% rise in September. The United States central bank closely monitors these PCE metrics to gauge its 2% inflation goal. According to CME's FedWatch tool, financial markets anticipate a quarter-percentage-point rate increase during the December 8-9 meeting, which would build on the current 3.75% to 4.00% range, with another hike expected in January. Furthermore, Fed Governor Christopher Waller has indicated openness to a larger half-percentage-point adjustment to combat inflation.\n\nStrong consumer demand and heavy corporate investment in artificial intelligence continue to drive price pressures upward. Consumer spending, which constitutes over two-thirds of domestic economic activity, expanded 0.3% in October after an upwardly revised 0.6% gain in September. Wealth generated by the stock market prior to recent artificial intelligence sell-offs has primarily supported higher-income households in their spending habits.\n\nMeanwhile, historically low layoff rates and steady hiring assist other households in maintaining expenditures, even though rising prices continue to diminish wage growth. Consumers are also reducing their savings and depleting financial reserves. Economists project that persistent inflation will eventually cause consumer spending to decelerate moving into 2027.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2025/10/1902204590c61e1.webp",
-   "published": "2026-11-25T13:58:25+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "e028736ee748",
-   "rewritten": true,
-   "v4": true,
-   "title": "United States proposes tariffs of up to 20pc on fourteen economies, including China and India",
-   "summary": "The United States unveiled proposed tariffs of up to 20 per cent on Wednesday targeting 14 economies, including major trade partners such as the European Union, China, and India. A senior US official, speaking anonymously, explained that the duties stem from a months-long investigation initiated by the US Trade Representative in March regarding alleged excess manufacturing capacity and production. The administration argues that these economies are promoting production divorced from market principles and real demand, potentially depressing global prices and harming US manufacturing.\n\nThe proposed levies apply to a diverse group of trading partners, including Bangladesh, Cambodia, Indonesia, Japan, South Korea, Malaysia, Singapore, Switzerland, Taiwan, Thailand, and Vietnam, alongside China and the EU. Specifically, a 20 per cent tariff has been proposed for China, representing the joint-highest rate among the affected economies. Additionally, the Office of the US Trade Representative announced separate proposed tariffs on Brazilian goods, such as aircraft, citing a lack of action on US trade concerns. The new measures will undergo a public comment period and are expected to take effect in January at the earliest.\n\nThis latest trade action is part of US President Donald Trump’s broader effort during his second term to reshape global trade relationships and compel nations to purchase American goods or manufacture domestically. The administration maintains that the proposals account for existing trade agreements and will not generate friction as Trump prepares to host G20 leaders in Miami in December. However, economists warn that the duties could increase financial pressure on domestic businesses and consumers who are already dealing with high inflation and the economic fallout from previous tariffs and policies.\n\nThe announcement arrives shortly after the US Supreme Court struck down a previous set of global tariffs in February because the executive branch lacked the authority to implement them under the cited law. Despite this legal setback, the administration's sector-specific duties remain in place. Officials clarified that the new excess-capacity tariffs will not stack on top of existing sector-specific levies or earlier tariffs imposed in July over forced labor concerns; instead, the higher rate of any overlapping tariffs will prevail.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/25183916f525cbd.webp",
-   "published": "2026-11-25T13:40:45+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "cf42eb3754b9",
-   "rewritten": true,
-   "v4": true,
-   "title": "California grand jury indicts Meghan Markle's estranged father on child pornography charges",
-   "summary": "Thomas Markle, the 82-year-old estranged father of Britain's Duchess of Sussex, Meghan Markle, was indicted on Tuesday by a California grand jury on two counts of possession of child pornography. Currently held in custody in Florida after cutting off an electronic ankle monitor required for his house arrest, Markle is anticipated to face arraignment in the United States District Court in Los Angeles in the coming weeks. The indictment asserts that Markle possessed 35mm film negatives depicting child sexual abuse, including at least one image involving a prepubescent minor.\n\nFederal prosecutors stated that FBI agents recovered dozens of illicit images stored on slides, film negatives, and books from two rented storage facilities in Los Angeles as well as from his previous residence in the Philippines. Court filings indicate that certain images appear to feature Markle alongside children who are either naked or partially dressed. Meanwhile, a Florida judge ordered a psychiatric examination for Markle this month after determining there is reasonable cause to believe he may be mentally incompetent and unable to understand the legal proceedings or assist in his defense.\n\nLegal authorities in the Philippines also initiated criminal complaints against Markle last week in Cebu, where he reportedly resided for over a year. Regional prosecutor Graeme Elmido noted that local police recommended filing two counts of distributing child sexual abuse material and one count of possessing it under Philippine law. These complaints will undergo preliminary evaluation before any formal investigation subpoenas are issued to Markle.\n\nPublic attention surrounding the case intensified in October when British tabloid The Sun reported that Markle's son, Thomas Markle Jr., discovered child abuse images while sorting through belongings at his father's former home in the Philippines. Following these revelations, Meghan Markle expressed deep distress over the accusations and stated that she had previously blocked contact between her father and her children due to troubling behavior. Meghan married Britain's Prince Harry in 2018, and the couple subsequently stepped back from royal duties in 2020.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/25173158f56008d.webp",
-   "published": "2026-11-25T13:24:33+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "world"
-  },
-  {
-   "id": "bb52b0aa259f",
-   "rewritten": true,
-   "v4": true,
-   "title": "Senate Panel Questions Regulators Over Fraud Allegedly Using Hum Network Name",
-   "summary": "The Senate Standing Committee on Finance convened on Wednesday under the leadership of Senator Saleem Mandviwalla to address growing concerns regarding alleged financial fraud and the transfer of billions of rupees abroad. The session focused on digital platforms and payment schemes allegedly misusing the name of the established media enterprise, Hum Network. Lawmakers questioned regulatory authorities about how illicit financial activities, awards schemes, and gambling websites could operate under a registered corporate identity without immediate detection or intervention by financial watchdogs.\n\nDuring the proceedings, officials from the Securities and Exchange Commission of Pakistan informed the committee that Hum Network Limited is a publicly listed broadcasting firm established in 2004, led by chairperson Sultana Siddiqui and chief executive officer Duraid. Representatives from the commission stated they had no prior knowledge of any illegal enterprises operating under that title and confirmed they had previously sent an inquiry letter requesting details concerning a Dubai-based entity and related bank accounts linked to Hum News Network.\n\nSenator Mandviwalla clarified during the discussion that the scrutiny did not target the legitimate television channel or Hum Network Limited, but rather a separate payment network unconnected to the broadcaster. He expressed astonishment at the regulatory body's lack of awareness regarding the alleged schemes, emphasizing that oversight obligations extend to auditing and penalizing violations across registered banking and digital channels. The Federal Board of Revenue chairman noted that the matter fell within the specific jurisdiction of financial regulators and central banking authorities.\n\nTo ensure a comprehensive examination, the committee decided to formally summon high-ranking officials from the State Bank of Pakistan, the Securities and Exchange Commission of Pakistan, the National Crime Agency, and other relevant institutions to its upcoming session. A detailed briefing will be provided by these agencies to trace the unusual financial transfers conducted through conventional banks, digital platforms, and online services.\n\nThis parliamentary inquiry matters because it highlights potential vulnerabilities in national digital payment systems and oversight mechanisms that could enable large-scale illicit capital flight. By demanding accountability from key financial regulators and law enforcement bodies, the committee aims to safeguard public financial integrity and clarify the extent of illicit operations exploiting well-known corporate titles.",
-   "url": "",
-   "image": null,
-   "published": "2026-11-25T13:05:57+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "bc0f000b50e1",
-   "rewritten": true,
-   "v4": true,
-   "title": "Fatima Sana Returns to Captain Pakistan Women Squad for West Indies Tour",
-   "summary": "All-rounder Fatima Sana has been reinstated as captain to lead a 15-member Pakistan women’s cricket squad for the upcoming tour of the West Indies next month. The Pakistan Cricket Board announced the squad on Wednesday, setting the stage for a busy series that includes three T20 Internationals and three One-Day Internationals. The 50-over matches carry significant weight as they form part of the ongoing ICC Women’s Championship 2025-29, where Pakistan currently holds fifth place in the standings after securing five victories across nine matches.\n\nThe entirety of the six-match bilateral series is scheduled to take place at Windsor Park in Roseau, running from December 8 to December 20. The T20 International fixtures will be contested on December 8, 10, and 12, while the One-Day International encounters will follow on December 15, 17, and 20. This tour provides an opportunity for the national side to improve its championship standing and secure crucial points in international women's cricket.\n\nThe 25-year-old captain had previously missed Pakistan's 14-member squad selection for the ICC Women’s Emerging Nations Trophy. Her absence during that period was due to her maiden overseas franchise commitments in Australia’s Women’s Big Bash League, where she debuted this season. Her return brings experienced leadership back to the national setup ahead of the Caribbean challenge.\n\nThe selected touring squad features a balanced mix of experience and emerging talent. Alongside captain Fatima Sana, the roster includes Ayesha Zafar, Gull Feroza, Momina Riasat, wicket-keepers Muneeba Ali and Najiha Alvi, Nashra Sundhu, Sadaf Shamas, Shawaal Zulfiqar, Sidra Amin, Syeda Aroob Shah, Tasmia Rubab, Tuba Hassan, Umm-e-Hani, and Waheeda Akhtar.\n\nThis upcoming series is important for Pakistan's aspirations in international cricket and regional rankings. Securing victories in the West Indies will boost team morale and strengthen their position in the multi-year ICC Women’s Championship table.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/25172528f13ef89.webp",
-   "published": "2026-11-25T12:29:19+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "sports"
-  },
-  {
-   "id": "5086d228cf74",
-   "rewritten": true,
-   "v4": true,
-   "title": "Rawalpindiz Secure Matthew Short as Direct PSL Signing While Hyderabad Opt Out",
-   "summary": "The Rawalpindiz franchise has secured Australian all-rounder Matthew Short as their marquee direct signing for the upcoming 12th edition of the Pakistan Super League. The agreement, announced on Wednesday, brings the Adelaide Strikers captain to the franchise for a reported fee of Rs9.15 crore ahead of the tournament, which is scheduled to take place from March 18 to May 2 next year. Short stands out as one of the highest-paid direct acquisitions for the upcoming season.\n\nThe 31-year-old cricketer is widely recognized for his aggressive top-order batting and useful right-arm off-spin, having earned the Big Bash League Player of the Tournament award twice. His extensive global franchise experience includes stints in the Indian Premier League, The Hundred, and Major League Cricket. Although previously selected by Islamabad United for PSL 10, Short was unable to participate due to a recurring injury sustained during the ICC Champions Trophy 2025, making this upcoming campaign his anticipated PSL debut with the Rawalpindi-based side.\n\nUnder Pakistan Cricket Board regulations, each franchise is granted the privilege of making one direct signing of a marquee player who did not participate in the 10th or 11th PSL editions. While Rawalpindi finalized their star player, the Hyderabad Kingsmen chose a different path, announcing via social media that they would bypass the direct-signing option to concentrate entirely on upcoming player auctions and retention strategies.\n\nOther franchises have also completed their pre-auction roster additions. Islamabad United acquired Matt Henry, Karachi Kings secured Adil Rashid, Multan Sultans signed Lance Morris, Lahore Qalandars brought in Kamindu Mendis, and Quetta Gladiators added Lockie Ferguson. Meanwhile, defending champions Peshawar Zalmi have not yet made an official announcement regarding their direct signing, though reports have linked them with England player Ben Duckett.\n\nThese early roster moves are crucial for shaping team dynamics ahead of the official player draft scheduled for January 23. Securing established international stars helps franchises build competitive squads early and generates significant fan engagement ahead of the tournament's opening matches.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/11/25171402ceed817.webp",
-   "published": "2026-11-25T12:19:59+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "sports"
-  },
-  {
-   "id": "c9f7c4896fe6",
-   "rewritten": true,
-   "v4": true,
-   "title": "پہلا پاکستانی خلا باز محمد ذیشان علی چینی خلائی سٹیشن پہنچ گئے",
-   "summary": "پاکستان کے پہلے خلا باز محمد ذیشان علی چینی مشن شینژو 24 کے ہمراہ تیانگونگ خلائی سٹیشن پہنچ گئے ہیں۔ بدھ کے روز جیوچوان سیٹلائٹ لانچ سینٹر سے روانہ ہونے والا یہ مشن زمین سے سفر مکمل کرنے کے بعد چینی خلائی سٹیشن سے منسلک ہو گیا، جہاں پہلے سے موجود شینژو 23 کے عملے نے نئے مہمانوں کا خیرمقدم کیا۔\n\nبطور پے لوڈ سپیشلسٹ جانے والے ذیشان علی اس مشن کے تحت تقریباً ایک ہفتہ خلائی سٹیشن پر گزاریں گے اور سائنسی تجربات میں حصہ لیں گے۔ وہ مائیکرو ایلجی کی افزائش اور کوئنوا کے بیجوں پر خلائی ماحول کے اثرات کا مطالعہ کریں گے۔ چینی خلائی پروگرام کے تحت ان کی خوراک اور زبان کی ضروریات کا خاص خیال رکھا گیا ہے اور حلال خلائی خوراک کا بندوبست کیا گیا ہے۔\n\nخلائی سٹیشن پہنچنے پر ذیشان علی نے علامہ اقبال کا مشہور شعر 'ستاروں سے آگے جہاں اور بھی ہیں' پڑھ کر سنایا جسے ساتھیوں نے بہت سراہا۔ اس سٹیشن پر خلا باز ورزش، سائنسی تحقیق اور روزمرہ کے امور سر انجام دیتے ہیں جہاں پانی اور خوراک کو خصوصی سائنسی طریقوں سے استعمال کیا جاتا ہے۔\n\nیہ سنگ میل پاکستان کے لیے خلائی تحقیق کی تاریخ میں ایک اہم قدم ہے۔ اس سے پاکستان اور چین کے درمیان سائنسی اور خلائی تعاون کو فروغ ملا ہے اور بین الاقوامی سطح پر پاکستانی نوجوانوں کی صلاحیتیں اجاگر ہوئی ہیں۔",
-   "url": "",
-   "image": "https://ichef.bbci.co.uk/ace/ws/240/cpsprodpb/a9ce/live/c03148a0-e8c6-11f1-ac76-db9e97f93d67.jpg",
-   "published": "2026-11-25T12:07:41+00:00",
-   "source": "ذریعہ: BBC Urdu",
-   "lang": "ur",
-   "category": "pakistan"
-  },
-  {
-   "id": "4c8ba718ad7c",
-   "rewritten": true,
-   "v4": true,
-   "title": "Government decreases petrol and diesel prices for November 26",
-   "summary": "The federal government reduced the price of petrol by Rs4 per litre and high-speed diesel by Rs5 per litre for November 26, according to a press release issued by the Oil and Gas Regulatory Authority. Following the revision, petrol was priced at Rs314 per litre, while high-speed diesel was set at Rs48 per litre.\n\nThe adjustment followed a previous reduction on November 25, when petrol prices dropped by Re1 and diesel fell by Rs4. Earlier on November 2, the government announced that oil refineries would absorb a monthly burden of Rs15 billion to keep petrol Rs15 cheaper than global rates amidst the US-Israeli conflict on Iran.\n\nA daily pricing mechanism was instituted on July 17 to replace the previous weekly schedule due to ongoing volatility in global oil markets driven by US-Iran tensions. Furthermore, Prime Minister Shehbaz Sharif announced a relief scheme on September 13 to offer Rs100 per litre discounts on petrol for motorcycles, rickshaws, and cars under 800cc to assist lower-income consumers.\n\nTo conserve fuel, the government also introduced restrictive operating hours for businesses and commercial venues on September 17. Under these rules, shops and shopping malls are required to close by 9pm, wedding halls by 10pm, and restaurants by 11pm daily, with takeaway and delivery services exempted from the timing mandates.",
-   "url": "",
-   "image": null,
-   "published": "2026-11-25T11:57:38+00:00",
-   "source": "Source: The Express Tribune",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "d2bc81aa9188",
-   "rewritten": true,
-   "v4": true,
-   "title": "Imran and Bushra's counsel argues £190m transaction brought financial benefits",
-   "summary": "During a hearing at the Islamabad High Court on November 25, 2026, Barrister Salman Safdar argued that the £190 million corruption case transaction caused no loss to the national exchequer and instead proved financially beneficial. A division bench comprising IHC Chief Justice Sardar Muhammad Sarfraz Dogar and Justice Muhammad Asif heard the appeals filed by former prime minister Imran Khan and his wife, Bushra Bibi, against their January 2025 accountability court convictions.\n\nAt the outset of the proceedings, the defense counsel requested live-streaming of the court sessions to ensure public transparency, noting that the trial had been conducted behind closed doors inside Adiala jail. Chief Justice Dogar observed that rules regarding live-streaming were yet to be finalized and that the application could not be approved at this stage, adding that the courtroom was already open to the public.\n\nArguing the main appeals, Barrister Safdar stated that the prosecution had produced 35 witnesses and that Imran was convicted under multiple provisions of the National Accountability Ordinance. He maintained that alleged financial benefits were extended by Bahria Town before accounts belonging to property tycoon Malik Riaz and his family were frozen by the UK's National Crime Agency. He also noted that several individuals, including Mirza Shahzad Akbar and Malik Riaz, were declared absconders in the case.\n\nThe defense counsel contended that the funds transferred to the Supreme Court account in connection with a land dispute had yielded significant profits over four years. He argued that there was no evidence establishing Imran's active knowledge of any wrongdoing, pointing out that neither Imran nor Bushra had signed the confidentiality agreement that facilitated the recovery of the frozen funds.",
-   "url": "",
-   "image": "https://i.dawn.com/large/2026/04/29175800a108e70.webp",
-   "published": "2026-11-25T11:55:33+00:00",
-   "source": "Source: Dawn",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "72e5ef03f06f",
-   "rewritten": true,
-   "v4": true,
-   "title": "Pakistani Pilot Becomes First Foreign Astronaut on China's Tiangong Station",
-   "summary": "Muhammad Zeeshan Ali, a forty-year-old former Pakistan Air Force pilot, has achieved a historic milestone by becoming the first Pakistani in orbit and the first foreign astronaut to join a crewed mission on China's Tiangong space station. Arriving on November 25, 2026, aboard the Shenzhou-24 spacecraft, Ali joined Chinese astronauts Tang Hongbo and Wu Yi for a mission designed to advance bilateral scientific cooperation between Pakistan and China.\n\nSelected in April 2026, Ali spent seven months undergoing rigorous preparation at the Astronaut Centre of China in Beijing. His training encompassed spacecraft systems, emergency responses, scientific procedures, and intensive Chinese-language instruction to facilitate communication with his crewmates. Serving as a payload specialist, Ali is tasked with conducting four joint research projects selected from over three hundred proposals submitted to Pakistan’s Space and Upper Atmosphere Research Commission.\n\nThe scientific projects focus on materials science and biotechnology, including lightweight graphene-based radiation shields, self-healing carbon-fibre composites, and the cultivation of quinoa seeds, microalgae, and cyanobacteria in microgravity. These experiments aim to improve spacecraft durability and support sustainable food and oxygen production for extended space missions. China arranged specially prepared halal meals and bilingual operating manuals to support his stay.\n\nAli's mission is scheduled to last between five and ten days in orbit. In a unique logistical arrangement, he is not expected to return on the spacecraft that brought him; instead, he will travel back to Earth aboard the Shenzhou-23 spacecraft alongside Chinese astronauts Zhang Zhiyuan and Li Jiaying. This milestone highlights decades of space collaboration between Pakistan and China, laying the groundwork for potential future joint endeavors beyond Earth.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/11/251642361f82f32.webp",
-   "published": "2026-11-25T11:44:00+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "7931bf245f13",
-   "rewritten": true,
-   "v4": true,
-   "title": "Pakistan Urges UN Security Council to Implement AI Military Guardrails",
-   "summary": "Pakistan has called upon the United Nations Security Council to institute strict international regulatory frameworks and guardrails to prevent emerging technologies and artificial intelligence from triggering a destabilizing arms race. Ambassador Syed Haider Shah, Pakistan's permanent representative to the UN, addressed a high-level 15-member Council debate on emerging technologies and conflict resolution under the Latvian presidency, emphasizing that nuclear launch decisions must strictly remain under human control.\n\nDuring the session, the Pakistani envoy stressed the critical need for military restraint and confidence-building measures to mitigate the dangers of miscalculation and compressed decision-making timelines caused by integrating AI into military operations. He specifically demanded an absolute prohibition against employing AI capabilities to target nuclear command, control, and communications systems, warning that algorithms should never be used to compress human judgment during crises.\n\nUnited Nations Secretary-General Antonio Guterres echoed these concerns at the outset of the meeting, noting that modern wars have become testing grounds for AI-enabled targeting and intelligence gathering. Guterres stressed that as long as nuclear weapons exist, the decision to use them must rest exclusively with human beings, adding that killer robots must have no place in the future. He also reiterated his urgent call to launch negotiations for a legally binding instrument addressing lethal autonomous weapon systems.\n\nFurthermore, the UN chief highlighted that the rapid, uncontrolled race for AI is being driven by commercial interests and geopolitical rivalry, while the massive energy and water consumption of AI data centers inflames community tensions. He stated that the Security Council holds a special duty to ensure technological competition does not destabilize international peace, asserting that countries wielding the greatest AI capabilities carry the heaviest responsibilities.",
-   "url": "",
-   "image": "https://www.geo.tv/assets/uploads/2026-11-25/692562_114654_updates.jpg",
-   "published": "2026-11-25T11:34:08+00:00",
-   "source": "Source: Geo News",
-   "lang": "en",
-   "category": "pakistan"
-  },
-  {
-   "id": "ad2d79ca45aa",
-   "rewritten": true,
-   "v4": true,
-   "title": "Oil Tankers Explode After Striking Naval Mines in the Strait of Hormuz",
-   "summary": "Two oil tankers suffered explosions and caught fire after striking naval mines in the Strait of Hormuz on Wednesday, according to a statement from Iran’s Revolutionary Guards Navy carried by state media. Iranian military officials asserted that the vessels were navigating through an unauthorized route within the vital waterway. The incident underscores heightened risks in the region as Tehran tightens control over maritime traffic.\n\nIn a related development, Iranian Army spokesperson Mohammad Akraminia announced that the military has deployed new surveillance systems and upgraded existing equipment to monitor the strait. Akraminia warned that ships attempting passage without coordinating directly with Iranian forces face severe hazards, noting that vessels failing to cooperate have struck mines during recent weeks.\n\nTehran has communicated to Washington that normal shipping operations will not resume in the Strait of Hormuz until specific conditions are met. Iran's demands include the termination of the U.S. naval blockade targeting Iranian ports and an end to the ongoing war on all fronts. Transmitted through Qatari mediators, Tehran's proposal indicates readiness to reopen the vital maritime trade route within forty-eight hours should Washington fulfill these stipulated terms.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/09/110812576cac717.webp",
-   "published": "2026-11-25T11:30:05+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "eb993f57011f",
-   "rewritten": true,
-   "v4": true,
-   "title": "Indian Equities Surge Toward Annual Recovery Amid Massive Foreign Inflows",
-   "summary": "Indian stock markets rallied on Wednesday, nearly wiping out their year-to-date losses and positioning the benchmarks for their strongest monthly performance since April 2020. The market surge has been driven by lower oil prices, strong corporate earnings, and a massive influx of foreign capital. Investors poured a record $14.28 billion into Indian equities this month as funds rotated away from global artificial intelligence-linked shares.\n\nThe broader market gains lifted the Nifty 50 by 1.85 percent to close at 25,819.25, while the Sensex rose 1.82 percent to settle at 83,938.28 following a local holiday on Tuesday. Meanwhile, the Indian rupee recovered from historic lows, appreciating by up to 2.9 percent over the course of the month. These gains contrasted sharply with the broader MSCI Asia-Pacific index outside Japan, which fell 3.3 percent amid renewed concerns over prospective United States tariffs and a fading technology rally.\n\nIndia emerged as Asia's top-performing market for the month, with the Nifty 50 gaining more than 15 percent in dollar terms. Analysts noted that strong earnings momentum, low foreign positioning, and insulation from AI market concentration make India an attractive hedge. Economists forecast a 7.6 percent growth rate for the Indian economy during the July-September quarter, matching corporate earnings that reached a four-year high for the same period.\n\nSector-wide advances bolstered the market, with heavyweight financials and information technology posting notable increases. HDFC Bank and ICICI Bank climbed 3.5 percent and 3.4 percent respectively, while Reliance Industries added 1.7 percent. Concurrently, Brent crude futures declined slightly to $91 per barrel due to rising supply expectations, contributing to a monthly price drop of approximately 22.5 percent.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2025/10/68e977a9401ae.gif",
-   "published": "2026-11-25T11:25:09+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
-  },
-  {
-   "id": "59a2b9544061",
-   "rewritten": true,
-   "v4": true,
-   "title": "MQM-P Files for Permission to Hold Karachi Rally for Urban Province",
-   "summary": "The Muttahida Qaumi Movement-Pakistan formally applied for administrative permission on Wednesday to hold a public rally and gathering at Jinnah Ground in Karachi. Taha Ahmed Khan, the party's deputy parliamentary leader, submitted the official request for a No-Objection Certificate to Karachi Commissioner Hassan Naqvi for the proposed event scheduled for November 29.\n\nIn the formal application, MQM-P asked the city administration to provide necessary security and administrative support to ensure the peaceful execution of the gathering. The primary objective of the November 29 rally is to mobilize public backing for the creation of a new province representing urban Sindh.\n\nMeanwhile, the ruling Pakistan Peoples Party has initiated discussions with various nationalist factions and the MQM-P. The PPP has urged these political entities to postpone their planned rallies and public demonstrations on November 29 to mitigate the risk of potential political clashes within the region.",
-   "url": "",
-   "image": "https://static.arynews.tv/zip-archives/wp-content/uploads/2026/08/mqm.jpg",
-   "published": "2026-11-25T11:25:02+00:00",
-   "source": "Source: ARY News",
-   "lang": "en",
    "category": "pakistan"
   }
  ]
