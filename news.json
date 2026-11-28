@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T23:46:33.305177+00:00",
+ "updated": "2026-11-28T00:58:41.615921+00:00",
  "stories": [
   {
    "id": "bab9b6129481",
@@ -337,6 +337,19 @@
    "published": "2026-11-27T18:56:18+00:00",
    "source": "Source: Dawn",
    "lang": "en",
+   "category": "pakistan"
+  },
+  {
+   "id": "09fabb955655",
+   "rewritten": true,
+   "v4": true,
+   "title": "کراچی کے علاقے ایڈمن سوسائٹی میں منہدم عمارت سے ایک اور لاش برآمد",
+   "summary": "کراچی کے علاقے بلوچ کالونی سے متصل ایڈمن سوسائٹی میں گرنے والی عمارت کے ملبے سے ایک اور لاش نکال لی گئی ہے، جس کے بعد اس افسوسناک حادثے میں جاں بحق ہونے والے افراد کی مجموعی تعداد نو ہو گئی ہے۔\n\nحکام کے مطابق ریسکیو کارروائی کے دوران ملبے سے ملنے والی تازہ لاش کی شناخت سترہ سالہ محمد علی ولد محمد بلال کے طور پر کی گئی ہے۔ قانونی تقاضے پورے کرنے کے بعد اس لاش کو اسپتال پہنچا دیا گیا ہے۔\n\nاس سانحے کے بعد سے جائے وقوعہ پر ریسکیو آپریشن تاحال جاری ہے اور امدادی ٹیمیں بھاری مشینری کے ذریعے ملبہ ہٹانے میں مصروف ہیں۔ حکام کا بتانا ہے کہ اس وقت بھی ملبے کے نیچے نو افراد کی تلاش کا کام جاری ہے۔\n\nیاد رہے کہ اس سے قبل اسی حادثے کے سلسلے میں چونتیس گھنٹے گزرنے کے بعد ایک نوجوان کو زندہ بھی نکالا گیا تھا، جبکہ اس عمارت کے گرنے کے واقعے کے بعد تحقیقات اور امدادی سرگرمیوں کا سلسلہ مسلسل جاری ہے۔",
+   "url": "",
+   "image": null,
+   "published": "2026-11-27T18:55:28+00:00",
+   "source": "ذریعہ: Express News",
+   "lang": "ur",
    "category": "pakistan"
   },
   {
@@ -3887,19 +3900,6 @@
    "source": "ذریعہ: Express News",
    "lang": "ur",
    "category": "pakistan"
-  },
-  {
-   "id": "0595cf11b27d",
-   "rewritten": true,
-   "v4": true,
-   "title": "US Dollar Hovers Near Peak Amid Fed Rate Hike Expectations",
-   "summary": "The US currency remained close to a 22-month high during a holiday-thinned trading session, with market participants closely monitoring equity performance and artificial intelligence sector volatility to gauge future currency directions. Analysts note that currency fluctuations heavily depend on whether the recent downturn in AI-related equities reverses or prompts further defensive safe-haven flows.\n\nThe dollar index, which tracks the currency against six major counterparts, held steady at 103.81. Earlier in the week, the index touched 104.53—its highest level since March of the previous year—before erasing those gains. During early Asian trading, the dollar edged up 0.1% to 159.355 yen and ticked higher against the Swiss franc at 0.83455. Meanwhile, the euro remained virtually unchanged at $1.0964, sterling eased slightly to $1.3099, and the risk-sensitive Australian dollar softened to $0.6631 following a one-year low earlier in the week.\n\nSupport for the American currency continues to be driven by anticipated Federal Reserve monetary tightening. According to CME Group’s FedWatch tool, traders view a quarter-point interest rate increase on December 9 as nearly certain. Additional confidence stems from stronger-than-expected October core personal consumption expenditures inflation, an upward revision to third-quarter gross domestic product, and a Federal Reserve survey indicating persistent economic expansion and sticky inflation, raising expectations for another potential hike around April.\n\nWith the dollar index climbing approximately 5.7% throughout the year with only a month remaining, strategists at National Australia Bank suggest the currency is tracking a stronger-for-longer trajectory than previously anticipated. However, they caution that given its rapid upward movement, the scope for further short-term gains remains limited.",
-   "url": "",
-   "image": "https://i.brecorder.com/large/2026/11/270750479edcfe5.webp",
-   "published": "2026-11-27T02:53:00+00:00",
-   "source": "Source: Business Recorder",
-   "lang": "en",
-   "category": "business"
   }
  ]
 }
